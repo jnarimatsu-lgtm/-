@@ -18,12 +18,16 @@ const ws = String(W).padStart(2, '0')
 
 const SCHEMA = {
   type: 'object',
-  required: ['block', 'rows_written', 'flipped_rows', 'kept_ok_rows', 'notes'],
+  required: ['block', 'rows_written', 'flipped_rows', 'kept_ok_rows', 'thin_margin_rows', 'notes'],
   properties: {
     block: { type: 'integer' },
     rows_written: { type: 'integer' },
     flipped_rows: { type: 'array', items: { type: 'integer' } },
     kept_ok_rows: { type: 'array', items: { type: 'integer' } },
+    thin_margin_rows: { type: 'array', items: { type: 'integer' },
+      description: '○のうち、採用値が450億円未満か、数値・決算期・親子判定に疑いが残る行' },
+    unverified_rows: { type: 'array', items: { type: 'integer' },
+      description: '検索枠切れ等で実際には検証できなかった行' },
     searches_used: { type: 'integer' },
     notes: { type: 'string' },
   },
@@ -43,6 +47,10 @@ const CONSTRAINTS = `## この環境の実測された制約（プローブ済�
 - 使えるのは **WebSearch のみ**。allowed_domains パラメータは効く。
 - **このワークフロー実行全体で WebSearch は200回まで。** ${NB}エージェントで分け合う。
   1行あたり **約${COST}クエリ** が予算だ。超えると後続ブロックが1件も検索できなくなる。
+  **1次検証は全体の2/3までに抑えろ。** 残りは後段の反証に要る。
+  検索枠が尽きて検証できなかった行は、○を付けず I列を
+  「未検証（検索枠切れ）：〜」とし、unverified_rows に入れて報告しろ。
+  **検証していない行に「○ 妥当」と書くな。** 成果物が検証済みを偽ることになる。
 - WebSearch の危険な失敗様式（実測）: 見つからないとき「不明」ではなく
   **前年度の数値をもっともらしく返す**。常洋水産で2026年3月期398.64億円を4クエリ探して
   一度も出ず、2025年3月期388.39億円が自信ありげに返った。
@@ -108,12 +116,21 @@ python3 のヒアドキュメントで書き、書いた後に読み直して要
 
 ## 返り値
 {block:${b}, rows_written:<実際の要素数>, flipped_rows:[元○から覆した行],
- kept_ok_rows:[○のまま妥当とした行], searches_used:<WebSearch呼出回数>, notes:"<簡潔に>"}`,
+ kept_ok_rows:[○のまま妥当とした行],
+ thin_margin_rows:[**採用値が450億円未満**、または数値・決算期・親子判定に疑いが残る行],
+ unverified_rows:[検索枠切れで検証できなかった行],
+ searches_used:<WebSearch呼出回数>, notes:"<簡潔に>"}`,
     { label: `w${ws}:blk${b}`, phase: 'Verify', schema: SCHEMA }
   ),
   (res, b) => {
     if (!res || !res.kept_ok_rows || res.kept_ok_rows.length === 0) {
       return { block: b, overturned: [], summary: '反証対象なし' }
+    }
+    // 反証は「基準ギリギリ」「疑いが残る」行に絞る。3,000億円の行を叩いても覆らない。
+    const thin = new Set(res.thin_margin_rows || [])
+    const targets = res.kept_ok_rows.filter((r) => thin.has(r))
+    if (targets.length === 0) {
+      return { block: b, overturned: [], summary: '○維持行はいずれも基準に対し余裕が大きく、反証対象なし' }
     }
     return agent(
       `ブロック${b}で「○ 妥当＝架電してよい」と判定された行を**反証しに行く**。
@@ -121,8 +138,11 @@ python3 のヒアドキュメントで書き、書いた後に読み直して要
 ${RULES} を読め。
 1次結果: ${SP}/waves/out_w${ws}_b${b}.json
 入力:     ${SP}/waves/w${ws}_b${b}.json
-反証対象の行: ${JSON.stringify(res.kept_ok_rows)}
+反証対象の行: ${JSON.stringify(targets)}
 **これらの行のみ**扱え。既に△/×/保留の行は触るな。
+これらは1次が「○だが基準300億に対し余裕が薄い、または数値・決算期・親子判定に疑いが残る」
+と判定した行だ。採用値が基準を桁違いに超える行は対象から外してあるので、
+限られた検索枠をここに集中できる。
 
 ${CONSTRAINTS}
 
