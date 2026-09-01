@@ -1,0 +1,67 @@
+[
+ {
+  "行": 852,
+  "I": "△ 要再確認：今治造船子会社に対し単体値を当てる建て付け自体は§3-3どおりで、規模も300億を大きく超えるため判定○は覆らない見込み。ただしG列1,384億円（2026年3月期）はH列記載の自社HP会社概要側で再確認できず、マイナビ2028掲載値と同一。自社ドメインで拾えたのは2022年度1,064億円で§3-8の直近3期から外れる。自社HP会社概要の最新掲載値と決算期を直接確認のこと。",
+  "J": "https://steelhub.co.jp/company/;https://steelhub.co.jp/recruit/"
+ },
+ {
+  "行": 853,
+  "I": "○ 妥当：雪印メグミルク100%子会社に対し単体値を採用しており§3-3・§6-4の適用は正しい（親のグループ値を当てていない）。株式会社・法人番号も整合。G列1,796億円（2026年2月期）自体は自社HP側で数値抽出できず再確認に至らなかったが、事業実態（セブン＆アイ各社向けチルド/フローズン食品卸＋共同配送センター運営、従業員544名）と決算期2月（7&i系と一致）が整合し、300億超は確実なため○を維持。",
+  "J": "https://www.sistm.co.jp/company/;https://www.sistm.co.jp/recruit/recruit_graduate/recruit_data/"
+ },
+ {
+  "行": 854,
+  "I": "○ 妥当：シップヘルスケアHD子会社に対し単体1,041億円を採用しており、グループ連結7,181億円（2026年3月期）を誤用していない点で§3-3・§6-4に適合。H列の自社HP会社概要URLも実在。他ソースでも2024年3月期964億円→2025年973億円と増加基調で1,041億円（2026年3月期）と整合。300億超は確実。",
+  "J": "https://ghs-inc.co.jp/company/company_about/;https://ghs-inc.co.jp/company/ship-healthcare-group/"
+ },
+ {
+  "行": 931,
+  "I": "○ 妥当：第79期決算公告の売上高3,474億8,800万円＝347,488百万円でG列の桁・値とも一致（検算OK。第78期3,417.45億／第77期4,678.49億と系列も整合）。ダイハツ工業子会社だが単体決算公告値を採用しており§3-3適用は正しい。出典のgBizINFOは§3-4③の公的機関ソースで承認範囲内。なお第80期（2026年3月期）は4,543.27億円と更新済みのため、最新期へ更新するとさらに堅い。",
+  "J": "https://catr.jp/companies/021c3/14470/settlements/9e911/409097;https://catr.jp/companies/021c3/14470"
+ },
+ {
+  "行": 933,
+  "I": "△ 要再確認：古河電工グループ子会社に単体値を当てる建て付けは正しいが、G列1,905億円（2025年度）を承認ソース上で確認できない。自社サイト（会社概要／数字で見る古河AS）は数値が画像・グラフのため検索で抽出不可、一方で禁止ソース側は1,233億円と大きく乖離しており、1,905億円が『数字で見る古河AS』のグループ売上高（＝§3-3が禁じる子会社へのグループ値当て）である可能性を排除できない。ただし低い方の値でも300億を大幅超過のため判定○自体は覆らない見込み。会社概要の単体/グループ表記と決算期を直接確認のこと。",
+  "J": "https://www.furukawaas.co.jp/corporate/overview/;https://www.furukawaas.co.jp/figures/;https://www.furukawaas.co.jp/public-notice/public-notice-1494/"
+ },
+ {
+  "行": 939,
+  "I": "○ 妥当：ロジスティード子会社に単体値を採用しており§3-3適用は正しく、300億超も確実。ただしH列のURL https://www.logisteed.com/centraljapan/company/profile/ は実在せず、正しい会社概要は https://www.logisteed.com/centraljapan/corpo/outline/ 。G列549億円（2025年度）自体は再確認できなかったが、他ソースの2023年度488億円・2024年度507億円と整合する増加基調で、いずれの値でも300億超。2025年度決算公告が自社サイトに掲示済みのため、そちらで単体売上高を確定させると万全。",
+  "J": "https://www.logisteed.com/centraljapan/corpo/outline/;https://www.logisteed.com/centraljapan/corpo/index.html"
+ },
+ {
+  "行": 949,
+  "I": "○ 妥当：自社HP会社概要で売上高797億円（2026年3月期）を確認、H列URLも実在。双日100%子会社に対し単体値を採用しており§3-3適用は正しい。収益認識基準前の総額売上高1,878億円を併記している点も§6-3の要求を満たしている。修正不要。",
+  "J": "https://www.sojitz-bm.com/corporate/profile/;https://www.sojitz-bm.com/corporate/financial/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001053740"
+ },
+ {
+  "行": 955,
+  "I": "○ 妥当：伊藤ハム米久HD100%子会社に単体値を採用しており§3-3適用は正しい。売上高700億円は2025年3月期の値で、G列の『2024年度』と決算期が一致（§3-8の鮮度も可）。300億超は確実。表記上の指摘のみ：H列の『売上規模700億円』は『売上高700億円（2025年3月期）』と明記した方が監査時に曖昧さがない。",
+  "J": "https://sankyomeat.co.jp/en/company/company-profile/;https://sankyomeat.co.jp/"
+ },
+ {
+  "行": 960,
+  "I": "○ 妥当：株主はメタルワンおよび日本製鉄で子会社に該当するが、採用値は単体607億円（2024年度＝2025年3月期）であり§3-3適用は正しい。直近期2026年3月期は582.23億円（前年比▲4.19%）で、逆算すると前期607.7億円となりG列と整合（検算OK）。いずれの期も300億超。より新しい2025年度値へ更新する余地あり。",
+  "J": "https://www.sustech.co.jp/company/;https://catr.jp/companies/a29f9/26101"
+ },
+ {
+  "行": 964,
+  "I": "○ 妥当：クボタ100%子会社に単体値を採用しており§3-3適用は正しく、H列URL（会社概要・沿革）も実在。G列566億円（2025年12月期）は自社サイトの数値を検索経由で抽出できず値そのものの再確認には至らなかったが、同期の純利益85.9億円・総資産715.16億円という規模、および2018年度453.25億円からの推移と矛盾せず、300億超は確実。決算期12月もクボタ本体と一致し整合。",
+  "J": "https://www.kubota-chemix.co.jp/company/outline.html;https://www.kubota-chemix.co.jp/recruit/graph.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120101022051"
+ },
+ {
+  "行": 978,
+  "I": "○ 妥当：会社概要で売上高1,150,921百万円（2026年3月現在）を確認し、11,509.21億円への換算も桁一致（検算OK）。大東建託100%子会社だが単体値を採用しており§3-3・§6-4に適合。ただしH列のURL https://www.kentaku-partners.com/company/profile/ は実在せず、正しくは https://www.kentaku-partners.co.jp/corporate/outline/ （ドメイン・パスとも要修正）。",
+  "J": "https://www.kentaku-partners.co.jp/corporate/outline/"
+ },
+ {
+  "行": 983,
+  "I": "○ 妥当：伊藤ハム米久HD子会社に単体1,529億円（2025年3月期）を採用しており、HD連結9,888億円を当てていない点で§3-3・§6-4に適合。自社HP会社概要URLも実在し、同名・類似名の伊藤ハム販売（1,360億円）との取り違えもなし（§6-2確認済み）。300億超は確実。決算期は直近3期内だが2026年3月期への更新余地あり。",
+  "J": "https://www.itoham.co.jp/corporate/company/;https://www.itoham-yonekyu-holdings.com/Portals/0/saiyo/corporate/"
+ },
+ {
+  "行": 986,
+  "I": "○ 妥当：TOKAI HD子会社に対し単体値を採用しており§3-3・§6-4の適用は正しい（HD連結値を当てていない）。H列の自社HP会社概要URLは実在し§3-4①の承認ソース、自社サイトに電子公告・決算公告ページもあり。G列644.27億円＝64,427百万円の換算は桁一致（検算OK）。前年度の単体売上高62,478百万円（624.78億円）とも整合する増加基調で、300億超は確実。法人番号2080001004346・静岡市も一致。",
+  "J": "https://www.tokai-com.co.jp/company/overview.php;https://www.tokai-com.co.jp/company/notice.php;https://www.tokai-com.co.jp/company/pdf/companybrochure_jp.pdf"
+ }
+]

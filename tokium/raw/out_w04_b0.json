@@ -1,0 +1,102 @@
+[
+ {
+  "行": 65,
+  "I": "○ 妥当：陽進堂HDは持株会社のため連結で判定（§3-3）。自社採用サイト「数字で見る陽進堂」および自社HP財務情報ページで2024年度（＝2025年3月期）売上高536億円を確認し、G列536.05億円と整合（2022年度563億／2023年度556億の推移とも連続）。直近3期以内で§3-8を満たす。なお www.yoshindoholdings.jp は現在到達可能（検索インデックスに実在）であり、H列の「.jpはDNS不能」注記は事実と異なる可能性があるため要確認。2026年3月期の公表値は承認ソースで未確認。",
+  "J": "https://www.yoshindoholdings.jp/company/financial_info; https://www.yoshindoholdings.jp/recruit/know-yoshindo/data/; https://yoshindoholdings.co.jp/company/company_profile"
+ },
+ {
+  "行": 71,
+  "I": "○ 妥当：2026年3月期決算短信（連結）で売上高169,724百万円＝1,697.24億円（前期比3.4%減）を確認。G列の桁・決算期とも一致（§6-1検算済）。東証プライム上場で自グループの親会社のため連結で判定して問題なし。",
+  "J": "https://finance.biggo.jp/news/jpx_tdnet_140120260507518581; https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250415516204.pdf"
+ },
+ {
+  "行": 73,
+  "I": "○ 妥当：2026年3月期決算短信〔IFRS〕（連結）で売上収益2兆1,230億円（前期比12.6%増）を確認。G列21,230.45億円＝2,123,045百万円と整合（§6-1検算済）。IFRSのため原文表記は「売上収益」で、H列の注記どおり§3-7を満たす。上場親会社のため連結判定でよい。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260511/20260511522113.pdf; https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025Q3_Financial_Results_J.pdf"
+ },
+ {
+  "行": 74,
+  "I": "保留 検証不可：G列334.81億円は基準300億に対し余裕約11%しかなく本ブロックで最も薄い。当たった経路＝自社HP koikesangyo.co.jp の会社概要・最新情報（決算公告）ページ・会社案内PDF（koike_corporate_profile.pdf）、決算公告（確認できたのは第69期＝2016年9月期のみ）、catr.jp、NIKKEI COMPASS。いずれの経路でもH列が引用する第78期（2025年9月期）売上高33,481,210,299円を再現できなかった。非上場・独立系の化学品専門商社で第三者による裏取りも不能。架電前に電子公告PDF現物の再確認が必要。",
+  "J": "https://www.koikesangyo.co.jp/company/; https://www.koikesangyo.co.jp/news/2.html; https://www.koikesangyo.co.jp/company/data/koike_corporate_profile.pdf"
+ },
+ {
+  "行": 78,
+  "I": "○ 妥当：自社HP会社概要で売上高204,690百万円＝2,046.90億円（2025年12月期）を独立に再現でき、H列と完全一致（§6-1検算済）。国分グループ本社傘下の子会社だが当社単体で300億を大きく超えるため§3-3を満たす（グループ連結値の流用ではない）。法人番号4060001014188で同名企業の取り違えなし（§6-2）。",
+  "J": "https://www.kokubu.co.jp/kanshinetsu/company/outline/; https://prtimes.jp/finance/4060001014188"
+ },
+ {
+  "行": 79,
+  "I": "○ 妥当：オープンハウスグループ有価証券報告書（第29期・2024年10月〜2025年9月）で、当社が同社の連結子会社（議決権69.7%）であること、および当社売上高がグループ連結売上高の10%を超えるため「主要な損益情報等」の記載対象になっていることを確認。オープンハウスG連結は1兆円規模のため、その10%超という記述だけで単体1,000億超が確定し、子会社単体300億以上（§3-3）を満たす。ただしG列の163,982百万円という具体値そのものはWebSearchでは再現できず、有報の「10%超」記述による間接確認にとどまる点は留意。",
+  "J": "https://openhouse-group.co.jp/ir/upload_file/m005-m005_03/251222_yuhou.pdf; https://openhouse-group.co.jp/ir/upload_file/m005-m005_03/1226_yuuhou.pdf"
+ },
+ {
+  "行": 81,
+  "I": "○ 妥当：公式プレスリリース「2025年度（令和7年度）決算について」（2026年6月10日公表）で通行台数4,716万台・料金収入702億円（前年度比4.5%増）を確認し、H列の内訳記載と一致。料金収入だけで300億を大きく超えるため判定は堅い。科目は高速道路会社のため「営業収益」で§3-7の注記どおり。法人格は国等が出資する特殊会社だが「株式会社」であり§3-6を満たす（官公庁ではない）。なお連結961億円という総額そのものは検索では直接再現できていない。",
+  "J": "https://www.jb-honshi.co.jp/corp_index/corp_press/corp_press_2026/260610press-1-11817; https://www.jb-honshi.co.jp/corp_index/ir/zaimu/; https://www.jb-honshi.co.jp/corp_index/ir/zaimu/pdf/r6kessan.pdf"
+ },
+ {
+  "行": 87,
+  "I": "○ 妥当：2026年2月期は連結7,710億円（前期比6.4%増）／単体6,983億円（同3.2%増）で15年連続過去最高。G列の単体6,983億円と一致し、H列の連結7,710億円とも一致。非上場だが自社発表を報じた新聞社記事（決算期と売上高が明記）で裏取り済み（§3-4の4）。親会社のため単体・連結いずれでも基準クリア。",
+  "J": "https://www.nikkei.com/article/DGXZQOUC226E30S6A620C2000000/; https://www.ryutsuu.biz/accounts/s062218.html"
+ },
+ {
+  "行": 88,
+  "I": "○ 妥当：2026年3月期決算短信（連結）で売上高72,049百万円＝720.49億円を確認。G列と一致（§6-1検算済）。セグメント内訳（楽器教育56,492百万円＋素材加工10,343百万円）とも整合。東証上場の自グループ親会社のため連結判定でよい。",
+  "J": "https://www2.kawai.co.jp/ir/tansin_pdf/2026/20260514_2026dtanren.pdf; https://www.kawai.co.jp/ir/tanshin/"
+ },
+ {
+  "行": 90,
+  "I": "○ 妥当：2025年12月期（第66期）決算短信（連結）で売上高528億63百万円＝528.63億円（前期比3.0%増）を確認。G列と一致（§6-1検算済）。東証上場の自グループ親会社のため連結判定でよい。",
+  "J": "https://www.milbon.com/ja/news/uploads/docs/20251231_66s4q_tanshin.pdf; https://www.milbon.com/ja/ir/finance/"
+ },
+ {
+  "行": 92,
+  "I": "○ 妥当：自社HP会社概要の「本部年商1,082億円（2025年8月）」を確認。これはボランタリーチェーン本部＝全日本食品株式会社自身の売上高であり、加盟店の店頭売上高合計（過去公表値で約1,894億円／1,065店）とは別物。両者を混同すると§6-4型の誤りになるため架電時も注意。300億は大きく超えており判定自体は堅い。ただしG列の「2025年8月時点」は決算期表記ではなく、どの事業年度の売上高かが未特定のため§3-8の鮮度判定上は要注意。",
+  "J": "https://www.zchain.co.jp/company/; https://www.zchain.co.jp/about/"
+ },
+ {
+  "行": 93,
+  "I": "○ 妥当：H列が引用する自社HP会社概要URL（kaken-material.co.jp/kaken-material/profile.html）の実在を確認。ただしG列593億円（2026年3月期）という具体値はWebSearchでは再現できなかった。一方で年商570億円（2024年3月時点）・492億円（2022年3月期）という推移が別経路で得られ、300億を大きく上回る点は堅い。東京中小企業投資育成の投資先だが同社は少数株主であり親子関係ではないため§3-3の親子問題なし。数値の厳密値と決算期は要再確認。",
+  "J": "https://www.kaken-material.co.jp/kaken-material/profile.html; https://www.sbic.co.jp/investeecompany/detail/index.php?id=1900; https://www.kaken-material.co.jp/company/outline/index.html"
+ },
+ {
+  "行": 95,
+  "I": "○ 妥当：2026年3月期（連結）で売上高1,108億6,800万円（前期比0.6%増・過去最高）を確認。G列1,108.68億円と一致（§6-1検算済）。東証スタンダード・名証プレミア上場（5992）で自グループの親会社のため連結判定でよい。",
+  "J": "https://www.chkk.co.jp/corporate/outline/index.html; https://www.chkk.co.jp/ir/financial/highlights/index.html"
+ },
+ {
+  "行": 98,
+  "I": "○ 妥当（G列訂正：正確には736.68億円）：2025年12月期の連結売上高736億6,800万円を確認。G列「736億円」は端数を落とした表記のため、736.68億円（2025年12月期・連結）と記載するのが正確。判定は変わらない。なお自社HP会社概要記載の単体349億円も300億を超えるため、仮に子会社判定になっても§3-3を満たす。",
+  "J": "https://www.nichirin.co.jp/corporate/corporate02; https://www.nichirin.co.jp/ir/ir04; https://www.nichirin.co.jp/ir/library/report"
+ },
+ {
+  "行": 99,
+  "I": "○ 妥当：2026年3月期決算短信（連結）で売上高69,245百万円＝692.45億円（前期比7.5%増）を確認。G列と一致（§6-1検算済）。東証上場の自グループ親会社のため連結判定でよい。",
+  "J": "https://www.nikku.co.jp/ja/ir/latest-documents/main/0/teaserItems1/0113/linkList/00/link/00.pdf; https://finance.logmi.jp/articles/385051"
+ },
+ {
+  "行": 100,
+  "I": "○ 妥当：2026年3月期決算短信（連結）で1,548億8千4百万円＝154,884百万円（前期比12.5%増）を確認。G列1,548.84億円と一致（§6-1検算済）。ただし建設業のため原文科目は「完成工事高」であり、H列の「売上高」は実質同義だが原文表記の注記が望ましい（§3-7）。",
+  "J": "https://www.release.tdnet.info/inbs/140120260512527076.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20260513529595/"
+ },
+ {
+  "行": 103,
+  "I": "○ 妥当：2026年3月期の連結売上高179,825百万円＝1,798.25億円（前期比2.9%減）を確認。G列と一致（§6-1検算済）。土木91,165百万円＋建築84,080百万円の内訳、受注高225,654百万円とも整合。東証プライム上場。なお自社HP会社概要（tekken.co.jp/info/overview.html）は検索結果に現れず直接再現できていないが、決算値は複数経路で一致。",
+  "J": "https://finance.yahoo.co.jp/quote/1815.T/financials; https://finance.logmi.jp/articles/384849; https://irbank.net/1815/pl"
+ },
+ {
+  "行": 105,
+  "I": "○ 妥当：2025年12月期の連結売上高4兆6,247億円（前期比2.5%増・2期連続過去最高）を確認。G列4,624,727百万円＝4兆6,247.27億円と整合（§6-1検算済）。親会社のため連結判定でよい。なお決算短信は〔米国基準〕（連結）であり、H列に会計基準を補記しておくのが望ましい。",
+  "J": "https://global.canon/ja/ir/results/2025/rslt2025j.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20260129541497/"
+ },
+ {
+  "行": 106,
+  "I": "○ 妥当：2026年3月期（連結）で売上高3,553億41百万円（前期比4.1%増）を確認。G列3,553.41億円と一致（§6-1検算済）。東証プライム上場の自グループ親会社のため連結判定でよい。",
+  "J": "https://pdf.irpocket.com/C6976/Kdx3/m9oJ/McYR.pdf; https://finance.biggo.jp/news/jpx_tdnet_140120260424510424"
+ },
+ {
+  "行": 107,
+  "I": "△ 要再確認：信越ポリマーは信越化学工業の連結子会社であり、§3-3により「子会社単体300億以上」でしか判定できない。G列・H列は連結値1,151.16億円（2026年3月期決算短信で115,116百万円・前期比4.1%増を再現。数値・決算期自体は正しい）を採用しており、§6-4の連結／単体取り違えに該当する。決算短信の個別業績欄で単体売上高を確認する必要あり。単体が300億超であれば○に戻せる見込みだが、現時点で承認ソースからの単体値は未取得のため架電前に要確認。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260427/20260424510388.pdf; https://www.shinpoly.co.jp/ja/ir/release.html; https://www.shinpoly.co.jp/ja/ir.html"
+ }
+]

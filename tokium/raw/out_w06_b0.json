@@ -1,0 +1,102 @@
+[
+ {
+  "行": 445,
+  "I": "○ 妥当（注記：子会社）：自社HP会社概要に2025年度売上高648億円（連結）の記載を確認。ただし同社はヤマダホールディングスの連結子会社。採用値はハウステック自身の連結であり、親会社ヤマダHDのグループ連結（1.6兆円規模）を当てたものではないため§3-3の典型的誤りには当たらない。関連会社は日化メンテナンス・中部日化サービス等の小規模保守会社のみ。厳密な単体値は未取得だが、300億は大きく上回る。社名変更なし。",
+  "J": "https://www.housetec.co.jp/company/overview/"
+ },
+ {
+  "行": 446,
+  "I": "○ 妥当：自社HP「業績の推移」ページで売上高合計105,051百万円＝1,050.51億円を確認（令和7年度＝2026年3月期。G列「2025年度」と同一年度を指す）。桁検算OK（105,051百万円→1,050.51億円）。同ページの前年度1,044.25億円とも整合。北海道の総合建設会社で親会社なし（旧ドメインiwata-gr.co.jpも同社）。※令和7年度の数値そのものは検索要約では再現できず、規模のみ裏取り。",
+  "J": "https://www.iwatachizaki.jp/kigyo/zaimu/gyoseki.html;https://www.iwatachizaki.jp/kigyo/gaiyou.html"
+ },
+ {
+  "行": 447,
+  "I": "○ 妥当：東証上場（証券コード1814）。2026年3月期の連結営業利益65億7,900万円・連結営業利益率6.2%の開示から売上高は約1,055億円で、G列1,055億円と整合。連結受注高1,543億5,700万円・繰越工事高1,799億3,900万円。自社IR決算短信で確認可。親会社なし。",
+  "J": "https://www.daisue.co.jp/ir/library/financial_reports/;https://finance.logmi.jp/articles/384516"
+ },
+ {
+  "行": 448,
+  "I": "○ 妥当：2026年3月期決算短信（自社IR）で連結売上高5兆150億3,600万円＝50,150.36億円（前期比+5.5%）を確認。G列と完全一致。桁検算OK。営業利益4,149.91億円。親会社なし（連結値の採用は§3-3で可）。",
+  "J": "https://www.daikin.co.jp/-/media/17C49E6E7DF240B39A3684C11337DF32.ashx;https://www.daikin.co.jp/press/2026/20260512_7"
+ },
+ {
+  "行": 449,
+  "I": "○ 妥当：自社ドメイン内の採用サイト「数字で見る太陽建機レンタル」で2025年5月期売上高1,121億円・123支店4出張所・従業員3,389名を確認（承認ソース§5-3の9）。G列と一致。静岡市駿河区の建機レンタル大手で、親会社・持株会社は確認されず（カナモト等グループ会社との資本関係は認められない）。5月決算のため直近期は2026年5月期だが、2025年5月期は直近3期以内。",
+  "J": "https://taiyokenki-recruit.com/newgrad/business/data/;https://www.taiyokenki.co.jp/company/post.html"
+ },
+ {
+  "行": 450,
+  "I": "○ 妥当（組織変更の注記）：自社CSRレポートで連結売上高442.7億円（2020年9月期）→561億円（2021年9月期）→688億円（2022年）と、600〜700億円規模を自社発信で確認。持株会社ルビコンホールディングス株式会社（法人番号6100001021822）は閉鎖済で、自社HP「会社合併のお知らせ」（2024/4/1）により持株会社体制を解消。現在のルビコン株式会社が親会社であり連結値の採用は可。商号変更はなくアポインターの名乗りに影響なし。※G列の668億円（2026年3月期・連結）という数値そのものは承認ソースで再現できず要再確認だが、規模は300億を大きく超える。",
+  "J": "https://www.rubycon.co.jp/company/overview/;https://www.rubycon.co.jp/wp-content/uploads/company/csr-report-2021.pdf;https://www.rubycon.co.jp/en/information/20240401-1/"
+ },
+ {
+  "行": 451,
+  "I": "○ 妥当：2026年3月期決算短信（自社IR）で連結売上高1兆1,736億88百万円＝11,736.88億円（前期比+1.7%）を確認。G列11,736億円と一致。ホールディングスのためグループ連結値の採用は§3-3で可。",
+  "J": "https://www.meiji.com/pdf/investor/library/settlement_2026_r04.pdf;https://www.nikkei.com/nkd/disclosure/tdnr/20260513529411/"
+ },
+ {
+  "行": 452,
+  "I": "○ 妥当（G列訂正：531.55億円→458.20億円／2025年3月期・単体）：法人番号1011001006587＝東京都渋谷区のNTT関連総合建設会社（財団法人電気通信共済会が設立主体）で企業同定は一致。G列531.55億円（2025年度）は自社HP業績ページ等の承認ソースで再現できず、金額をシード指定した検索でも一切返らない。官報決算公告 第70期（2025年3月期・単体）売上高45,820百万円＝458.20億円が実勢で、第68期369.77億円からの増収トレンドとも整合。決算期は直近3期以内。いずれの値でも300億を超えるため架電可否は○のまま。",
+  "J": "https://www.kyoritsu-con.co.jp/corporate/achievement.html;https://www.kyoritsu-con.co.jp/company/info/;https://catr.jp/companies/d073a/16517/settlements/d98cd/310612;https://catr.jp/companies/d073a/16517"
+ },
+ {
+  "行": 453,
+  "I": "○ 妥当（G列出典訂正）：数値は正しい。2026年3月期決算短信（自社IR）で連結売上高1兆1,692億8,900万円＝11,692.89億円（前期比+10.4%）を確認しG列と完全一致。決算期末が3月20日である点の表記も正。ただしH列の出典URLはgBizINFOの法人一覧ページで有価証券報告書そのものではないため、自社IRの決算短信PDFへの差し替えが妥当。親会社なし。",
+  "J": "https://www.keyence.co.jp/pdf/EarningsRelease_202604_ja.pdf"
+ },
+ {
+  "行": 454,
+  "I": "○ 妥当：2026年3月期の連結売上高754億円（営業利益110億円・経常利益114億円）を確認。G列と一致。自社HP企業情報内に「業績」ページ（/ja/company/profile/profit）および「お知らせ（業績）」があり自社発信で裏取り可能。親会社なし。",
+  "J": "https://www.orientalmotor.co.jp/ja/company/profile/profit;https://www.orientalmotor.co.jp/company/news/profit/"
+ },
+ {
+  "行": 455,
+  "I": "○ 妥当（G列補正）：正しくは366億6,000万円（2024年12月期・単体）。静岡県公式「しずおか就職net」企業情報（公的機関＝承認ソース§3-4の3）および同社の環境経営レポート2025年度版（エコアクション21、2026年3月発行）で確認。従業員1,452名（2025年4月時点）。2024年12月期は直近3期以内だが、最新の2025年12月期の数値は承認ソースで未確認。300億に対する余裕が小さく（366.6億円）、次期の数値変動には注意が必要。",
+  "J": "https://www.koyou.pref.shizuoka.jp/employment/detail/127;https://www.ea21.jp/list/pdfn/0005983.pdf;https://www.iai-robot.co.jp/company/environment/pdf/EA21_report_2024.pdf"
+ },
+ {
+  "行": 456,
+  "I": "○ 妥当（子会社だが単体で充足）：日立製作所グループの子会社だが、gBizINFO掲載の決算公告（公的機関＝承認ソース）で2024年3月期の単体売上高81,803百万円＝818.03億円を確認。桁検算OK。子会社“単体”で300億を大きく超えるため§3-3をクリア（グループ連結を当てたものではない）。決算期は直近3期以内。※より新しい2025年3月期を654億円とする情報があるが禁止ソース系のため未採用、いずれにせよ300億超。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=f9a3a00e-4194-48a2-bf84-a15b5894ece7;https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=bc48237f-b2e1-4b56-8bf8-fe03e191b463"
+ },
+ {
+  "行": 457,
+  "I": "○ 妥当：2025年10月期（2024年11月〜2025年10月）の連結売上高3,731億600万円＝3,731.06億円（前期比+8.7%）、営業利益116億2,700万円を確認。G列3,731億円と一致。自社IRに2025年10月期決算説明資料あり。親会社なし。",
+  "J": "https://www.his.co.jp/assets/fy25_4q_presentation_e.pdf;https://www.his.co.jp/company/about_us/"
+ },
+ {
+  "行": 458,
+  "I": "○ 妥当（注記：子会社）：2026年2月期決算短信（連結）で売上高655億18百万円（前期比+7.4%）を確認しG列と一致。ただし同社はハウス食品グループ本社のTOBによる連結子会社であり、§3-3が求める“子会社単体”の売上高は今回取得できていない（採用値は壱番屋自身の連結であって親会社グループ連結ではない）。参考：国内CoCo壱番屋の全店売上高929億48百万円。単体値の確認が望ましい。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260406/20260406598776.pdf;https://www.ichibanya.co.jp/comp/ir/finance/highlight/table.html"
+ },
+ {
+  "行": 459,
+  "I": "○ 妥当：2026年3月期決算短信（自社IR）で連結売上高200,834百万円＝2,008.34億円（前連結会計年度比+6.5%）を確認。G列と完全一致。桁検算OK（200,834百万円→2,008.34億円）。独立系ファブレス半導体で親会社なし。",
+  "J": "https://www.socionext.com/jp/ir/pdf/sn_ir20260428_03j.pdf;https://www.socionext.com/jp/ir/library/index.html?library=tab-2"
+ },
+ {
+  "行": 461,
+  "I": "○ 妥当：東証上場（証券コード5445、栃木県の異形棒鋼メーカー）。2026年3月期第3四半期累計の連結売上高541億2,400万円（前年同期比-14.4%）から通期は720億円台と整合し、G列725.40億円＝72,540百万円と符合。自社IR決算短信で確認。桁検算OK。親会社なし。※社名が酷似する東京製鐵株式会社（5423・非連結）とは別会社。混同注意。",
+  "J": "https://data.swcms.net/file/tokyotekko/ja/news/auto_20260129542297/pdfFile.pdf;https://data.swcms.net/file/tokyotekko/ja/news/auto_20260507517526/pdfFile.pdf"
+ },
+ {
+  "行": 462,
+  "I": "○ 妥当：2026年3月期決算短信（TDnet、2026年5月11日開示）で連結売上高974億600万円＝974.06億円（前期比+10.3%）を確認。G列と完全一致。信濃毎日新聞も同期の売上高過去最高を報道（決算期・売上高明記）。親会社なし。",
+  "J": "https://www.release.tdnet.info/inbs/140120260511521524.pdf;https://www.shinmai.co.jp/news/article/gf01d80ree30a7t8vjk06c60;https://www.kissei.co.jp/investor/highlight/"
+ },
+ {
+  "行": 463,
+  "I": "○ 妥当（G列微修正）：正しくは2,350億99百万円＝2,350.99億円（2026年3月期・連結、前期比+4.3%）。自社IR決算短信で確認。G列「2,350億円」は概数として妥当だが、正確には2,350.99億円。親会社なし。",
+  "J": "https://www.nihonkohden.co.jp/ir/news/auto_20260512526355/pdfFile.pdf;https://www.nihonkohden.co.jp/ja/information/company/company.html"
+ },
+ {
+  "行": 465,
+  "I": "○ 妥当（出典追加）：法人番号2190001014805＝三重県四日市市の食品総合商社で企業同定一致（ジェトロ資料でも法人番号確認）。自社HPに決算公告PDFが継続掲載され、第54期＝令和7年6月30日（＝2025年6月期）の損益計算書要旨PDFの存在を確認（承認ソース§5-3の5）。近接期は第51期743.47億円・第52期819.35億円・第53期749.38億円（単位百万円換算）で、772億円は整合的。三重県公式「みえの企業まるわかりNAVI」（公的機関）も同値を掲載。※772億円の本文までは到達できず数値は要再確認だが、規模は300億を大きく超える。グループ会社を持つ親会社。",
+  "J": "https://www.kohyoj.co.jp/img/profile/pdf/54thKOHYO_FinancialInfo.pdf;https://www.kohyoj.co.jp/img/profile/pdf/53thKOHYO_FinancialInfo.pdf;https://www.oshigoto.pref.mie.lg.jp/kigyonavi/1688;https://www.jetro.go.jp/ext_images/industry/foods/trading_company_list/data/S_156_2rev.pdf"
+ },
+ {
+  "行": 466,
+  "I": "○ 妥当：gBizINFO掲載の決算公告（公的機関＝承認ソース）で2025年9月期の単体売上高147,114百万円＝1,471.14億円を確認。桁検算OK。自社ドメイン内採用ページ「数字で分かるエスビーティー」でも2024年9月期の年間売上高1,280億円超を確認でき増収トレンドと整合。中古車輸出専業、親会社なし。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=d15861b9-26ad-437e-9048-caec1efea755;https://www.sbtjapan.co.jp/recruit/environment/number/;https://www.sbtjapan.co.jp/company/info.html"
+ }
+]

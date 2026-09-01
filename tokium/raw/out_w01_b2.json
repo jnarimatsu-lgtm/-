@@ -1,0 +1,67 @@
+[
+ {
+  "行": 1682,
+  "I": "○ 妥当：日本特殊陶業(Niterra)子会社だが対象法人自身の売上高であり、単体300億超は堅い。自社HP『概要・沿革』(https://www.ceramicsensor.co.jp/philos/outline)はH列記載URLどおり実在を確認。ただし数値の現物確認は未了で、二次情報(NIKKEI COMPASS/官報DB)には655億円という別期とみられる値もあるため、G列722億円と決算期『令和7年度(2025年度)』は同ページで再確認推奨。判定○は維持。",
+  "J": "https://www.ceramicsensor.co.jp/philos/outline;https://www.ceramicsensor.co.jp/recruit/newgrads/suuji;https://catr.jp/companies/c5611/55477"
+ },
+ {
+  "行": 1695,
+  "I": "○ 妥当：ポラス株式会社は本店埼玉県越谷市・2001年設立の『グループの経営戦略並びにグループ事業会社の統括運営』を行うグループ統括会社=親会社であり、RULES§3-3の『ホールディングスはグループ連結300億円超で可』に該当。自社発表『ポラスグループ 2025年3月期の決算を発表』でグループ連結売上高2,953億円(連結会社全体では3,933億円)を確認。子会社への連結値流用ではない。なお決算期表記は『2025年度』より『2025年3月期』が正確。",
+  "J": "https://www.polus.co.jp/company/data/;https://prtimes.jp/main/html/rd/p/000000283.000009436.html;https://digitalpr.jp/r/113034"
+ },
+ {
+  "行": 1720,
+  "I": "○ 妥当：ケーズHD子会社だがG列は対象法人単体の値で、連結値(HD2026年3月期7,597.10億円)の流用ではない。H列記載の自社会社概要ページ(https://www.ksdenki.co.jp/kyushu/company/outline/)の実在を確認。600億円/2026年3月期の数値自体は検索で本文取得できなかったが、九州51店舗規模および二次情報の572億円(2025年3月期)と整合し、単体300億超は堅い。厳密には公式ページでの数値・決算期の現物確認を推奨。",
+  "J": "https://www.ksdenki.co.jp/kyushu/company/outline/;https://www.ksdenki.co.jp/kyushu/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3050001005560"
+ },
+ {
+  "行": 1741,
+  "I": "× 要修正：単体/連結の表記が誤り(§6-4)。73,007百万円=730.07億円は自社『連結』売上高であり単体ではない。自社IRで2024年3月期連結64,119百万円=641.19億円が確認でき、そこからの伸びとして730.07億円は連結値と整合する(単体は685億円との二次情報あり・未確認)。正しくは『730.07億円(2025年3月期・連結)』とし、JX金属の完全子会社=子会社案件のため単体値の併記が必要。単体・連結いずれも300億超のため判定○自体は維持可。決算期も『2025年度』でなく『2025年3月期』と明記のこと。",
+  "J": "https://www.tatsuta.co.jp/company/outline/;https://www.tatsuta.co.jp/ir_info/document/pdf/statements_20240514_66430c73f3004.pdf;https://www.tatsuta.co.jp/company/aboutus/"
+ },
+ {
+  "行": 1751,
+  "I": "△ 要再確認：G列378億9,255万円は『グループ会社合計』であって連結でも単体でもなく、かつ決算期の記載が一切ない(§3-8違反)。承認ソース検索で当該金額に到達できず(自社masuki.jp企業情報/関連会社ページは実在するが金額不明)、一方で二次情報(Wikipedia等・禁止ソース)は升喜単体260億0,215万円(2023年3月期)=300億未満を示す。行38ヤマウチと同型の『グループ値を採用』の疑い。単体300億未満なら親子判定以前に×となるため、自社サイトでの単体売上高と決算期の確定が必須。現状のまま架電は不可。",
+  "J": "http://www.masuki.jp/company/;http://www.masuki.jp/company/group/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001057941"
+ },
+ {
+  "行": 1762,
+  "I": "○ 妥当：アルフレッサHD子会社だがG列は対象法人単体の値。自社採用ページ(H列記載URLに『５分で分かる東北アルフレッサ』として実在)に加え、第48期決算公告で売上高1,585億9,700万円(2025年3月期)を確認でき、G列1,586億円と一致。単体で300億を大きく超過、決算期も直近3期以内。判定○・数値・単体表記いずれも正しい。",
+  "J": "https://www.tohoku-alfresa.co.jp/recruit/wakaru.html;https://www.tohoku-alfresa.co.jp/company/;https://catr.jp/companies/253f1/27003/settlements/6234d/406774"
+ },
+ {
+  "行": 1763,
+  "I": "○ 妥当：大王製紙グループ子会社だがG列は対象法人単体の値。自社ドメインの高校生採用サイト『ダイオーロジスティクスについて』(H列記載URLどおり実在)で2024年度売上高638億円を確認、『2026年度までに売上高800億円』の記述とも整合。単体で300億超、決算期も直近3期以内。連結値の流用なし。",
+  "J": "https://www.daio-logistics.co.jp/high-school-graduates/about/;https://www.daio-logistics.co.jp/company/"
+ },
+ {
+  "行": 1771,
+  "I": "△ 要再確認：出光興産100%子会社のためG列は単体でなければならないが、H列記載の自社会社概要(https://www.idemitsu.com/jp/okinawaidemitsu/company/profile.html)はページの実在のみ確認でき、売上高の記載を承認ソースで確認できなかった。一方で禁止ソース(マイナビ/SalesNow等)には443億円(2025年3月期)が広く流通しており、G列424億円(2025年度)と数値・決算期の双方が食い違う(§6-6の合成リスク)。300億超の蓋然性は高いが、G列の値がどの決算期の単体値かを公式ページで現物確認するまで○のまま架電は不可。",
+  "J": "https://www.idemitsu.com/jp/okinawaidemitsu/company/profile.html;https://www.idemitsu.com/jp/okinawaidemitsu/company/index.html"
+ },
+ {
+  "行": 1790,
+  "I": "△ 要再確認：H列の根拠が『会社公表情報を補完する公開採用情報』と曖昧で、記載URLは自社トップページのみ=数値の所在が示されていない(§4の参照URL要件を満たさない)。自社サイトの会社概要(https://www.seino-shoji.co.jp/company/)を当たったが売上高の記載を確認できず、538億6,530万円と一致する値はマイナビ等の求人媒体側に出現しており§3-4の禁止ソース由来の疑いが濃い。セイノーHDの100%子会社=子会社案件のため、HD連結8,129.65億円(2026年3月期)は使えず、単体538億円を自社サイトかHD有報『関係会社の状況』で裏取りできるまで○のまま架電は不可。",
+  "J": "https://www.seino-shoji.co.jp/company/;https://www.seino.co.jp/seino/media/pdf-lib/20260514-04.pdf"
+ },
+ {
+  "行": 1814,
+  "I": "△ 要再確認：金額自体は正しい可能性が高い(2026年3月期・売上高4,642億98百万円を官報決算データベースの第32期決算公告で確認、G列と一致)。ただしH列記載URL(https://www.tel.co.jp/about/locations/tkl.html)は事業所紹介ページで売上高の記載がなく、証跡になっていない。実質的な出典はcatr.jp単独であり§7-1(catr.jpが承認ソースか未確定)の先方確認待ち。東京エレクトロン子会社=子会社案件のため親会社連結(2026年3月期)は使用不可。代替として東京エレクトロン有価証券報告書『関係会社の状況』の主要な損益情報に単体売上高が載っていないかの確認を推奨。",
+  "J": "https://catr.jp/companies/47f9d/11161/settlements/7fc35/307193;https://www.tel.co.jp/ir/irta3a00000006g5-att/fy26q4tanshin-j.pdf;https://www.tel.co.jp/ir/library/report/index.html"
+ },
+ {
+  "行": 1821,
+  "I": "○ 妥当：いなば食品株式会社は国内6社・海外8社を持つグループの親会社であり、§3-3により連結300億超でOK。自社プレスリリース『いなば食品 2024年度連結グループ業績見込み』で連結売上高1,664億円(前年比128%)を確認でき、G列1,665億円とはほぼ一致(端数差)。子会社への連結値流用ではない。ただし当該数値は『業績見込み』であって、H列の『確定実績の2024年度を採用』という説明は不正確。正確には『1,664億円(2024年度・連結グループ業績見込み)』。判定○は維持。",
+  "J": "https://www.inaba-foods.jp/company/;https://prtimes.jp/main/html/rd/p/000000013.000058165.html;https://catr.jp/companies/073d3/109427/settlements/8bd21/377086"
+ },
+ {
+  "行": 1823,
+  "I": "○ 妥当：株式会社アイ・テック(静岡市・1923年創業)は自社で決算公告・財務ハイライトを公表するグループの親会社であり、§3-3により連結/グループ値の使用可。H列記載の自社採用サイト『About アイテック』(https://www.itec-c.co.jp/recruit/about/)でグループ全体売上高991億円・全35拠点を確認。自社連結売上高84,578百万円=845.78億円(別期)の記載もあり、いずれの期でも300億を大きく超過。ただしG列の『現行』は決算期未記載で§3-8の観点から不適切、自社IRページの数値で決算期を明記して補記のこと。",
+  "J": "https://www.itec-c.co.jp/recruit/about/;https://www.itec-c.co.jp/ir/;https://www.itec-c.co.jp/company/"
+ },
+ {
+  "行": 1824,
+  "I": "○ 妥当：三井物産100%子会社だがG列は対象法人自身の売上高で、三井物産連結の流用ではない。自社ドメインの会社概要(新卒採用 https://www.mitsui-plastics.com/recruit/shinsotsu/company/outline.html は2025年3月期実績ベース、会社案内PDFも自社ドメイン)および複数経路で2025年3月期売上高3,394億円を確認。単体で300億を大きく超過、決算期も直近3期以内。なおH列記載URL(/company/index.html)には金額の記載が見当たらないため、数値の載る会社概要ページ/会社案内PDFにURLを差し替えることを推奨。",
+  "J": "https://www.mitsui-plastics.com/recruit/shinsotsu/company/outline.html;https://www.mitsui-plastics.com/assets/pdf/company.pdf;https://catr.jp/companies/2f434/14751/settlements/a6d1c/365747"
+ }
+]

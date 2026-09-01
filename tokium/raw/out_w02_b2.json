@@ -1,0 +1,67 @@
+[
+ {
+  "行": 2230,
+  "I": "○ 妥当（G列訂正：818.8億円（2025年）は承認ソースで再現できず。自社採用サイト等で確認できるのは「2024年度・グループ全体711.6億円」（2023年度665.7億円）。いずれも300億超のため架電可否は○のまま。ニッカホーム(株)は2024/1/1に子会社4社（関東・中部・西日本・九州）を吸収合併した親会社であり§3-3でグループ値採用可、合併後は単体に大半が集約）",
+  "J": "https://freshers.nikka-home.co.jp/about/;https://www.nikka-home.co.jp/corporate/;https://prtimes.jp/main/html/rd/p/000000058.000074598.html"
+ },
+ {
+  "行": 2236,
+  "I": "○ 妥当：自社HP会社概要で2025年度売上高1,102億円・従業員683名・資本金4億円を確認。ポラスグループ（グループ計連結2,953億円）傘下だが対象法人単体で300億を大幅超過し§3-3充足。グループ連結値の流用ではない。株式会社。",
+  "J": "https://chuojutaku.polus.co.jp/overview/;https://www.polus.co.jp/company/data/"
+ },
+ {
+  "行": 2239,
+  "I": "○ 妥当：上場親会社（連結）。2026年3月期第2四半期決算短信で中間連結売上高1,592億円（前年同期比+1.7%）を確認、通期3,468億円規模と整合。連結300億を大幅超過し§3-3上も問題なし。通期の一次資料はIRライブラリの通期決算短信で最終確認が望ましい。",
+  "J": "https://www.citizen.co.jp/ir/growth.html;https://www.citizen.co.jp/cms/cwc/files/FY25_2Q.pdf;https://www.citizen.co.jp/ir/library.html"
+ },
+ {
+  "行": 2248,
+  "I": "○ 妥当：自社HP会社概要で2025年度実績 売上高429億円を確認。三井不動産100%子会社だが対象法人自身の会社概要記載値であり単体300億超で§3-3充足。株式会社。※同社にはグループ会社（ウエスト等）が別法人として存在し、429億円は会社概要記載の自社値として扱った。",
+  "J": "https://www.mitsui-fc.co.jp/company/outline/;https://www.mitsui-fc.co.jp/company/group/"
+ },
+ {
+  "行": 2250,
+  "I": "○ 妥当（G列訂正：自社ドメイン採用ページで確認できるのは「2024年度 売上505億円」＝マンション管理414億＋工事関連67億＋その他24億。G列の「506億円・2025年度」は決算期が1期ずれ、506億4,500万円はキャリタス就活/catr.jp等の非承認ソース由来の可能性。グループ会社6社は別法人で単体値。いずれも300億超のため架電可否は○）",
+  "J": "https://www.mitsui-kanri.co.jp/recruit/career/special/number.html;https://www.mitsui-kanri.co.jp/corporation/outline.html"
+ },
+ {
+  "行": 2252,
+  "I": "○ 妥当：自社HP会社概要で2025年度 売上高631.8億円・従業員1,078名・パナソニックHDグループ100%出資・決算期3月31日を確認。子会社だが単体で300億超のため§3-3充足。株式会社。決算公告ページも自社ドメイン内に存在。",
+  "J": "https://panasonic.co.jp/ew/peweg/company/overview/;https://panasonic.co.jp/ew/peweg/company/notification.html"
+ },
+ {
+  "行": 2259,
+  "I": "○ 妥当：自社採用サイト（自社ドメイン・§5-3の9）で2024年度売上高1,242億円・グループ従業員7,860名を確認。カトーレック(株)はカトーレックグループの親会社（上位に持株会社なし）のため§3-3でグループ値採用可。※決算期2024年（3月期）は直近3期の下限、最新期への更新確認を推奨。株式会社。",
+  "J": "https://www.katolec.com/fresher/infographics.html"
+ },
+ {
+  "行": 2261,
+  "I": "○ 妥当：自社HP会社概要で2026年3月期 売上高46,946百万円＝469.46億円（§6-1検算済）・従業員1,689名を確認。豊田自動織機グループの子会社だが対象法人単体で300億超のため§3-3充足。株式会社。",
+  "J": "https://www.taikoh.co.jp/company/profile.html;https://www.taikoh.co.jp/recruit/stats.html"
+ },
+ {
+  "行": 2263,
+  "I": "○ 妥当（G列訂正：自社HP「財務・業績情報」で確認できるのは2024年度＝単独596億円／連結2,690億円。G列の「2025年度」は決算期表記が1期ずれている疑い。単独値を採るのは§6-4上正しく、596億円>300億で架電可否は○。出典は採用ページより財務・業績情報ページが適切。本田技研100%子会社）",
+  "J": "https://www.honda-logistics.co.jp/company/achievement/;https://www.honda-logistics.co.jp/saiyo/environment/attraction/"
+ },
+ {
+  "行": 2272,
+  "I": "○ 妥当：出典はアイシン公式グループ会社ページ（親会社系公式＝§5-3の6）で単体657億円（2025/4/1〜2026/3/31）。WebSearchでは当該数値そのものを再現できなかったが、前期の官報決算公告（第16期・2025年3月期）売上高613.93億円と整合し、単体で300億を大幅超過。アドヴィックス/アイシン傘下の子会社だが単体充足のため§3-3クリア。株式会社。※613.93億円はcatr.jp経由の傍証で§7-1未確定、主根拠はaisin.com。657億円の記載箇所の再確認を推奨。",
+  "J": "https://www.aisin.com/jp/group/asbrake/corporate;http://www.asbrake.co.jp/corporate/outline.html;https://catr.jp/companies/045ae/12975/settlements/aaa07/302631"
+ },
+ {
+  "行": 2278,
+  "I": "○ 妥当：自社HP会社概要および京都新聞記事（新聞社＝§3-4の4、決算期と売上高明記）で2026年2月期 連結売上高1,124億円（前年比+2.6%・過去最高）・連結従業員6,327名・グループ86店舗を確認。(株)さとうはさとうグループの親会社のため§3-3で連結値採用可。株式会社。",
+  "J": "https://www.sato-kyoto.com/kigyou/gaiyou.html;https://www.kyoto-np.co.jp/articles/biz/1714140"
+ },
+ {
+  "行": 2283,
+  "I": "△ 要再確認：出典が「官報第54期決算公告」だがJ列URLが官報トップページ（kanpou.npb.go.jp）のみで当該公告に到達できず、承認ソースで1,482.72億円を再現不可（官報オンラインは遡及不可）。検索で得られる2026年3月期の値は1,485億9,538万円で不一致、かつ出所はNIKKEI COMPASS＝§6-6で警戒対象。本田技研100%出資の連結販売会社・5府県114拠点で300億充足の確度自体は高いが、官報公告の掲載日/号数か自社「数字で紐解く会社情報」への出典差し替えが必要。株式会社・子会社単体値を採る方向は正しい。",
+  "J": "https://www.hondamobility-kinki.co.jp/corporate/company.html;https://www.hondamobility-kinki.co.jp/recruit/information.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8120001119497"
+ },
+ {
+  "行": 2286,
+  "I": "△ 要再確認：出典「官報決算公告」のURLが官報トップページのみで当該公告に到達不能。1,253.60億円（2026年3月期）は承認ソースで再現できず、検索で得られる値は2025年3月期1,284.58億円（バフェット・コード/OpenWork等の非承認ソース）で不一致。自社サイトで確認できたのは資本金4億8,300万円・従業員2,331名（2026/4/1）・93店舗まで。2024/4/1の合併で発足した会社だが現商号「株式会社ホンダモビリティ九州」は存続し架電上の支障なし（§6-7）。規模的に300億超の確度は高いが出典差し替えが必要。",
+  "J": "https://honda-mobility-kyushu.co.jp/recruit/about/data.html;https://honda-mobility-kyushu.co.jp/recruit/about/company.html;https://honda-mobility-kyushu.co.jp/corporate/"
+ }
+]

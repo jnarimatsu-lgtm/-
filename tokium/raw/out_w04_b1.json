@@ -1,0 +1,102 @@
+[
+ {
+  "行": 108,
+  "I": "△ 要再確認：G列696.23億円（2025年3月期・単体）の根拠が companydata.tsujigawa.com（民間の企業データ二次サイト）単独。§7-1のcatr.jpと同種で承認ソースか未確定。自社IR「売上収益の推移」は2017年度1,912億円で更新停止＝§3-8の鮮度切れ。非上場・KKR傘下でEDINET開示も確認できず。HDのためグループ連結300億超なら可だが、直近3期の連結値を承認ソースで再現できなかった。先方確認まで架電可否を保留。",
+  "J": "https://www.koki-holdings.co.jp/ir/revenues/revenues.html; https://www.koki-holdings.co.jp/corporate/info.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010401038697; https://companydata.tsujigawa.com/company/7010401038697/"
+ },
+ {
+  "行": 111,
+  "I": "○ 妥当：2026年3月期・連結売上高133,148百万円＝1,331.48億円を再確認（前期比9.8%増）。決算短信は2026年5月13日開示（TDnet 140120260512525815）。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://assets.minkabu.jp/news/article_media_content/urn:newsml:tdnet.info:20260512525815/140120260512525815.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20260204546866/"
+ },
+ {
+  "行": 115,
+  "I": "○ 妥当：2025年9月期・連結売上高41,591百万円＝415.91億円を決算短信（2025/11/14開示）で確認。親子判定も確認し、筆頭株主はJR西日本28.01%・復建調査設計23.94%で特定の親会社を持たない独立上場企業のため連結値の採用は適正。※450億未満のため薄マージン。次期（2026年9月期）は未確定。",
+  "J": "https://www.ajiko.co.jp/ir/doc/20251114_kessantanshin.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20251114502757/; https://www.nikkei.com/nkd/company/stockholder/?scode=9233"
+ },
+ {
+  "行": 118,
+  "I": "○ 妥当：2026年2月期・連結売上高58,448百万円＝584.48億円。通期実績は約585億円で一致を確認（会社計画625億に対し下振れ着地）。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://www.nikkei.com/nkd/disclosure/tdnr/20251006568610/; https://finance.logmi.jp/articles/381171; http://ke.kabupro.jp/code/8011.htm"
+ },
+ {
+  "行": 121,
+  "I": "△ 要再確認：ビーウィズは株式会社パソナグループの連結子会社（上場子会社）。§3-3で子会社は「単体」300億以上のみOKだが、G列363.22億円はビーウィズ自身の連結値であり単体売上高は自社IR・有報（第26期）いずれからも確認できなかった。連結値自体は中間期179.39億円・通期会社計画358億円と整合し妥当。単体値の確定または子会社該当性の解消まで架電可否を保留。",
+  "J": "https://finance.logmi.jp/articles/385243; https://www.bewith.net/ir/library/results/; https://www.bewith.net/ir/highlight.html; https://www.pasonagroup.co.jp/Portals/0/resources/ir/data/pdf/FY2024_securities-report.pdf"
+ },
+ {
+  "行": 125,
+  "I": "○ 妥当：2025年12月期・売上高332億円（33,207百万円）を自社IR決算資料で再確認（経常利益7.3億円・当期純利益5.2億円）。2026年12月期は未到来のため鮮度OK。※332.07億円は300億基準に対し余裕が小さく、450億未満の薄マージン。単体/連結の別はH列記載どおり単体で矛盾なし。",
+  "J": "https://www.lilycolor.co.jp/company/ir/library/results.html; https://www.lilycolor.co.jp/company/ir/; https://minkabu.jp/stock/9827/news/4445060"
+ },
+ {
+  "行": 127,
+  "I": "○ 妥当：2026年3月期・連結売上高3,526.5億円（前期比0.1%減）を決算短信（2026/5/14開示）で確認。自社HP会社概要の連結3,526億円／単体990億円と整合。上場親会社で連結採用は適正。基準を大きく超過。",
+  "J": "https://pdf.irpocket.com/C7988/WUpy/gO38/cNYv.pdf; https://www.nifco.com/company/overview.html"
+ },
+ {
+  "行": 131,
+  "I": "○ 妥当：2026年3月期・連結売上高96,037百万円＝960.37億円を決算短信（2026/5/14開示）で確認（単体94,552百万円）。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://www.matsui-ken.co.jp/module/wp-content/uploads/2026/05/2026%E5%B9%B43%E6%9C%88%E6%9C%9F-%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20260513530795/"
+ },
+ {
+  "行": 132,
+  "I": "○ 妥当：出典の自社HP「決算の概況」ページが公式に存在し、令和7年（2025年）12月期の連結決算の概況が掲載済みであることを確認。連結3,017億円／個別2,702億円で、仮に子会社判定でも個別2,702億円が300億を大きく超えるため結論は不変。",
+  "J": "https://www.konoike.co.jp/company/account.html; https://www.konoike.co.jp/news/2025/202504093432.html; https://www.konoike.co.jp/3minutes/"
+ },
+ {
+  "行": 133,
+  "I": "○ 妥当：2026年3月期・連結売上高165,620百万円＝1,656.20億円。会社公表の通期見通し1,650億円と整合し桁も一致。自社HP会社概要の〔連結〕165,620百万円／〔単体〕94,575百万円と矛盾なし。E列（300億〜1,000億未満）はSF側の誤りで実際は1,000億超。",
+  "J": "https://www.takuma.co.jp/investor/library/statementaccounts.html; https://www.takuma.co.jp/investor/library/; https://www.takuma.co.jp/company/outline.html"
+ },
+ {
+  "行": 135,
+  "I": "○ 妥当：2026年3月期・IFRS連結「売上収益」339,582百万円＝3,395.82億円を通期決算説明資料（2026/5/15）で確認。IFRSの売上収益表記である旨のH列注記も適切。2027年3月期は売上収益3,600億円計画。",
+  "J": "https://pdf.irpocket.com/C6457/fcDL/k4HV/tUXy.pdf; https://finance.biggo.jp/news/ir_6457.T_20260807_c346be35f725"
+ },
+ {
+  "行": 138,
+  "I": "○ 妥当：2026年3月期・連結売上高64,436百万円＝644.36億円（前期比4.3%増）を確認。小千谷市ガス事業譲受とガス料金改定による増収。決算記事と自社開示の四半期短信で決算期・金額が一致。桁検算OK。",
+  "J": "https://news.nsttv.com/post/20260516-00000003-nst/; https://www.hokurikugas.co.jp/company/pdf/press/2025/20260209_tanshin.pdf; https://www.hokurikugas.co.jp/company/20251106_tanshin.pdf"
+ },
+ {
+  "行": 140,
+  "I": "○ 妥当：2026年3月期・連結売上高135,209百万円＝1,352.09億円（前期比11.5%増）を決算短信（2026/4/21開示）で確認。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260421/20260420506584.pdf; https://www.nikkei.com/nkd/disclosure/tdnr/20260420506584/; https://www.obic.co.jp/ir/disclosure2026.html"
+ },
+ {
+  "行": 143,
+  "I": "○ 妥当：自社HP企業情報の売上高368億円（2025年3月期）を確認。北電子ホールディングスの子会社だが、当社自体の売上高368億円が300億以上のため§3-3をクリア（グループ連結流用ではない）。※2026年3月期は自社サイト未更新で直近3期以内の判定。売上は2023/3期354億→2024/3期442億→2025/3期368億と期による振れが大きく、450億未満の薄マージン。",
+  "J": "https://www.kitadenshi.co.jp/company/kitadenshi/; https://www.kitadenshi.co.jp/company/kitadenshi-holdings/"
+ },
+ {
+  "行": 145,
+  "I": "○ 妥当（G列訂正：単体表記に是正）：2026年3月期の連結売上高349億2,988万円（前期比+9.1%）を決算短信（TDnet ID 20260511523714／2026年5月12日開示）で独立再確認。ただし当社は三菱商事の連結子会社であり、§3-3では子会社は単体で判定するためG列は「345.32億円（2026年3月期・単体）」と記すべき（連結値の採用は§6-4に抵触）。単体・連結いずれも300億超のため判定は○のまま。※単体345.32億円は1次が有報から引用した値で、本反証では独立再現に至らず。",
+  "J": "https://www.nikkei.com/nkd/disclosure/tdnr/20260511523714/; https://www.caresupply.co.jp/ir/library/library_02.html; https://www.caresupply.co.jp/ir/upload_file/m005-m005_02/2393_20260511523714_P01_.pdf"
+ },
+ {
+  "行": 147,
+  "I": "○ 妥当：2026年3月期・連結売上高150,262百万円＝1,502.62億円（前期比4.9%増、営業利益104.21億円）を確認。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://www.bml.co.jp/news/assets/pdf/20250808_IR_2.pdf; https://finance.yahoo.co.jp/quote/4694.T/financials"
+ },
+ {
+  "行": 151,
+  "I": "○ 妥当：2026年3月期・連結売上高78,791百万円＝787.91億円（前期比2.6%減、営業利益46.4億円）を確認。決算発表は2026年5月12日。単体75,552百万円との併記も整合。桁検算OK。",
+  "J": "https://www.kitano.co.jp/ir/library/earnings-release/; https://www.nikkei.com/nkd/company/kessan/?scode=1866; https://finance.yahoo.co.jp/quote/1866.T/financials"
+ },
+ {
+  "行": 153,
+  "I": "○ 妥当：2026年3月期・連結売上高83,725百万円＝837.25億円（前年同期比0.3%減、営業利益94.31億円）を通期決算短信・決算説明資料（2026/5/13）で確認。上場親会社で連結採用は適正。桁検算OK。",
+  "J": "https://www.release.tdnet.info/inbs/140120260512527237.pdf; https://finance.biggo.jp/news/jpx_tdnet_140120260512527223"
+ },
+ {
+  "行": 154,
+  "I": "○ 妥当：自社HP会社概要の売上高857億円（2026年3月期）を確認。自社サイトに「業績推移」ページも存在。東邦瓦斯の連結子会社だが当社自体の売上高857億円が300億以上のため§3-3をクリア。※会社概要上「単体」か「グループ計」かの明示がなく、当該区分は未確定（300億基準の判定には影響しない水準）。",
+  "J": "https://www.tohoekika.jp/company/gaiyo.html; https://www.tohoekika.jp/company/gyoseki.html; https://www.tohogas.co.jp/corporate/ir/finance/financial-bp/"
+ },
+ {
+  "行": 158,
+  "I": "○ 妥当：2025年12月期・連結売上高1兆3,227億91百万円（前期比19.4%増、営業利益899.43億円）を自社「2025年12月期 決算の概況」で確認。桁検算OK（1,322,791百万円＝1兆3,227.91億円）。上場親会社で連結採用は適正。",
+  "J": "https://www.otsuka-shokai.co.jp/corporate/release/2026/260202.html; https://www.otsuka-shokai.co.jp/corporate/about/outline/"
+ }
+]
