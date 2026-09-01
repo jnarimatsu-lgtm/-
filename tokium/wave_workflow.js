@@ -1,0 +1,145 @@
+export const meta = {
+  name: 'tokium-gh-verify-wave',
+  description: 'TOKIUM直アポ大 G/H列の検証（1波ぶん。args={wave,tier,blocks,cost}）',
+  phases: [
+    { title: 'Verify', detail: '担当行をブロック並列で1次検証' },
+    { title: 'Adversarial', detail: '○維持と判定した行を反証しにいく' },
+  ],
+}
+
+const SP = '/tmp/claude-0/-home-user--/fcda6a82-279b-5a30-a006-b52ce02ba704/scratchpad'
+const RULES = '/home/user/-/tokium/RULES.md'
+
+const W = args.wave
+const TIER = args.tier
+const NB = args.blocks
+const COST = args.cost
+const ws = String(W).padStart(2, '0')
+
+const SCHEMA = {
+  type: 'object',
+  required: ['block', 'rows_written', 'flipped_rows', 'kept_ok_rows', 'notes'],
+  properties: {
+    block: { type: 'integer' },
+    rows_written: { type: 'integer' },
+    flipped_rows: { type: 'array', items: { type: 'integer' } },
+    kept_ok_rows: { type: 'array', items: { type: 'integer' } },
+    searches_used: { type: 'integer' },
+    notes: { type: 'string' },
+  },
+}
+const ADV_SCHEMA = {
+  type: 'object',
+  required: ['block', 'overturned', 'summary'],
+  properties: {
+    block: { type: 'integer' },
+    overturned: { type: 'array', items: { type: 'integer' } },
+    summary: { type: 'string' },
+  },
+}
+
+const CONSTRAINTS = `## この環境の実測された制約（プローブ済み。再確認に時間を使うな）
+- **WebFetch は全ドメインが egress ポリシーで遮断されている。呼ぶな。** bash の curl も同じ。
+- 使えるのは **WebSearch のみ**。allowed_domains パラメータは効く。
+- **このワークフロー実行全体で WebSearch は200回まで。** ${NB}エージェントで分け合う。
+  1行あたり **約${COST}クエリ** が予算だ。超えると後続ブロックが1件も検索できなくなる。
+- WebSearch の危険な失敗様式（実測）: 見つからないとき「不明」ではなく
+  **前年度の数値をもっともらしく返す**。常洋水産で2026年3月期398.64億円を4クエリ探して
+  一度も出ず、2025年3月期388.39億円が自信ありげに返った。
+  **必ず「何年何月期の値か」を確認し、決算期が一致しない値を根拠にするな。**
+- allowed_domains でドメインを絞っても、返る要約がそのドメイン由来である保証はない。
+  ドメイン限定は補助であって証跡ではない。`
+
+const RULESET = `## 判定の焦点（RULES.md が唯一の基準。必ず読め）
+1. **子会社にグループ連結値を当てていないか（§3-3 / §6-4）** — 最頻の誤り。
+   子会社は**単体**300億以上のみOK。グループ全体が超えていても子会社は一律NG。
+   親会社/HDなら連結300億超でOK。まず親か子かを確定させろ。
+2. **G列の値がグループ値でないか** — 自社サイトが「グループ売上高」と注記した値を
+   単体として採用した実例がある（行38 ヤマウチ）。
+3. **catr.jp 単独依存でないか（§7-1）** — 官報そのものではなく民間の二次サイト。
+   先方の承認可否が未確定。代替の承認ソースを当たり、なければ
+   「△ 要再確認：catr.jp単独。§7-1の先方確認待ち」。
+4. **決算期の鮮度（§3-8）** — 直近3期以内か。
+5. **桁（§6-1）** — 41,266百万円=412.66億円、1兆223億円=10,223億円。必ず検算。
+6. **同名企業（§6-2）** — 法人番号・所在地で照合。別会社の数字は空欄より危険。
+7. **法人格（§3-6）** — 株式会社のみ。有限会社・合同会社ほかは一律NG。
+
+## 絶対にやるな
+数字をひねり出すこと。§6-6の通り誤った数値が禁止ソース（就活会議/SalesNow/Baseconnect/
+マイナビ/doda/OpenWork等）に広く流通しており、WebSearchの要約はそこから合成されうる。
+承認ソースの記載として確認できないなら「保留」にしろ。**推測を書けば失敗だ。**
+アポインターは成果報酬で稼働している。誤って○にすれば無報酬になる（§1）。
+
+## I列の書式（4値のいずれかで始める）
+- 「○ 妥当：〜」        既存のG列H列が正しく判定もルール通り。**架電してよい**
+- 「× 要修正：〜」      数値・決算期・単体連結・判定記号のいずれかが誤り。正しい内容を書く
+- 「△ 要再確認：〜」    ルール違反の疑い（子会社に連結値、catr.jp単独、鮮度切れ等）
+- 「保留 検証不可：〜」  承認ソースに到達できず真偽判定できない。当たった経路を列挙
+
+## J列
+検証に使ったURL。セミコロン区切り。**存在しないURLを創作するな。**
+WebSearchの結果に出たURLのみ。到達できなければ空文字。`
+
+phase('Verify')
+const results = await pipeline(
+  Array.from({ length: NB }, (_, i) => i),
+  (b) => agent(
+    `TOKIUM「直アポ大」リストのG列・H列が本当に正しいかを検証する。層=${TIER}。
+
+## 最初に読め
+1. ${RULES} を全文読め。
+2. ${SP}/waves/w${ws}_b${b}.json ← 担当行。
+
+${CONSTRAINTS}
+
+${RULESET}
+
+## 出力
+${SP}/waves/out_w${ws}_b${b}.json に JSON 配列で書け。**担当行数ぴったり・入力と同じ順序**。
+各要素: {"行": <整数>, "I": "<I列>", "J": "<J列>"}
+python3 のヒアドキュメントで書き、書いた後に読み直して要素数が入力と一致することを確認しろ。
+行数がずれると全行ずれる（RULES §5-2 の事故が実際に起きている）。
+
+## 返り値
+{block:${b}, rows_written:<実際の要素数>, flipped_rows:[元○から覆した行],
+ kept_ok_rows:[○のまま妥当とした行], searches_used:<WebSearch呼出回数>, notes:"<簡潔に>"}`,
+    { label: `w${ws}:blk${b}`, phase: 'Verify', schema: SCHEMA }
+  ),
+  (res, b) => {
+    if (!res || !res.kept_ok_rows || res.kept_ok_rows.length === 0) {
+      return { block: b, overturned: [], summary: '反証対象なし' }
+    }
+    return agent(
+      `ブロック${b}で「○ 妥当＝架電してよい」と判定された行を**反証しに行く**。
+
+${RULES} を読め。
+1次結果: ${SP}/waves/out_w${ws}_b${b}.json
+入力:     ${SP}/waves/w${ws}_b${b}.json
+反証対象の行: ${JSON.stringify(res.kept_ok_rows)}
+**これらの行のみ**扱え。既に△/×/保留の行は触るな。
+
+${CONSTRAINTS}
+
+## 姿勢
+追認が仕事ではない。**この○は間違っているという仮説から始めろ。**
+- 親会社と判断した根拠は何か。登記上の親会社が別にいないか。
+- 採用値は本当に「単体」か。脚注に「グループ」「連結」の注記はないか。
+- 決算期は直近3期以内か。前年度の値を掴まされていないか。
+- 出典URLは実在し、その数値がそこに書かれているか。
+- 法人番号は一致するか。同名の別法人ではないか。
+
+**確信を持って反証できた行だけ**書き換えろ。反証できなければ○のまま残せ。
+反証できないことを理由に保留に倒すな（架電機会の損失になる）。
+検索残量は逼迫している。疑いの濃い行から使え。
+
+## 出力
+覆した行だけ ${SP}/waves/out_w${ws}_b${b}.json を書き換えろ（要素数・順序厳守）。
+
+## 返り値
+{block:${b}, overturned:[覆した行番号], summary:"<根拠。覆せなかった行に残る疑問も書け>"}`,
+      { label: `adv${ws}:blk${b}`, phase: 'Adversarial', schema: ADV_SCHEMA }
+    )
+  }
+)
+
+return { wave: W, tier: TIER, blocks: results.filter(Boolean) }
