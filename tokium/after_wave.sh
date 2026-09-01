@@ -31,6 +31,11 @@ with open(p,"w",encoding="utf-8-sig",newline="") as fh:
     for n in sorted(out):
         r=R[n]; w.writerow([n,r[0],r[1],r[2],r[7][:1],out[n]["I"],out[n].get("J","")])
 PY
+# 生データをリポジトリへ退避（scratchpad は揮発する）
+SP=/tmp/claude-0/-home-user--/fcda6a82-279b-5a30-a006-b52ce02ba704/scratchpad
+mkdir -p tokium/raw
+cp "$SP"/waves/out_w*.json tokium/raw/ 2>/dev/null || true
+
 git add -A
 git -c user.name="Claude" -c user.email="noreply@anthropic.com" \
     commit -q -m "Verification results through wave $(echo "$@" | awk '{print $NF}')" \
