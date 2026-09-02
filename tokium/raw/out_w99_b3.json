@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2814,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝親会社シノケングループの有報「関係会社の状況」（同社の売上高が連結売上高の10%超との注記は確認できたが、連結1,059億円×10%＝105.9億円で300億の下限証明にならない）、EDINET、自社HP、官報決算公告検索、報道。子会社単体の実額を承認ソースで確認できず。※シノケングループは上場廃止済。有報「主要な損益情報等」に実額が載っている可能性は残る（EDINET本文取得不可）",
+  "J": "https://edinetdb.jp/company/E04005/text; https://www.shinoken.co.jp/about/finance/; https://www.shinoken.com/gaiyou/"
+ },
+ {
+  "行": 2816,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（kita-kanto.sakura.ne.jp/company/gaiyo.html）、官報決算公告検索、エコアクション21 環境活動レポート（ea21.jp・環境省スキーム／売上高の確定記載を確認できず）、gBizINFO、報道。承認ソースに売上高の記載なし。SalesNow等の禁止ソースのみ",
+  "J": "http://www.kita-kanto.sakura.ne.jp/company/gaiyo.html; https://www.ea21.jp/list/pdfn/0004999.pdf"
+ },
+ {
+  "行": 2817,
+  "I": "△ 妥当（回収見込みあり）：当たった経路＝自社HP会社概要、官報決算公告検索、グループ各社HP（大和地所レジデンス電子公告）、報道。自社HPに「数字で見る大和地所グループ」ページが存在するが本文取得不可でグループ売上高を確定できず。マイナビ由来の単体157億円（2025年3月期）は禁止ソースのため不採用。※本社は親会社のためグループ連結値で判定可（§3-3）。当該ページを直接確認できれば回収の余地あり",
+  "J": "https://www.daiwajisyo.co.jp/company/; https://www.daiwajisyo.co.jp/number/index.html; https://www.daiwa-r.co.jp/company/announcement/"
+ },
+ {
+  "行": 2818,
+  "I": "○ 回収：燦ホールディングス株式会社（東証プライム・9628）の2025年3月期 連結営業収益 31,984百万円＝319.84億円（前期比+42.5%、きずなHD連結子会社化による）。ホールディングスのためグループ連結で判定可（§3-3・濱本さん2026/08/24）。出典は自社IRの決算短信（2025年5月8日開示）。なお当期は決算期変更で2026年8月期（17ヶ月変則決算）となり通期予想営業収益59,300百万円＝593億円。P/L科目は「売上高」ではなく「営業収益」表記",
+  "J": "https://www.san-hd.co.jp/ir/library/results.html; https://www.san-hd.co.jp/ir/finance/forecast.html; https://finance.stockweather.co.jp/contents/dispPDF.aspx?disclosure=20250508534212"
+ },
+ {
+  "行": 2820,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、官報決算公告検索（同社の掲載を発見できず／日専連ホールディングスの公告は別法人）、gBizINFO、報道。承認ソースに営業収益・売上高の記載なし。Baseconnect等の禁止ソースのみ。※クレジットカード業のため取扱高と営業収益の混同に注意",
+  "J": "https://www.nissenren-asahikawa.co.jp/company/; https://catr.jp/settlements/41f6a/210877"
+ },
+ {
+  "行": 2821,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告検索、愛知県（公的機関）の企業立地プレスリリース（売上高記載なし）、PPG本社IR（日本法人単体の開示なし）、自社サイト、報道。NIKKEI COMPASS等の与信管理DBに数値があるのみで、承認ソースに単体売上高の記載なし",
+  "J": "https://www.pref.aichi.jp/soshiki/kigyo-yuuchi/0000053781.html; https://www.nikkei.com/compass/company/22Fm4dcY2s2t5fm6DFYPWo"
+ },
+ {
+  "行": 2822,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（sk-sanyo.co.jp）会社情報・各工場・サステナビリティ・お知らせ、官報決算公告検索、経済産業省「地域未来牽引企業」選定情報（売上高の記載なし）、報道。兵庫県姫路市の製鋼原料・非鉄金属リサイクル業。承認ソースに売上高の記載なし",
+  "J": "https://www.sk-sanyo.co.jp/about; https://www.sk-sanyo.co.jp/business/head_office; https://www.sk-sanyo.co.jp/pickup/chiiki-kenin"
+ },
+ {
+  "行": 2823,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（新旧2サイトとも）、グループ事業ページ、官報決算公告検索、報道。北海道でパーラー太陽・シネマ・レストラン等を展開。承認ソースに売上高の記載なし。※catr.jpに掲載のある「太陽グループ株式会社」は商号が異なる別法人のため不採用（法人番号6430001004595と不一致）",
+  "J": "https://taiyogroup.jp/about-company/overview/; https://www.taiyogroup.jp/company/overview/index.php"
+ },
+ {
+  "行": 2824,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、gBizINFO（法人番号8220001000985・官報決算公告の公開許諾なし）、水産庁公表PDF（取組紹介のみで売上高なし）、官報決算公告検索、報道。承認ソースに売上高の記載なし。二次採用媒体の2025年度270億円は禁止ソースであり、かつ300億未満",
+  "J": "http://www.ishikawa-uoichi.co.jp/company/index02.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8220001000985; https://www.jfa.maff.go.jp/j/kakou/attach/pdf/sakananohi1137-81.pdf"
+ },
+ {
+  "行": 2825,
+  "I": "○ 回収：株式会社ビーイングホールディングス（東証スタンダード・9145）の2025年12月期 連結売上高 33,515百万円＝335.15億円（前期比+11.0%、営業利益2,304百万円、親会社株主帰属当期純利益1,402百万円）。出典は2026年2月13日TDnet開示の決算短信〔日本基準〕（連結）および自社IR。ホールディングスのためグループ連結で判定可（§3-3）。1次は「営業収益」を理由に不採用としたが、これはP/Lのトップライン＝売上高であり§3-7が排除する「利益」ではない",
+  "J": "https://being-group.jp/ir/; https://finance.biggo.jp/news/jpx_tdnet_140120260213560997"
+ }
+]

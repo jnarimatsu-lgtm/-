@@ -1,0 +1,32 @@
+[
+ {
+  "行": 2877,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(klar.co.jp/04_outline.php)／自社HP全体にIR・電子公告ページなし／EDINET非提出（非上場）／gBizINFO（法人番号7070001005497、官報決算情報の公開許諾なし）／官報決算公告・catr.jp該当なし／親会社なしのため親会社IR経路は不成立。群馬県前橋市のホームページ制作・学会運営受託の小規模非上場企業で、承認ソースに売上高の記載が一切ない。※検索上位に出る株式会社Klar(法人番号9012301011947)は同名別法人。SFレンジ「300億以上」は誤りの疑いが濃いが、300億未満を確定できる承認ソースも無いため△を維持。",
+  "J": "https://klar.co.jp/04_outline.php; https://klar.co.jp/"
+ },
+ {
+  "行": 2878,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(e-realize.com/about.html)／自社HPにIR・電子公告ページなし／EDINET非提出／官報決算公告・catr.jp該当なし／親会社なし。富山県のシステム設計・開発会社（2003年設立、代表 尾苗博一）で承認ソースに売上高記載なし。数値が出るのはマイナビ・NIKKEI COMPASS等の禁止ソースのみ（§3-4・§6-6）。※リアライズコーポレーション／realize-asset.com／realize-m.net は同名別法人、法人番号7230001005415（富山）と照合済み。回収不可。",
+  "J": "https://www.e-realize.com/about.html; https://www.e-realize.com/"
+ },
+ {
+  "行": 2879,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(ea-q.co.jp)／EDINET非提出／gBizINFO(法人番号7290001024368。決算情報は官報公開許諾法人のみ掲載で当社は非掲載)／福岡県両立支援ポータル等の公的機関ページ（売上高欄なし）／官報決算公告・catr.jp該当なし／親会社アースアプレイザル(earth-app.co.jp)側も非上場でIR・有報なく「関係会社の状況」経路が成立しない。損保委嘱の損害額算定・財物評価を行う福岡市の非上場企業。承認ソースに売上高なし。数値はBaseconnect等の禁止ソースのみ。",
+  "J": "https://www.ea-q.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7290001024368; https://f-ryoritsu.pref.fukuoka.lg.jp/merit/works/detail/5f55b616-bf66-4f47-b7f2-3505ac8104cc; https://www.earth-app.co.jp/company/company2.html"
+ },
+ {
+  "行": 2880,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(irukot.com/company/)／自社HPにIR・電子公告・採用「数字で見る」ページなし／EDINET非提出／官報決算公告・catr.jp該当なし／親会社なし。千葉県船橋市のEC物流センター配送代行（2013年設立、代表 徳利勇志）で承認ソースに売上高記載なし。数値が出るのはSalesNow・Baseconnect・OpenWork・NIKKEI COMPASSといった禁止ソースのみで、§6-6加藤化学と同型。SFレンジ「300億以上」は事業規模と整合しないが承認ソースでの反証もできず△。",
+  "J": "https://irukot.com/company/; https://irukot.com/"
+ },
+ {
+  "行": 2881,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・業務内容・採用ページ(kankyo-produce.co.jp/company.html, work.html, careers.html)／自社HPにIR・電子公告なし／EDINET非提出／官報決算公告・catr.jp該当なし／親会社なし。植物相・動物・生活環境調査とランドスケープ設計を行う非上場の環境調査会社で、承認ソースに売上高の記載なし。数値はOpenWork・biz-maps等の禁止ソースのみ。SFレンジ「1,000億円以上」は事業規模と明らかに乖離。※株式会社環境総合プロデュース(kankyo-sogo-pro.co.jp)は同名別法人、法人番号8012401012326と照合。",
+  "J": "http://www.kankyo-produce.co.jp/company.html; http://www.kankyo-produce.co.jp/work.html; http://www.kankyo-produce.co.jp/careers.html"
+ },
+ {
+  "行": 2887,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／自社リクルートサイト(直営38店舗・4事業所の記載のみで売上高欄なし)／EDINET非提出／gBizINFO(法人番号4080101003320、決算情報の公開許諾なし)／官報決算公告(第36期・第44期をcatr.jpで確認したが貸借対照表ベースで当期純利益854百万円等のみ、売上高の欄が存在しない)／親会社なし。売上高116.14億円(2024年度)はYahoo!しごとカタログ＝禁止ソースのみの数値で採用不可。承認ソースでの売上高確認不能のため△。なお同数値は300億を大きく下回り、回収見込みはない。",
+  "J": "https://www.uogashizushi.co.jp/company/; https://www.uogashizushi.co.jp/recruit/; https://catr.jp/settlements/156f8/28935; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4080101003320"
+ }
+]
