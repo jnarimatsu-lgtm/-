@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1925,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①島津製作所2025年3月期有報「関係会社の状況」（10%超注記が付くのは島津(香港)有限公司のみで島津インターナショナルには無く下限証明も不可）②官報決算公告（純利益30.22億円・利益剰余金110.35億円・総資産200.54億円のみ＝貸借対照表のみで売上高欄が存在しない）③自社HP会社概要④島津製作所IR業績ハイライト。開示義務がなく承認ソースでは取得不能。",
+  "J": "https://www.shimadzu-inter.co.jp/ ; https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100R8AR.pdf ; https://www.shimadzu.co.jp/ir/finance/highlights.html ; https://catr.jp/companies/b1862/23842"
+ },
+ {
+  "行": 1927,
+  "I": "○ 回収：親会社メタルワンの公式ニュースリリース（承認ソース①ニュースリリース／⑥親会社IR）に、2026年4月1日付でメタルワン特殊鋼がメタルワン鉄鋼製品販売を統合し株式会社Metal One Nexusとして発足、売上規模約1,700億円・メタルワン100%子会社と明記。子会社単体1,700億円>300億円で基準充足。法人番号2120001073510は存続会社の商号変更でgBizINFO上も現存（閉鎖なし）。※要社名更新：現商号は株式会社Metal One Nexus。",
+  "J": "https://www.mtlo.co.jp/newsrelease/2269/ ; https://monx.co.jp/aboutus/company/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120001073510"
+ },
+ {
+  "行": 1928,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①官報決算公告（純利益5,527.9万円・利益剰余金6,348.6万円・2025年12月期＝貸借対照表のみで売上高欄が存在しない）②自社HP（Air Liquide Japan会社概要）③gBizINFO④日本エア・リキード／Air Liquide本体のIR。単体売上高の開示義務がなく承認ソースでは取得不能。",
+  "J": "https://industry.airliquide.jp/ ; https://jp.airliquide.com/overview_career ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7140001052111 ; https://catr.jp/companies/e1c45/3536"
+ },
+ {
+  "行": 1929,
+  "I": "△ 妥当：確認不可で正しい。香川県高松市のパチンコホール運営（アトランティスアイゼン等）。当たった経路＝①自社HP②官報決算公告DB③gBizINFO。いずれも売上高の記載なし。流通する唯一の数値は2024年度255.60億円だが出典はYahoo!しごとカタログ・OpenWork・マイナビ転職等の禁止ソースで採用不可。かつ255.60億円は300億未満のため回収の余地なし。",
+  "J": "http://aizen-p.com/ ; https://catr.jp/companies/7c002/44147 ; https://www.openwork.jp/a0C1000000pmaFS/analysis/"
+ },
+ {
+  "行": 1930,
+  "I": "△ 妥当：確認不可で正しい。ただし回収不能が事実上確定。1次未踏の経路＝自社HP会社概要に「売上高200億円（2022年6月期）／資本金9,000万円／従業員290名／遊技場・温浴施設・駐車場経営」と明記（承認ソース）。ただし2022年6月期は直近3期外のため§3-8によりG列は確認不可のまま。200億円＝300億未満であり、最新期でも300億到達の見込みなし。",
+  "J": "http://www.ichifujinetwork.co.jp/company/information/ ; https://www.ichifujinetwork.co.jp/company/about/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8240001029866"
+ },
+ {
+  "行": 1932,
+  "I": "△ 妥当：確認不可で正しい。大王海運グループの船舶管理・船主会社（約110隻管理、従業員170名）。当たった経路＝①自社HP会社情報・事業内容・ニュースリリース②gBizINFO③官報決算公告（掲載を確認できず）。2025年3月期373億円が流通するが出典は東京商工リサーチ「エラベル」・Wikipedia等の非承認ソースで採用不可。※373億円は300億超のため、日本海事新聞等の新聞記事が取れれば回収余地あり。",
+  "J": "https://misuga-kaiun.co.jp/company.html ; https://misuga-kaiun.co.jp/business.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001030296 ; https://www.alevelsearch.com/company/misuga-kaiun/"
+ },
+ {
+  "行": 1934,
+  "I": "△ 妥当：確認不可で確定。当たった経路＝①自社HP決算公告ページ（2025年6月期・2024年6月期・2023年6月期いずれも貸借対照表と個別注記表のみを掲載し、損益計算書＝売上高欄が存在しない）②グループ概要ページ（従業員8,000名以上・100超事業所の記載のみで売上高なし）③gBizINFO④官報決算公告DB。開示義務がないため探しても出ず、△が確定した結論。",
+  "J": "https://www.kyowa-groupnet.jp/settlement/ ; https://www.kyowa-groupnet.jp/about/overview/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3380001000405 ; https://catr.jp/companies/0303f/142743"
+ },
+ {
+  "行": 1937,
+  "I": "○ 回収：自社HP会社案内（承認ソース①）に売上高推移を確認。令和元年度536→令和2年度433→令和3年度560→令和4年度593→令和5年度606→令和6年度609億円。太陽石油販売単体の値で、親会社太陽石油の連結（第88期6,910億円）とは別系列。太陽石油グループは3月決算のため令和6年度＝2025年3月期で直近3期内。G列訂正：確認不可→609億円（2025年3月期・単体）。※ページ本文は未閲覧（WebFetch遮断）",
+  "J": "https://www.taiyosekiyuhanbai.co.jp/about.html ; https://www.taiyooil.net/news/2025/25-018.html ; https://www.taiyooil.net/corporate/accounts/"
+ },
+ {
+  "行": 1939,
+  "I": "△ §7-1回答待ち：780.78億円（2026年3月期・単体）を官報決算公告（catr.jp転載）で確認済み。catr.jpが承認ソースと認められれば○に回収可能。下限証明の代替経路は不可＝親会社トライアルHDの2026年6月期連結売上高1兆3,430億円×10%＝1,343億円>780億円のため有報「関係会社の状況」の10%超注記の対象にならない。自社HP会社概要・トライアルHD IRにも単体売上高の記載なし。",
+  "J": "https://muroo.co.jp/company/outline/ ; https://trial-holdings.inc/ir/library/securities/ ; https://trial-holdings.inc/ir/financial/ ; https://catr.jp/"
+ },
+ {
+  "行": 1940,
+  "I": "△ 妥当：確認不可で正しい。大分県豊後高田市のボウリング場・アミューズメント施設運営（1992年12月設立）。当たった経路＝①自社HP②gBizINFO③官報決算公告DB（掲載を確認できず）④新聞記事。いずれも売上高の記載なし。数値はSalesNow・Baseconnect・jobtalk・エンゲージ会社の評判といった禁止ソースにしか存在せず採用不可（§6-6加藤化学と同型）。",
+  "J": "http://www.cheer-group.jp/index.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2320001007828 ; https://catr.jp/"
+ }
+]

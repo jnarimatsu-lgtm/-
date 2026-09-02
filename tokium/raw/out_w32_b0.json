@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1830,
+  "I": "△ 妥当（判定据置・重要所見追加）：官報決算公告（catr.jp収録）『シチズン電子株式会社 第69期決算公告』に売上高178.72億円・経常利益2.11億円・総資産276.36億円・従業員380名・山梨県富士吉田市上暮地・代表取締役社長 関口金孝と記載。法人番号6090001009778の対象法人と一致し、1次の『シチズン時計有報に10%超注記なし＝下限346.8億円未満』およびデバイス部門634億円（複数社合算）とも整合。単体300億円未満の蓋然性が非常に高い。ただし出典がcatr.jp単独＝§7-1未決着、かつ第69期の西暦決算期を特定できず§3-8を満たせないため×は付けず確認不可を維持。E列は過大の疑い。",
+  "J": "https://catr.jp/settlements/48b0b/252057; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6090001009778; https://ce.citizen.co.jp/company/outline; https://www.citizen.co.jp/cms/cwc/files/138Annual.pdf; https://www.citizen.co.jp/ir/library.html"
+ },
+ {
+  "行": 1836,
+  "I": "△ 要再確認：1次未踏の経路＝自社HPの決算公告ページを発見。会社法440条1項に基づき貸借対照表『および損益計算書』を掲示と明記され、第70〜72期の公告PDFが実在＝承認ソース上に単体売上高が存在することは確定。ただし本環境ではPDF本文を取得できず金額未確定。流通する565億/578億はマイナビ・Baseconnect等の禁止ソース由来のため不採用。富士電機51%出資の子会社につき単体300億以上が要件。PDFを開けば○に回収できる見込みが高い。",
+  "J": "https://www.hoei-elec.co.jp/corporate/financial.html; https://www.hoei-elec.co.jp/corporate/box/doc/72hoeikoukoku.pdf; https://www.hoei-elec.co.jp/corporate/box/doc/71hoeikoukoku.pdf; https://www.hoei-elec.co.jp/corporate/company.html"
+ },
+ {
+  "行": 1837,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 jac777.com/outline ②採用サイト jac777.jbplt.jp ③決算公告/官報 ④和歌山県UIターン（自治体＝公的機関）の97.81億円は2023年更新で§3-8の直近3期を満たさず不採用 ⑤日経企業情報。和歌山県岩出市のサービス（エンタメ）業・従業員50〜100人規模で、直近3期の売上高を承認ソースで確認できず。なお公的自治体情報の97.81億円に照らすとE列『300億以上〜1,000億未満』は過大の疑いが強く、リスト側の要精査対象。",
+  "J": "http://jac777.com/outline/; https://www.wakayama-uiturn.jp/ui-turn-system/pages/index/mid/jac; https://jac777.jbplt.jp/"
+ },
+ {
+  "行": 1839,
+  "I": "△ 要再確認：官報決算公告（第71期・2025年3月期）で単体売上高2,548.5億円を確認したが、出典が catr.jp のため§7-1の未決着論点に依存。官報の号数・頁は特定できず。親会社コスモエネルギーHD連結は約2.7兆円で10%＝2,700億円に届かないため有報『関係会社の状況』10%超注記による下限証明は使えない。自社HP会社概要・コスモHD IRにも単体値の記載なし。gBizINFOで法人番号8010401053134の現存を確認済み。catr.jp が承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/settlements/b11c5/260011; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401053134; https://ces.cosmo-energy.co.jp/company/profile/; https://www.cosmo-energy.co.jp/ja/ir/financial-esg-data/financial.html"
+ },
+ {
+  "行": 1840,
+  "I": "△ 要再確認：1次未踏の経路＝自社HPの電子公告ページに『2025年3月期 第90期決算公告（2025年6月25日）』PDFが実在（§5-3系統5の承認ソース）。ただし本環境ではPDF本文の売上高を取得できず金額未確定。親会社 日神グループHD(8881) 2025年3月期の建設事業セグメント売上高368.44億円は当社を中心とする複数社のセグメント値で単体値ではないため不採用、同HD連結×10%も300億に届かず下限証明不可。流通する372億/378.19億はマイナビ・NIKKEI COMPASS等の禁止ソース由来。公告PDFを開けば○に回収できる見込みが高い。",
+  "J": "https://www.tada-con.co.jp/company/koukoku/; https://www.tada-con.co.jp/company/profile/; https://nisshin-hd.co.jp/archives/investor_information/briefingsession; https://nisshin-hd.co.jp/archives/investor_information/post-1096"
+ },
+ {
+  "行": 1844,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP thgcs.co.jp ②gBizINFO（法人番号8180001062238・法人現存を確認、財務公表なし）③東邦ガスIR決算短信・説明会資料 ④同社財務ハイライト/収支状況 ⑤2025年度第3四半期連結決算概要PDF ⑥決算公告/官報検索。いずれにも東邦ガス・カスタマーサービス単体の売上高記載なし。東邦ガスのセグメント値は複数社合算で単体値として使えず、親会社連結×10%による下限証明も対象法人が該当しない。検針・料金収納の業務受託会社であり単体300億の裏付けは得られなかった。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8180001062238; http://www.thgcs.co.jp/index.php; https://www.tohogas.co.jp/corporate-n/ir/document/settlement-accounts/; https://www.tohogas.co.jp/corporate/ir/finance/financial-bp/"
+ },
+ {
+  "行": 1845,
+  "I": "△ 要再確認：官報決算公告データベース(catr.jp)に高梨販売株式会社の決算公告が収録されており、そこから2024年9月期売上高907.48億円が流通。親会社タカナシ乳業（高梨乳業）の2025年9月期1,094.22億円とも整合的で単体300億超の蓋然性は高い。ただし承認ソースが官報決算公告のみで catr.jp 依存＝§7-1の未決着論点。官報の号数・頁は特定できず。自社/親会社HPの会社概要・IRには販売子会社単体の売上高記載なし。catr.jp が承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/edcd0/43975; https://www.takanashi-milk.co.jp/company/gaiyou"
+ },
+ {
+  "行": 1849,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 bunka-shutter-service.co.jp ②gBizINFO（法人番号3010001088964・法人現存を確認）③文化シヤッター決算説明資料・IRライブラリ ④電子公告/決算公告・官報検索。親会社のサービス事業セグメントは中間期143.72億円、通期325.96億円だが当社を中心とする複数社合算値で単体値ではない。セグメント自体が300億前後で単体はこれを下回る公算が大きく、親会社連結×10%（約180億円）も300億に届かず下限証明不可。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001088964; https://www.bunka-shutter-service.co.jp/company/profile.html; https://www.bunka-s.co.jp/ir/library/presentation/; https://www.bunka-s.co.jp/corporate/outline/"
+ },
+ {
+  "行": 1850,
+  "I": "△ 覆し（1次○を取消）：1次が売上高とした126,316百万円は、自社会社案内PDF corp-profile25.pdf に『2024年3月31日現在・資本金100百万円・従業員1,394名』と並記された【総資産】であり売上高ではない。金額シード検索で『売上高126,316百万円』は一度も再現せず、自社ドメイン限定検索では2回とも総資産として返った。子会社のため§3-3で単体売上高の承認ソース確認が必須だが、自社HP・会社案内・決算公告ページ・親会社JKHD IRのいずれにも単体売上高なし。JKHD2025年3月期連結3,932.58億円/総合建材卸売事業3,244.92億円は複数社合算のセグメント値（§6-4）。→§3-5により確認不可。JKHD有報『関係会社の状況』10%基準393.26億円を開ければ○に回収可能。",
+  "J": "https://www.jkenzai.co.jp/pdf/corp-profile25.pdf; https://www.jkenzai.co.jp/corporate/summary.html; https://www.jkenzai.co.jp/corporate/ir.html; https://www.jkhd.co.jp/common/uploadfile/2025%E5%B9%B43%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf; https://www.jkhd.co.jp/common/ir_document?type=result"
+ },
+ {
+  "行": 1851,
+  "I": "△ 要再確認：持株会社＝親会社のため§3-3によりグループ連結300億超で可。当たった経路＝①自社HP yoshimoto.co.jp/corporate（2010年上場廃止でIR・決算情報の掲載なし）②グループ企業一覧 ③官報決算公告データベース catr.jp に第15期決算公告を収録＝§7-1の未決着論点に依存 ④新聞記事検索。流通する『2025年3月期 売上高674億円』は追跡すると別社（JFEシステムズ）決算説明会資料PDFへの誤帰属で裏付けなし。catr.jp が承認ソースと認められれば回収余地あり。",
+  "J": "https://catr.jp/companies/3c62d/17817/settlements/ab8ac/369534; https://www.yoshimoto.co.jp/corporate/; https://www.yoshimoto.co.jp/corp/info/outline.html; https://www.yoshimoto.co.jp/corporate/group/"
+ }
+]
