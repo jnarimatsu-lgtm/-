@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3676,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(miya-as.co.jp/company)・同業務内容ページ・gBizINFO(9030001008213)・官報決算公告(該当公告なし)・EDINET・国交省測量業者/建設コンサルタント登録・新聞記事。さいたま市北区の測量・補償コンサル・土木設計会社(1957年創業)で、自社HPの会社案内に売上高欄が存在しない。§6-2照合＝法人番号の登記所コード0300はさいたま地方法務局管轄で本社所在地と一致し、同名別法人の取り違えではない。承認ソースに売上高の記載なし。E列『1,000億円以上』は規模と著しく乖離。",
+  "J": "https://www.miya-as.co.jp/company/; https://www.miya-as.co.jp/business/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9030001008213"
+ },
+ {
+  "行": 3677,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(maruyasu-fil.co.jp/profile)・別ドメインmaruyasu-fil.com・gBizINFO(1010601015394)・官報決算公告(catr.jp含め該当なし。ヒットするのは別法人の丸安産業)・EDINET・業界団体TOKYO KNIT会員情報。1955年設立、東京都墨田区両国、資本金7,500万円のニット糸ファブレス卸。§6-2照合＝登記所コード0106は東京法務局の支局・出張所管轄で墨田区と整合。売上高はNIKKEI COMPASS/Baseconnect/OpenWork等の禁止ソースにしか無く承認ソースに記載なし。",
+  "J": "https://www.maruyasu-fil.co.jp/profile; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010601015394; https://tokyoknit.jp/member/maruyasucorporation"
+ },
+ {
+  "行": 3679,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(hfcnet.co.jp)・gBizINFO(1240001009866)・広島県公式サイト『人的資本経営ひろしま。』企業紹介(公的機関)・官報決算公告・EDINET。広島市安佐南区安東の総合建設コンサルタント、1969年9月設立・資本金1,000万円・正社員約26名。§6-2照合＝登記所コード2400は広島法務局管轄で所在地と一致。売上高はYahoo!しごとカタログ/SalesNow/マイナビ転職の禁止ソースに『2018年5月期3億6,448万円』とあるのみで、承認ソースに記載なく§3-8の直近3期にも該当しない。300億到達の余地は無い規模。",
+  "J": "http://hfcnet.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1240001009866; https://www.pref.hiroshima.lg.jp/hint-r/1663.html"
+ },
+ {
+  "行": 3681,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(step-i.co.jp)・gBizINFO(2290001020586)・福岡県働き方改革推進事業ポータル『働き方かえるばい！』・福岡県女性活躍応援サイト企業紹介・福岡市『い〜な ふくおか子ども週間』・福岡労働局公表PDF・官報決算公告・EDINET。福岡の環境デザイン(景観計画・公園緑地設計・文化財保存)コンサル。公的機関の企業紹介ページが複数あるが、いずれも売上高の記載なし。§6-2照合＝登記所コード2900は福岡法務局管轄で所在地と一致。財務はTSR/TDBの有料DBのみ＝承認ソース外。",
+  "J": "https://step-i.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2290001020586; https://hatarakikatakaeru.pref.fukuoka.lg.jp/campaign/companies/detail/345; https://joseikatsuyakuoentai.pref.fukuoka.jp/companies/detail/80"
+ },
+ {
+  "行": 3682,
+  "I": "△ 妥当：確認不可で正しい。まず§6-2で同名別法人を切り分け：D列URLのsanyo-con.co.jpは北海道名寄市・札幌市の建設コンサルで、法人番号2450001007963の登記所コード4500は旭川地方法務局管轄(名寄市を含む)と一致するため、福岡県北九州市門司区の株式会社三洋コンサルタント(1972年設立・sanyo-cnsl.co.jp)とは別法人と確定。当たった経路＝自社HP会社概要(company3.html)・自社HPトップ・gBizINFO・官報決算公告・EDINET・北海道の建設コンサルタント/測量業者登録。承認ソースに売上高の記載なし（口コミサイトも『決算データなし』）。",
+  "J": "http://www.sanyo-con.co.jp/company3.html; https://www.sanyo-con.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2450001007963"
+ },
+ {
+  "行": 3683,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(standard-coltd.com/profile)・自社ドメイン採用ページ(§5-3⑨、ドメイン限定検索で確認)・gBizINFO(3120901031640)・官報決算公告・EDINET。大阪府吹田市春日の住宅/店舗リノベーション・内装会社(2012年設立)。売上高40億1,000万円(2024年実績)〜41億円(2025年実績)・従業員120名という数値はマイナビ2027/マイナビ転職/比較ビズ等の禁止ソースにのみ存在し、自社ドメイン内では再現できず。§6-2照合＝登記所コード1209は大阪法務局の支局管轄で吹田市と整合。いずれにせよ300億を大きく下回り回収の余地なし。",
+  "J": "https://standard-coltd.com/profile/; https://standard-coltd.com/recruit/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120901031640"
+ },
+ {
+  "行": 3685,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(kk-taguchi.co.jp/gaiyo.html)・自社HP中国法人会社概要・gBizINFO(4180001084285)・官報決算公告・EDINET。愛知県一宮市篭屋2-1-16。自社HPの会社概要は所在地・電話・FAXのみで売上高欄そのものが存在しない。§6-2照合＝登記所コード1800は名古屋法務局管轄で愛知県内と整合し、岡山のタグチ工業(タグチグループ)、関東の金物商kk-taguchi.jp、名古屋市南区の別法人5180001014828とはいずれも別法人。承認ソースに売上高の記載なし。",
+  "J": "http://www.kk-taguchi.co.jp/gaiyo.html; http://www.kk-taguchi.co.jp/china/chinaprofile.htm; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001084285"
+ },
+ {
+  "行": 3686,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報・自社ドメインshinwa-cs.com・gBizINFO(8380001007123)・福島県地質調査業協会会員情報・東北測量設計協会会員名簿・官報決算公告・EDINET。本体は福島県郡山市豊田町の総合建設コンサル(県南営業所＝西白河郡矢吹町)、グループ計約80名。売上高4億8,100万円(令和4年度)はマイナビ2027の禁止ソース由来で承認ソースに記載なし。なおD列URLのshinwasekkei.co.jpは山形県米沢市の『新和設計株式会社』(共同採用の姉妹会社)のサイトで本法人のものではない点に注意。300億到達の余地は無い規模。",
+  "J": "https://www.shinwasekkei.co.jp/company/; http://www.shinwa-cs.com/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8380001007123; https://tospa.org/memberlist/member-fukushima/fukushima-007-shinwa/; http://www.fukushima-geo.jp/?page_id=47"
+ },
+ {
+  "行": 3687,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(ing-osaka.com)・gBizINFO(9120001167751)・官報決算公告・EDINET・B-mall(商工会議所系)企業情報。大阪市中央区上汐、2011年12月設立・資本金1,000万円・従業員41名で、事業はラーメン店運営および就労支援A型事業所の運営。§6-2照合＝登記所コード1200は大阪法務局本局管轄で所在地と一致。承認ソースに売上高の記載はなく、禁止ソース(SalesNow/Baseconnect/OpenWork/アラームボックス)ですら『売上情報はありません』。E列『300億円以上〜1,000億円未満』は規模と著しく乖離。",
+  "J": "https://ing-osaka.com/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9120001167751; https://www.b-mall.ne.jp/CompanyDetail-KYbqCQewLUgt.html"
+ },
+ {
+  "行": 3688,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(i-techresearch.com)・gBizINFO(9180001075503)・官報決算公告・EDINET・環境計量証明事業所の登録情報。愛知県小牧市小松寺、2000年10月19日設立、アスベスト/PCB/PFAS等の環境分析会社で従業員約35名。§6-2照合＝登記所コード1800は名古屋法務局管轄で小牧市と整合。検索で出る『売上高29億円(2025年3月)』およびcatr.jpの決算公告はいずれも同名の別法人『株式会社アイテック』のもので、本法人のものではない（§6-2の取り違え注意）。承認ソースに本法人の売上高の記載なし。",
+  "J": "http://www.i-techresearch.com/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9180001075503"
+ }
+]

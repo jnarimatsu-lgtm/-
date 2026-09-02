@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3664,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://iik.co.jp/company/ ②法人番号照合（3460101006269→登記所コード4601＝釧路地方法務局帯広支局管内。北海道帯広市新町東と一致し同名別法人ではない）③gBizINFO ④官報決算公告索引。事業は企業主導型保育所「ぷちとまとほいくえん」運営・保育所運営コンサル・イベント企画・地域マガジン発行で、承認ソースに売上高の記載なし。数値はBaseconnect等の禁止ソースのみ。E列「300億以上」はSF側の誤りで、事業規模から300億に達する余地はない。",
+  "J": "https://iik.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3460101006269;https://baseconnect.in/companies/1b106dee-6f7e-426f-8806-407e20f6f8b2"
+ },
+ {
+  "行": 3665,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社情報・業務実績 https://www.kankyoresearch.com/company.html ②法人番号照合（4430001003640＝北海道札幌市豊平区中の島、1972年創業の計量証明・環境測定業。名古屋管内の同名法人2180001141071とは別法人と確定）③gBizINFO ④官報決算公告索引 ⑤農水省登録業者名簿。煙道・作業環境・アスベスト・騒音測定業で承認ソースに売上高なし。E列「1,000億以上」はSF側の誤り。",
+  "J": "https://www.kankyoresearch.com/company.html;https://www.kankyoresearch.com/company/works.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4430001003640"
+ },
+ {
+  "行": 3666,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://www.isz.co.jp/ims/company/ ②五十鈴グループサイト ③gBizINFO ④官報決算公告（第17期・2025/3/31決算）＝貸借対照表のみで売上高欄が存在せず（純利益0.37億円／利益剰余金3.89億円／総資産4.80億円）⑤EDINET未提出。総務・人事・経理代行の管理受託子会社で総資産4.8億円。子会社のためグループ連結値は使用不可（§3-3）。実額の承認ソースなし。",
+  "J": "https://www.isz.co.jp/ims/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001141135;https://catr.jp/companies/b1818/22478"
+ },
+ {
+  "行": 3668,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://www.jvgroup.co.jp/corporation/index.html ②JVグループサイト ③EDINET（非上場・未提出）④官報決算公告索引（catr.jp含む）に該当公告を検出できず ⑤gBizINFO。東京都中央区銀座のメール便・DM・セールスプロモーション業。数値はOpenWork／マイナビ転職／Baseconnect／SalesNow等の禁止ソースのみで、OpenWorkも「決算データなし」。E列「1,000億以上」はSF側の誤り。",
+  "J": "https://www.jvgroup.co.jp/corporation/index.html;https://www.jvgroup.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001129122"
+ },
+ {
+  "行": 3670,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社案内 http://sinko-eng.co.jp/about_us/ ②千葉県公式（ワークライフバランス登録企業ページ）③千葉県地質調査業協会 会員名簿 ④gBizINFO ⑤官報決算公告索引 ⑥EDINET未提出。千葉市中央区今井、資本金2,000万円の地質・土質調査／建設コンサル。法人番号6040001003042は登記所コード0400＝千葉地方法務局で所在地と一致。承認ソースに売上高なし。E列「1,000億以上」はSF側の誤り。",
+  "J": "http://sinko-eng.co.jp/about_us/;https://www.pref.chiba.lg.jp/koyou/worklifebalance/portalsite/ikiiki/h22/10-44.html;https://chiba-geo.jp/member/"
+ },
+ {
+  "行": 3671,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://www.taitoh.com/corporate/（2020年に「累計」売上500億円到達の記載のみで各期売上高なし）②gBizINFO（滋賀県草津市馬場町、2000年設立の産業用装置商社）③官報決算公告索引に該当公告なし ④EDINET未提出 ⑤buffett-code。年商24.39億円はdoda等の禁止ソースのみ。累計500億＝単年は数十億規模とみられ300億に届かない見込みだが、承認ソースの実額がないため△。",
+  "J": "https://www.taitoh.com/corporate/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6140001045719"
+ },
+ {
+  "行": 3672,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP https://tokaikoei.bsj.jp ②gBizINFO（2015年度売上高4.42億円。直近3期外のため§3-8により不採用）③官報決算公告索引 ④EDINET未提出 ⑤新聞記事。法人番号7180301006473は登記所コード1803＝名古屋法務局豊田支局管内で所在地と整合し同名別法人ではない。追加の承認ソースは検出できず。E列「300億以上」はSF側の誤りで、4.42億円規模から300億に達する余地はない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7180301006473;https://tokaikoei.bsj.jp"
+ },
+ {
+  "行": 3673,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://myuplanning.co.jp/company/ ②親会社JR東日本IR＝連結約2.9兆円で10%＝約2,900億のため有報「関係会社の状況」への単体売上掲載対象外＝この経路は原理的に使えないと確認 ③ルミネ会社情報 ④官報決算公告（第5期・第6期）＝売上高非開示 ⑤gBizINFO。港区南青山、資本金8,795万円の店舗・商業施設プロデュース業。子会社のため連結値は使用不可（§3-3）。",
+  "J": "https://myuplanning.co.jp/company/;https://catr.jp/companies/6f58d/1590;https://www.lumine.co.jp/profile/;https://www.jreast.co.jp/investor/financial/"
+ },
+ {
+  "行": 3674,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP http://www.bioindicator.co.jp/ ②業界団体JEAS（売上高360百万円＝3.60億円、2015年度で直近3期外のため§3-8により不採用）③gBizINFO ④官報決算公告索引 ⑤EDINET未提出 ⑥新聞記事。法人番号9011101030166は東京法務局管内で所在地と整合。承認ソースの直近売上高なし。E列「1,000億以上」はSF側の誤りで、3.6億円規模から300億に達する余地はない。",
+  "J": "http://www.bioindicator.co.jp/;https://jeas.org/id038/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011101030166"
+ },
+ {
+  "行": 3675,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 https://www.inet-d.co.jp/corporate.html ②官報決算公告2024〜2026年＝売上高非開示 ③親会社アイネット(9600)IR：2026年3月期3Q連結売上高30,796百万円＝307.96億円（通期約410億円規模）。連結×10%＝約41億で下限証明は300億に届かず、子会社単体が300億以上である可能性も実質的にない ④EDINET ⑤gBizINFO。子会社のため連結値使用不可。親会社は2026/2/26に東証プライム上場廃止。",
+  "J": "https://www.inet-d.co.jp/corporate.html;https://www.inet.co.jp/news/docs/20260130-04.pdf;https://www.inet.co.jp/company/ir/financial-report.html"
+ }
+]

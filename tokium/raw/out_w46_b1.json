@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3575,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(資本金1,000万円・従業員60名・静岡市駿河区下川原、売上高の記載なし)／決算公告・官報／gBizINFO。法人番号5080001004079の登記所コード0800＝静岡地方法務局で本社静岡市と一致し同名別法人ではない。企業規模から300億は構造的に不成立で回収見込みなし。E列『1,000億円以上』はSFの誤登録。",
+  "J": "https://www.kankyo-kc.co.jp/corporate/;https://www.kankyo-kc.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5080001004079"
+ },
+ {
+  "行": 3576,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／同名他社照合。※重要：売上高173億円(2025年10月)が流通する『I・T・O株式会社』(itokoki.co.jp・大阪府東大阪市・旧伊藤工機・LPガス機器)は別法人。当社は法人番号5150001004567＝登記所1500(奈良地方法務局)・奈良市南庄町136・天理リサイクルセンターを持つリサイクル業で、売上高は承認ソースに記載なし。",
+  "J": "https://i-t-o.jp/publics/index/81/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5150001004567;https://www.itokoki.co.jp/company/"
+ },
+ {
+  "行": 3577,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(資本金3,000万円・従業員45名・札幌市白石区本郷通・水源開発/さく井/地質調査、売上高の記載なし)／決算公告・官報／gBizINFO。法人番号9430001000336の登記所4300＝札幌法務局で本社と一致。年商約10.8億円の情報はマイナビ転職・TSR等の非承認ソースのみで採用不可。300億とは2桁差で回収見込みなし。",
+  "J": "https://www.aquageo.co.jp/company/guide.html;https://www.aquageo.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9430001000336"
+ },
+ {
+  "行": 3579,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／同名他社照合。法人番号3370001009100の登記所3700＝仙台法務局と一致し、愛媛県今治市の一広株式会社(タオル)とは別法人。当社は仙台市の総合マーケティング会社(旧・一広広告)。禁止ソース(マイナビ2027)に2025年2月期 売上高2,975百万円＝29.75億円・従業員29名とあり採用不可だが、300億に遠く及ばず回収見込みなし。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3370001009100;https://job.mynavi.jp/27/pc/search/corp292985/outline.html"
+ },
+ {
+  "行": 3580,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(大阪市北区角田町・資本金500万円・社員約50名・経理/総務事務に特化した人材派遣とBPO、売上高の記載なし)／採用サイト会社概要／gBizINFO。法人番号7120001188114の登記所1200＝大阪法務局と一致。資本金500万・50名規模で300億は構造的に不成立、回収見込みなし。E列『1,000億円以上』はSFの誤登録。",
+  "J": "https://arkthree.co.jp/company/overview/;https://arkthree.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7120001188114"
+ },
+ {
+  "行": 3581,
+  "I": "△ 妥当（回収見込みあり）：当たった経路＝親会社IR/有報(山陽特殊製鋼2026年3月期連結3,418億円。関係会社の状況で10%超注記が確認できたのはOvako Sweden ABのみで当社には確認できず、下限証明3,418億×10%＝341.8億は不成立)／自社HP／官報決算公告。日本製鉄グループ山陽特殊製鋼の完全子会社のため§3-3で単体300億以上が必要。※自社HPに業績ページ(過去5年の売上高・財務諸表)が実在するが本環境はWebFetch不可で数値取得できず。要ページ確認。",
+  "J": "http://www.yohkohb.co.jp/corp_info/index_gyoseki.html;http://www.yohkohb.co.jp/corp_info/index_gaiyo.html;https://www.sanyo-steel.co.jp/shareholder/ir_document/shareholder09.php;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8120001165021"
+ },
+ {
+  "行": 3582,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(北海道岩見沢市4条西15丁目・1950年創業・一般土木/美唄の採炭/山林環境/土壌改良剤の生産販売、売上高の記載なし)／岩見沢市の公的企業紹介サイト／gBizINFO／官報決算公告。法人番号5430001046531の登記所4300＝札幌法務局で岩見沢管内と一致し、宮崎県の玉田商事とは別法人。地場土木業で300億の裏付けなく回収見込み低。",
+  "J": "http://www.tamadakk.co.jp/index.html;https://iwamizawa-company.com/tamadasangyo/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5430001046531"
+ },
+ {
+  "行": 3586,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報(新潟市・1970年データエントリー創業のシステム開発会社、売上高の記載なし)／gBizINFO／同名他社照合。法人番号8110001005021の登記所1100＝新潟地方法務局と一致。北越コーポレーション(上場・製紙)、北越ケーズ(ケーズHD)、富山の株式会社北越、ベルトコンベアの北越(hokuetsu.net)はいずれも別法人で、E列『1,000億円以上』はこれらとの混同が疑われる。",
+  "J": "https://www.hokuetsu.info/company.html;https://www.hokuetsu.info/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8110001005021"
+ },
+ {
+  "行": 3588,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(仙台市若林区六丁の目元町・1966年創業・サイン/内装/展示会/ディスプレイ工事、売上高の記載なし)／gBizINFO(決算情報の公開許諾なし＝官報決算公告の収録もなし)／官報。法人番号2370001002741の登記所3700＝仙台法務局と一致し、株式会社オオウチ(5370001017480)とは別法人。開示義務側になく300億の裏付けは出てこない。",
+  "J": "https://oouchi-k.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2370001002741"
+ },
+ {
+  "行": 3589,
+  "I": "× 要修正：300億未満。熊本県公式『くま活サポート』(§3-4③公的機関公表データ)に資本金1,000万円・従業員40名・売上高6億1,600万円(2022年度)。昭和42年創業の建設コンサルで官公庁向け測量設計。法人番号3330001002744の登記所3300＝熊本地方法務局と一致。※決算期が2022年度で§3-8の直近3期外だが、規模から300億は構造的に不成立。E列『1,000億円以上』はSFの誤登録。",
+  "J": "https://www.kumakatsusupport.pref.kumamoto.jp/dynamic/info/pub/detail.aspx?c_id=17&id=567;https://www.daishin-c.co.jp/company/"
+ }
+]

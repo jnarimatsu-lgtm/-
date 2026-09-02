@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3565,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報/メッセージ/情報公開(disclosure)/サスティナビリティ、gBizINFO。法人番号5040001005915は登記所0400＝千葉で千葉県本社と一致。1977年創業の産廃収集運搬業で、自社HP自身が「売上高は特筆すべきものではない」と記載し数値開示なし。E列1,000億以上はSF側の誤り。承認ソースに売上高なし。",
+  "J": "https://www.nihonkankyo.co.jp/philosophy/;https://www.nihonkankyo.co.jp/disclosure/;http://www.nihonkankyo.co.jp/company/message/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5040001005915"
+ },
+ {
+  "行": 3566,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・自社採用サイト(hatsukame-recruit.com)・北大阪商工会議所会員紹介・gBizINFO。法人番号5120001150364は登記所1200＝大阪で枚方市三矢町本社と一致。1971年法人化のフードサービス業(直営飲食・イベント出店)。数値はBaseconnect/NIKKEI COMPASS等の禁止ソースのみで承認ソースに売上高なし。",
+  "J": "http://www.hatsukame.co.jp/company/outline.html;https://www.hatsukame.co.jp/company;https://hatsukame-recruit.com/company/;https://www.kocci.or.jp/voice/interview/2025/07/91243/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5120001150364"
+ },
+ {
+  "行": 3567,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP・gBizINFO・決算公告系に加え、親会社西日本鉄道(9031)の有報を検算。西鉄の連結営業収益474,156百万円＝4,741.56億円(第186期・2026年3月期)の10%＝474.16億円であり、経理シェアード子会社の同社は「関係会社の状況」に実額掲載される規模ではなく親会社IR経路は使えない。子会社単体300億の裏取り不能。",
+  "J": "https://nishitetsu-as.jp/;https://www.nishitetsu.co.jp/ja/ir/library/securities.html;https://www.nishitetsu.co.jp/ja/ir/finance/highlight.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8290001019301"
+ },
+ {
+  "行": 3568,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO決算公告(2025年3月期・貸借対照表のみで損益計算書なし＝売上高の公告義務なし)・自社HP会社概要/イーズについて。港区新橋、資本金5,500万円、従業員37名の空調機器等専門商社で300億規模ではない。法人番号2010401045517は登記所0104＝東京法務局港出張所で本社と一致。E列1,000億以上はSF側の誤り。",
+  "J": "https://esinc.co.jp/company/;https://esinc.co.jp/about/;https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=f21c657b-f5a3-4edc-9c32-27ff6c875e01"
+ },
+ {
+  "行": 3569,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/事業内容(y-tec.jp)・gBizINFO。新たに八千代エンジニヤリング(株)のグループ会社(建設CM・技術者派遣)と判明したが、同社は非上場で有報がなく子会社単体の開示経路がない。台東区浅草橋5-20-8で法人番号3011101037670(登記所0111＝東京)と整合。広島のワイテック(572億)は別法人。承認ソースに売上高なし。",
+  "J": "https://www.y-tec.jp/company/;https://www.y-tec.jp/service/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011101037670"
+ },
+ {
+  "行": 3570,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/佐賀本社/東京営業所(sanko-jpn.net)・伊万里商工会議所企業情報・さが就活ナビ・gBizINFO。法人番号3300001005551は登記所3000＝佐賀で伊万里市大坪町乙4161-1と一致。創業約50年の地場印刷会社で売上高の開示なし。鳥取の三光株式会社(産廃)・三光産業(7922)は別法人で不採用。",
+  "J": "https://sanko-jpn.net/company.html;https://sanko-jpn.net/sagahonsya.html;https://imari-cci.or.jp/web-cis/industrial/sanko-jpn/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3300001005551"
+ },
+ {
+  "行": 3571,
+  "I": "× 要修正：【300億未満】51.67億円(2025年度・単体)。自社HP会社概要および「数字で見るニイミ」に2025年度5,167百万円＝51.67億円と記載(HP表記は「業績」で売上高を指す)。名古屋本社・創業昭和2年・資本金5,400万円・従業員数十名規模の水処理設備専門商社であり300億に遠く及ばない。法人番号7180001004967は登記所1800＝名古屋と一致。G列を【300億未満】に修正が必要。",
+  "J": "https://niimi.co.jp/about/outline/;https://niimi.co.jp/about/data/;https://niimi.co.jp/about/"
+ },
+ {
+  "行": 3572,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(ncobihiro.co.jp)・NCカードグループサイト・gBizINFO・EDINET/官報。年間381億円は「取扱高」であり売上高ではない。gBizINFOは総資産100億円超・従業員50〜100名を示すが総資産も売上高ではない。営業収益の実額は承認ソースに開示なし。法人番号7460101000177は登記所4601＝帯広管内で本社と一致。",
+  "J": "https://www.ncobihiro.co.jp/web/overview/company.html;https://www.nc-card-group.co.jp/web/card/index.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7460101000177"
+ },
+ {
+  "行": 3573,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内/ごあいさつ/企業理念(jobia.jp)・日本人材紹介事業協会の会員情報・全日本マネキン紹介事業協会・gBizINFO。1959年創業の販売職特化の人材紹介/派遣会社で取引先4,000社超との記載はあるが売上高の記載は承認ソースになし。法人番号2020001039323は登記所0200＝横浜。E列1,000億以上はSF側の誤り。",
+  "J": "https://www.jobia.jp/about/;https://www.jesra.or.jp/search/1077/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2020001039323"
+ },
+ {
+  "行": 3574,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(cocostaff.co.jp/company_about/)・労働者派遣事業の情報公開(マージン率等のみで売上高なし)・gBizINFO・官報決算公告。2002年設立、従業員約53名の事務/物流系人材派遣会社で300億規模ではない。数値はSalesNow/doda/Baseconnect/マイナビ等の禁止ソースのみ。E列1,000億以上はSF側の誤り。",
+  "J": "http://www.cocostaff.co.jp/company_about/;https://www.cocostaff.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001080894"
+ }
+]
