@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2198,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社案内(fujiden.com/about/)・代表あいさつ・店舗一覧を再確認したが売上高の記載は無く、掲載は「創業35周年の2029年に売上高500億円を目指す」という目標値のみ。catr.jp掲載の決算公告は§7-1未決着。流通する363億円（2026年3月期）はマイナビ等の求人媒体由来で禁止ソース。承認ソースでの裏取り不可。",
+  "J": "https://www.fujiden.com/about/;https://www.fujiden.com/;http://www.fujiden.com/about/greeting/;https://catr.jp/companies/56ebd/194770"
+ },
+ {
+  "行": 2201,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社グループHP会社概要・系列会社ページ・採用サイト会社概要(recruit.yoshizuya.com)・gBizINFO。グループHPの年商・従業員数・店舗数はいずれも「グループ合計」表示で、株式会社ヨシヅヤストアー単体の売上高は非開示。§3-3により子会社は単体300億以上が必要で単体値が取れない以上NG。流通する593億円はマイナビ由来（禁止ソース）かつグループ合計値。",
+  "J": "https://www.yoshizuya.com/company/outline/;https://www.yoshizuya.com/affiliate/;https://recruit.yoshizuya.com/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6180001096683"
+ },
+ {
+  "行": 2203,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要・会社沿革・系列会社ページ・採用サイト会社概要・食品新聞の義津屋関連記事(2023/2024/2025/2026年)。公式掲載の年商611億円はグループ合計かつ決算期が2017年7月期とも2023年7月期とも読め特定できず、いずれも直近3期外。593億円（2025年7月期）はマイナビ由来で禁止ソース。承認ソースで直近3期の売上高を確定できない。",
+  "J": "https://www.yoshizuya.com/company/outline/;https://recruit.yoshizuya.com/company/;https://www.yoshizuya.com/affiliate/;https://shokuhin.net/122031/2025/05/26/ryutu/kouri/;https://shokuhin.net/145456/2026/05/27/ryutu/kouri/"
+ },
+ {
+  "行": 2204,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社サイトの「決算公示」ページ(toray-eng.co.jp/tds/corporate/ir.html)を新たに特定したが掲載内容の売上高数値は取得できず。親会社東レの有報「関係会社の状況」は連結売上高(約2.4兆円)の10%＝約2,400億円超の子会社しか実額を載せないため同社は開示対象外で、この経路は使えない。東レエンジニアリング本体も非上場で子会社別開示なし。",
+  "J": "https://www.toray-eng.co.jp/tds/corporate/;https://www.toray-eng.co.jp/tds/corporate/ir.html;https://www.toray-eng.co.jp/aboutus/ir/;https://www.toray-eng.co.jp/aboutus/overview/number.html"
+ },
+ {
+  "行": 2205,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社サイトのIR情報ページ・会社業績ページ・組合概要(いずれも1次未踏)、薬事日報記事。同社は加盟薬局のボランタリーチェーン組織で公表指標は「供給高」(中期ビジョンで供給高1,000億円目標)であり、売上高そのものの承認ソース数値は取得できず。流通する934.60億円はSalesNow等の禁止ソース由来。指標ラベルが売上高と一致せず採用不可。",
+  "J": "https://www.jovy.co.jp/ir;https://www.jovy.co.jp/performance;https://www.jovy.co.jp/overview;https://www.jovy.co.jp/union;https://www.yakuji.co.jp/entry41189.html"
+ },
+ {
+  "行": 2206,
+  "I": "○ 回収：グループ売上高742億764万円（2025年3月期・アンデルセングループ連結）。同社はアンデルセングループの持株会社であり§3-3により親会社/HDはグループ連結300億超でOK。グループ従業員6,943人（2025年4月現在）。出典＝アンデルセングループ公式サイトおよび中国新聞デジタル「企業図鑑：アンデルセングループ」（新聞社記事）。基準300億の約2.5倍で判定は堅い。",
+  "J": "https://www.andersen-group.jp/about/;https://www.andersen-group.jp/company/22/;https://www.chugoku-np.co.jp/articles/-/764089;https://www.andersen-group.jp/3d-flip-book/2274/"
+ },
+ {
+  "行": 2208,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP各種資料ページ(nestle.co.jp/aboutus/document)・プレスリリース群・gBizINFO・官報決算公告。公表されるのは親会社ネスレS.A.の連結業績（2024年12月期 914億スイスフラン）のみで、ネスレ日本株式会社単体は直近期非公表。§3-3により子会社は単体300億以上が必要。catr.jp掲載の平成30年12月期2,019.7億円は8期前で鮮度条件外かつ§7-1未決着。",
+  "J": "https://www.nestle.co.jp/aboutus/document;https://www.nestle.co.jp/media/pressreleases/full-year-results-2024;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4140001033865;https://catr.jp/companies/c5a98/66583"
+ },
+ {
+  "行": 2210,
+  "I": "○ 回収：624億3200万円（2025年8月期・単体、前期比24.8%増で過去最高）。出典＝中日新聞社「中日BIZナビ」の決算記事で決算期と売上高を明記＝§3-4④の新聞社ソース。補強として食品新聞（食品新聞社）が24年8月期500億1200万円を報道。同社はアピグループの中核・親会社であり§3-3で単体300億超によりOK。",
+  "J": "https://biz.chunichi.co.jp/news/article/10/113365/;https://shokuhin.net/106351/2024/09/24/kakou/sozai/;https://www.api3838.co.jp/outline/"
+ },
+ {
+  "行": 2212,
+  "I": "○ 回収：636億円（2023年度＝2024年3月期）。出典＝河北新報オンライン「国産チキン、鮮度と信頼で黒字継続 4月で設立50年の養鶏業大手 十文字チキンカンパニー 十文字保雄社長＜Eパーソン＞」（2025年3月17日）で決算期と売上高を明記＝§3-4④の新聞社ソース。同社はグループ親会社（グループ4社を吸収合併した存続会社）。法人番号2400001007720をgBizINFOで確認、閉鎖表示なし。",
+  "J": "https://kahoku.news/articles/20250317khn000050.html;https://chicken.co.jp/profile/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2400001007720"
+ },
+ {
+  "行": 2214,
+  "I": "○ 妥当（G列訂正：562億円〈2025年9月期・単体〉）。1次採用の475億円（2023年9月期）は鮮度が2026年10月に直近3期を外れる古い値。日本食糧新聞・電子版「米菓特集：三幸製菓 主力リニューアルで価値向上」（2026年2月12日）が「前25年9月期決算は前年を超える売上高562億円」と決算期・売上高を明記＝§3-4④の新聞社ソース。同紙2025年2月19日記事の24年9月期526億円とも接続し1次の530億円見込みとも整合。マイナビ掲載の572億円は禁止ソースにつき不採用。判定○は不変（基準300億の1.87倍）。",
+  "J": "https://news.nissyoku.co.jp/news/hosoyamas20260212040456002;https://news.nissyoku.co.jp/news/hosoyamas20250219111134174;https://shokuhin.net/103529/2024/08/02/kakou/kashi/;https://shokuhin.net/131245/2025/09/24/kakou/kashi/;https://www.sanko-seika.co.jp/company/profile/"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2085,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(daps.co.jp/company/summary.html)・会社情報・新卒採用「キーワードで知る」いずれも売上高記載なし、官報決算公告(第50期は純利益10.19億円/利益剰余金87.77億円/総資産198.42億円のみで売上高欄なし)、親会社ダイキン工業の有報「関係会社の状況」(連結約4.6兆円に対し当社は約1%で10%基準未満のため実額非掲載)。二次情報は386.46億円と497億円で食い違い採用不可",
+  "J": "https://www.daps.co.jp/company/summary.html;https://daps.co.jp/company/index.html;https://catr.jp/companies/b6ec1/17298/settlements/912a8/17587;https://www.daikin.co.jp/investor/library/results_materials"
+ },
+ {
+  "行": 2091,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(novil.co.jp/company/profile)、官報決算公告(ノヴィルHD及びノヴィル(株)第5期の公告いずれも直近期の売上高を確認できず)、gBizINFO。旧ノヴィル(株)の2018年4月期512.11億円は8期前で§3-8の直近3期外。非承認媒体の2025年4月期グループ139億円は不採用",
+  "J": "https://www.novil.co.jp/company/profile;https://catr.jp/companies/4d86f/31921;https://catr.jp/companies/418e1/218080/settlements/96db8/389607"
+ },
+ {
+  "行": 2092,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報(reitogroup.com/about)、gBizINFO、官報決算公告(catr.jp含め決算公告の掲載自体を確認できず)。パチンコホール12店舗・従業員約400名で、非承認ソースでも売上100〜300億円規模の推定にとどまり300億到達の裏付けは皆無",
+  "J": "https://www.reitogroup.com/about;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3050001031953"
+ },
+ {
+  "行": 2093,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報(2025年度取扱金額402億円・グループ761億円は「取扱高」であり売上高ではない)、官報決算公告(catr.jpに会社情報はあるが売上高の掲載を確認できず)、gBizINFO。就職ナビ掲載の2024年6月期377.33億円は禁止ソースのため不採用",
+  "J": "https://d23zm749dodzm5.cloudfront.net/company/;https://catr.jp/companies/11b48/179260"
+ },
+ {
+  "行": 2094,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(shichiyou.jp 会社概要ページに売上高記載なし)、gBizINFO、官報決算公告(掲載を確認できず)。福岡市博多区・GIONグループの遊技場/不動産業、従業員130〜150名規模。承認ソースでの売上高記載は一切なし",
+  "J": "https://shichiyou.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81.html;https://www.shichiyou.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3290001013779"
+ },
+ {
+  "行": 2095,
+  "I": "○ 回収：自社HP会社概要に営業収益1,066億3,000万円(2026年3月期・単体／営業利益96億5,300万円)。オフィスビル貸付業のPL最上位科目＝営業収益で売上高相当(取扱高・総資産ではない)。JR東日本100%出資・資本金4.8億円・従業員227名の事業会社で単体値。300億基準を大幅にクリア",
+  "J": "https://www.jebl.co.jp/corporate/facts-and-figures/;https://www.jebl.co.jp/corporate/data/"
+ },
+ {
+  "行": 2096,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/企業情報/私たちについて/100周年記念サイト(oandk-co.com。国内約400名・海外約200名の記載のみで売上高なし)、官報決算公告(catr.jpに会社情報はあるが売上高を確認できず)、gBizINFO。二次情報の2023年度473.88億円は不採用",
+  "J": "https://oandk-co.com/company/overview/;https://oandk-co.com/company/;https://catr.jp/companies/f90ed/5977"
+ },
+ {
+  "行": 2102,
+  "I": "△ §7-1回答待ち＋G列訂正：1次再検証の「売上高1,122億2,000万円」は再現できず誤り。官報決算公告(catr.jp)の当社(法人番号8010901029220)の値は2026年3月期 売上高402億円(前年比+6.8%)／純利益17.73億円。追加で自社HP会社概要(japan/outline)と親会社京セラDS㈱IR(2026年3月期連結4,785億円のみで当社単体は非掲載)を当たったが単体売上高の記載なし。catr.jp承認なら○だが402億と300億基準に余裕が薄い",
+  "J": "https://www.kyoceradocumentsolutions.co.jp/company/japan/outline;https://catr.jp/companies/e8cba/26061;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010901029220"
+ },
+ {
+  "行": 2107,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業概要/沿革(asue-group.com/jp/company/profile に売上高記載なし)、官報決算公告(第10〜13期の公告はcatr.jp/PR TIMESに存在するが売上高本文を確認できず)、gBizINFO。旧丸善インテックの2018年6月期533.8億円は直近3期外。第13期公告の売上高が取れれば§7-1次第で回収余地あり",
+  "J": "https://asue-group.com/jp/company/profile/;https://catr.jp/companies/3d31c/32470;https://prtimes.jp/finance/6120001176383/settlement"
+ },
+ {
+  "行": 2108,
+  "I": "○ 回収：親会社SUMCOの有価証券報告書(2025年12月期・EDINET S100XRR5/2026年3月26日提出)「関係会社の状況」の主要な損益情報等に当社単体 売上高59,327百万円=593.27億円／経常利益38.03億円／当期純利益30.02億円／純資産1,223.16億円／総資産2,547.94億円。子会社単体で300億超のため○。G列訂正：catr.jpの518.73億円ではなく593.27億円(2025年12月期・単体)を採用",
+  "J": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRR5.pdf;https://www.sumcosi.com/ir/library/secreports/;https://catr.jp/companies/6ef05/2378"
+ }
+]

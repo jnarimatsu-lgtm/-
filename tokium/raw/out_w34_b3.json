@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2174,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要/会社案内/採用ページ（tokuriki-kanda.co.jp）に売上高記載なし ②IRページなし ③EDINET提出なし（非上場） ⑤官報決算公告（第91期）を確認したが総資産354.04億円・利益剰余金193.68億円・当期純利益19.14億円の貸借対照表のみで【売上高欄が存在しない】＝大会社に該当せずPL非掲載のため今後もこの経路では出ない ⑥親会社なし ⑦gBizINFOに財務なし。売上高が出るのはNIKKEI COMPASS・転職会議・Baseconnect・OpenWork（全て禁止ソース）のみ。従業員287名・決算期12月。",
+  "J": "https://www.tokuriki-kanda.co.jp/company/overview/ ; https://www.tokuriki-kanda.co.jp/company/ ; https://catr.jp/companies/e0811/4545 ; https://catr.jp/companies/e0811/4545/settlements/8149b/399208 ; https://kanpo-kanpo.blog.jp/archives/15887017.html"
+ },
+ {
+  "行": 2175,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝⑥親会社IR：シダックス(株)第20期有報「関係会社の状況」に当社売上高43,598,361千円＝435.98億円・連結売上高の10%超の記載を確認したが【2021年3月期＝5期前】で§3-8（直近3期）を満たさず、かつ2022年のカラオケ事業譲渡（B&V）で現況と乖離。親会社は2024/3/18に東証スタンダード上場廃止で以後の有報なし。⑥'オイシックス・ラ・大地(3182)＝連結2,560.0億円(2025年3月期)、10%＝256億円で下限証明に不足、子会社単体値の記載も未確認。⑤官報決算公告(第32期)は総資産53.99億円・利益剰余金▲103.68億円・純利益▲4.38億円のBSのみで売上高欄なし。総資産54億円規模。",
+  "J": "https://www.shidax.co.jp/ir/ ; https://www.shidax.co.jp/dcms_media/other/%E7%AC%AC20%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8_2020%E5%B9%B44%E6%9C%881%E6%97%A5%EF%BD%9E2021%E5%B9%B43%E6%9C%8831%E6%97%A5.pdf ; https://catr.jp/companies/74b32/21284/settlements/38c95/387494 ; https://www.oisixradaichi.co.jp/investors/individual/performance/"
+ },
+ {
+  "行": 2176,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・沿革（p-aladdin.com）に売上高記載なし ②③④IR/EDINET/TDnetなし（非上場） ⑤決算公告：資本金1,000万円で大会社に該当せず貸借対照表のみ＝売上高欄が存在しないためこの経路では今後も出ない ⑥親会社アラジンホールディングス（aladdin-hd.com）にもIR・財務開示なし ⑦gBizINFOに財務なし。福島県郡山市のパチンコホール運営、従業員244名、1983年有限会社設立→1994年株式会社化。数値はBaseconnect・NIKKEI COMPASS・FUMA（禁止ソース）のみ。",
+  "J": "https://www.p-aladdin.com/company/outline.php ; https://www.p-aladdin.com/company/history.php ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4380001004512 ; https://aladdin-hd.com/"
+ },
+ {
+  "行": 2177,
+  "I": "△ §7-1回答待ち：官報決算公告 第104期（2025年3月期・単体）で売上高393億0,100万円（当期純利益7.46億円、総資産169.0億円）、第102期（2023年3月期）売上高360億3,500万円を確認済み。単体で300億基準を充足する。ただし出典が官報決算データベース(catr.jp)と個人ブログのみで、官報本体の号数・頁は検索枠内で特定できず。catr.jpが承認ソースと認められれば○に回収可能。⑥親会社経路は検算により閉：親会社フジクラ(5803)連結約8,700億円に対し393億円は約4.5%で10%未満のため有報「関係会社の状況」に実額は載らない。本社は山形県米沢市（1次メモの高知は誤り）。",
+  "J": "https://catr.jp/companies/a8323/10537/settlements/f001c/407810 ; https://catr.jp/companies/a8323/10537/settlements/dc02a/305016 ; https://www.fujikuradenso.co.jp/"
+ },
+ {
+  "行": 2179,
+  "I": "△ §7-1回答待ち：官報決算公告で2026年3月期（単体）売上高760億7,300万円・当期純利益68.74億円、第55期 売上高649億1,000万円・営業利益33.94億円・経常利益35.46億円・純利益28.12億円を確認済み。子会社単体で300億基準を大きく充足する。ただし出典が官報決算データベース(catr.jp)のみで、catr.jpが承認ソースと認められれば○に回収可能。①自社HP（概要と沿革・企業情報）は生産規模（年間処理4,100万羽・出荷18.9万頭）のみで売上高記載なし。⑥親会社経路は検算により閉：三菱商事連結約20兆円の10%＝約2兆円で有報「関係会社の状況」の対象外。ジャパンファームHD傘下。",
+  "J": "https://catr.jp/companies/1f5df/27209/settlements/32efd/365585 ; https://catr.jp/companies/1f5df/27209 ; https://www.japanfarm.co.jp/company/overview/ ; https://www.japanfarm.co.jp/company/"
+ },
+ {
+  "行": 2180,
+  "I": "△ 妥当（ただし回収見込みあり・未踏経路を特定）：①自社HP会社概要(jx-kinzokushoji.com/corporate/profile.html)に売上高記載なし。1948年設立・従業員210名・東京都新宿区荒木町。②③④自社のIR/EDINET/TDnetなし。⑥親会社JX金属(5016)連結売上収益は2026年3月期8,846.38億円・2025年3月期7,149億円で10%＝884.6億円／714.9億円。禁止ソース(マイナビ)記載の当社売上高1,070.4億円(2023年度)が正しければ連結の10%超に該当し、JX金属2026年3月期有報（2026/6/24提出）の「関係会社の状況」に実額または10%超注記が載る可能性が高く、その場合は下限884.6億円>300億で基準充足が確定できる。今回の検索枠では有報本文の該当箇所を確認できず現時点は△。",
+  "J": "https://www.jx-kinzokushoji.com/corporate/profile.html ; https://www.jx-nmm.com/ir/securities.html ; https://contents.xj-storage.jp/xcontents/AS82809/8d90b3b6/ed11/45b4/90be/824bc477af62/140120260510521173.pdf ; https://www.jx-nmm.com/ir/performance.html"
+ },
+ {
+  "行": 2181,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(mita-gnet.co.jp/company1.html)に売上高記載なし。岩手県盛岡市中央通、1894年創業/1929年設立、資本金1億2,000万円、決算期4月、火薬・セメント・ガラス・サッシ・住宅設備・石油製品等の卸 ②③④IR/EDINET/TDnetなし（非上場） ⑤官報決算公告でも売上高を確認できず ⑥親会社なし（同名の三田ホールディングズは別法人） ⑦gBizINFOに財務なし。禁止ソース（Yahoo!しごとカタログ・ブンナビ・SalesNow・転職会議）記載値は約49.81億円（30〜100億円レンジ）で300億に遠く及ばず、E列レンジは誤りの可能性が高い。回収見込みは低い。",
+  "J": "https://www.mita-gnet.co.jp/company1.html ; https://www.mita-gnet.co.jp/ ; https://jobcatalog.yahoo.co.jp/company/1500019386/information/"
+ },
+ {
+  "行": 2182,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・企業情報・関連会社(oshika.co.jp)に売上高記載なし ②③④IR/EDINET/TDnetなし（非上場） ⑤官報決算公告 第80期＝総資産136.98億円・利益剰余金54.62億円・純利益2.44億円、第78期＝総資産148.84億円・純利益3.63億円といずれも【貸借対照表のみで売上高欄が存在しない】ため今後もこの経路では出ない ⑥親会社なし（オーシカケミテック・大鹿ホルマリンは当社の関連会社側） ⑦gBizINFOに財務なし。東京都板橋区、木材・工業・建築用接着剤/化成品/合板・木質建材、1905年合資会社大鹿商店創業・2001年商号変更。総資産137〜149億円規模。",
+  "J": "http://www.oshika.co.jp/company/about.html ; http://www.oshika.co.jp/company/ ; https://catr.jp/companies/f419b/22974/settlements/28d1c/370798 ; https://catr.jp/companies/f419b/22974/settlements/477b9/267839"
+ },
+ {
+  "行": 2183,
+  "I": "△ 妥当：確認不可で正しい。※要注意＝2026年に商号変更し現商号は【スタンダードケミックス株式会社】（同一法人・同一住所 大阪市西区靱本町3-10-15、代表 河野義典。法人格は存続しており消滅ではない。架電時は新商号）。当たった経路＝①自社HP会社概要(ssoh.jp/company/、新旧とも)に売上高記載なし ②③④IR/EDINET/TDnetなし（非上場） ⑤官報決算公告はcatr.jpに収録があるが承認ソースで売上高を確認できず ⑥親会社なし ⑦gBizINFOに財務なし。ENEOS特約店で石油製品・LPガス・石油化学製品販売、従業員75名（単独・2024年3月）。数値はマイナビ転職・ブンナビ・Baseconnect（禁止ソース）のみ。",
+  "J": "https://www.ssoh.jp/company/ ; https://www.ssoh.jp/ ; https://catr.jp/companies/c045a/16592"
+ },
+ {
+  "行": 2197,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社案内(faith-jpn.co.jp/company/、事業内容ページ)＝設立2017年1月19日・資本金500万円・関西エリア中心にソフトバンクショップ/ワイモバイルショップ運営、売上高の記載なし ②③④IR/EDINET/TDnetなし（非上場） ⑤資本金500万円で大会社に該当せず決算公告は貸借対照表のみ＝売上高欄が存在しない ⑥親会社のIR開示なし ⑦gBizINFOに財務なし。§6-2注意：上場の株式会社フェイス(4295・京都、faith.co.jp)およびフェイスネットワークとは別法人で、それらの数値は流用不可。設立2017年・資本金500万円の携帯ショップ運営会社であり、E列「300億以上〜1,000億未満」は誤りの可能性が高い。",
+  "J": "https://www.faith-jpn.co.jp/company/ ; https://www.faith-jpn.co.jp/business/"
+ }
+]

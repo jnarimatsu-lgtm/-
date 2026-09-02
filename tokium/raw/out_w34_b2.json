@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2143,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝親会社CKサンエツの有報・決算説明資料（EDINET/kabupro索引経由）、サンエツ金属の官報決算公告、自社HP会社概要。CKサンエツ連結1,494.38億円（2026年3月期）に対し10%＝149.4億円で300億に届かず、10%超注記による下限証明も不成立。サンエツ金属単体の実額は承認ソースで確認できず。",
+  "J": "https://www.sanetu.co.jp/corporate/;http://www.kabupro.jp/yuho/5757.htm;https://www.nikkei.com/nkd/company/ednr/?scode=5757"
+ },
+ {
+  "行": 2148,
+  "I": "○ 回収：2,734.46億円（2026年3月期・連結／原文表記は「営業収益」273,446百万円）。上場9301・親会社のため連結で判定可（§3-3）。倉庫運輸業はPL冒頭科目が営業収益で売上高に相当し、§3-7が銀行・保険で経常収益を採用するのと同趣旨。2026/4/30開示の決算短信で確認。単体営業収益も1,700億円規模で300億超。1次の営業収益不採用は過剰。",
+  "J": "https://www2.jpx.co.jp/disc/93010/140120260427511965.pdf;https://www.nikkei.com/nkd/disclosure/tdnr/20260427511965/;https://www.mitsubishi-logistics.co.jp/news/assets/pdf/6716d4a5bdc1197996c855e38debde1ac0864e5c.pdf"
+ },
+ {
+  "行": 2150,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP snic.jp（会社概要・会社紹介・採用ページとも売上高記載なし）、官報決算公告、スズキ有報。679.92億／692.65億円はマイナビ・Baseconnect・NIKKEI COMPASS等の禁止ソースのみ。スズキ連結約5.4兆円に対し約1%で10%注記の対象外＝親会社有報に実額なしと検算済み。未踏経路＝しずおか就職net（静岡県公式）の企業情報。",
+  "J": "http://www.snic.jp/about_us/index.html;http://www.snic.jp/recruit/aboutus.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2080401016338;https://www.koyou.pref.shizuoka.jp/employment/detail/9490"
+ },
+ {
+  "行": 2156,
+  "I": "○ 回収：1,349.99億円（2025年12月期・単体／原文表記「営業収益」134,999百万円。純営業収益671.07億円、当期純利益78.22億円）。出典は自社HP掲載の金商法46条の4「業務及び財産の状況に関する説明書」＝承認ソース①。証券業はPL冒頭科目が営業収益で売上高に相当（§3-7と同趣旨）。英Barclays子会社だが単体で300億超のため§3-3充足。",
+  "J": "https://www.barclays.co.jp/japan-overview/result/;https://www.barclays.co.jp/japan-overview/barclays-securities/"
+ },
+ {
+  "行": 2159,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告、TOPPAN HD有報「関係会社の状況」、自社HP toppan-tgc.co.jp。374億円（2025年3月期）はマイナビのみで禁止ソース、かつ原文が「売上高（生産高）」表記でラベル不確定。TOPPAN HD連結約1.7兆円に対し約2%で10%注記の対象外＝親会社有報に実額は存在しないと検算済み。残る経路は決算公告のみで§7-1依存。",
+  "J": "https://www.toppan-tgc.co.jp/;https://catr.jp/companies/5339f/21475;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010501030830"
+ },
+ {
+  "行": 2160,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝グループ規模による検算。マルハングループ公式資料の太平洋クラブ（親側）売上高185.3億円に対し、そのゴルフ場運営受託会社である太平洋ゴルフサービス単体が300億を超える蓋然性は低い。単体実額は自社HP・グループ公式資料のいずれにも記載なし。",
+  "J": "https://www.maruhan.co.jp/download/csr_report/pdf/2025company_brochure.pdf;http://www.taiheiyoclub.co.jp/corporate/index.html"
+ },
+ {
+  "行": 2165,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告、自社採用サイト「数字で知る茨城トヨペット」（ページ存在は確認したが売上高本文に到達できず）、gBizINFO。474.77億円（2025年3月期）・471億円台（2026年3月期）はYahoo!しごとカタログ／マイナビ等の禁止ソースのみ。自社HP会社概要は2021年3月期379.32億円のままで鮮度条件外。",
+  "J": "https://www.ibaraki-toyopet.co.jp/corporate/profile;https://ibaraki-toyopet-saiyo.jp/corporate/data/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6050001000278;https://catr.jp/companies/4b529/100637"
+ },
+ {
+  "行": 2167,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要（taf.toray/abo_03.html）、自社HP電子公告ページ（abo_09.html。ページ存在は確認したが公告本文の売上高に到達できず）、官報決算公告、東レ有報。413.48億円（2026年3月期）はマイナビのみで禁止ソース。東レ連結約2.4兆円に対し約1.7%で10%注記の対象外＝親会社有報に実額なしと検算済み。",
+  "J": "https://www.taf.toray/aboutus/abo_03.html;https://www.toray-taf.co.jp/aboutus/abo_09.html;https://catr.jp/companies/ef808/52255;https://www.toray.co.jp/saiyou/group/"
+ },
+ {
+  "行": 2171,
+  "I": "△ §7-1回答待ち：370億円（2025年3月期・単体。連結387億円）を官報決算公告（第89期）で確認したが、出典がcatr.jp／prtimes financeの二次サイトのみ。自社HP oji-steel.co.jp の企業情報・会社概要に売上高の記載なし。日本製鉄連結約8.7兆円に対し約0.4%で10%注記の対象外。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://www.oji-steel.co.jp/company/about.php;https://catr.jp/companies/d38f4/29236;https://prtimes.jp/finance/6010001039766/settlement"
+ },
+ {
+  "行": 2173,
+  "I": "○ 回収：1,142.11億円（2026年3月期・連結／原文表記「営業収益」114,211百万円。貸付金利息等を除く営業収益1,053.00億円、営業利益140.16億円）。上場8511・親会社のため連結で判定可（§3-3）。金融業はPL冒頭科目が営業収益で売上高に相当し、§3-7が銀行・保険で経常収益を採用するのと同趣旨。自社IR通期決算説明資料で確認。",
+  "J": "https://www.jsf.co.jp/ir/library/closing/;https://www.jsf.co.jp/ja/ir/library/latest-earnings/main/0/teaserItems1/0/linkList/0/link/Presentation_4QFY2024_Ja3.pdf;https://www.jsf.co.jp/ja/ir/finance/segment.html"
+ }
+]
