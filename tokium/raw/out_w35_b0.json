@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2216,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／アンデルセングループ公式（会社紹介のみ売上高なし）／官報決算公告（catr.jp収録分は純利益・総資産のみで売上高欄が存在しない）／広島県公式企業DB Go!ひろしま／gBizINFO。承認ソースに単体売上高の記載なし。",
+  "J": "https://www.andersen.co.jp/company/;https://www.andersen-group.jp/company/23/;https://catr.jp/companies/33922/35693;https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00880.html"
+ },
+ {
+  "行": 2218,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報・企業ネットワーク（売上高の記載なし）／官報決算公告（catr.jpに決算公告の収録なし）／gBizINFO。数値はYahoo!しごとカタログ・Baseconnect・起業ログ等の禁止ソースのみで、承認ソースには存在しない。",
+  "J": "https://www.aliment.co.jp/company/;https://catr.jp/companies/2de45/73910;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1090001012233"
+ },
+ {
+  "行": 2221,
+  "I": "△ 要再確認：公的補助金（中堅・中小成長投資補助金）交付先概要PDFに『味覚糖(株)単体売上目標620億円（直近決算期比197.3%）』とあり逆算で直近単体≒314億円。ただし実額・決算期の明記がなく、比率の基準が単体かグループか原文で確定できないため○にできない。決算公告は純利益・利益剰余金のみで売上高欄なし。",
+  "J": "https://seichotoushi-hojo.jp/assets/pdf/koufu_3_4ji/outline_22.pdf;https://www.uha-mikakuto.co.jp/company/index_02.html;https://catr.jp/companies/b403f/94908"
+ },
+ {
+  "行": 2222,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP2サイト（酒造・化学品事業本部）の会社概要／会社案内PDF（資本金2,700万円・従業員169名まで。売上高の記載なし）／官報決算公告catr.jp（数値取得できず・§7-1）／gBizINFO／香川県ワクサポかがわ。承認ソースに売上高なし。",
+  "J": "https://www.nishino-kinryo.co.jp/company/;https://www.nishinokinryo.co.jp/about/profile/;https://www.nishinokinryo.co.jp/wp-content/themes/nishinokinryo/assets/pdf/corporate_profile.pdf;https://catr.jp/companies/3913b/115450"
+ },
+ {
+  "行": 2224,
+  "I": "○ 妥当（G列訂正：601億円（2026年3月期・単体）。原文表記は「売上高」）：自社公式『会社紹介』に売上高601億円（2026年3月期）・従業員177名（2026年4月現在）・資本金8,000万円・設立1982年12月28日と明記、独立2クエリで再現。1次の「営業収益576億円（2025年3月期）」は現行の自社公式記載と一致せず前期値または誤記。Dole International Holdings傘下の子会社だが単体601億で300億以上のため架電可。",
+  "J": "https://www.dole.co.jp/company/info;https://www.dole.co.jp/company"
+ },
+ {
+  "行": 2227,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（グローバルLG Electronics連結のみ）／官報決算公告（当社の収録なし。LG Japan Lab株式会社は別法人）／日経・ジェトロ記事（いずれも韓国本社の連結業績で日本法人単体値なし）／gBizINFO。日本法人単体の売上高は非公表。",
+  "J": "https://www.lg.com/jp/about-lg/our-brand;https://www.jetro.go.jp/biznews/2024/01/5db6d133de2e9df8.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401005580"
+ },
+ {
+  "行": 2228,
+  "I": "○ 回収：自社公式HP『会社情報』に年間売上高713億円（2025年6月決算時）と明記。年間取扱量83,000トン・従業員70名・資本金1,000万円の記載と整合。非鉄金属スクラップ商社（横浜）で法人番号6021001024410と一致。300億以上を承認ソース（自社公式サイト）で確認。",
+  "J": "https://www.wakoh-kinzoku.co.jp/wakohkinzoku/company/;https://www.wakoh-kinzoku.co.jp/wakohmetal/company.htm"
+ },
+ {
+  "行": 2229,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（売上高の記載なし）／官報決算公告（純利益22.78億円・利益剰余金160.69億円・総資産233.82億円のみで売上高欄が存在しない）／gBizINFO。203億円はアラームボックス等の禁止ソースのみ。承認ソースに売上高なし。",
+  "J": "https://www.aitec-j.com/company/overview/;https://catr.jp/companies/0d2b2/38397;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120001095991"
+ },
+ {
+  "行": 2234,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内・グループ全社ページ（グループ売上710億円のみ。単体値なし）／長野県公式SDGsポータルの本久ホールディングス企業情報（売上高欄なし）／官報決算公告（収録確認できず）／gBizINFO。本久HD傘下の子会社のためグループ値は不採用。",
+  "J": "https://motoq.co.jp/pages/2/;https://motoq.co.jp/pages/48/;https://nagano-sdgs.com/company/604/profile/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7100001003539"
+ },
+ {
+  "行": 2235,
+  "I": "△ §7-1回答待ち：743.42億円（2025年5月期・第21期・単体、純利益25.23億円／総資産627.98億円）を官報決算公告で確認済み。第18期651.78億円とも整合。ただし出典が官報決算データベース(catr.jp)で、自社HPに電子公告ページはなく官報の号数・頁は特定できず。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/settlements/e22f3/277142;https://catr.jp/companies/d5844/31417/settlements/e22f3/277142;https://www.muramoto.co.jp/overview"
+ }
+]

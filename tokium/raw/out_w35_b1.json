@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2238,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要 nichiene.jp/company/outline/（資本金1,000万円・連結従業員315名／令和8年3月現在・住設機器販売施工。売上高欄なし）、ニチエネ西日本HP nishi.nichiene.jp、自社HP「財務ハイライト」導線（数値の掲載を確認できず）、自社採用サイト nichiene.jp/saiyo/、EDINET・TDnet（未上場・提出なし）、gBizINFO、官報決算公告。承認ソースに直近3期の売上高記載なし。",
+  "J": "https://www.nichiene.jp/company/outline/; https://nishi.nichiene.jp/kigyo/gaiyo.html; https://www.nichiene.jp/saiyo/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1012301002796"
+ },
+ {
+  "行": 2242,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・沿革・コーポレートストーリー・採用サイト（mizukami.co.jp、いずれも売上高の記載なし）、EDINET・TDnet（未上場・提出なし）、gBizINFO、官報決算公告。なお禁止ソース（マイナビ2026・Baseconnect・NIKKEI COMPASS）にのみ「2024年12月期 売上高105億円・従業員167名・建築金物卸」とあり、E列の300億以上〜は誤りの可能性が高いが、承認ソースが無いため確認不可のままとする。",
+  "J": "https://www.mizukami.co.jp/company/outline; https://www.mizukami.co.jp/recruit/special/about.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001090356"
+ },
+ {
+  "行": 2243,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝グループ公式サイト ovalgroup.jp（オーヴァル・グループ概要／事業フィールド／NEWS・PRESS RELEASE。1972年設立・横浜市中区桜木町・総合ディベロッパー、売上高の記載なし）、gBizINFO（法人番号2020001003758）、EDINET・TDnet（未上場・提出なし）、官報決算公告。※上場の株式会社オーバル（流量計）および株式会社オーヴァル（oval-group.jp／ステンレス販売加工）とは別法人であることを確認済み。",
+  "J": "https://ovalgroup.jp/company-about/; https://ovalgroup.jp/business-field/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2020001003758"
+ },
+ {
+  "行": 2244,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝木下グループ公式の子会社紹介 kinoshita-group.co.jp/group/kinoshita-chintai/、自社HP会社概要 kinoshita-chintai.com/corporate.html（平成24年3月設立・資本金1億円・管理戸数27,350戸／2026年3月末、売上高記載なし）、官報決算公告（2025年3月31日決算＝純利益7億3,892万円・利益剰余金58億4,603万円・総資産94億3,249万円の貸借対照表要旨のみで売上高欄が存在しない）、EDINET・TDnet（木下グループ含め非上場）、gBizINFO。子会社単体売上高を示す承認ソースなし。",
+  "J": "https://www.kinoshita-group.co.jp/group/kinoshita-chintai/; https://kinoshita-chintai.com/corporate.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5011101062717"
+ },
+ {
+  "行": 2245,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO（法人番号5030001004232／埼玉県さいたま市大宮区桜木町4-80-1）、自社公開情報、EDINET・TDnet（未上場・提出なし）、官報決算公告。なお禁止ソース（マイナビ・Baseconnect）にのみ「2025年2月期 売上高55億円・従業員125名／コインパーキング運営・不動産運用・宿泊施設運営」とあり、E列の300億以上〜は誤りの可能性が高いが承認ソースなし。※菓子メーカーのパイン株式会社（大阪・パインアメ）とは別法人。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5030001004232"
+ },
+ {
+  "行": 2246,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝太平ビルサービスHP（taihei-bs.co.jp の会社案内・会社情報・グループ会社一覧・お知らせ一覧。持株会社体制移行のリリースもグループ連結売上高も掲載を確認できず）、gBizINFO、EDINET・TDnet（未上場・提出なし）、官報決算公告、日経等の記事検索。HDとしてのグループ連結売上高が承認ソースで一切非公表。※禁止ソース（FUMA）に「1962年1月設立・資本金2億円・従業員24,170名」とあり規模的には300億超が濃厚だが採用不可。※同名の「株式会社太平ホールディングス」（8021001056105）とは別法人。",
+  "J": "https://www.taihei-bs.co.jp/about/corporate.html; https://www.taihei-bs.co.jp/group/; https://www.taihei-bs.co.jp/news/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011101044378"
+ },
+ {
+  "行": 2247,
+  "I": "△ 要再確認：新たに未踏経路を2つ発見したが数値取得に至らず。①自社HP会社情報 taihei-bs.co.jp/about/corporate.html に「業績推移（売上高と営業利益）」欄が存在する（承認ソース）が、本環境はWebSearchのみでWebFetch不可のため最新期の数値を読めず。1次が読めた最新値2021年度687.28億円は§3-8の直近3期外。②EDINETコードE11401が実在（QUICK Disclosure要覧）だが有報提出は2014年頃で停止。gBizINFO決算情報由来とみられる「2023年 売上高59,512百万円＝595.12億円・経常利益4,682百万円・総資産52,776百万円」が与信系サイトに流通し300億は大幅超が濃厚。①のページ直接確認かgBizINFO決算情報で○回収可能性が高い。※福岡の同名別法人（9290001008501／2024年度24.36億円）と混同注意。",
+  "J": "https://www.taihei-bs.co.jp/about/corporate.html; https://discl.quick.co.jp/Company/Info/E11401; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011101012138"
+ },
+ {
+  "行": 2255,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝ハウスメイト公式グループ会社概要・実績（housemate.co.jp、グループ合計1,776.0億円／2022年度のみで各社単体値なし）、親会社側の官報決算公告＝株式会社ハウスメイトパートナーズ第45期 売上高1,341億8,600万円・営業利益27億6,200万円（これは親会社の数字でありハウスメイトショップ単体ではない）、ハウスメイトショップ自身の官報決算公告（売上高の掲載を確認できず）、EDINET・TDnet（グループ全社非上場）、gBizINFO。§3-3により子会社は単体300億以上のみOKだが、単体売上高の承認ソースが存在しない。",
+  "J": "https://www.housemate.co.jp/company/about.html; https://www.housemate.co.jp/company/jisseki.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4013301007915"
+ },
+ {
+  "行": 2258,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・事業案内・営業所一覧・𠮷川ロジスティクスグループ紹介（yosun.jp、1903年創業・大阪本社・グループ18社。売上高の記載なし）、会社案内PDF yosun.jp/pdf/pdf_guide01.pdf、gBizINFO（法人番号3120001031863）、EDINET・TDnet（未上場・提出なし）、官報決算公告。承認ソースに直近3期の売上高記載なし。※東京本社の同名別法人 吉川運輸株式会社（7150001006173／yoshikawa-g.co.jp）とは別法人であることを確認済み。",
+  "J": "https://www.yosun.jp/about/index.html; https://www.yosun.jp/about/group.html; https://www.yosun.jp/pdf/pdf_guide01.pdf; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001031863"
+ },
+ {
+  "行": 2260,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報・会社概要・会社案内PDF（kusuhara.co.jp/company/、kusuhara.co.jp/files/company/print.pdf。大正12年創業・横浜市神奈川区・港湾運送／通関／倉庫。売上高の記載なし）、採用ページ、gBizINFO、EDINET・TDnet（未上場・提出なし）、官報決算公告（catr.jp収録ページに損益の掲載なし）、業界紙記事検索（物流ニッポン／日本海事新聞／カーゴニュース等でヒットなし）。※禁止ソース（マイナビ2027・Wikipedia・NIKKEI COMPASS）にのみ「2026年3月期 売上高390億円・従業員1,911名」があり実態は300億超の可能性が高いが§3-4により採用不可。承認ソースが出れば○に回収可能。",
+  "J": "https://www.kusuhara.co.jp/company/; https://www.kusuhara.co.jp/files/company/print.pdf; https://www.kusuhara.co.jp/recruit/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001030543"
+ }
+]

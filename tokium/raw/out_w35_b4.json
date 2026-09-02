@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2336,
+  "I": "○ 妥当（G列訂正：単体実額を再取得）：2026/4/1にARCHION傘下の子会社化で§3-3上は単体値が必要。自社IR掲載の有報の単体売上高は第113期（2025年3月期）170,779百万円＝1,707.79億円、第112期176,248百万円＝1,762.48億円、第111期193,224百万円＝1,932.24億円で、いずれも300億の5倍超。1次記載の「4,075億円」は承認ソースで再現できず不採用。連結は2026年3月期約1兆5,500億円（減収）。",
+  "J": "https://www.hino.co.jp/corp/for_investors/financial_statements.html ; https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf ; https://www.hino.co.jp/corp/for_investors/financial_statements/assets/bdd7327cbf1ebf95eeafd079c01811c9.pdf ; https://www.hino.co.jp/corp/for_investors/disclosure/assets/b5b76d7ff472dd2953732cf6bd91a92d.pdf"
+ },
+ {
+  "行": 2341,
+  "I": "○ 回収：1次は「営業収益だから不採用」としたが誤り。関西電力の決算短信の科目は「売上高」。2026年3月期 連結売上高4,056,638百万円＝4兆566.38億円（前期比△6.5%）。持株会社ではない親会社のため§3-3で連結採用可。300億の135倍で基準充足は確定。",
+  "J": "https://www.kepco.co.jp/corporate/pr/2026/pdf/20260430_1j.pdf ; https://www.kepco.co.jp/ir/brief/earnings/"
+ },
+ {
+  "行": 2345,
+  "I": "○ 回収：2026年3月期 連結営業収益422,414百万円＝4,224.14億円（前期比+3.6%、営業利益895.88億円）。営業収益は鉄道業の損益計算書トップライン科目であり、§3-7が銀行・保険の経常収益を売上高として採用するのと同じ扱いが妥当。東京地下鉄は上場親会社のため連結可。300億の14倍で基準充足は確定。",
+  "J": "https://www.tokyometro.jp/corporate/ir/library/earnings/index.html ; https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260428/20260428513381.pdf"
+ },
+ {
+  "行": 2349,
+  "I": "○ 回収：2026年2月期 連結営業収益569,312百万円＝5,693.12億円。営業収益は小売業のトップライン科目（商品売上高＋その他の営業収入）で、§3-7の趣旨（売上高に相当するトップラインを採用し原文表記を注記）に沿う。イズミは上場親会社のため連結可。300億の19倍で基準充足は確定。",
+  "J": "https://www.izumi.co.jp/ir/library/results/ ; https://www.izumi.co.jp/corp/outline/"
+ },
+ {
+  "行": 2355,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・企業情報、gBizINFO第42期決算公告（貸借対照表のみで売上高欄が存在せず開示義務なし）、親会社ルート（東京海上HD連結約7兆円の10%＝約7,000億円に遠く及ばず、有報「関係会社の状況」の実額記載対象外＝下限証明も不成立）。承認ソースに単体売上高なし。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=6cb41dee-51ae-4f75-9b57-9e8663db72fc ; https://www.tokiomarine-tcs.jp/c/corporate/office/index.html"
+ },
+ {
+  "行": 2377,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・沿革・ニュースリリース・サービス資料PDF（売上高の記載なし）、gBizINFO、官報決算公告（第20期・第22期とも貸借対照表のみ。第22期は総資産31.58億円・純損失5.79億円で売上高欄が存在しない）。E列「1,000億円以上」はSF側の誤りで、承認ソースに売上高の記載自体がない。",
+  "J": "https://ida-mode.com/company/info/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9120001059833 ; https://catr.jp/settlements/6e6b4/149847"
+ },
+ {
+  "行": 2388,
+  "I": "○ 回収：2026年3月期 連結売上高8,425.12億円（前期比+5.1%、経常利益+5.4%）。上場親会社のため§3-3で連結採用可、300億の28倍で基準充足は確定。1次は自社IRで数値を確定できなかったが、通期決算短信は自社IR資料室に掲載済みで、業界紙の決算記事とも一致。桁検算済み。",
+  "J": "https://www.sundrug.co.jp/ir/irdata/results ; https://www.sundrug.co.jp/company/outline ; https://news.shoninsha.co.jp/financial/307002"
+ },
+ {
+  "行": 2395,
+  "I": "○ 妥当（G列訂正：188,036百万円＝1,880.36億円は連結ではなく単体値）。自社IR/gBizINFOで連結営業収益は2025年3月期443,495百万円＝4,434.95億円と確認でき、会社概要の値と一致しないため単体と判断。2026年3月期決算短信（2026/5/14）も自社IRに掲載。西日本鉄道は上場親会社のため§3-3で連結・単体いずれでも可。営業収益は鉄道業のトップライン科目で§3-7の趣旨に沿う。連結・単体とも300億を大幅超過。",
+  "J": "https://www.nishitetsu.co.jp/ja/group/company/outline.html ; https://www.nishitetsu.co.jp/ja/ir/i_news/auto_20260513530519/pdfFile.pdf ; https://www.nishitetsu.co.jp/ja/ir/finance/highlight.html"
+ },
+ {
+  "行": 2396,
+  "I": "○ 回収：2026年3月期 連結営業収益6,915億円（5期連続増収、営業利益36,185百万円＝361.85億円）。営業収益は鉄道業のトップライン科目で§3-7の趣旨に沿い採用可。名古屋鉄道は上場親会社のため連結可。300億の23倍で基準充足は確定。出典＝自社IR決算短信（2026年5月15日）。",
+  "J": "https://www.meitetsu.co.jp/ir/reference/statement/__icsFiles/afieldfile/2026/05/14/kessan260515.pdf ; https://www.meitetsu.co.jp/ir/reference/statement/index.html"
+ },
+ {
+  "行": 2403,
+  "I": "△ 妥当：確認不可で正しい。ただし1次の親子判定は誤り。総合メディカルHDは2020/10/1に総合メディカル株式会社を存続会社として吸収合併され解散（HD制廃止・日経報道）。対象法人は子会社ではなくグループ中核会社で§3-3上は連結も可。だが承認ソースの最新は2019年3月期（HD第1期有報「主要な損益情報等」で対象法人単体960.10億円／連結1,446.30億円）で§3-8の直近3期外。2020/4上場廃止以降の開示なし、決算公告はcatr.jp依存（§7-1未決着）。最新の売上高が非公表のため確認不可。",
+  "J": "https://www.sogo-medical.co.jp/ir_library/ ; https://www.sogo-medical.co.jp/wp-content/uploads/2021/12/2019%E5%B9%B43%E6%9C%88%E6%9C%9F-%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf ; https://www.nikkei.com/article/DGXMZO64480210R01C20A0LX0000/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7290001008379"
+ }
+]

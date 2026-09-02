@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2264,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝親会社エスライングループ本社(9078)のIRページ／EDINET・TDnet／自社HP。同社は2024年5月MBO・2024年9月上場廃止、2025年4月1日にトモエ(株)へ吸収合併され商号承継のため新規の有報・短信は出ておらず親会社IR経路は消滅。グループ連結売上高は約490億円規模(2024年3月期)で10%＝約49億円のため下限証明も使えない。エスラインヒダ単体値は承認ソースになし。",
+  "J": "https://sline.co.jp/ir/ ; https://sline.co.jp/sline_hida/ ; https://sline.co.jp/company/ ; https://www.lnews.jp/2024/05/q0515413.html"
+ },
+ {
+  "行": 2265,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／官報決算公告(第107期・2026年3月期)／gBizINFO／EDINET。決算公告は貸借対照表中心で売上高欄を確認できず(当期純利益・総資産のみ)、開示義務上も売上高は出ない。マイナビ等求人媒体の2025年3月期619.45億円・625.92億円は禁止ソースのため不採用。",
+  "J": "https://www.trsm.co.jp/profile/gaiyou.html ; https://catr.jp/companies/f0d46/10940 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010401018045"
+ },
+ {
+  "行": 2267,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝旧社名(株)ライクスの自社HP／新社HP united-engineering.co.jp の会社概要・企業情報(財務情報は準備中で売上高記載なし)／官報決算公告／親会社経路。2025年10月1日にライクス＋キャプティエンジニアリング統合で商号変更(法人番号6010401021555は存続)。東京ガスネットワークグループの子会社で単体値が必要だが、東京ガス連結約2.5兆円の10%＝2,500億円のため有報「関係会社の状況」の実額開示対象外。売上高600億円は新会社の目標値で実績ではない。",
+  "J": "https://www.likes.co.jp/profile/outline/ ; https://united-engineering.co.jp/company/overview/ ; https://united-engineering.co.jp/company/ ; https://catr.jp/companies/c653a/32625"
+ },
+ {
+  "行": 2271,
+  "I": "○ 回収：自社HP会社概要（昱株式会社）に「売上高 411億円（令和7年事業年度実績）」と明記。単体。資本金1億円・従業員902名・東京都中央区東日本橋、昭和22年10月創立。承認ソース①（自社HP会社概要）で300億円基準を充足。1次はトップページのみ確認しcompany配下の会社概要ページに未到達だった。",
+  "J": "https://akira.agns.co.jp/company/index.html ; https://www.agns.co.jp/ ; https://www.agns.co.jp/group/"
+ },
+ {
+  "行": 2273,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝三協グループ公式(会社概要・グループ企業・事業概要)／官報決算公告／gBizINFO／EDINET。自社HPに売上高の掲載なし。なお禁止ソース(マイナビ)には2025年3月期 単体86億円・国内海外グループ計261億円とあり、いずれも300億円未満。承認ソースでの確定はできないため△だが、回収見込みはなく、E列の「300億以上〜1,000億未満」自体が誤りの可能性が高い。",
+  "J": "https://www.sankyo-group.jp/about/outline ; https://www.sankyo-group.jp/about/group/sankyo ; https://job.mynavi.jp/27/pc/search/corp74390/outline.html"
+ },
+ {
+  "行": 2275,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報／gBizINFO／EDINET・TDnet（非上場、スギHD(7649)とは別法人のため親会社IR経路も不成立）／官報決算公告。官報決算公告はcatr.jp収録分が存在するが売上高の数値を承認ソースで特定できず。§7-1(catr.jp可否)が承認されれば再検証の余地あり。",
+  "J": "https://sugiyama-club.jp/corporate/gaiyou.html ; https://sugiyama-club.jp/corporate/ ; https://catr.jp/companies/0b464/91262 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001037122"
+ },
+ {
+  "行": 2276,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP／官報決算公告／gBizINFO／新潟企業情報ナビ／EDINET。自社HP掲載の最新売上高は2023年5月期318.46億円で§3-8の直近3期外。2024〜2026年5月期の売上高は承認ソースで確認できず。従業員189名・新潟/山形でSS20か所。※同名別法人(法人番号8290801005640)は2020年6月閉鎖だが対象法人6110001004660は現存。",
+  "J": "https://www.kk-hayama.net/corp/fuel/ ; https://catr.jp/companies/27060/77162 ; https://www.niigata-kigyo-navi.jp/search/company/667 ; https://alarmbox.jp/companyinfo/entities/6110001004660"
+ },
+ {
+  "行": 2279,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP「数字で見るイオンペット」(店舗数のみ・売上高なし)／会社概要／官報決算公告(第20期＝純利益4.13億円・利益剰余金10.99億円等で売上高欄なし)／親会社イオン(株)の有報・短信。イオン連結営業収益10兆7,153億円(2026年2月期)の10%＝約1兆円のため「関係会社の状況」の実額開示対象外＝この経路は成立しない。二次情報の2023年2月期営業収益448億円は承認ソースで裏取りできず、かつ直近3期外。",
+  "J": "https://www.aeonpet.com/company/about-us/data/index.html ; https://www.aeonpet.com/company/about-us/overview/index.html ; https://catr.jp/settlements/409f9/9853 ; https://www.aeon.info/ir/"
+ },
+ {
+  "行": 2288,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(okamoto-self.com)／オカモトグループHP／北海道経済産業局公表PDF／官報決算公告。グループ合計2,051億円(2026年3月期)・HD連結1,059.06億円(2021年3月期)は確認できるがいずれもグループ値で、§3-3により子会社単体には使えない。株式会社オカモト(帯広)単体の売上高は承認ソースに記載なし。※検索では東証プライムの同名別法人オカモト株式会社(5122・東京都文京区・2026年3月期単体1,080.4億円)が混入するため取り違え注意。",
+  "J": "https://okamoto-self.com/company ; https://www.okamoto-group.co.jp/jp/company/group/about/ ; https://www.hkd.meti.go.jp/hokig/open_innv2021/portfolio/okamoto.pdf"
+ },
+ {
+  "行": 2289,
+  "I": "○ 妥当（G列訂正：1次I列が根拠にした2018年2月期938.40億円・2019年2月期922.91億円は§3-8の直近3期外のため根拠から除外）。承認ソース＝自社HP「決算情報」ページに決算公告PDFを自社公開（最新＝2025年5月14日掲載の第67期決算公告。過年度PDFも /financial/assets/pdf/ 配下に実在）。加えて自社HP「月例報告」で月次売上高を毎月自社開示。売上高は約1,000億円規模（東京・神奈川・千葉41店舗、営業利益率5.7%、流通ニュース報道の営業利益55億円と整合）で300億円基準を3倍超過。非上場・2009年MBOで上場廃止のため単体（連結なし）。※G列採用時は決算公告PDFの実数と期を要確認。1,050.81億円をシード指定して検索したが再現せず約1,000億円の整合的数値のみ返るため、1次H列の1,050.81億円は不採用。",
+  "J": "http://www.ozeki-net.co.jp/financial/ ; http://www.ozeki-net.co.jp/financial/achievement/ ; https://www.ozeki-net.co.jp/financial/assets/pdf/140516_kessankoukoku.pdf ; https://www.ryutsuu.biz/accounts/l051744.html"
+ }
+]
