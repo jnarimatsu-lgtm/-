@@ -1,0 +1,52 @@
+[
+ {
+  "行": 4065,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(kagoshimahanabusa.com/about.php)、gBizINFO(9340001016119)、官報決算公告検索、新聞記事。鹿児島県薩摩郡さつま町の林業・土木業で承認ソースに売上高の記載なし。法人番号2〜5桁3400＝鹿児島管轄で本社所在地と一致し同名別法人ではない。",
+  "J": "https://www.kagoshimahanabusa.com/about.php; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9340001016119"
+ },
+ {
+  "行": 4066,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(bb-copy.co.jp/information.htm)、gBizINFO、官報決算公告、新聞記事。大阪市北区の大型コピー・製本・図面配信業で承認ソースに売上高なし。数値はBaseconnect等の禁止ソースのみ。法人番号1200＝大阪法務局本局で本社と一致。",
+  "J": "https://www.bb-copy.co.jp/information.htm; https://bb-copy.co.jp/"
+ },
+ {
+  "行": 4067,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(hokusho-zaimu.com)、gBizINFO、官報決算公告、新聞記事。札幌市中央区の財務・給与アウトソーシング／医療経営コンサルで承認ソースに売上高なし。数値はSalesNow・Baseconnect等の禁止ソースのみ。",
+  "J": "http://hokusho-zaimu.com/company-profile/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1430001030745"
+ },
+ {
+  "行": 4069,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(ljbusiness.co.jp/company)、gBizINFO、官報決算公告、新聞記事、NIKKEI COMPASS(有料・非開示)。東京都中央区日本橋蛎殻町の医療機器（新品・中古MRI/CT等）輸出入商社で承認ソースに売上高なし。法人番号0100＝東京本局で所在地と整合。",
+  "J": "https://www.ljbusiness.co.jp/company/index.php"
+ },
+ {
+  "行": 4071,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(k-research.co.jp/corporate-profile/)、gBizINFO、官報決算公告、新聞記事。横浜市港北区綱島東の調査・情報提供サービス業で承認ソースに売上高なし。同名の海洋リサーチエンジニアリング(9011001005441)とは別法人。法人番号0200＝横浜で一致。",
+  "J": "http://www.k-research.co.jp/corporate-profile/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2020001019787"
+ },
+ {
+  "行": 4072,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(tim-web.co.jp)、gBizINFO、官報決算公告、新聞記事。商業施設の内装監理業で承認ソースに売上高なし。同名のTIM(tim-exp.co.jp)・ティーアイエム(tim-e.jp)等とは別法人で、法人番号2050001007509で照合済み。",
+  "J": "https://tim-web.co.jp/; https://tim-web.co.jp/kaishaannai.html"
+ },
+ {
+  "行": 4073,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(unshouen.co.jp/company/)、gBizINFO、官報決算公告、新聞記事。山梨県北杜市小淵沢町の造園工事業（公共・民間の造園設計施工）で承認ソースに売上高なし。数値はBaseconnect等の禁止ソースのみ。",
+  "J": "https://unshouen.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2090001011259"
+ },
+ {
+  "行": 4074,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(earth-t.com/pages/2/)、gBizINFO、官報決算公告、新聞記事。大阪府堺市中区の地盤調査・室内土質試験業で承認ソースに売上高なし。名古屋の株式会社アーステクノ(8180001104378)およびアーステクノサービス(売上8.1億円)とは別法人。法人番号1201＝大阪堺支局で所在地と一致。",
+  "J": "https://earth-t.com/pages/2/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120101000050"
+ },
+ {
+  "行": 4075,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(daito-metal.co.jp/company)、gBizINFO、官報決算公告検索、新聞記事。大阪府東大阪市の鉄・非鉄スクラップ回収選別加工業で承認ソースに売上高なし。大東スチール(静岡)・大東鋼業(伸線)・大同メタル工業とは別法人。法人番号1220＝大阪東大阪支局で所在地と一致。",
+  "J": "https://www.daito-metal.co.jp/company"
+ },
+ {
+  "行": 4077,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(marumiyagroup.com/company/)、gBizINFO(3260001006364)、官報決算公告、新聞記事。岡山・広島中心のセレクトショップ／販売代行業で承認ソースに売上高なし。大分の株式会社マルミヤストア(571億円・2024年2月期)は別法人＝取り違え注意。法人番号2600は中国地方管轄で大分ではない。",
+  "J": "https://www.marumiyagroup.com/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3260001006364; https://marumiya-store.co.jp/financial-results/"
+ }
+]

@@ -1,52 +1,52 @@
 [
- {
-  "行": 4029,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP hrmusashi.co.jp 会社概要（売上高記載なし）／gBizINFO（財務情報の登録なし）／官報決算公告（該当法人の掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号9360002017312の登記所コード3600＝那覇地方法務局で沖縄県宜野湾市本社と一致し、同名別法人ではない。数値は禁止ソース（Baseconnect等）に2018年9月期2.39億円とあるのみで古く、SF E列『300億以上』は明らかな誤り。",
-  "J": "https://hrmusashi.co.jp/pages/2/"
- },
- {
-  "行": 4030,
-  "I": "○ 回収：持株会社のため§3-3によりグループ連結300億超で可。自社公式サイト（企業情報／会社概要）に連結営業収益3,292億53百万円＝3,292.53億円（2026年2月期）、単体営業収益45億25百万円の記載を確認。仮にこれが第3四半期累計値であっても通期はこれ以上であり、300億基準の充足は確定。出典＝mandai-hldgs.co.jp（承認ソース①自社公式）。",
-  "J": "https://www.mandai-hldgs.co.jp/corporate/about/;https://www.mandai-hldgs.co.jp/corporate/;https://www.mandai-net.co.jp/corporate/profile/"
- },
- {
-  "行": 4031,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP ohya-ee.com（会社概要に売上高記載なし）／gBizINFO（財務情報の登録なし）／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号1220001001602の登記所コード2200＝金沢地方法務局で石川県金沢市本社と一致。売上高は東商リサーチ・帝国データバンク（禁止ソース）にしか存在しない。",
-  "J": "https://ohya-ee.com/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1220001001602"
- },
- {
-  "行": 4032,
-  "I": "× 要修正：2025年1月にグリーンクロスホールディングス（東証272A）が全株式を取得し子会社化。§3-3により子会社は単体300億以上のみ可だが、親会社の連結売上高27,878百万円＝278.78億円が構造的上限であり単体300億は成立しない。決算公告も総資産4億2,166万円・当期純利益2,719万円（2023年12月期）と小規模。SF『300億以上』は誤り。",
-  "J": "https://www.nikkei.com/nkd/disclosure/tdnr/20250122553795/;https://green-cross-hd.co.jp/ir/library/;https://www.green-cross.co.jp/ir/highlight/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010001019681"
- },
- {
-  "行": 4033,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP wrap-worldwide.com（東京都豊島区駒込・総合コンサルタント業務。売上高記載なし）／gBizINFO／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号1010001117254は東京法務局本局管轄で豊島区本社と整合。同名の奈良県の株式会社ラップ（包装資材・法人番号2150001013694）とは別法人と判別済み。",
-  "J": "http://www.wrap-worldwide.com/;https://e-wrap.co.jp/"
- },
- {
-  "行": 4035,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP asset-creation.jp／gBizINFO／官報決算公告／EDINET（提出なし）／新聞記事。いずれも売上高の記載なし。法人番号1100001016934の登記所コード1000＝長野地方法務局管轄で、同名の新潟県柏崎市の介護事業者（8110001006787＝1100新潟）とは別法人。承認ソースに当該法人の売上高が存在しない。",
-  "J": "http://www.asset-creation.jp/;https://fujimoto-corp.com/asset-creation/"
- },
- {
-  "行": 4037,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP yutaka-zoen.co.jp 会社概要／採用サイト yutakazoen-recruit.com（数字で見る等の売上開示なし）／gBizINFO（財務情報なし）／官報決算公告（掲載を確認できず）／EDINET（提出なし）。法人番号1180001003132の登記所コード1800＝名古屋法務局で名古屋市名東区本社と一致。外構・造園工事の地場企業でSF『300億以上』は明らかな誤り。",
-  "J": "https://www.yutaka-zoen.co.jp/;https://yutakazoen-recruit.com/about/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001003132"
- },
- {
-  "行": 4039,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP sonorite.co.jp 会社概要／gBizINFO／官報決算公告（法人ページはあるが売上高欄なし）／EDINET（提出なし）／親会社なし。法人番号2010001132260は東京法務局本局管轄で東京本社と整合。2009年設立のSIer（Microsoft365・SharePoint中心）で財務非公開。数値は禁止ソース（OpenWork・Baseconnect）のみ。SF『1,000億以上』は明らかな誤り。",
-  "J": "https://sonorite.co.jp/company/;https://sonorite.co.jp/"
- },
- {
-  "行": 4041,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO／官報決算公告（親会社の日刊スポーツHD・日刊スポーツ新聞東京本社の公告は貸借対照表のみで売上高欄が存在しない）／EDINET（グループ全社が非上場で提出なし）／親会社IR（日刊スポーツHDは非上場でIR資料なし）。子会社のため§3-3により単体300億以上が必要だが、グループ最大の事業会社である日刊スポーツ新聞東京本社ですら総資産141.83億円規模。当社は店舗・オフィス賃貸管理業。",
-  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001053373;http://nse.nikkansports.com/index.html"
- },
- {
-  "行": 4042,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP credo.bz 会社概要（東京都渋谷区代々木・経理派遣／人材紹介。売上高記載なし）／gBizINFO／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号3010001128704は東京法務局本局管轄で渋谷区本社と整合。承認ソースに売上高の記載が一切なく、SF『300億以上』は実態と乖離。",
-  "J": "https://www.credo.bz/sp/profile.html;https://www.credo.bz/"
- }
+  {
+    "行": 4029,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP hrmusashi.co.jp 会社概要（売上高記載なし）／gBizINFO（財務情報の登録なし）／官報決算公告（該当法人の掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号9360002017312の登記所コード3600＝那覇地方法務局で沖縄県宜野湾市本社と一致し、同名別法人ではない。数値は禁止ソース（Baseconnect等）に2018年9月期2.39億円とあるのみで古く、SF E列『300億以上』は明らかな誤り。",
+    "J": "https://hrmusashi.co.jp/pages/2/"
+  },
+  {
+    "行": 4030,
+    "I": "○ 妥当（G列訂正：3,292.53億円は2026年2月期「第3四半期累計」の連結値であり通期確定値ではない。G列は『3,292.53億円（2026年2月期第3四半期累計・連結）』と期間を明記すること）。自社公式mandai-hldgs.co.jp会社概要で連結売上高3,292億53百万円＝3,292.53億円・単体45億25百万円を再現確認（桁検算済み）。事業内容は「子会社及びグループ会社の株式保有、経営管理」＝純粋持株会社で、株式会社万代（東大阪市）を完全子会社に持つ最上位法人（旧万代油脂工業が旧万代リテールHDを吸収合併し2024年2月に商号変更）。上位の親会社は確認されず。§3-3のHD＝グループ連結300億超で可に該当し基準の11倍。",
+    "J": "https://www.mandai-hldgs.co.jp/corporate/about/;https://www.mandai-hldgs.co.jp/group/group-outline/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1122001006789;https://www.mandai-net.co.jp/news/post-522.html"
+  },
+  {
+    "行": 4031,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP ohya-ee.com（会社概要に売上高記載なし）／gBizINFO（財務情報の登録なし）／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号1220001001602の登記所コード2200＝金沢地方法務局で石川県金沢市本社と一致。売上高は東商リサーチ・帝国データバンク（禁止ソース）にしか存在しない。",
+    "J": "https://ohya-ee.com/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1220001001602"
+  },
+  {
+    "行": 4032,
+    "I": "× 要修正：2025年1月にグリーンクロスホールディングス（東証272A）が全株式を取得し子会社化。§3-3により子会社は単体300億以上のみ可だが、親会社の連結売上高27,878百万円＝278.78億円が構造的上限であり単体300億は成立しない。決算公告も総資産4億2,166万円・当期純利益2,719万円（2023年12月期）と小規模。SF『300億以上』は誤り。",
+    "J": "https://www.nikkei.com/nkd/disclosure/tdnr/20250122553795/;https://green-cross-hd.co.jp/ir/library/;https://www.green-cross.co.jp/ir/highlight/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010001019681"
+  },
+  {
+    "行": 4033,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP wrap-worldwide.com（東京都豊島区駒込・総合コンサルタント業務。売上高記載なし）／gBizINFO／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号1010001117254は東京法務局本局管轄で豊島区本社と整合。同名の奈良県の株式会社ラップ（包装資材・法人番号2150001013694）とは別法人と判別済み。",
+    "J": "http://www.wrap-worldwide.com/;https://e-wrap.co.jp/"
+  },
+  {
+    "行": 4035,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP asset-creation.jp／gBizINFO／官報決算公告／EDINET（提出なし）／新聞記事。いずれも売上高の記載なし。法人番号1100001016934の登記所コード1000＝長野地方法務局管轄で、同名の新潟県柏崎市の介護事業者（8110001006787＝1100新潟）とは別法人。承認ソースに当該法人の売上高が存在しない。",
+    "J": "http://www.asset-creation.jp/;https://fujimoto-corp.com/asset-creation/"
+  },
+  {
+    "行": 4037,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP yutaka-zoen.co.jp 会社概要／採用サイト yutakazoen-recruit.com（数字で見る等の売上開示なし）／gBizINFO（財務情報なし）／官報決算公告（掲載を確認できず）／EDINET（提出なし）。法人番号1180001003132の登記所コード1800＝名古屋法務局で名古屋市名東区本社と一致。外構・造園工事の地場企業でSF『300億以上』は明らかな誤り。",
+    "J": "https://www.yutaka-zoen.co.jp/;https://yutakazoen-recruit.com/about/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001003132"
+  },
+  {
+    "行": 4039,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP sonorite.co.jp 会社概要／gBizINFO／官報決算公告（法人ページはあるが売上高欄なし）／EDINET（提出なし）／親会社なし。法人番号2010001132260は東京法務局本局管轄で東京本社と整合。2009年設立のSIer（Microsoft365・SharePoint中心）で財務非公開。数値は禁止ソース（OpenWork・Baseconnect）のみ。SF『1,000億以上』は明らかな誤り。",
+    "J": "https://sonorite.co.jp/company/;https://sonorite.co.jp/"
+  },
+  {
+    "行": 4041,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO／官報決算公告（親会社の日刊スポーツHD・日刊スポーツ新聞東京本社の公告は貸借対照表のみで売上高欄が存在しない）／EDINET（グループ全社が非上場で提出なし）／親会社IR（日刊スポーツHDは非上場でIR資料なし）。子会社のため§3-3により単体300億以上が必要だが、グループ最大の事業会社である日刊スポーツ新聞東京本社ですら総資産141.83億円規模。当社は店舗・オフィス賃貸管理業。",
+    "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001053373;http://nse.nikkansports.com/index.html"
+  },
+  {
+    "行": 4042,
+    "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP credo.bz 会社概要（東京都渋谷区代々木・経理派遣／人材紹介。売上高記載なし）／gBizINFO／官報決算公告（掲載を確認できず）／EDINET（提出なし）／親会社なし。法人番号3010001128704は東京法務局本局管轄で渋谷区本社と整合。承認ソースに売上高の記載が一切なく、SF『300億以上』は実態と乖離。",
+    "J": "https://www.credo.bz/sp/profile.html;https://www.credo.bz/"
+  }
 ]
