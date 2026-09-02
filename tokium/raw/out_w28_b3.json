@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1290,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP「決算情報」ページ、自社HP「電子公告」ページ（第69期＝2026年3月期の決算公告PDF掲載を確認）、パナソニックHD 2025年3月期決算短信、gBizINFO。いずれも本文で単体売上高を取得できず。禁止ソース（マイナビ）に「327億円（2025年3月期）」があるのみで承認ソース未確認。自社決算公告PDFを直接開けば回収可能な見込み",
+  "J": "https://home-renovation.panasonic.com/company/financial_results.html; https://homes.panasonic.com/phr/company/epublicnotice.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9120901032501"
+ },
+ {
+  "行": 1293,
+  "I": "△ 妥当だが回収経路を特定：新たにgBizINFO（経産省＝公的機関ソース§3-4-3/§5-3-7）に法人番号7120001047162名義でフルサト工業「第66期決算公告」（公告日2024/3/28）と「第65期決算公告」（2023/3/24）の掲載を確認。catr.jpに依存しない承認ソース経路が実在する。ただし検索枠切れで公告本文の金額を取得できず未検証のため△据置。当該URLを開けば回収できる可能性が高い",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=c65eafce-72b3-4297-b492-85e934796161; https://www3.unisol-gr.com/wp-content/uploads/2025/02/er_2412_jp.pdf; https://www.furusato.co.jp/company/profile.html"
+ },
+ {
+  "行": 1300,
+  "I": "△ 妥当（取り違えリスクを再確認）：反証検索でも返るのは北海道エアポート（HAP）の2025年度売上609億円・2025年3月期営業利益27.42億円など別法人の値のみ。北海道空港株式会社（法人番号5430001043990）は2020年の道内7空港一括運営移管後の自社売上高を承認ソースで開示しておらず確認不可。HAPの609億円をHKKに当てないこと（§6-2）",
+  "J": "https://www.hokkaido-airports.co.jp/management/financial_information.php; https://www.hokkaido-kukou.jp/; https://www.pref.hokkaido.lg.jp/ss/kkk/dounaikuukoushuushii.html"
+ },
+ {
+  "行": 1301,
+  "I": "△ 妥当（経路を1本確定的に閉じた）：追加でgBizINFOを確認したが、gBizINFOの財務情報はEDINET有報からの日次取得のみで、EDINET非提出のクオラスはN/A＝構造的に取得不可。公的機関経路は使えず、残るのはcatr.jp（§7-1回答待ち）のみ。フジ・メディアHD有報「関係会社の状況」も定性記述のみで金額なし。承認ソースでの金額確認は依然不可",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010701020177; https://quaras.co.jp/en/about/; https://catr.jp/companies/1c490/54591"
+ },
+ {
+  "行": 1308,
+  "I": "○ 妥当（G列訂正：2,310.57億円・2025年2月期）。1次の2,063億円は2017年2月期＝9期前で§3-8鮮度違反。日本食糧新聞2025/9/18「全国卸流通特集：菓子卸＝上位4社全て増収」で髙山の2024年度売上高2,310億円（前年比6.2%増）を確認し、独立2クエリが同値2,310億5,700万円に収束。新聞社ソース§3-4-4。菓子卸上位4社の一角で、コンフェックスと違いヤマエGHD等の傘下ではなく子会社ではない。300億の約7.7倍で判定自体は不変",
+  "J": "https://news.nissyoku.co.jp/news/aoyagi20250918052808104; https://news.nissyoku.co.jp/news/aoyagi20170913103936660; https://www.takayama-inf.com/company/about"
+ },
+ {
+  "行": 1309,
+  "I": "△ 妥当：追加経路＝岩手県雫石町の企業情報ページ（売上高295億円・2024年3月時点／2023年度273億円）、自社HP企業情報、セイコーグループ有報。ただし同じ295億円がマイナビ等の禁止ソースにも掲載され出典を切り分けられない。いずれにせよ295億円＜300億円で子会社単体基準（§3-3）未達の可能性が高い。セイコーG連結約2,600億円×10%＝約260億円で下限証明も不可",
+  "J": "https://www.town.shizukuishi.iwate.jp/docs/2023033100033/; https://www.morioka-seiko.co.jp/company/"
+ },
+ {
+  "行": 1310,
+  "I": "○ 妥当：反証検索で1,363億円（2024年3月期）が資本金124億円・従業員951名（2024年3月現在）・代表福井康樹と同一データセットで再現し、自社HP企業概要の記載として実在を確認。子会社だが単体値が300億の約4.5倍。残る疑問＝1,363億円が単体か阪急阪神不動産グループ値かの明示を取れず（HD不動産事業セグメント約2,700億円の約半分で単体として整合的）。2024年3月期は直近3期の最古端であり次回は要再取得",
+  "J": "https://www.hhp.co.jp/corp/outline/; https://www.hhp.co.jp/corp/finance/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001059681"
+ },
+ {
+  "行": 1311,
+  "I": "○ 妥当（判定根拠を訂正・補強）：KRSは2021/1/18のキユーピーによる一部株式売却で同社の連結子会社→持分法適用関連会社に変更済み。よって子会社ではなく自社連結グループの親会社であり、§3-3の親会社基準で連結値を採用してよい（子会社と誤認して§6-4違反になる最大の潜在リスクが解消）。2026年11月期中間の営業収益1,027.35億円（前年同期比3.1%増）から通期2,026億円規模と整合。300億の約6.7倍",
+  "J": "https://www.krs.co.jp/ir/financial.html; https://www.krs.co.jp/ir/result.html; https://www.lnews.jp/backnumber/2006/01/17601.html"
+ },
+ {
+  "行": 1312,
+  "I": "△ 妥当：追加経路＝自社HP企業情報ページ（売上高の記載なし）、スター・マイカHD業績・財務情報、EDINET。HD連結691.6億円（2025年11月期）×10%＝69.2億円で下限証明に使えず、スター・マイカ単体の実額を承認ソースで確認できず。HD有報巻末「主要な損益情報等」が未踏で回収余地あり",
+  "J": "https://www.starmica.co.jp/about-us/company/; https://www.starmica-holdings.co.jp/ir/financial/"
+ },
+ {
+  "行": 1315,
+  "I": "△ §7-1回答待ち：追加経路＝ニデックIR資料室、2025年3月期決算短信〔IFRS・連結〕（子会社単体の記載なし）、自社HP。ニデック連結約2.6兆円×10%＝約2,600億円のため10%超注記による下限証明も使えない。単体売上高はcatr.jp（官報決算公告データベース）にしか見当たらず、catr.jpが承認ソースと認められれば再検証可能",
+  "J": "https://www.nidec.com/jp/ir/library/earnings/; https://catr.jp/companies/b67b9/21009"
+ }
+]

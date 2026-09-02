@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1194,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP業績ハイライト(aml.co.jp/highlight)・会社概要(overview)・会社情報(company)、官報決算公告(該当公告を確認できず)、EDINET(非提出)。売上高539億円/408億円(2025年3月期)が流通するがマイナビ・Baseconnect・エラベル・転職会議など禁止ソースのみで、数値も相互に不一致。承認ソースでの裏取り不可。",
+  "J": "https://www.aml.co.jp/highlight; https://www.aml.co.jp/overview/; https://www.aml.co.jp/company/; https://www.aml.co.jp/history/"
+ },
+ {
+  "行": 1197,
+  "I": "○ 回収：2026年3月期 連結営業収益 863.48億円（決算短信・東証9436）。通信業は損益計算書の売上高を「営業収益」で表示する業種であり、RULES§3-7が銀行・保険の経常収益を採用するのと同旨で売上高相当として採用。1次の「営業収益は売上高でないため不採用」は過剰。KDDI連結子会社だが自社も上場・連結財務諸表提出会社で当該863.48億円は自社グループの数値。単体実額は未取得。",
+  "J": "https://okinawa-cellular.jp/ir/library/ir_library_result/; https://corp.okinawa-cellular.jp/ir/; https://www.okinawatimes.co.jp/articles/-/1764335"
+ },
+ {
+  "行": 1201,
+  "I": "△ §7-1回答待ち：1,178.13億円（2025年12月期・単体）を官報決算公告で確認済み。出典が catr.jp のため §7-1 未決着。追加で当たった経路＝自社HP会社概要、北海道新聞企業タグ、EDINET(非提出)、業界紙。catr.jp が承認ソースと認められれば○に回収可能。1次指摘の2,039億円はセイコーマート加盟店売上高で別物。",
+  "J": "https://catr.jp/companies/dba9c/116; https://secoma.co.jp/; https://www.hokkaido-np.co.jp/tags/hokkaido_company/secoma/"
+ },
+ {
+  "行": 1203,
+  "I": "○ 妥当（G列要確認）：判定は不変。ただし1次の「486億円（2025年度）」は自社ドメイン限定を含む4回の再検索で一度も再現できず、承認ソース上の裏取りは未了。独立経路として官報決算公告で第57〜60期の売上高＝321.49／378.12／360.55／422.46億円を確認、第60期＝2025年3月期の422.46億円が直近の確定値（catr出典のため§7-1は未決着）。直近いずれの期も300億円超のため○は維持。完成工事高は建設業会計上の売上高そのもので§3-7に適合。大成建設の100%子会社だが当該値は大成設備“単体”。",
+  "J": "https://taisei-setsubi.jp/corporate/profile/; https://catr.jp/companies/ce4d5/17742/settlements/d1803/411011; https://catr.jp/companies/ce4d5/17742/settlements/42aa1/357139"
+ },
+ {
+  "行": 1204,
+  "I": "△ §7-1回答待ち：405.67億円（第111期・単体）を官報決算公告で確認済み。出典が catr.jp のため §7-1 未決着。追加で当たった経路＝自社HP会社概要(daishowasiko.com/outline)・関連会社・お知らせ、gBizINFO、EDINET(非提出)。自社HPには売上高の記載なし。457億円等はマイナビ/Baseconnect等の禁止ソースのみ。catr.jp が認められれば○に回収可能。",
+  "J": "https://catr.jp/settlements/7fb8e/123214; https://www.daishowasiko.com/outline/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4080101008939"
+ },
+ {
+  "行": 1206,
+  "I": "○ 回収：2026年3月期 連結営業収益 2,822.16億円（自社HP「連結業績推移」・第74期有価証券報告書、EDINET提出会社）。不動産業は損益計算書の売上高を「営業収益」で表示する業種で、§3-7の銀行・保険と同旨により売上高相当として採用。1次の不採用理由は過剰。日本製鉄の子会社だが自社が有報提出・連結グループの親会社。単体実額は未取得。",
+  "J": "https://www.nskre.co.jp/financials/highlight.html; https://www.nskre.co.jp/financials/securities.html; https://www.nskre.co.jp/financials/pdf/sr_2024.pdf"
+ },
+ {
+  "行": 1211,
+  "I": "○ 回収：2026年3月期 営業収益 52,660百万円＝526.60億円（自社IR・決算短信、東証8628）。証券会社は「売上高」科目が存在せず営業収益が売上高に相当するため、§3-7が銀行・保険で経常収益を採用するのと同旨で採用。上場の親会社であり単体値。1次は数値まで確認済みで判定のみ誤り。",
+  "J": "https://www.matsui.co.jp/company/ir/"
+ },
+ {
+  "行": 1216,
+  "I": "△ 妥当：確認不可で正しく、かつ回収見込みなし。追加で当たった経路＝官報決算公告(第70期で単体売上高169.71億円)、リンナイIR/適時開示(子会社化リリース)、東京ガス広報、リンナイ連結(約4,600億円×10%＝460億円>ガスター規模のため有報10%超注記も不成立)。直近単体は164〜170億円規模で300億を大幅に下回る。2015年3月期357億円は東京ガス子会社時代の値で鮮度・事業構造とも条件外。",
+  "J": "https://www.rinnai.co.jp/releases/docs/0a6e32d19f3d3a7d1a7a3068ecba3def54df0080.pdf; https://www.rinnai.co.jp/corp/group/; https://www.tokyo-gas.co.jp/Press/20151202-01.html"
+ },
+ {
+  "行": 1218,
+  "I": "△ §7-1回答待ち：342.91億円（第110期＝2025年3月期・単体、前期比+31.47%）を官報決算公告で確認済み。出典が catr.jp のため §7-1 未決着。追加で当たった経路＝自社HP会社概要、博報堂DYHD有報・決算短信・月次売上高(大広単体の記載なし)、博報堂DYHD連結1兆6,131億円×10%＝1,613億円で有報10%超注記による下限証明も不成立。catr.jp が認められれば○に回収可能（300億に対し余裕14%と薄い）。",
+  "J": "https://catr.jp/companies/c83d2/24415/settlements/62640/411959; https://www.daiko.co.jp/about/outline/; https://www.hakuhodody-holdings.co.jp/ir/library/asr/"
+ },
+ {
+  "行": 1219,
+  "I": "△ §7-1回答待ち：935.82億円（第10期＝2026年1月期・単体、93,582百万円。当期純損失33,122百万円）を官報決算公告で確認済み。出典が catr.jp / prtimes決算公告のため §7-1 未決着。追加で当たった経路＝DyDo GHD有報・決算説明資料(国内飲料セグメントは複数社合算で単体は特定不可)、DyDo GHD連結2,412億円×10%＝241億円<300億円で下限証明は不成立。catr.jp が認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/4cc24/2618; https://prtimes.com/finance/8120001196529/settlement; https://holdings.dydo.co.jp/ir/highlights/"
+ }
+]

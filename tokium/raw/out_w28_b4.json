@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1316,
+  "I": "△ §7-1回答待ち：官報決算公告で単体売上高664.28億円（第55期）を確認。ただし出典はcatr.jp／官報決算データベースの二次サイトのみで§7-1未決着。追加で当たった経路＝自社HP会社概要（資本金5億円・IHI100%子会社の記載のみで売上高なし）、IHI有報（連結1.5兆円規模に対し664億は10%未満で『関係会社の状況』の主要な損益情報等・10%超注記の対象外）。catr.jpが承認ソースと認められれば○に回収可能",
+  "J": "https://www.ipc-ihi.co.jp/company/outline/index.html; https://catr.jp/companies/58624/27671; https://www.ihi.co.jp/ir/library/finance_report/"
+ },
+ {
+  "行": 1317,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（会社概要・社長コラムに売上高記載なし、IRなし）、官報決算公告（第25期337.34億円・第24期376.22億円だが出典はcatr.jp／官報決算データサービスの二次サイトのみで§7-1未決着、かつ第25期は概ね2021年前後で直近3期外）、親会社伊藤忠商事の有報（連結14兆円規模で10%超注記・損益開示の対象外）。DNS事業売却後の現在規模も未開示",
+  "J": "https://catr.jp/settlements/c33cb/197408; https://kanpo.tremolo.work/disclosures/114002; https://www.domecorp.com/"
+ },
+ {
+  "行": 1320,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報・沿革・関連事業・採用（売上高記載なし）、自社サイト内の公告PDF群（掲載はカネスエ・フロンティアの損益計算書と資本準備金減少公告のみで本体PLなし）、官報決算公告（第32期・決算日2024年3月31日がcatr.jpにあるが§7-1未決着かつ売上高欄の有無も未確認）、EDINET該当なし。1,930億円等はマイナビ等の禁止ソースのみ",
+  "J": "https://kanesue.co.jp/company/; https://kanesue.co.jp/_wp-cms/wp-content/uploads/2025/07/PL_2018.pdf; https://catr.jp/companies/081c2/69114/settlements/e7dcb/383506"
+ },
+ {
+  "行": 1323,
+  "I": "△ 妥当（未踏経路あり）：NTT／NTTアーバンソリューションズ傘下の子会社のため単体300億の確認が必要。追加で当たった経路＝自社HP会社概要（2,408億円は連結表記）、IR資料室・有報バックナンバー（2019年1月上場廃止のため有報は2019〜2020年3月期までで鮮度条件外）、NTT有報（連結13兆円規模で10%超注記の対象外）、EDINET（第43期S100XVGTはNTT都市開発リート投資法人で別法人・誤用注意）。自社電子公告ページに単体決算公告が残る可能性",
+  "J": "https://www.nttud.co.jp/company/outline/; https://www.nttud.co.jp/koukoku/; https://www.nttud.co.jp/ir/library/statements.html"
+ },
+ {
+  "行": 1325,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報・モリモトグループ紹介（売上高記載なし、IRページなし）、EDINET該当なし（旧8899は2008年民事再生で上場廃止済み）、官報決算公告（第40期・第35期がcatr.jpに存在するが§7-1未決着で数値も未取得）、決算期付き売上高を明記した新聞記事なし。持株会社モリモトHD傘下の子会社のため単体300億の確認が必要",
+  "J": "https://morimoto-real.co.jp/corporate/group.html; https://catr.jp/companies/4b172/20810/settlements/94ff4/314956; https://catr.jp/companies/4b172/20810"
+ },
+ {
+  "行": 1328,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝新社名サイトatryzene.comの会社概要（2025年10月1日に株式会社ダイヤ昭石から改称・売上高記載なし）、旧サイトdia-s.co.jp、EDINET該当なし、決算公告（資本金5,000万円で会社法上の大会社に該当せず公告は貸借対照表のみ＝売上高欄が存在しない）、出光興産・三菱商事エネルギー系のIRにも単体売上なし。数値は転職会議・OpenWork等の禁止ソースのみ",
+  "J": "https://www.atryzene.com/company/; https://www.atryzene.com/"
+ },
+ {
+  "行": 1329,
+  "I": "△ 妥当（未踏経路あり）：追加で当たった経路＝自社HPグループ会社紹介（売上高記載なし）、親会社ファーマライズHDのIR（2025年5月期連結635億円。セグメントは調剤薬局事業等4区分で法人単体値ではない）、決算短信・財務ハイライト・EDINET。親会社有報『関係会社の状況』の主要な損益情報等に単体売上高が載る可能性が残るがPDF本文を取得できず未確認。連結635億円×10%＝63.5億円のため10%超注記による下限証明では300億基準を満たせない",
+  "J": "https://www.pharmarise.com/ir/securities.php; https://www.pharmarise.com/ir/highlight.php; https://www.pharmarise.com/company/group/pharmarise.php"
+ },
+ {
+  "行": 1332,
+  "I": "○ 回収：885億円（2024年3月期・単体）。千葉トヨタグループ公式サイト内の新卒採用ページ『各社の事業を知る』に「千葉トヨタ自動車…事業規模は売上高885億円、従業員数1341名（2024年3月末）」と明記（§5-3の9系統目＝自社ドメイン内の採用ページ）。持株会社千葉トヨタグループ株式会社傘下だが単体で300億円を大きく超えるためOK。1次が鮮度条件外とした自社HP728億円（2023年3月期）より新しく整合的。https://tm.ctgroup.jp/business/",
+  "J": "https://tm.ctgroup.jp/business/; https://www.chibatoyota.co.jp/corporate_infomation/corporate_profile; https://ctgroup.jp/"
+ },
+ {
+  "行": 1335,
+  "I": "× 要修正：【300億未満】296億円（2024年度＝2025年3月期・単体）。自社HP会社概要に「2024年度実績 売上高296億円・販売台数13,582台」「従業員760名（2025年4月1日現在）・資本金4億9,000万円」と明記。ダイハツ工業の子会社のため単体判定となり300億円未満で対象外。参考：官報決算公告は第42期309.34億円・第41期340.14億円で減少傾向。https://daihatsu-tokyo.co.jp/Company/outline",
+  "J": "https://daihatsu-tokyo.co.jp/Company/outline; https://catr.jp/companies/2a4f1/7314/settlements/3a596/352477; https://catr.jp/companies/2a4f1/7314/settlements/806e2/301327"
+ },
+ {
+  "行": 1336,
+  "I": "△ §7-1回答待ち：官報決算公告で単体売上高1,231.90億円（第25期）を確認。法人番号6010401027008一致、第26期公告も存在。ただし出典はcatr.jpおよびPR TIMES決算公告データという二次サイトのみで§7-1未決着。追加で当たった経路＝自社HP（会社概要・ニュースに売上高記載なし）、EDINET該当なし、ロシュ本国アニュアルレポートは地域別開示で日本法人単体値なし。catr.jpが認められれば○に回収可能",
+  "J": "https://catr.jp/companies/63b6d/4054/settlements/26918/298475; https://prtimes.jp/finance/6010401027008/settlement; https://www.roche-diagnostics.jp/"
+ }
+]

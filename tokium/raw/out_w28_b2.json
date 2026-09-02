@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1255,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告(第49期)は当期純利益2億2590万円・利益剰余金のみで売上高欄が存在せず(貸借対照表のみの公告)、この経路は閉じている。gBizINFO・JR東日本IRにも紀ノ國屋単体の売上高記載なし。参考値は2009年時点グループ約138億円で、むしろ300億未満の疑いが強い。JR東日本完全子会社のため連結値は使用不可。",
+  "J": "https://www.e-kinokuniya.com/corporate/about ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010401087320 ; https://catr.jp/companies/a0e74/27264"
+ },
+ {
+  "行": 1256,
+  "I": "△ §7-1回答待ち：常石造船単体の第15期決算公告が官報決算公告に存在(収録はcatr.jp/prtimes finance)。自社HP『常石グループ2025年度連結業績報告』の造船事業2,630億円はグループ連結のセグメント値で単体不可(1次判断を支持)。第10期公告では単体1,485.5億円だが§3-8の鮮度要件外。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://www.tsuneishi-g.jp/news/press/2026/04/30246/ ; https://catr.jp/companies/4740c/4240 ; https://prtimes.com/finance/8240001037704/settlement"
+ },
+ {
+  "行": 1259,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HPニュースで2025年8月1日付『株式会社IGホールディングス』を中心とする純粋持株会社体制へ移行を確認。よってイグアスは子会社となり単体値が必要だが、自社HP会社概要に売上高記載なし。グループ売上466億円(2025年3月期)はNIKKEI COMPASS/マイナビ/Baseconnectの禁止ソースのみ、かつグループ値のため不採用。",
+  "J": "https://www.i-guazu.co.jp/corporate/profile/ ; https://www.i-guazu.co.jp/news/2025/08/n202508011.html ; https://catr.jp/companies/41707/23502"
+ },
+ {
+  "行": 1265,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告・親会社読売新聞グループ本社の公開資料にも単体売上高なし。禁止ソース(SalesNow/Baseconnect/アラームボックス)は『売上高10〜50億円』『2021年36億円』とし、むしろ300億未満の疑いが強い。旅行業は総取扱高と売上高が別概念で、取扱高を売上高と誤読する危険があるため数値採用は不可。読売新聞グループ子会社。",
+  "J": "https://www.yomiuri-ryokou.co.jp/ ; https://alarmbox.jp/companyinfo/entities/1010001060090"
+ },
+ {
+  "行": 1268,
+  "I": "△ 要再確認(§7-1)：官報決算公告 第79期 売上高340億9,800万円(前期比▲11.59%)・純利益8億8,500万円を確認。ただし出典が官報決算データベース(catr.jp)のみ。自社HP企業情報/採用ページは資本金14億5,874万円・従業員603名のみで売上高非公表。博報堂DYHD有報『関係会社の状況』にも読広単体の記載なし(連結約1兆円に対し3.4%で10%超注記の対象外)。catr.jp承認なら○。",
+  "J": "https://www.yomiko.co.jp/about/ ; https://www.yomiko.co.jp/newgrads/company/info.html ; https://x.com/kessan_db/status/1945082254583054356 ; https://www.hakuhodody-holdings.co.jp/ir/library/asr/"
+ },
+ {
+  "行": 1276,
+  "I": "○ 妥当（I列訂正：1次の『上場』は誤りで非上場。ただし出典は自社公式サイトで承認ソース①に該当）：381.02億円(2026年3月期・単体・完成工事高)。自社HP会社概要に2026年3月期『完成工事高381億198万円』。建設業のP/Lトップライン科目は完成工事高＝売上高(§3-7準拠)で、1次原判定の『売上高ではない』は解釈誤り。自社HPビジネスレポート第86期(2024/4/1〜2025/3/31＝2025年3月期)も37,478百万円=374.78億円で2期連続300億超。資本金12.36億円・486名(大阪市北区)、親会社の存在は確認されず子会社制約は不適用。",
+  "J": "https://www.sanko-air.co.jp/company/outline/ ; https://www.sanko-air.co.jp/pdf/business_report_086.pdf ; https://www.sanko-air.co.jp/company/ir/"
+ },
+ {
+  "行": 1277,
+  "I": "○ 回収：797.40億円(2026年3月期・連結・営業収益)。自社IR決算短信〔日本基準〕(連結)で営業収益79,740百万円(+1.4%)。倉庫業の損益計算書トップライン科目は営業収益で売上高に該当(§3-7準拠)。東証プライム上場9304の親会社であり§3-3により連結値で判定可。中間期も営業収益400億4,500万円と半期だけで300億超。",
+  "J": "https://www.shibusawa.co.jp/wp-content/uploads/2026/05/20260511-01IR.pdf ; https://www.shibusawa.co.jp/irpress_cat/results/"
+ },
+ {
+  "行": 1279,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝新聞社報道。2026年2月にビッグローブおよび子会社ジー・プランの広告代理事業で架空取引が発覚し売上の99.7%が架空・外部流出329億円、KDDIは過年度決算修正で売上高累計2,461億円の下振れを発表、社長引責辞任。過年度単体売上高が全面修正中で確定値が存在せず、修正後に300億を割る可能性も否定できない。",
+  "J": "https://www.nikkei.com/article/DGXZQOUC236EP0T20C26A3000000/ ; https://www.itmedia.co.jp/news/articles/2603/31/news121.html ; https://www.watch.impress.co.jp/docs/news/2097957.html ; https://www.biglobe.co.jp/"
+ },
+ {
+  "行": 1280,
+  "I": "△ 要再確認(§7-1)（1次の『直近3期は未収録・鮮度要件外』は誤り）：官報決算公告は第85期(決算末日2024/12/31)まで収録され単体売上高542億6,100万円・純利益21億6,800万円(法人番号9120001056632で一致)。第84期447.27億/第83期426.02億。よって鮮度要件は満たし、残る障害はcatr.jp・prtimes finance等の二次収録サイトしか出典が無いこと(承認ソース不在)。自社HP会社概要・採用サイトにも売上高記載なし。禁止ソースの『2025年12月期548億』は別期の値で混同注意。catr.jp承認なら542.61億で○に回収可。",
+  "J": "https://www.taiyokogyo.co.jp/company/profile/ ; https://recruit.taiyokogyo.co.jp/about/quick-guide/ ; https://catr.jp/companies/fc81c/5205 ; https://prtimes.com/finance/9120001056632/settlement"
+ },
+ {
+  "行": 1287,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP『会社概要』『一目で見るノボ ノルディスク』『会社案内PDF』『統合報告書2023』まで確認したが、いずれもデンマーク本社の全社売上(1,220億DKK)のみで日本法人単体は非公表(記載は資本金21億405万円・拠点数のみ)。『2024年12月期1,344億9,900万円』はNIKKEI COMPASS/マイナビ/Yahoo!しごとカタログの禁止ソースのみ。",
+  "J": "https://www.novonordisk.co.jp/about-novo-nordisk/novo-nordisk-in-brief.html ; https://www.novonordisk.co.jp/content/dam/nncorp/jp/ja/about-novo-nordisk/facts/pdfs/company-profile.pdf ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001054074"
+ }
+]
