@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1942,
+  "I": "× 要修正：官報決算公告（catr.jp収録）で第50期売上高40.54億円、第49期40.93億円、第46期55.61億円、第45期55.34億円と全期一貫して300億円未満。E列「300億以上〜1,000億未満」は誤り。ヤマトHD傘下の金融子会社で自社HP・ヤマトHDのIRに単体売上高の記載なし。仮に§7-1でcatr.jpが承認ソース外となっても「載せない」で結論は不変。追加経路＝官報決算公告・自社HP会社案内",
+  "J": "https://www.yamato-credit-finance.co.jp/company/;https://catr.jp/companies/e1b46/17566;https://catr.jp/companies/e1b46/17566/settlements/71d42/355901;https://catr.jp/companies/e1b46/17566/settlements/8f450/307052"
+ },
+ {
+  "行": 1944,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告（catr.jp収録・第49期は総資産155.86億円/純利益0.68億円のみのBS公告で売上高欄が存在しない＝開示義務なく探しても出ない）、自社グループHP、gBizINFO、マイナビ会社概要。売上高250億円はSalesNow/Baseconnect等の禁止ソースのみで、仮に正しくても300億未満。同名法人（岩手県盛岡市のパチンコホール運営）との照合が必要な点も残る",
+  "J": "https://catr.jp/companies/eb22d/34338;https://www.nk-group.co.jp/;https://baseconnect.in/companies/ee3c9174-d135-40d2-a43f-45159fa4c452"
+ },
+ {
+  "行": 1948,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（売上高の記載なし。資本金1億円・従業員203名・3月決算のみ）、自社HP会社案内・沿革・採用ページ、官報決算公告検索（該当公告を発見できず）。売上高約300億円はBaseconnect/NIKKEI COMPASS/就活会議/OpenWork等の禁止ソースのみ。米卸・従業員203名でE列「1,000億円以上」は明らかに過大。非上場・親会社なしで下限証明の経路もない",
+  "J": "https://ikutatsu.co.jp/toppage/company;http://www.ikutatsu.co.jp/company/;https://ikutatsu.co.jp/toppage/about_ikutatsu"
+ },
+ {
+  "行": 1949,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO、官報決算公告（catr.jp第45期は純利益3.82億円・利益剰余金39.16億円のみのBS公告で売上高欄が存在しない）、決算公告第52期も当期純利益2.17億円のみ、自社HP、キャリタス就活。学校法人東海大学等が株主の非上場会社で売上高の開示義務がなく探しても出ない△確定。純利益2〜4億円規模でE列「300億以上」自体が疑わしい",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7021001021209;https://catr.jp/settlements/23cdb/27121;https://job.career-tasu.jp/corp/00124657/detail-uc/"
+ },
+ {
+  "行": 1950,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、富山県公式「就活ラインとやま」企業情報（公的機関＝§5-3系統7。資本金8,250万円・連結従業員351名・飲食料品卸売業の記載はあるが売上高なし）、gBizINFO、官報決算公告検索（該当公告なし）。売上高はYahoo!しごとカタログ/Baseconnect/就活会議等の禁止ソースのみ。非上場・親会社なしで下限証明の経路もない",
+  "J": "https://shukatsu-line.pref.toyama.lg.jp/corporation/1580/info;http://www.aidic.co.jp/info.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6230001012701"
+ },
+ {
+  "行": 1955,
+  "I": "× 要修正：遠鉄グループ公式（親会社=遠州鉄道の企業情報）の同社概要で2026年2月期 営業収益12,323,879千円＝123.24億円（単体）を確認。百貨店の営業収益は収益認識基準の純額表示による売上高相当額で、§3-7により最新基準の値を採用すると123.24億円＝300億円を大きく下回る。遠鉄グループ連結営業収益1,500.62億円のうちリテールサービス事業（百貨店＋食品スーパー）全体でも中間期348.48億円。E列「300億以上」は誤り",
+  "J": "https://www.entetsu.co.jp/company/group/depart.html;https://www.entetsu.co.jp/koukoku/gyoseki.pdf;https://www.entetsu.co.jp/release/20250520_entetsu.pdf;https://www.endepa.com/company"
+ },
+ {
+  "行": 1961,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP、TOTOのIR（有報・決算短信）、官報決算公告（1次調査で売上高欄が存在しない＝BS公告のみであることを確認済み）。追加検算＝TOTO連結売上高約6,900億円の10%＝約690億円を同社が超えることはなく、親会社有報「関係会社の状況」に単体実額は載らないため下限証明も不可。開示義務がなく探しても出ない△が確定した結論",
+  "J": ""
+ },
+ {
+  "行": 1965,
+  "I": "△ 要再確認：官報決算公告に第19期売上高1,782億円との記載があると複数の二次サイト（決算公告データ倉庫・バフェット・コード・NIKKEI COMPASS）が示すが、官報の発行日・号数・頁を特定できず承認ソースに到達不能。当たった経路＝自社HP会社概要/所在地/社長挨拶/商号変更告知（財務情報なし）、gBizINFO、日立製作所IR（連結約9.7兆円で10%＝約9,700億円のため有報「関係会社の状況」に単体実額は載らない）。2025/6/1付で日立GEベルノバニュークリアエナジーへ商号変更＝法人格は存続。官報本体の掲載箇所を特定できれば○回収可能",
+  "J": "https://www.hitachi-hgne.co.jp/about/outline/index.html;https://www.hitachi-hgne.co.jp/namechange.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4050001024551"
+ },
+ {
+  "行": 1970,
+  "I": "△ 要再確認：自社HPに決算公告ページ（第18期2021年3月期・第19期2022年3月期のtopics記事）が実在することを新たに確認。同形式の最新期ページに売上高が載っていれば○回収可能だが検索では本文を取得できず。catr.jpにも官報決算公告を収録（§7-1未決着）。検算＝二次情報の858.22億円は三井化学連結売上収益18,092億円（2025年3月期）の約4.7%で10%未満のため、親会社有報「関係会社の状況」に単体実額は載らず1次の判断は正しい。他はマイナビ/東洋経済/OpenWork/Baseconnect等の禁止ソースのみ",
+  "J": "https://www.mc-croplifesolutions.com/topics/37_5wpe7ly/;https://www.mc-croplifesolutions.com/topics/nk0kvybff/;https://www.mc-croplifesolutions.com/about-us/profile/;https://catr.jp/companies/1e6a1/53659;https://jp.mitsuichemicals.com/content/dam/mitsuichemicals/sites/mci/documents/release/2025/kessan_250513.pdf"
+ },
+ {
+  "行": 1971,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、東宝のIRライブラリ・決算短信・決算説明資料・業績ハイライト（東宝映像美術と併記で映像事業セグメント776.61億円の内数として触れられるのみ、単体開示なし）、gBizINFO、官報決算公告検索。検算＝東宝連結営業収入約3,000億円の10%＝約300億円を超えるなら有報「関係会社の状況」に実額が載るはずだが記載がなく、300億円超の可能性は低い",
+  "J": "https://www.toho.co.jp/company/ir/disclosure;https://www.toho.co.jp/company/ir/highlight;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001129137"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2049,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要、⑤決算公告（官報二次DB収録の第23期＝2020年3月期は純利益1億7,854万円・総資産16億7,220万円のみで売上高欄が存在せず、かつ鮮度条件外）、⑥親会社アンデルセングループHP（グループ売上742.08億円＝2025年3月期はグループ値で§3-3により子会社単体には使えない。同グループは非上場で有報なく10%超注記による下限証明も不可）、⑨広島県企業データベース。単体売上高の承認ソースなし。",
+  "J": "https://www.andersen-group.jp/company/25/ ; https://catr.jp/companies/8a212/130865 ; https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00879.html"
+ },
+ {
+  "行": 2051,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP、⑤決算公告（官報二次DB収録の第18期は純利益44.91億円・利益剰余金246.71億円・総資産545.34億円のみで売上高欄が存在せず、2019年開示で鮮度条件外）、⑦gBizINFO。Kering SAのグループ世界売上は対象法人値でなく§3-3によりNG。株式会社ケリングジャパン単体売上高の承認ソースなし。",
+  "J": "https://catr.jp/companies/4bdfc/68652 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010401044641 ; https://www.kering.com/jp/"
+ },
+ {
+  "行": 2058,
+  "I": "○ 妥当（G列訂正：G列は「確認不可」のままで○と矛盾。766.47億円（第52期・単体）を記入すべき）：反証を試みたが覆らず。①親会社コクヨの有価証券報告書「関係会社の状況」に、コクヨマーケティング㈱について『売上高（連結会社相互間の内部売上高を除く）の連結売上高に占める割合が10％を超えている』旨の注記があることを再確認（2023年12月期版で確認）。コクヨ連結売上高は3,300億円超のため単体の下限は330億円超となり300億円基準を充足（下限証明）。②独立系統として官報決算公告 第52期＝売上高766億4,700万円（前年比+6.13％、営業利益37.81億円、純利益35.88億円）を確認。766.47億円はコクヨ連結の約22％で①の『10％超』注記と整合し、桁も検算済み。※②の出典は官報二次DB（§7-1未決着）のため判定の主根拠は①の下限証明とし、②は整合性の裏付けとして扱う。",
+  "J": "https://www.kokuyo.co.jp/ir/library/fr.html ; https://donburi.accountant/report/?es=455&t=4 ; https://prtimes.jp/finance/4010401072162/settlement/194037 ; https://catr.jp/companies/2b4cc/2509"
+ },
+ {
+  "行": 2059,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社情報、⑤決算公告（官報二次DBに売上高の記載なし）、⑥親会社㈱茨日ホールディングHP（グループ売上808億円＝2024年度はグループ値で§3-3によりNG）、⑧業界紙。※法人は存続。2025年10月1日に日産プリンス茨城販売を吸収合併し茨城日産自動車が存続会社。合併前単体263億円（2024年度）は禁止ソース由来かつ合併前の値のため不採用。合併後単体の公表があれば回収余地あり。",
+  "J": "https://ni-ibaraki.nissan-dealer.jp/company/about.html ; https://ibanichiholding.co.jp/ ; https://www.netdenjd.com/articles/-/204973"
+ },
+ {
+  "行": 2062,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（売上高の記載なし）、⑧繊研新聞（トップインタビュー等の記事はあるが決算期付きの売上高実額の明記なし）、⑤決算公告（官報での掲載を特定できず）、⑦gBizINFO。二次情報の売上高が554億円と564億円で割れており数値の同定ができないため採用不可。承認ソースでの確認に至らず。",
+  "J": "https://www.urban-research.co.jp/company/profile.html ; https://senken.co.jp/posts/urbanresearch-250128 ; https://senken.co.jp/posts/urban-research-240201"
+ },
+ {
+  "行": 2066,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP財務情報（morganstanley.co.jpの開示はモルガン・スタンレーMUFG証券等の事業会社分で、当該持株会社自体の売上高・営業収益はなし）、⑤決算公告（官報での掲載を特定できず）、②③EDINET/有報（当該法人の提出を確認できず）、⑦gBizINFO。Morgan Stanley本体のグローバル純収益は対象法人値でないため不採用。",
+  "J": "https://www.morganstanley.co.jp/ja/about-us/financial-information ; https://www.sc.mufg.jp/company/finance/koukoku.html ; https://www.morganstanley.co.jp/ja/about-us/financial-information/earnings-releases"
+ },
+ {
+  "行": 2076,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝⑥親会社㈱日新(9066)の有報・決算短信・決算ダイジェスト（開示は「旅行業その他事業」セグメント売上高381.76億円までで、日新航空サービス単体の実額は確認できず。日新連結約2,913億円×10%＝291.3億円<300億円のため10%超注記による下限証明も成立しない）、⑤決算公告（官報二次DB収録は2021年3月期止まりで鮮度条件外）、①自社HP。単体売上高の承認ソースなし。",
+  "J": "https://www.nissin-tw.com/ir/finance/digest.html ; https://pdf.irpocket.com/C9066/vAfC/SPiB/ZyV0.pdf ; https://catr.jp/companies/29fbb/70368"
+ },
+ {
+  "行": 2080,
+  "I": "○ 回収：東証プライム上場(7164)の独立系親会社で子会社ではない。2026年3月期決算短信（2026/5/8適時開示）の連結営業収益58,739百万円＝587.39億円（前期比+3.1%。同短信の連結営業利益413.82億円と整合し桁を検算済み）で300億円を大きく超過。信用保証業のため損益計算書に「売上高」科目が存在せず、§3-7（銀行・保険の経常収益採用）に準じ最上位収益科目の「営業収益」を採用。決算短信は§3-4②の承認ソース。",
+  "J": "https://www.zenkoku.co.jp/ir/library/library_earnings.html ; https://www.nikkei.com/nkd/disclosure/tdnr/20260508520004/ ; https://www.zenkoku.co.jp/ir/library/index.html"
+ },
+ {
+  "行": 2082,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP（jp.kearney.comに日本法人の売上高記載なし）、⑤決算公告（官報での掲載を特定できず）、③EDINET（提出なし）、⑦gBizINFO。売上高の数値はマイナビ/OpenWork/Baseconnect/Wikipedia等の禁止ソースにしか存在せず§3-4により不採用。E列「1,000億円以上」を裏付ける承認ソースもなし。",
+  "J": "https://www.jp.kearney.com/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401004058"
+ },
+ {
+  "行": 2084,
+  "I": "△ 妥当：確認不可で正しい。法人は存続（東京都港区虎ノ門・医薬品/再生医療等製品の製造業・従業員約200名）。当たった経路＝①ノバルティスジャパン/自社HP会社概要（日本チバガイギー単体の売上高記載なし）、⑤決算公告（官報での掲載を特定できず）、③EDINET（提出なし）、⑦gBizINFO・自治体企業情報。ノバルティスの子会社であり§3-3によりグループ値やノバルティスファーマの数値は使用不可。単体売上高の承認ソースなし。",
+  "J": "https://www.novartis.com/jp-ja/about-us/novartis-japan/novartis-pharma ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401040264 ; https://www.city.tambasasayama.lg.jp/soshikikarasagasu/sozoutoshika/kigyoshinko/kigyoshinkokigyoyuchijigyo/kigyoyutikankei/shinsyutukigyounokoe/26911.html"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2035,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(kk-oyama.co.jp/company.html)・オヤマについて(/oyama.html)、gBizINFO、全国法人リスト(法人番号4400501000586一致・現存)、ふるさといわて定住財団企業詳細、一関市製造業者データベース、いちJOB、いわて活性化企業紹介。いずれも売上高の記載なし。決算公告も官報・二次DBともに不掲載。NIKKEI COMPASSは有料かつ§6-6で非承認扱い。承認ソースで確認できる唯一の数値は2020年度103億円で鮮度条件外かつ300億未満。E列『300億以上〜1,000億未満』はSF側の誤登録の疑いが強い。回収見込みなし。",
+  "J": "http://www.kk-oyama.co.jp/company.html; https://www.kk-oyama.co.jp/oyama.html; https://houjin.jp/c/4400501000586; https://www.furusato-i.or.jp/fsystem/fit_search/view_company/129371281"
+ },
+ {
+  "行": 2038,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝1次未踏の自社HP会社概要(https://www.yomiuri-is.co.jp/about/outline/)を新たに直撃したが、設立1976年6月・資本金9,700万円・本社東京都中央区日本橋人形町3-9-1・代表中川雅夫のみで売上高欄が存在しない。会社情報トップ(/about/)・沿革(/about/philosophy/)・読売ISロジテム/宮城読売IS/栃木読売ISの各会社概要も同様。親会社の読売新聞グループ本社は非上場で有報・決算短信がなく、親会社IR巻末ルートは構造的に不成立。官報決算公告も承認ソース・二次DBともに特定できず。437億8,403万円(2025年3月期)はマイナビ2027のみの記載で禁止ソース。残る経路は官報本体の号数特定のみ。",
+  "J": "https://www.yomiuri-is.co.jp/about/outline/; https://www.yomiuri-is.co.jp/about/; https://www.yomiuri-is.co.jp/about/philosophy/"
+ },
+ {
+  "行": 2039,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝1次未踏の自社HP会社概要(https://kanto-koyu.co.jp/company/)を直撃し、出光興産特約販売店・関東地方にSS54ヶ所・従業員249人・設立1936年10月1日・本店東京都港区芝大門2-1-16・2030年に創業100年、まで取得できたが売上高の記載なし。gBizINFO(法人番号4010401007457)では決算公告が2016年2月16日時点の古い情報のみで、直近3期の売上高に到達しない。数値が出るのはバフェット・コード/Baseconnect/OpenWork/Weblio・Wikipediaのみで全て禁止ソース。残る経路は官報本体の直近決算公告の号数特定のみ。",
+  "J": "https://kanto-koyu.co.jp/company/; https://kanto-koyu.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401007457"
+ },
+ {
+  "行": 2040,
+  "I": "× 要修正：法人格消滅が確定的（§6-7）。親会社アシックス(7936)が2026年8月14日付適時開示『連結子会社の解散及び清算（方針）に関するお知らせ』で、アシックス商事の全事業及び業務を株式会社アシックス又はアシックスジャパンへ移管した上で会社運営を終了し、解散及び清算する方針を取締役会決議。自社ブランド(テクシーリュクス/アキュアーズ/ラクウォーク/レディワーカー)は2026年12月31日で販売終了、2026年12月期2Qに転身支援等費用6,717百万円を特別損失計上済み。架電しても計上不可のため直アポ大から除外。なお売上高については1次未踏の自社HP決算公告ページ(https://www.asics-trading.co.jp/company/performance02.html)に第71期(2024年1-12月)までのPDFがあり損益計算書＝売上高が記載されているが、解散確定のため金額如何に関わらず対象外。",
+  "J": "https://assets.asics.com/system/libraries/4214/%E9%80%A3%E7%B5%90%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E8%A7%A3%E6%95%A3%E5%8F%8A%E3%81%B3%E6%B8%85%E7%AE%97%EF%BC%88%E6%96%B9%E9%87%9D%EF%BC%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf; https://www.asics-trading.co.jp/company/performance02.html; https://www.asics-trading.co.jp/cms/pdf/71%E6%9C%9F%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A.pdf"
+ },
+ {
+  "行": 2041,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(https://shikoku.meiji.co.jp/company/outline.html)・事業所一覧、明治HDのグループ会社紹介(https://www.meiji.com/corporate/meiji/group/shikoku-meinyu/)、gBizINFO(法人番号1470001010628)、官報決算公告DB。いずれも売上高の記載なし。【出典の検算】明治HD連結売上高は約1.1兆円規模で、有報『関係会社の状況』に実額が載るのは連結売上高の10%超＝約1,100億円超の子会社のみ。四国明治は禁止ソース(マイナビ2026)表示でも211億円(2024年3月期)であり10%基準に遠く及ばないため、親会社有報ルートは構造的に成立しない。仮にその211億円が正しければ300億未満で対象外。回収見込みなし。",
+  "J": "https://shikoku.meiji.co.jp/company/outline.html; https://www.meiji.com/corporate/meiji/group/shikoku-meinyu/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1470001010628"
+ },
+ {
+  "行": 2042,
+  "I": "△ 妥当：確認不可で正しい。かつ回収余地なしと確定。【検算1】1次が挙げた官報二次DB(catr.jp)の194.1億円(2026年3月期・単体)は300億円未満であり、§7-1でcatr.jpが承認ソースと認められた場合でも○ではなく×に倒れる。よって§7-1の回答を待っても架電可には戻らない。【検算2】194.1億円は三井倉庫HD連結(2,000億円超規模)の10%未満であり、親会社有報『関係会社の状況』に子会社単体売上高の実額が載る条件(連結の10%超)を満たさないため、親会社IR巻末ルートも構造的に成立しない。当たった経路＝三井倉庫HDグループ会社紹介ページ、自社HP、官報決算公告DB、EDINET(単独提出なし)。承認ソースでの単体売上高は確認できず。",
+  "J": "https://www.mitsui-soko.com/company/group/mscs/"
+ },
+ {
+  "行": 2043,
+  "I": "△ 要再確認（§7-1回答待ち）：官報決算公告に売上高449.56億円（最新期・単体／決算期の表示は特定できず）が掲載されており300億円基準を上回る。過去期は591.17億円(2018年9月期・単体)、1,040億円(2014年9月期・単体)。ただし参照できたのが官報決算データベース(catr.jp)である点が§7-1の未決着論点に依存する。catr.jpが承認ソースと認められれば○に回収可能。官報本体の発行日・号数・頁は1クエリでは特定できず（深追いせず打ち切り）。当たった経路＝自社HP会社概要(https://www.matsubara-kosan.co.jp/profile/)・事業沿革、京都ジョブナビ(京都市公式)、gBizINFO、官報決算公告DB。自社HPには売上高の記載なし。法人番号5130001033080は全国法人リストで現存確認済み（京都府宇治市／本社京都市伏見区・キョーイチグループ、閉鎖・商号変更なし）。",
+  "J": "https://www.matsubara-kosan.co.jp/profile/; https://www.matsubara-kosan.co.jp/history/; https://catr.jp/companies/4f450/38373; https://houjin.jp/c/5130001033080; https://kigyo.city.kyoto.lg.jp/kyomachi/company/single/2922.php"
+ },
+ {
+  "行": 2044,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(https://www.zent-heisei.co.jp/about_us.html)・ZENTグループサイト会社概要(https://www.zent.co.jp/company/outline/)、平成ホールディングス系サイト、gBizINFO、官報決算公告DB(catr.jpには当社の収録なし)、栃木県公的就職サイト。いずれも売上高の記載なし。Wikipedia上に『第36期決算公告』への言及があり官報決算公告の存在自体は示唆されるが、官報本体・二次DBのいずれからも数値・号数を特定できなかった。550億円(2025年12月期・単体)はWikipedia／マイナビ2026・2027／キャリタス就活／ウインク(WinC)／パチンコ求人サイトのみの記載で全て禁止ソース。残る経路は官報本体の第36期決算公告の号数特定のみ。",
+  "J": "https://www.zent-heisei.co.jp/about_us.html; https://www.zent-heisei.co.jp/; https://www.zent.co.jp/company/outline/"
+ },
+ {
+  "行": 2045,
+  "I": "△ 妥当：確認不可で正しい。かつ回収見込みなしと確定。当たった経路＝グループ公式サイトの会社概要(https://www.sanyobussan.co.jp/corporate/outline.html)・沿革(/corporate/history.html)・採用サイト、gBizINFO(法人番号2180001049678)、官報決算公告DB(当社の収録なし)、親会社三洋物産のIR相当ページ。いずれも三洋販売単体の売上高の記載なし。2001年1月に三洋物産の販売部門を分離して設立された遊技機(パチンコ機・パチスロ機)販売・アフターメンテナンス会社、従業員226人、登記住所 愛知県名古屋市千種区今池3-9-21。求人媒体の会社概要欄ですら売上高は『非公開』表記で、禁止ソースにも数値が存在しない。親会社三洋物産も非上場で有報なし。承認ソースでの取得は見込めない。",
+  "J": "https://www.sanyobussan.co.jp/corporate/outline.html; https://www.sanyobussan.co.jp/corporate/history.html; http://www.sanyobussan.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2180001049678"
+ },
+ {
+  "行": 2048,
+  "I": "△ 妥当：確認不可で正しい（ただし回収見込みは高い）。持株会社のため§3-3によりグループ連結300億円超で可。当たった経路＝1次未踏の自社HP『数字で見る藤原産業』(https://www.fujiwarasangyo.co.jp/about/key/)、グループネットワーク(/about/groupnetwork/)、藤原産業株式会社 会社概要(/about/groupnetwork/fujiwara/)、事業概要(/business/overview/)、採用募集要項(/recruit/info.html)、会社概要・沿革(/about/aboutus/)、電子公告・決算公告ページ(自社ドメイン内に存在せず)、官報決算公告DB(収録なし)、gBizINFO。自社HPからは創業1897年・設立1944年・資本金8,000万円・従業員1,156名(グループ連結)・本社兵庫県三木市末広3-11-31までは取れたが、売上高はテキストとして取得できなかった。645億円(2024年6月期)・449.33億円(2016年6月期)がマイナビ2027／Baseconnect／就活会議／OpenWork／NIKKEI COMPASSで一致するが全て禁止ソースのため採用不可。※『数字で見る藤原産業』ページに売上高が画像等で掲載されている可能性が高く、同ページを直接閲覧できれば○回収の公算が大きい（本作業はWebFetch不可のため未到達）。",
+  "J": "https://www.fujiwarasangyo.co.jp/about/key/; https://www.fujiwarasangyo.co.jp/about/aboutus/; https://www.fujiwarasangyo.co.jp/about/groupnetwork/fujiwara/; https://www.fujiwarasangyo.co.jp/recruit/info.html; https://www.fujiwarasangyo.co.jp/business/overview/"
+ }
+]
