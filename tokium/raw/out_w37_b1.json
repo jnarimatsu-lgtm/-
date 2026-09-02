@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2611,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(meidoh.co.jp/prof/about)売上高記載なし ②IRページ自体が存在せず(非上場・独立系でHD無し＝経路6の親会社IRも存在しない) ⑨自社公式2024年度環境報告書PDFにも売上高の記載を確認できず ⑤決算公告の自社掲載ページなし。数値はNIKKEI COMPASS/Baseconnect等の禁止ソースにのみ流通。承認ソース未取得のため△維持。",
+  "J": "https://www.meidoh.co.jp/prof/about ; https://www.meidoh.co.jp/wmidp/wp-content/themes/meidoh/images/top/img_kannkyou.pdf"
+ },
+ {
+  "行": 2615,
+  "I": "△ §7-1回答待ち：1,221.29億円（2023年12月期・単体）を官報決算公告で確認済み。ただし出所は catr.jp（官報決算データベース）第17期/第20期/第22期の各決算公告のみで、官報本体の号数・頁は特定できず。1次が未踏だった経路5（決算公告）に到達し単体値の存在自体は判明。catr.jp が承認ソースと認められれば○に回収可能。子会社単体判定のため親会社Autoliv Inc.のグローバル値は不採用。",
+  "J": "https://catr.jp/settlements/bf1c0/8363 ; https://catr.jp/companies/fc192/7947/settlements/34654/296731 ; https://www.autoliv.jp/"
+ },
+ {
+  "行": 2616,
+  "I": "○ 回収：1,740.20億円（2025年12月期・連結／売上高1,740億20百万円、営業利益197億22百万円）。東証プライム上場6250の独立上場会社（親会社なし）でHD連結採用可。1次は中計の目標値1,700億円のみを見て実績を確定できずとしたが、2025年12月期は目標を上回り着地。出典＝自社IR決算短信ページ（経路2）および2025年12月期決算・中期経営計画2028説明資料。",
+  "J": "https://www.yamabiko-corp.co.jp/ir/library/earning/ ; https://www.yamabiko-corp.co.jp/ir/financial/highlight/ ; https://www.yamabiko-corp.co.jp/ir/library/presentation/"
+ },
+ {
+  "行": 2622,
+  "I": "○ 回収：1,138.32億円（2026年3月期・連結・IFRS「売上収益」113,832百万円）。東証プライム上場4980の独立上場会社（親会社なし）。出典＝自社HP掲載の2026年3月期決算短信〔IFRS〕（連結）PDF（2026年5月13日開示・経路2）。桁検算：113,832百万円÷100＝1,138.32億円。",
+  "J": "https://www.dexerials.jp/news/pdf/2026/news26014.pdf ; https://www.dexerials.jp/ir/library/brief.html"
+ },
+ {
+  "行": 2624,
+  "I": "△ §7-1回答待ち：942.11億円（2025年3月期・単体、営業利益64.09億円）を官報決算公告で確認済み。出所は catr.jp（第72〜75期）および個人ブログのみで、官報本体の号数・頁は1クエリで特定できず。自社HPは会社概要・採用「数字で見るフタムラ化学」とも売上高の記載を確認できず（経路1・9踏破）。非上場でIR無し（経路2・3・4なし）。catr.jp が承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/22879/15646/settlements/d9fd6/359942 ; https://catr.jp/settlements/4bf61/309986 ; https://www.futamura.co.jp/corporate/info ; https://www.futamura.co.jp/recruit/data/"
+ },
+ {
+  "行": 2631,
+  "I": "○ 回収：577.09億円（2025年3月期・第115期・単体／57,709百万円、営業利益9,262百万円）。三井不動産の子会社だが子会社単体で300億超を確認。1次が未踏だった経路3（EDINET）に到達し、同社が上場廃止後も有価証券報告書提出会社であることが判明（2025年6月27日提出 S100W7OT）。経路5の自社電子公告・第115期決算公告PDF（貸借対照表/損益計算書/個別注記表＝単体）も併存。※数値は検索経由取得のためPDF本文での最終確認を推奨。",
+  "J": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100W7OT.pdf ; https://www.tokyo-dome.jp/upload/c15b30b958d1eaf9c3551a6cd05bc989.pdf ; https://www.tokyo-dome.jp/company/publication/"
+ },
+ {
+  "行": 2633,
+  "I": "○ 回収：762.85億円（2025年12月期・連結／売上高762億85百万円、営業利益41億08百万円）。東証プライム上場9755の独立上場会社（親会社なし）。1次は実績を確定できずとしたが、2025年12月期通期決算は開示済み。出典＝自社IR決算短信ページおよび2025年12月期決算説明資料（経路2）。",
+  "J": "https://www.oyo.co.jp/investor-relations/ir-library/financial-report-for-the/ ; https://www.oyo.co.jp/news-article/1694f30406ec91e35b56f012e4ae538982dbde33/ ; https://www.oyo.co.jp/investor-relations/performance-finances/data/"
+ },
+ {
+  "行": 2634,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・⑨採用サイト（金額非開示）②IR無し③EDINET提出なし④TDnet該当なし⑤決算公告は2006年2月27日付が最新で直近3期の公告が存在しない（§3-8により古い値も採用不可）⑦gBizINFO（法人番号1010401014101）に財務情報の登録なし。なお持株会社・株式会社叙々苑HD（8010401181265）が別法人として存在するため、本行は子会社単体判定が必要。承認ソースで金額を取得できず△維持。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010401014101 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401181265 ; https://www.jojoen.co.jp/recruit/overlay01.html"
+ },
+ {
+  "行": 2635,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP企業情報（資本金4億円・従業員1,279名/グループ3,116名の記載はあるが売上高なし）⑨自社採用サイト「データで見る福助工業の挑戦」⑤官報決算公告（同社の公告はcatr.jpにも収録なし）②③④IR・EDINET・TDnetいずれも非該当。グループ売上高1,170億円（2025年3月期）はマイナビ/Yahoo!しごとカタログ/キャリタス/Tsunagaru就活/Wikipedia/NIKKEI COMPASSという禁止ソースにのみ流通（§6-6加藤化学と同型）。承認ソース未取得のため△維持。",
+  "J": "https://fukusuke-kogyo.co.jp/company ; https://recruit.fukusuke-kogyo.co.jp/data/ ; https://www.fukusuke-kogyo.co.jp/company/top.html"
+ },
+ {
+  "行": 2636,
+  "I": "× 要修正：法人格消滅。gBizINFO（法人番号7011101077531）で、RIZAP株式会社（法人番号2011201014257）への吸収合併により解散、最終登記更新2026年1月14日を確認（§6-7）。資本金100万円のスキンケア・健康食品通販会社であり、E列「1,000億円以上」はRIZAPグループ株式会社（2016年7月1日に旧・健康コーポレーション株式会社から商号変更した別法人）との混同と判断。法人が現存しないため架電しても計上不可。G列は「対象外（吸収合併により法人格消滅）」が妥当。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7011101077531 ; https://ttzk.graffer.jp/corporations/7011101077531 ; https://www.rizapgroup.com/ir/library/financial-report"
+ }
+]

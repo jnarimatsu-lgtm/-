@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2840,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(airec-niigata.com/company/outline) ②自社HP内にIR・電子公告ページなし ③EDINET(非上場・提出なし) ④TDnet該当なし ⑤官報決算公告(catr.jp索引でも該当なし) ⑥親会社なし(独立系) ⑦gBizINFO(法人番号8110001020714・財務情報の登録なし) ⑧新聞記事なし ⑨採用ページに数値なし。新潟県上越市の建設系環境事業(環境メンテナンス・建設汚泥リサイクル)の地場企業でE列『300億〜1,000億』は明らかに過大だが、承認ソースに売上高の記載が一切ないため△が確定した結論。",
+  "J": "https://airec-niigata.com/company/outline/index.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8110001020714; https://www.j-monodb.jp/company/%E3%82%A2%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E6%96%B0%E6%BD%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/"
+ },
+ {
+  "行": 2841,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(itosetu.co.jp) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし(独立系) ⑦gBizINFOに財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。京都市の空調・給排水設備工事業。売上規模の断片情報はNIKKEI COMPASS(与信DB)・Baseconnect・Yahoo!しごとカタログ等の禁止ソースのみで、そこでも『設備工事業28,229社中2,163位(10億円以上の層の下位)』とされ300億とは桁違い。承認ソースに売上高の記載がないため△。",
+  "J": "http://www.itosetu.co.jp/page1.php; https://www.nikkei.com/compass/company/oZQxcB6sX4uH9F6SQNBu5t"
+ },
+ {
+  "行": 2842,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(bandy.co.jp) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告(catr.jp徳島県一覧でも該当なし) ⑥親会社なし ⑦gBizINFOに財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。徳島県吉野川市のオフセット印刷業、1931年創業・資本金1,000万円・従業員22名でE列『1,000億円以上』は明白な誤り。ただし承認ソースに売上高の実額がなく、×(300億未満確定)とはできないため△。",
+  "J": "https://bandy.co.jp/; https://catr.jp/pref/36; https://www.our-think.or.jp/kigyoudb/company.php?no=185"
+ },
+ {
+  "行": 2843,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP企業情報(business-port.jp/profile.html) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし ⑦gBizINFOに財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。同名法人が複数あり法人番号2340001006448との照合が必要(検索で出るのは資本金300万円・従業員17名規模の別拠点情報)。E列『1,000億円以上』を裏付ける承認ソースは皆無で△が確定した結論。",
+  "J": "http://business-port.jp/profile.html; https://www.nikkei.com/compass/company/8qCLLjMc33LUhTBm4kQsex"
+ },
+ {
+  "行": 2845,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社案内(ns946.com/会社概要) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告(catr.jpは日専連ホールディングスのみ収録、釧路単体は該当なし) ⑥上位団体=協同組合連合会日本専門店会連盟の会員企業紹介にも財務記載なし ⑦gBizINFO・企業INDEXナビに財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。釧路市のクレジットカード会社(他にドコモショップ・保険ショップ・旅行センターを運営、従業員約70名)。E列『300億〜1,000億』はカード取扱高由来の可能性が高く、取扱高は売上高(営業収益)ではない。営業収益の実額が承認ソースで取れないため△。",
+  "J": "https://www.ns946.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/; https://www.nissenren.or.jp/network/164/; https://cnavi.g-search.or.jp/detail/3460001003928.html"
+ },
+ {
+  "行": 2846,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(mkbs.jp/company.html) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし(独立系。社名の『エムケー』は上場のエムケー株式会社・エムケイシステムとは無関係) ⑦東京商工会議所『社長ネット』の企業プロフィールにも売上高記載なし ⑧新聞記事なし ⑨採用ページに数値なし。東京都千代田区飯田橋の人材派遣・人材紹介・事務代行業、2008年創業の小規模事業者でE列『1,000億円以上』は明白な誤り。承認ソースに売上高がないため△。",
+  "J": "https://www.mkbs.jp/company.html; https://www.tokyo-cci.or.jp/shachonet/profile/000291.html"
+ },
+ {
+  "行": 2848,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP(clearlife.work) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告(catr.jpで『クリアコーポレーション』の該当なし。ヒットするのは株式会社クリア/株式会社CLEAR等の別法人) ⑥親会社なし ⑦gBizINFOは同名の別法人(法人番号5120001196465・大阪)しか出ず、当該法人番号5180001091339の財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。同名法人が複数あり取り違えリスクも高い。E列『1,000億円以上』の裏付けは承認ソースに皆無で△が確定した結論。",
+  "J": "https://clearlife.work/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5120001196465"
+ },
+ {
+  "行": 2850,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(hosohatarinngyou.com) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし ⑦gBizINFOに財務情報なし・大分県木材協同組合連合会/合法木材NAVIの認定情報にも財務記載なし ⑧新聞記事なし ⑨採用ページに数値なし。大分県の林業事業者(法人番号5440001006625。北海道庁サイトに出る(株)細畑林業は同名の別法人で混同注意)。E列『1,000億円以上』は明白な誤りだが実額が承認ソースに無いため△。",
+  "J": "http://www.hosohatarinngyou.com/; https://goho-wood.jp/nintei_system/user/list_detail.php?address_search=&group_id=64&recognition_type_search=; https://www.pref.hokkaido.lg.jp/sr/rrm/07_ninaite/r6_hosohataringyo.html"
+ },
+ {
+  "行": 2851,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(seiyousha.com/company_profile.html および seiyousha.jp/company) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし ⑦gBizINFO(法人番号6290001008272)に財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。広島県福山市のOA機器・事務用品販売代理店(1957年創業)。同名法人が横浜(コピー製本・印刷)・福岡(従業員19名)にも存在し取り違え注意。売上高はSalesNow/Baseconnect/NIKKEI COMPASS等の禁止ソースにしかなく△が確定した結論。",
+  "J": "https://www.seiyousha.com/company_profile.html; https://seiyousha.jp/company/company.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6290001008272"
+ },
+ {
+  "行": 2852,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社案内(sakamotoforestrytokushima.com/company) ②IRページなし ③EDINET提出なし ④TDnet該当なし ⑤官報決算公告に該当なし ⑥親会社なし ⑦gBizINFOは同名の有限会社坂本林業(9090002015343・別法人)しか出ず当該法人の財務情報なし ⑧新聞記事なし ⑨採用ページに数値なし。徳島県の林業(素材生産・伐採搬出・造園緑化)、平成24年11月設立・資本金500万円・従業員13名・管理面積1,450haでE列『300億〜1,000億』は明白な誤り。実額が承認ソースに無いため×ではなく△。",
+  "J": "https://www.sakamotoforestrytokushima.com/company; https://www.sakamotoforestrytokushima.com/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9090002015343"
+ }
+]

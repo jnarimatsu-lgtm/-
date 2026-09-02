@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2708,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP bdj.co.jp・bd.com 日本法人ページ（会社概要／国内拠点／採用情報）に売上高の記載なし ②非上場でIR・EDINET・TDnetなし ③米国親会社BD（NYSE:BDX）の開示は全社連結（FY2025/9 売上高58.90億USD）のみで日本法人単体の内訳なし ④官報決算公告を社名で検索したが該当なし ⑤公的機関データにも売上高なし。数値は転職会議・OpenWork等の禁止ソースのみで§6-6加藤化学と同型。未踏経路は官報本体の決算公告実物のみ。",
+  "J": "https://www.bdj.co.jp/;https://www.bd.com/ja-jp/about-bd/bd-contact-us;https://www.nikkei.com/nkd/company/us/BDX/finance/"
+ },
+ {
+  "行": 2712,
+  "I": "○ 回収：連結売上高6,081億4,200万円（2026年3月期・連結）。東証プライム上場（コード8075）の2026年3月期決算短信（2026/5/13発表、経常利益110億2,200万円・前期比6.3%減と整合）。親会社のため§3-3により連結値で判定可、300億円基準を20倍のマージンで充足。※1次のH列は別会社（東海運）の記述になっており、本行は実質未評価だった（行ズレ）。",
+  "J": "https://www.shinsho.co.jp/ir/library/summary.html;https://www.shinsho.co.jp/ir/finance/;https://www.shinsho.co.jp/ir/library/;https://finance.yahoo.co.jp/news/detail/39b77a37dc8691fc93bed2a3e7a2ae5d1423364f"
+ },
+ {
+  "行": 2713,
+  "I": "○ 回収：営業収益401億4,837万円（2026年3月期・連結、前期比1.9%増）。東証スタンダード上場（コード9380）の2026年3月期決算短信（2026/5/15発表）。物流・海運の増収と不動産賃料収入増による。親会社のため§3-3により連結値で判定可。300億円基準を充足。※1次のH列は別会社（報知新聞社）の記述で本行は実質未評価だった（行ズレ）。",
+  "J": "https://www.azumaship.co.jp/ir/results.html;https://www.azumaship.co.jp/ir/financial/general.html;https://www.azumaship.co.jp/ir/library.html"
+ },
+ {
+  "行": 2715,
+  "I": "○ 回収：売上高470億5,800万円＝47,058百万円（2026年3月期・非連結／単体、前期比+1,695百万円・3.7%増）。東証スタンダード上場（コード1972）の「2026年3月期 決算短信〔日本基準〕(非連結)」2026/4/24発表。中間期売上高22,362百万円＝223.62億円とも整合（検算：45,363×1.037≒47,058）。非連結＝単体のみの会社で300億円基準を充足。※1次のH列は別会社（ウメトク）の記述で本行は実質未評価だった（行ズレ）。",
+  "J": "https://www.sankometal.co.jp/wp/wp-content/uploads/2026/04/2grhewrwqsds.pdf;https://www.sankometal.co.jp/wp/wp-content/uploads/2025/10/2ggeghasdw.pdf;https://www.nikkei.com/nkd/disclosure/tdnr/20260423509582/"
+ },
+ {
+  "行": 2718,
+  "I": "△ 要再確認（§7-1依存）：売上高701億円（2024年度＝2025年1月期・単体）で複数の二次情報が一致するが承認ソースでの裏取り未達。当たった経路＝①自社HP toryusha.co.jp の会社案内・沿革・拠点一覧・事業紹介・採用情報に売上高の記載なし（ドメイン限定検索でも不出） ②非上場でIR・EDINET・TDnetなし ③官報本体の発行日・号数を特定できず ④独立系卸で親会社なし＝親会社IRルート不成立。決算公告の収録は catr.jp のみ（https://catr.jp/companies/1e024/94045 ）。catr.jp が承認ソースと認められれば○に回収可能。他はマイナビ・Baseconnect・NIKKEI COMPASS等の禁止／二次ソースのみ。",
+  "J": "https://www.toryusha.co.jp/company/;https://www.toryusha.co.jp/;https://catr.jp/companies/1e024/94045;https://www.nikkei.com/compass/company/2js8QkDk1dw3CZZNj7pA8a"
+ },
+ {
+  "行": 2719,
+  "I": "○ 回収：グループ売上高538億円（2025年6月期・グループ計）。自社HP「企業情報」ページに売上高538億円・決算期6月・資本金3,000万円として明記（承認ソース①自社HP会社概要）。法人番号8130001020712は同一法人のまま商号を「株式会社晃商ホールディングス」へ変更済み（法人格存続・閉鎖なし）。ホールディングスのため§3-3「ホールディングスはグループ連結300億円超で可」に該当し基準充足。事業＝エンターテインメント（スーパードーム）／フードサービス（焼肉の名門 天壇）／スパ（名張の湯）／ファーム。架電時は現商号が晃商ホールディングスである点に注意。",
+  "J": "https://www.k-kosho.co.jp/company/;https://www.k-kosho.co.jp/;https://www.k-kosho.co.jp/company/history/"
+ },
+ {
+  "行": 2720,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP syokusaikurabu.com の会社概要・「食彩倶楽部とは」・セントラルキッチン紹介に売上高の記載なし ②非上場でIR・EDINET・TDnetなし ③官報決算公告に該当なし ④静岡の独立系給食受託会社で親会社なし＝親会社IRルート不成立 ⑤公的機関データにも売上高なし。加えて自社HP記載のセントラルキッチン生産能力が1日最大20,000食・営業エリアが静岡中心（東は東京神奈川千葉、西は愛知、北は山梨）であり、規模から300億円到達は考えにくくE列の「300億以上」自体が過大の疑い。数値はIndeed・Compalyze等の禁止／二次ソースのみ。",
+  "J": "https://syokusaikurabu.com/company/;https://syokusaikurabu.com/about/;https://syokusaikurabu.com/kitchen/;https://compalyze.co.jp/company/3080101008444"
+ },
+ {
+  "行": 2721,
+  "I": "△ 要再確認（§7-1依存）：売上高442億円（2023年度・単体）とする二次情報があるが承認ソース未達。当たった経路＝①自社HP aichi-hino.co.jp の会社案内・事業所案内・採用・サイトマップに売上高も電子公告ページも存在せず（ドメイン限定検索で確認） ②非上場でIR・EDINET・TDnetなし ③親会社ルートは検算で閉じた＝日野自動車の連結売上高1兆6,972億円（2025年3月期）に対し10%は1,697億円で、442億円は10%基準に届かず有報「関係会社の状況」に実額は載らない ④官報本体の発行日・号数を特定できず。決算公告の収録は catr.jp のみ（https://catr.jp/companies/c0a78/58957 ）。catr.jp が承認ソースと認められれば○に回収可能。なお442億円は2023年度＝2024年3月期相当で§3-8の鮮度も要確認。",
+  "J": "https://www.aichi-hino.co.jp/company/;https://www.aichi-hino.co.jp/;https://catr.jp/companies/c0a78/58957;https://www.hino.co.jp/corp/for_investors/financial_results/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6180001009744"
+ },
+ {
+  "行": 2724,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP alpha-consul.com の会社案内・会社概要・営業拠点に売上高の記載なし ②非上場でIR・EDINET・TDnetなし ③gBizINFO（法人番号2180001055890）に財務情報の登録なし ④官報決算公告に該当なし ⑤親会社なし＝親会社IRルート不成立 ⑥新聞記事にも決算期付きの売上高なし。事業は生命保険媒介業（保険代理店。名古屋市中区丸の内2-20-25、2002年12月25日設立、生命保険協会の認定代理店）で収益は代理店手数料であり、E列の「300億以上」は収益構造と整合せず過大の可能性が高い。数値はBaseconnect等の禁止／二次ソースのみ。",
+  "J": "https://alpha-consul.com/profile/summary/;https://alpha-consul.com/profile/;https://alpha-consul.com/offices/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2180001055890"
+ },
+ {
+  "行": 2725,
+  "I": "○ 回収：連結売上高723.3億円（2026年6月期・連結、前期比4.0%増）。前期2025年6月期は連結695億円で、いずれも300億円基準を充足。福証本則上場（コード9942）の「2026年6月期 決算短信〔日本基準〕(連結)」2026/8/10 TDnet開示。第3四半期累計548.18億円（前年同期比4.9%増）とも整合。親会社（連結）のため§3-3でOK。法人番号3320001001417・大分県大分市・全国約630店舗のチェーンレストラン事業で法人格も存続。※1次は自社HP会社概要のみ見て諦めていたが、TDnetの決算短信で回収可能だった。",
+  "J": "https://www.release.tdnet.info/inbs/140120260810516214.pdf;https://www.release.tdnet.info/inbs/140120260508520775.pdf;https://corporate.joyfull.co.jp/profile;https://www.joyfull.co.jp/company/profile/"
+ }
+]

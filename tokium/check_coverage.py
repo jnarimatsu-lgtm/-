@@ -54,7 +54,14 @@ if __name__ == "__main__":
     p = check(SP)
     if ran:
         p = [x for x in p if x[0].lstrip("0") in {r.lstrip("0") for r in ran} or x[0] == "00"]
-    con = check_contradictions(SP)
+    from check_urls import suspicious as _susp
+    import re as _re
+    from verdict import build as _build
+    urls = []
+    for r in _build():
+        for u in _re.findall(r"https?://[^\s、。）)\]\"';；]+", r["J列_ソース"]):
+            if _susp(u): urls.append((r["行"], r["取引先名"], f"出典URLに乱打の疑い: {u[:70]}"))
+    con = check_contradictions(SP) + urls
     if con:
         print(f"内部矛盾: {len(con)}行")
         for n, nm, msg in con[:10]: print(f"  行{n} {nm[:22]} — {msg}")

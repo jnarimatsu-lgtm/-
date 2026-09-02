@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2892,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(wmo.co.jp/company)に売上高記載なし／gBizINFO(法人番号1012301006038)は登記情報のみで財務・官報決算の公開許諾なし／EDINET提出なし・非上場／自社HP内に決算公告(電子公告)ページ自体が存在せず／親会社なしのため親会社IRルート不可。数値はYahoo!しごとカタログ・エン カイシャの評判・求人ジャーナル等の禁止ソースのみ。",
+  "J": "https://wmo.co.jp/company ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1012301006038 ; https://wmo.co.jp/"
+ },
+ {
+  "行": 2894,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO(法人番号2290801015455)で福岡県京都郡苅田町・資本金1,000万円・従業員約100名・仮設トイレ製造/仮設資材販売の非上場企業と特定。EDINET提出なし、官報決算のgBiz公開許諾なし、自社HP(pureko.co.jp)会社概要に売上高記載なし、電子公告ページなし。※precofoods.co.jpの「プレコグループ(食肉卸・グループ計339億円)」は法人番号が異なる別法人で混同不可。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2290801015455 ; https://www.pureko.co.jp/aboutus ; https://www.precofoods.co.jp/group-company/"
+ },
+ {
+  "行": 2898,
+  "I": "○ 回収：2,990.28億円（2025年2月期・第74期・単体／営業収益）。自社HPの電子公告ページに第74期(2025年2月期)・第73期(2024年2月期)決算公告を掲載しており承認ソース(§5-3の5・自社HP決算公告)に該当。イオン子会社だが子会社単体で300億を約10倍上回るため§3-3の子会社基準を充足。法人存続も確認：2026年2月27日自社リリースのとおり2026年3月1日に株式会社光洋と経営統合し『新生・ダイエー』として存続。",
+  "J": "https://www.daiei.co.jp/corporate/ir/koukoku.html ; https://www.daiei.co.jp/corporate/outline/ ; https://www.daiei.co.jp/kywp/wp-content/uploads/2026/02/d_news_release20260227.pdf"
+ },
+ {
+  "行": 2908,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HPの電子公告ページ(aisei.co.jp/business/public_notice/)の存在は確認したが掲載PDF本文の売上高が取得できず／自社HP会社概要は連結870億円(アイセイHD)のみで単体値なし／EDINET提出なし(2016年MBOで上場廃止)／官報決算データベース(catr.jp)は§7-1未決着。取れる実額は平成30年3月期578億円のみで§3-8の直近3期に不適合。電子公告PDFが閲覧できれば単体実額で回収の余地あり。",
+  "J": "https://www.aisei.co.jp/business/public_notice/ ; https://www.aisei.co.jp/business/outline/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001172986"
+ },
+ {
+  "行": 2909,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HPニュース(2025年10月22日)で日経MJ第43回サービス業調査・理美容部門33年連続年商1位を確認したが年商実額は非掲載／自社HP会社概要・グループ会社ページにも売上高なし／非上場でEDINET提出なし／電子公告ページなし。承認ソース外で取れる実額は387億円(2017年・理美容ニュース)のみで§3-8不適合。日経MJ本紙の同調査記事に決算期付き年商が明記されていれば§3-4④で回収可能。",
+  "J": "https://www.plage-bb.co.jp/news/944 ; https://www.plage-bb.co.jp/company/outline ; https://www.plage-bb.co.jp/company/group"
+ },
+ {
+  "行": 2912,
+  "I": "○ 回収：859.15億円（2026年3月期・連結）。東証プライム上場(証券コード1379)の親会社であり、自社HPのIR決算短信ページで通期連結売上高を確認。1次が未着手だった§5-3の2(自社IR)・4(TDnet適時開示)で取得。第2四半期時点の通期予想847億円(前期比+1.9%)とも整合し桁の検算済み。親会社のため単体・連結いずれでも§3-3を充足し300億基準を大きく上回る。",
+  "J": "https://www.hokto-kinoko.co.jp/corporate/ir/shiryou/tanki/ ; https://www.hokto-kinoko.co.jp/corporate/ir/shiryou/ ; https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/"
+ },
+ {
+  "行": 2913,
+  "I": "△ 要再確認（§7-1回答待ち）：985.54億円（2026年3月期・第30期・単体／前期比-4.39%、当期純利益73.25億円）を官報決算公告で確認済み。ただし出典が官報決算データベース(catr.jp)等の二次サイト依存で、官報の号数・頁は特定できず。自社HPはTCSグローバル業績のプレスリリースのみで日本法人単体値なし。gBizINFOは財務情報未掲載。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/c1567/7002 ; https://www.tcs.com/jp-ja/who-we-are/company-information/profile ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010401097045"
+ },
+ {
+  "行": 2917,
+  "I": "△ 妥当：確認不可で正しい。ただし新経路を発見＝自社HPに第39期(2025年3月期)決算公告を掲載(nstec.nipponsteel.com/information/2025/07/39_2025_3_1.html、情報公開ページからも到達)。承認ソースは存在するがPDF本文の売上高が取得できず数値未確定。流通する458億円(2024年3月期)はマイナビ・Yahoo!しごとカタログ等の禁止ソースのみ。親会社日本製鉄連結約8.7兆円に対し約0.5%で10%基準未満のため有報「関係会社の状況」に実額なし(検算済み)。",
+  "J": "https://www.nstec.nipponsteel.com/information/2025/07/39_2025_3_1.html ; https://www.nstec.nipponsteel.com/corporate/disclosure.html ; https://www.nstec.nipponsteel.com/company/ir/"
+ },
+ {
+  "行": 2923,
+  "I": "△ 要再確認（§7-1回答待ち）：937.01億円（2025年8月期・第24期・単体／売上総利益383.87億円、営業利益▲47.87億円、経常利益▲51.59億円、当期純利益▲66.08億円）を官報決算公告で確認済み。子会社単体で300億を充足する水準。ただし出典が官報ブログ・catr.jp等の二次サイト依存で官報の号数・頁を特定できず、自社HP(ikea.com/jp)にも日本法人単体の売上高開示なし。catr.jp等が承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/47ce6/37773 ; https://kanpo-kanpo.blog.jp/archives/45742527.html ; https://www.ikea.com/jp/ja/"
+ },
+ {
+  "行": 2926,
+  "I": "△ 妥当：確認不可で正しい。ただし新経路を発見＝自社HPの電子公告ページに第9期(2026年3月期)決算公告PDF(2026年6月18日付)を掲載。承認ソースは存在するがPDF本文の売上高が取得できず数値未確定。親会社ルートは東芝が2023年12月上場廃止で2025年3月期以降の有価証券報告書が公開されておらず「関係会社の状況」不可。自社採用ページ(recruit/data.htm)・基本データ・拠点情報にも売上高記載なし。",
+  "J": "https://toshiba.semicon-storage.com/jp/company/about/public-notice.html ; https://toshiba.semicon-storage.com/jp/company/about/profile.html ; https://toshiba.semicon-storage.com/jp/recruit/data.htm"
+ }
+]

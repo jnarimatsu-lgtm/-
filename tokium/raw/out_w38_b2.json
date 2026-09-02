@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2774,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(kobe-shinka.co.jp／IR・決算公告ページなし)、官報決算公告検索、gBizINFO、新聞社記事。神戸新聞2022/12/6・日経2022/12/5に『22年3月期の取扱高約340億円／売上高341億円』があるが、①2022年3月期でRULES§3-8の直近3期外、②『取扱高』表記で売上高と断定不可のため採用不可。残る経路＝神戸市中央卸売市場の公的統計、神明HD関係資料。",
+  "J": "http://www.kobe-shinka.co.jp/; https://www.kobe-np.co.jp/news/keizai/202212/0015870048.shtml; https://www.nikkei.com/article/DGXZQOUF0534P0V01C22A2000000/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8140001013211"
+ },
+ {
+  "行": 2777,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(dokkyoms.co.jp/company/・売上高記載なし)、獨協医科大学/獨協学園の財務公開、gBizINFO(財務なし)、官報決算公告検索(ヒットなし)。『2024年2月期449億500万円』は就活会議・Yahoo!しごとカタログ・doda・OpenWork・Baseconnectのみで§3-4の禁止ソース(§6-6加藤化学と同型)。残る経路＝官報決算公告の号数特定。",
+  "J": "https://www.dokkyoms.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8060001021981; https://www.dokkyomed.ac.jp/dmu/academy/overview/financial.html"
+ },
+ {
+  "行": 2778,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(tanakaai.com・売上高記載なし)、官報決算公告(1次が貸借対照表のみ＝売上高欄なしを確認済み)、電子公告検索、福岡県両立支援ポータルの企業事例。『2023年6月期342億4,100万円』はブンナビ・NIKKEI COMPASS・Baseconnect等の禁止ソースのみで、かつ§3-8の直近3期外。化学品専門商社(建材ではない)。",
+  "J": "https://tanakaai.com/company/info/; https://catr.jp/companies/4ed5e/138820; https://f-ryoritsu.pref.fukuoka.lg.jp/merit/works/detail/de154d74-0d60-405e-97b1-4cb685b5443e"
+ },
+ {
+  "行": 2780,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報(hsnet.co.jp/company/)、採用サイト『ホクエツとは』(recruit.hsnet.co.jp/about/・数字で見る系に売上高なし)、新潟企業情報ナビ、同名別法人HP(hokuetsu.jp)。§6-2の同名企業問題が深刻で、農機販売の株式会社ホクエツ『303億円(2024年3月)』はマイナビ由来の禁止ソースかつ別法人。対象法人単体の承認ソース値は不存在。",
+  "J": "https://www.hsnet.co.jp/company/; https://recruit.hsnet.co.jp/about/; https://www.hokuetsu.jp/company.html; https://niigata-kigyo-navi.jp/search/company/637"
+ },
+ {
+  "行": 2782,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(p-concorde.com・IRなし)、官報決算公告。決算公告は貸借対照表のみで売上高欄が存在しない(第54期＝純利益6.68億円・利益剰余金40.07億円・総資産124.75億円)ため、探しても売上高は出ない。二次情報の2024年12月期1,500億円は禁止ソース。利益・総資産は§3-7により売上高の代用にできない。",
+  "J": "https://p-concorde.com/company/; https://catr.jp/companies/9cb51/44150/settlements/3a1bf/320857"
+ },
+ {
+  "行": 2783,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(pt-tamaya.com・売上高記載なし／1次確認済み)。二次情報の2023年9月期119.70億円は禁止ソースであり、仮に正しければ300億未満で回収余地なしと判断し、今回は追加検索枠を配分していない(トリアージ)。承認ソースでの実額確認は未実施のため×には倒さず△を維持。",
+  "J": "http://www.pt-tamaya.com/company/about/"
+ },
+ {
+  "行": 2787,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社採用サイト(new-asahi.co.jp/company/・売上高なし)、新潟県『新潟企業情報ナビ』企業ページ(公的系だが売上高の掲載を確認できず)、gBizINFO、官報決算公告検索。『320億円(2025年9月期)』はマイナビ2027・キャリタス就活・東京商工リサーチのみで禁止ソース。加えてニューアサヒ／アサヒグループの一社で単体かグループ計か不明。残る経路＝官報決算公告。",
+  "J": "https://www.niigata-kigyo-navi.jp/search/company/1192; http://www.new-asahi.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8110001016670"
+ },
+ {
+  "行": 2788,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(sanritsu.co.jp/outline.html・売上高記載なし)、官報決算公告、gBizINFO。対象は法人番号4180001021940＝名古屋市熱田区神宮の生産設備商社(gBizINFOに出る9010401011867は別法人)。『227億3,849万円(2025年5月期)』はマイナビ2028・東京商工リサーチ・NIKKEI COMPASSのみで禁止ソース。仮に正しくても300億未満で回収余地なし。",
+  "J": "https://www.sanritsu.co.jp/outline.html; https://catr.jp/companies/0966c/207705"
+ },
+ {
+  "行": 2791,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(nandaimon.co.jp／spa-nandaimon.com・売上高記載なし)、親会社側HP、官報決算公告。株式会社NDMは株式会社南大門ホールディングス傘下のパチンコ事業会社(従業員189名・資本金1,000万円)で§3-3の子会社扱い＝単体300億以上が必要だが、南大門グループ全体でも287億円(2019年6月期・禁止ソース)にとどまり充足の余地が乏しい。",
+  "J": "https://www.nandaimon.co.jp/company/outline.html; https://spa-nandaimon.com/pages/company; https://catr.jp/companies/150f1/6728"
+ },
+ {
+  "行": 2792,
+  "I": "○ 回収：上野グループ公式サイトBUSINESSページおよび採用サイト『数字で見るUYENO』に、グループ売上高1,096億円（2025年3月期／2025年4月1日時点）の記載を確認。対象は持株会社であり、§3-3および2026/08/24濱本さん回答『ホールディングスはグループ連結300億円超で可』により基準充足。単体は46.82億円（2025年3月期・自社公式）だが、グループ1,096億円>300億円のため架電可に回収。",
+  "J": "https://www.uyeno-group.co.jp/business/index.html; https://uyeno-group.co.jp/saiyo/infographics/; https://www.uyeno-group.co.jp/group/uenokousan/index.html"
+ }
+]

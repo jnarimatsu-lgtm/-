@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2566,
+  "I": "○ 回収：単体2,096.31億円（第102期・2025年3月期・単体、官報決算公告）。§7-1回避のため官報本体の掲載箇所を特定＝令和7年6月23日付 官報号外第139号187頁（所在地 各務原市鵜沼三ツ池町、代表取締役 足立利光、決算期2025年3月31日が一致）。金額はcatr.jp/官報決算データベースと一致。自社HPには電子公告・売上高記載なしを確認。トヨタ系子会社だが単体で300億超のため子会社ルールでも充足。",
+  "J": "https://search.kanpoo.jp/r/20250623g139p187-609/ ; https://catr.jp/companies/1e6b3/12583 ; https://www.gifubody.co.jp/company/outline.html"
+ },
+ {
+  "行": 2586,
+  "I": "△ 反証：1次の○回収を取消。当たった経路＝自社IR決算ハイライト（グループ連結415億円・2026年3月期）、自社HP会社概要／グループ会社一覧、有報ページ。対象法人は2020年3月MBOで上場廃止し全株をMEホールディングス（SPC）が保有＝登記上は子会社であり、§3-3「子会社はグループ連結が超えていても一律対象外」により連結415億円は判定に使用不可。単体約179億円は禁止ソース由来で採用不可のため単体を承認ソースで確定できず＝§3-5により載せない。親子解釈は先方確認要。",
+  "J": "https://mystar.co.jp/ir/highlight/ ; https://www.mystar.co.jp/company/group/ ; https://www.mystargroup.jp/group/ ; https://www.mystar.co.jp/ir/securities/"
+ },
+ {
+  "行": 2587,
+  "I": "○ 回収：2026年3月期 連結売上高1,774.88億円（決算短信〔日本基準〕連結・2026年5月13日開示、東証プライム6486）。NOKの持株比率32.03%＝持分法適用関連会社であり子会社ではないため、自社グループの親会社として連結値を採用可。※2026年10月にNOKと共同持株会社を設立（株式移転）予定。以降は子会社となるため単体での再確認が必要。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260513528524.pdf ; https://www.nikkei.com/nkd/disclosure/tdnr/20260513528524/ ; https://www.ekkeagle.com/jp/ir/docs/securities"
+ },
+ {
+  "行": 2591,
+  "I": "○ 回収（下限証明）：親会社ヤマエグループHDの有報「関係会社の状況」にヤマエ久野は「売上高（連結会社相互間の内部売上高を除く）の連結売上高に占める割合が10%を超えている」と注記。同HDの2026年3月期連結売上高1兆852億円（決算短信）×10%＝1,085億円>300億円のため、単体実額が未取得でも基準充足が確定。",
+  "J": "https://www.fse.or.jp/files/lis_tkj/26050871304.pdf ; https://www.yamaegroup-hd.co.jp/wp/wp-content/themes/yamae2023/assets/pdf/ir/library/securities-report/yghd_yuho03.pdf ; https://www.yamaegroup-hd.co.jp/ir/library/securities-report/"
+ },
+ {
+  "行": 2593,
+  "I": "○ 回収：自社公式サイト（ジュングループ）の「JUN COMPANY FACT」に年商538億円（2025年9月現在）・従業員2,389名の記載。1次が当たっていなかった経路＝自社HPの数字ページ（about/fact）。同社はジュングループの中核親会社であり300億基準を充足。",
+  "J": "https://www.jun.co.jp/about/fact/ ; https://www.jun.co.jp/about/outline/ ; https://www.jun.co.jp/about/"
+ },
+ {
+  "行": 2597,
+  "I": "○ 回収：2025年3月期 連結売上高172,605百万円＝1,726.05億円（自社IR決算短信・2025年5月12日）。内訳 国内土木924.39億/国内建築613.06億/海外181.08億/不動産他7.51億。2026年3月期は中間実績945.90億円、通期予想2,000億円。1次は通期実績未確定としたが前期通期実績が承認ソースで取得可能。※大成建設によるTOBで上場廃止見込みだが単体でも300億超。",
+  "J": "https://www.toyo-const.co.jp/wp/wp-content/uploads/FYE2025_Q4_tanshin_revised.pdf ; https://www.toyo-const.co.jp/wp/wp-content/uploads/2025/11/FYE2026_Q2_tanshin.pdf ; https://www.toyo-const.co.jp/ir/irlibrary/financialresults"
+ },
+ {
+  "行": 2598,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、採用「会社概要・数字で見るコングレ」（社員460名・運営90施設・コンベンション244件のみで売上高の記載なし）、官報決算公告（第31期・第33期とも純利益/利益剰余金/総資産のみで売上高が確認できずかつcatr.jp依存＝§7-1）、EDINET非該当（非上場・有報提出なし）、親会社IRなし（同社が持株）。禁止ソース（Baseconnect等）のみ。",
+  "J": "https://www.congre.com/recruit/company-profile/ ; https://www.congre.com/company/profile/ ; https://catr.jp/companies/cefbe/24356 ; https://catr.jp/settlements/107e3/318761"
+ },
+ {
+  "行": 2602,
+  "I": "○ 回収：2024年2月期 営業収益878.77億円（前期比3.7%減）、営業利益19.92億円、経常利益20.71億円、当期純利益15.40億円。出典は決算期と金額が明記された新聞社記事（日本経済新聞・中日新聞BIZナビ）＝§3-4④。MBOにより2024年に上場廃止し以降は非公表のため当期が最新（直近3期内）。自社HPに電子公告ページあり（第50期決算公告）。※科目は「営業収益」（小売のため売上高＋その他営業収入）。",
+  "J": "https://www.nikkei.com/article/DGXZRST0569807S4A410C2000000/ ; https://biz.chunichi.co.jp/news/article/10/81050/ ; https://www.aokisuper.co.jp/company/koukoku.html ; https://aokisuper.co.jp/company/outline.html"
+ },
+ {
+  "行": 2606,
+  "I": "○ 回収：2025年12月期 連結売上高330,193百万円＝3,301.93億円（前期比2.3%増、為替影響除き2.6%増）。出典＝2025年12月期 決算短信〔日本基準〕(連結) 2026年2月12日開示、上場会社名「株式会社コーセーホールディングス」東証4922。持株会社のため§3-3によりグループ連結値で判定可。1次が当たっていなかった経路＝通期決算短信本文。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260212/20260212556590.pdf ; https://corp.kose.co.jp/ja/info/outline/"
+ },
+ {
+  "行": 2610,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（第36〜39期決算公告と売上高推移の掲載自体は確認）、採用「数字でみる」（社員2,117名・派遣2,425名の計4,542名のみで売上高なし）、自社ニュースリリース「2024年度（第38期）決算について」「2025年度（第39期）決算について（2026/5/21）」、親会社NTTドコモビジネス決算公告、EDINET。承認ソース（自社決算公告PDF）は自社ドメイン上に存在するが本文の単体売上高を取得できず。PDF直接閲覧で回収可能性あり。",
+  "J": "https://www.nttceng.com/corporation/ ; https://www.nttceng.com/corporation/number/ ; https://www.nttceng.com/newsreleases/202438kessan/ ; https://www.nttceng.com/info/ ; https://www.ntt.com/about-us/company-profile/finance/kessankoukoku.html"
+ }
+]

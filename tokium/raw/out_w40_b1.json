@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2927,
+  "I": "○ 回収：2026年3月期・連結 売上高 8,961.99億円（896,199百万円）。バローHDは持株会社＝親会社のためグループ連結で判定可。1次が不採用とした営業収益9,241.14億円は「売上高896,199百万円＋営業収入27,914百万円」の合算で、連結損益計算書に売上高の科目が独立して存在する（896,199+27,914=924,113百万円で検算一致）。自社IR決算短信で確認。",
+  "J": "https://valorholdings.co.jp/wp-content/uploads/published/wp_re_69_tanshin_20260513.pdf; https://valorholdings.co.jp/ir/finance/highlight.html"
+ },
+ {
+  "行": 2929,
+  "I": "○ 回収：2026年3月期・連結 営業収益 14兆4,091.21億円（前期比+5.1%、IFRS）。NTTは持株会社＝親会社のためグループ連結で判定可。IFRS適用会社のトップライン科目であり§3-7の「売上収益」に相当（利益ではない）。自社IR決算説明資料（2026年5月8日）で確認。基準300億円の約480倍で判定は動かない。",
+  "J": "https://group.ntt/jp/ir/library/presentation/2025/260508.pdf; https://group.ntt/jp/ir/"
+ },
+ {
+  "行": 2931,
+  "I": "△ §7-1回答待ち：1兆2,943.47億円（2026年3月期・単体）を官報決算公告（第66期）で確認。自社HP(mbrg.co.jp)に電子公告・IRページなし。親会社三井物産の有報『関係会社の状況』は連結収益約14.7兆円に対し当社は約8.8%で10%基準未満のため実額記載なし（検算済み）。catr.jp等の官報二次サイトが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/bb50a/15438; https://prtimes.com/finance/5010001043281/settlement; https://www.mbrg.co.jp/company/outline/"
+ },
+ {
+  "行": 2932,
+  "I": "○ 回収：三井不動産の子会社だが単体で基準充足。自社HP『公告・決算公告』に第50〜52期の計算書類PDFを掲載（承認ソース＝自社公式）、直近の売上高は約2,601億円規模。加えて三井不動産有報『関係会社の状況』で三井ホーム㈱に連結売上高10%超の注記があり、同社2026年3月期連結売上高2兆7,097.47億円×10%＝2,709.7億円>300億円で下限も確定。",
+  "J": "https://www.mitsuihome.co.jp/company/ir/koukoku.html; https://www.mitsuihome.co.jp/company/ir/pdf/koukoku_240624.pdf; https://www.mitsuihome.co.jp/company/ir/kessan.html; https://www.mitsuifudosan.co.jp/corporate/ir/library/fs/pdf/YUHO_2603.pdf; https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/tanshin260513.pdf"
+ },
+ {
+  "行": 2937,
+  "I": "○ 回収：1次未踏のEDINET経路が有効。株式会社読売新聞東京本社は自ら有価証券報告書を提出する開示会社（EDINETコードE20393、法人番号8010001079224で照合）。同有報ベースの2025年度（2026年3月期）単体営業収益は1,640.60億円（前期比0.3%減）で基準の5.4倍。持株会社の読売新聞グループ本社単体40.77億円と混同しないこと。",
+  "J": "https://edinetdb.jp/company/E20393; https://irbank.net/E20393/results; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001079224; https://info.yomiuri.co.jp/group/data.html"
+ },
+ {
+  "行": 2938,
+  "I": "○ 回収：2025年12月期・連結 売上高 3,938.13億円（前期比3.0%増、営業利益168.22億円）。日本経済新聞社は日経グループ最上位の親会社のため連結で判定可。自社HPのIR『決算短信』ページに開示があり、加えて新聞社記事（§3-4④）でも決算期と売上高が明記されている。",
+  "J": "https://www.nikkei.co.jp/nikkeiinfo/corporate/finance/; https://www.nikkei.com/article/DGXZQOUC0914F0Z00C26A3000000/; https://www.nikkei.co.jp/nikkeiinfo/corporate/profile/"
+ },
+ {
+  "行": 2940,
+  "I": "○ 回収：2026年3月期・連結 営業収益 約1兆1,718億円（前期比+5.43%）、うち高速道路事業の営業収益1兆1,984億円。株式会社（特殊会社）で法人格OK、自らが連結グループの親会社。営業収益は当社のトップライン科目で利益ではない。自社IRに加え公的機関（日本高速道路保有・債務返済機構）の高速道路会社決算ページでも公表。基準の約39倍。",
+  "J": "https://www.e-nexco.co.jp/company/ir/; https://www.jehdra.go.jp/ir/kaishakessan.html"
+ },
+ {
+  "行": 2944,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP電子公告ページに第8期(2024年3月期)・第9期(2025年3月期)決算公告PDFが実在することまでは特定したが、PDF本文の売上高を読めず実額未確認。ほか博報堂DYHD有報『関係会社の状況』・同決算短信・EDINET・官報二次DBも当たったが単体売上高の実額記載なし。※決算公告PDF本文を直接読めば回収の見込みが高い。",
+  "J": "https://www.hakuhodody-one.co.jp/company/announcement/; https://www.hakuhodody-one.co.jp/wp-content/uploads/2025/06/20250624sa.pdf; https://www.hakuhodody-one.co.jp/wp-content/uploads/2024/08/20240625sa.pdf; https://www.hakuhodody-one.co.jp/company/about/"
+ },
+ {
+  "行": 2945,
+  "I": "○ 回収：プライムライフテクノロジーズの子会社だが単体で基準充足。2025年3月期・単体売上高1,681.75億円（前年比+101.78億円）、同期連結売上高4,831.2億円（前年度比12.3%増、4期連続増収）。連結値は住宅産業新聞（新聞社記事・決算期と売上高明記＝§3-4④）で確認、自社HPにも決算公告・決算短信ページあり。単体で基準の5.6倍。",
+  "J": "https://www.housenews.jp/house/31945; https://www.misawa.co.jp/corporate/irinfo/publicnotice/index.html; https://www.misawa.co.jp/corporate/irinfo/irlibrary/kessan.html; https://www.misawa.co.jp/corporate/about/gaiyou.html"
+ },
+ {
+  "行": 2948,
+  "I": "○ 回収：当社は東証プライム上場のサントリー食品インターナショナル㈱そのもの（法人番号8010401080079で照合、2026年4月1日に現商号へ変更）。自ら有報を提出する連結グループの親会社であり、2025年12月期・連結売上収益1兆7,154.38億円（IFRS、§3-7により売上高と同義）。単なる事業子会社ではなく親会社側として判定可。",
+  "J": "https://www.suntory.co.jp/softdrink/ir/library_earnings/upload/2025_4q_tanshin.pdf; https://www.suntory.co.jp/softdrink/ir/library_securities/; https://www.nikkei.com/article/DGXZQOUC287RS0Y5A121C2000000/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401080079"
+ }
+]

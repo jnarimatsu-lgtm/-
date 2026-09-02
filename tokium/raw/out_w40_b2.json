@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2949,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／米国親会社Kyndryl Holdings(NYSE:KD)のIR・決算（FY2026連結15,090百万ドル。日本は地域売上・利益の開示にとどまり、キンドリルジャパン株式会社“単体”の売上高ではない）／官報決算公告(catr.jpに会社情報のみ・売上高実額の掲載を確認できず)／EDINET非提出／TDnet対象外。単体実額を承認ソースで確認できず。",
+  "J": "https://www.kyndryl.com/jp/ja/about-us/kyndryl-japan-kk; https://www.nikkei.com/nkd/company/us/KD/finance/; https://catr.jp/companies/4c0a6/75322"
+ },
+ {
+  "行": 2951,
+  "I": "× 要修正：【300億未満】132.20億円（13,220百万円・単体）。親会社NEXCO西日本の公式企業情報「グループ会社の情報」に当社の売上高13,220百万円・従業員2,790人・料金収受業務と記載。子会社のため連結不可、単体132.20億円で300億基準を大きく下回り対象外。",
+  "J": "https://corp.w-nexco.co.jp/corporate/group/w_s_kansai/; https://corp.w-nexco.co.jp/corporate/group/pdfs/trial_balance.pdf; http://www.w-s-kansai.co.jp/company/company_profile.html"
+ },
+ {
+  "行": 2955,
+  "I": "○ 回収：1,104.41億円（2026年3月期・単体／非連結。科目は「事業収益」＝航空会社の売上高表記）。東証9204の2026年3月期決算短信〔日本基準〕（非連結）2026/5/15開示で確認（営業利益18.01億円・純利益16.38億円）。上場親会社のため単体で基準充足。1次が未着だったTDnet適時開示経路で回収。",
+  "J": "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526768/; https://irbank.net/E04279/reports; https://www.skymark.co.jp/ja/company/about.html"
+ },
+ {
+  "行": 2956,
+  "I": "○ 回収：430.30億円（2024年3月期・単体／43,030百万円）。同社は有価証券報告書提出会社（EDINET E01209・福岡財務支局）。第63期有報「主要な経営指標等の推移（提出会社）」で確認。連結も2026年3月期5,316.07億円。麻生グループの中核親会社のため単体・連結いずれも300億超。1次未着のEDINET経路で回収。",
+  "J": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100TU8X.pdf; https://www.nikkei.com/nkd/company/kessan/?nik_code=0010191; https://www.aso-corp.jp/notice.html"
+ },
+ {
+  "行": 2957,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・企業情報（売上高の記載なし）／自社IR無し／EDINET非提出／TDnet対象外／官報決算公告（catr.jpに第43期の収録はあるが売上高実額を確認できず・§7-1未決着）／親会社なし。流通する「年商約650億円」は転職サイトGreen・Wikipedia等の禁止ソースのみ。",
+  "J": "https://www.pias.co.jp/corporation/; https://catr.jp/companies/2d8a9/149679"
+ },
+ {
+  "行": 2959,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝親会社パリミキHD(7455)のIR・決算短信・業績ハイライト（連結507.82億円／2025年3月期、2026年3月期予想514.51億円。2026/3/30東証スタンダード上場廃止）／官報決算公告 第18期（当期純利益8.12億円・利益剰余金52.25億円のみで売上高欄なし）／自社HP。連結×10%＝約51億で下限証明は300億に届かず、単体実額も取れず。",
+  "J": "https://www.paris-miki.com/hd/investor/finance_and_performance/; https://kanpo-kanpo.blog.jp/archives/46376495.html; https://catr.jp/companies/bcdca/15980"
+ },
+ {
+  "行": 2960,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（pharmacy.at-care.co.jp／売上高の記載なし）／EDINET非提出／TDnet対象外／官報決算公告（当該法人番号4020001089507の決算公告を特定できず。検索に出る「株式会社ATグループ」（名古屋・トヨタ系）「株式会社アト」は別法人で誤採用の危険あり）／親会社なし。数値はマイナビ等の禁止ソースのみ。",
+  "J": "https://pharmacy.at-care.co.jp/company/; https://catr.jp/companies/7e477/49741"
+ },
+ {
+  "行": 2966,
+  "I": "○ 回収：5,480億円（2026年3月期・単体。連結6,450億円・前期比2.1%増、単体営業利益54億円）。食品新聞社「食品新聞WEB版」2026/5/11記事に決算期と売上高が明記され§3-4④の新聞社ソースに該当。前期記事（2025/5/12「連結6千億円を突破」）とも整合。単体で300億を大きく超え基準充足。",
+  "J": "https://shokuhin.net/144456/2026/05/11/ryutu/orosi/; https://shokuhin.net/121204/2025/05/12/ryutu/orosi/; https://www.asask.co.jp/company/achievement_organizational/"
+ },
+ {
+  "行": 2967,
+  "I": "△ 要再確認：第68期（2025年3月期・単体）売上高377.7億円・当期純利益973百万円を官報決算公告の収録サイト（catr.jp／決算公告データ倉庫）で確認。ただし出典が§7-1未決着のcatr.jp系のみで、収録欄の売上高表示が欠落しているとの記載もあり数値ラベルの確定に至らず。自社HPの売上高推移は2021年3月期までで鮮度条件外。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://www.tokyo-biso.co.jp/outline; https://catr.jp/companies/3c104/17462; https://catr.jp/companies/3c104/17462/settlements/21dd2/261153"
+ },
+ {
+  "行": 2968,
+  "I": "× 要修正：【300億未満】189億円（2025年3月期・単体）。自社HP会社概要に単体売上高推移（2023年3月161億→2024年3月167億→2025年3月189億）を掲載。自社HPの情報公開ページに第42期決算公告PDF（2026年3月31日決算）もあり。麻生グループ子会社のためグループ値は使えず、単体189億円で300億基準を下回り対象外。",
+  "J": "https://ahc-net.co.jp/company/about/; https://ahc-net.co.jp/public/; https://ahc-net.co.jp/public/ahc/kessan42.pdf"
+ }
+]
