@@ -1,0 +1,52 @@
+[
+ {
+  "行": 4263,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(nissenren-aomori.or.jp/outline/company/)・gBizINFO・官報決算公告索引。決算公告は第14期売上高15.74億円/第15期13.40億円で、300億を大きく下回る青森の信販持株会社。E列『300億以上』はクレジット取扱高と売上高の混同と推定。承認ソースでの直近3期売上高開示なし。法人番号1420001004683は登記所コード4200＝青森地方法務局で青森市本社と一致し同名別法人ではない。回収見込みなし。",
+  "J": "https://www.nissenren-aomori.or.jp/outline/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1420001004683; https://catr.jp/companies/e89e9/15663/settlements/eb1f5/410247"
+ },
+ {
+  "行": 4264,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報(j-exa.co.jp/company/)・製品パートナー掲載(mcframe.com)・gBizINFO・官報決算公告索引。1990年7月設立・資本金1,000万円・本社東京都墨田区江東橋・大阪/福岡営業所のERP受託開発会社であり、E列『1,000億円以上』は明白な誤り。承認ソースに売上高の記載なし。上場・社債発行もなくEDINET/TDnetにも提出なし。回収見込みなし。",
+  "J": "https://www.j-exa.co.jp/company/; https://www.mcframe.com/partner/exa.html"
+ },
+ {
+  "行": 4265,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(jouhokukikaku.co.jp/category8/)・gBizINFO・官報決算公告索引。東京都練馬区北町、1973年3月設立、資本金3,000万円、従業員66人のDM郵送代行業。法人番号7011601003251は登記所コード0116＝東京法務局の練馬管轄で本社と一致（城北企画株式会社・城北工業株式会社等の同名別法人ではない）。従業員66人でE列『1,000億円以上』はありえず、承認ソースに売上高記載なし。回収見込みなし。",
+  "J": "https://www.jouhokukikaku.co.jp/category8/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7011601003251"
+ },
+ {
+  "行": 4267,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(pop-asahi.com)・大阪ものづくり優良企業(m-osaka.com 公的支援機関)・枚方市ものづくり企業支援総合サイト(waza-kirara.jp)・gBizINFO。大阪府枚方市招提大谷、1966年設立、資本金1,000万円、従業員52名の販促POP製作会社。流通する売上高は8億4,500万円（2025年6月現在）で300億に遠く及ばず、E列は誤り。承認ソースでの売上高開示は確認できず。回収見込みなし。",
+  "J": "https://www.m-osaka.com/jp/takumi/7083/; https://www.waza-kirara.jp/comsearch/detail_720.html; https://pop-asahi.com/"
+ },
+ {
+  "行": 4268,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(lworld.co.jp/company.html)・ブランド紹介(lworld.co.jp/brands.html)・gBizINFO・官報決算公告索引。大阪市中央区安土町、1998年9月設立、資本金2,500万円、従業員45名の飲食店運営会社（muse／Bar Lounge卓球部／TEA ROOM KIKI／foodscape!等）。法人番号8120001041874は登記所コード1200＝大阪法務局本局で本社と一致。この規模で300億はありえずE列は誤り。承認ソースに売上高記載なし。回収見込みなし。",
+  "J": "https://lworld.co.jp/company.html; https://lworld.co.jp/brands.html"
+ },
+ {
+  "行": 4272,
+  "I": "○ 回収：自社HPのIRライブラリ／業績ハイライトで連結売上収益7,686億円（2025年3月期・連結、IFRSの売上収益表記＝§3-7により売上高と同義）を確認。プロテリアル（旧日立金属、東京都江東区豊洲）は連結財務諸表を作成・公表する企業グループの最上位会社であり、安来・桑名等の工場を直接保有する事業会社。§3-3の親会社／HD扱いでグループ連結300億超によりOK。単体実額は上場廃止後非開示だが、連結7,686億円の大半を担う事業会社のため300億は決定的にクリア。第86期(2023年3月期)までの有価証券報告書も自社HPに掲載。法人番号3010401038783は登記所0104＝東京法務局管内で本社と一致。",
+  "J": "https://www.proterial.com/corp/highlight/; https://www.proterial.com/corp/highlight/ir_library/dat.html; https://www.proterial.com/corp/highlight/ir_library/gh.html; https://www.proterial.com/corp/profile.html"
+ },
+ {
+  "行": 4273,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(camelcoffee.jp 会社概要/沿革/目指すこと/サステナビリティ)・カルディ運営会社ページ(kaldi.co.jp/ec/cmCompanyProfile.html, kaldi.co.jp/corporate/)・官報決算公告索引・gBizINFO。いずれも売上高の記載がなく『売上高非公表』。流通する945億円等はマイナビ・Yahoo!しごとカタログ・Baseconnect・就活会議・Wikipedia等の禁止ソースのみで§6-6加藤化学と同型。未踏経路＝官報決算公告本体（大会社でなければ貸借対照表のみで売上高欄が存在しない可能性が高い）。",
+  "J": "https://camelcoffee.jp/; https://www.kaldi.co.jp/ec/cmCompanyProfile.html"
+ },
+ {
+  "行": 4277,
+  "I": "△ 覆し（1次の○を取消）：親子判定が誤り。2024/12/1の再編で㈱ジューシーが『日本KFCホールディングス株式会社』(2代目)へ商号変更し、㈱クリスピーが初代HD(法人番号9011001095004)と旧事業会社を吸収合併して現商号(法人番号3010001244022)となった。本法人はHDではなく子会社であり§3-3によりグループ連結値は使用不可。1次採用の1,106.85億円(110,685百万円)は閉鎖済み初代HDの2024年3月期連結値で本法人の単体ではない(§6-4)。現法人単体で確認できるのは官報第1期決算公告(2025/4/18号外88号)の売上高12,709百万円＝127.09億円のみで、設立2024/4/15〜の変則決算かつKFC事業は合併後約1か月分。通期単体の承認ソースなし＝確認不可。",
+  "J": "https://japan.kfc.co.jp/assets/articles/7981/files/1093 (2024/10/25 合併・商号変更公告); https://japan.kfc.co.jp/company/history; https://japan.kfc.co.jp/assets/articles/7871/files/1026 (初代HD 2024年3月期決算短信・連結110,685百万円); https://kanpo-kanpo.blog.jp/archives/44604937.html (第1期官報決算公告の転載・参考)"
+ },
+ {
+  "行": 4284,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝旧自社HP会社概要(kamashin.co.jp/companyInfo.html)・新自社HP会社概要(kamashin-supermarket.jp/company/)・採用サイト『5分でわかるかましん』・栃木県系企業紹介サイト(NEXTOCHIGI/workwork-tochigi)・gBizINFO・官報決算公告索引。いずれも売上高の記載なし。流通する385億円(2025年2月期)/344億円/327億円(2022年2月期)はマイナビ・Baseconnect・OpenWork・Wikipedia・NIKKEI COMPASS等の禁止ソースのみ。法人番号2060001009628は登記所0600＝宇都宮地方法務局で栃木県本社と一致。未踏経路＝官報決算公告本体。385億円が正なら300億超だが承認ソース未取得のため回収不可。",
+  "J": "https://www.kamashin.co.jp/companyInfo.html; https://kamashin-supermarket.jp/recruit/fresh/about; https://we-tochigi.sakura.ne.jp/NEXTOCHIGI/company/02_ka/00008.html"
+ },
+ {
+  "行": 4285,
+  "I": "× 要修正：法人格NG。商号『ティファニー・アンド・カンパニー・ジャパン・インク』は米国法人Tiffany & Co. Japan Inc.（Inc.）の日本における営業所であり、株式会社ではない。§3-6により直アポ大は株式会社のみで一律対象外のため、売上高を調べるまでもなく除外が確定する（『△ 確認不可』ではなく法人格による×が正しい判定）。法人番号6700150001192は会社法人等番号に基づかない『7』始まりの付番形式で、国内の株式会社としての設立登記でないことと整合。日本事業単体の売上高は自社公式・公的情報とも非開示。",
+  "J": "https://www.tiffany.co.jp/"
+ }
+]

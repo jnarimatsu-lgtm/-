@@ -1,0 +1,52 @@
+[
+ {
+  "行": 4306,
+  "I": "△ §7-1回答待ち：官報決算公告に『JNC石油化学株式会社 第66期決算公告』の掲載を確認（catr.jp収録）。ただし検索要約経由のため売上高の桁を確定できず金額は不採用。追加で当たった経路＝親会社JNC(株)も非上場で有価証券報告書を提出しておらず『関係会社の状況』ルートが構造的に使えないことを確認・EDINET・TDnet・自社HP。catr.jpが承認ソースと認められ、かつ官報の号数・頁を特定できれば○に回収可能。",
+  "J": "https://catr.jp/settlements/22b7d/40599 ; https://catr.jp/companies/a858b/39805 ; https://catr.jp/companies/db62c/20988 ; https://www.jnc-corp.co.jp/"
+ },
+ {
+  "行": 4307,
+  "I": "△ 妥当：確認不可で正しい。新たに判明＝当社は東証プライム上場ネクステージ(株)の連結子会社（中古車の商品化・コーティング・鈑金）。ネクステージ連結4,634億円×10%＝463.4億円のため10%超注記の対象外＝親会社有報『関係会社の状況』に実額は存在しない（検算済）。当たった経路＝親会社IR/有報・自社HP会社概要・gBizINFO・官報。売上88.7億円（令和1年8月期）はマイナビ/Baseconnect等の禁止ソースのみで採用不可。規模的に300億未満の公算が大きい。",
+  "J": "https://asap-nx.jp/ ; https://asap-nx.jp/company/"
+ },
+ {
+  "行": 4308,
+  "I": "△ 妥当：単体売上高は取得できず。ただし1次が当たっていない経路を発見＝自社HPの電子公告ページに『第39期決算公告（2025年3月期）』が2026年1月30日付で掲載されている（PDF本文は未確認）。当たった経路＝自社HP会社概要・日本軽金属HDのIR/決算資料・gBizINFO・官報。親会社連結は約5,000億円で10%＝約500億円のため下限証明は不成立。電子公告PDFの損益計算書に売上高欄があれば○に回収可能。",
+  "J": "https://www.nikkeikin-act.co.jp/company/electronic-public-notice.html ; https://www.nikkeikin-act.co.jp/company/profile.html ; https://group.nikkeikin.co.jp/act/company/gaiyou.html ; https://www.nikkeikinholdings.co.jp/news/news/common/pdf/p2026051503hd.pdf"
+ },
+ {
+  "行": 4309,
+  "I": "△ 妥当：単体実額は未取得。判明事項＝法人番号8120901002091は旧(株)マルカと同一法人で、2026/1/1にジーネットを統合し商号をユニソル(株)に変更（法人存続を確認）。親会社ユニソルHD（旧フルサト・マルカHD）の有報『関係会社の状況』に『売上高の連結売上高に占める割合が10%超』の注記あり→下限は連結1,617.16億円×10%＝161.7億円で300億に届かず下限証明は不成立。機械事業セグメント448.27億円（2025年12月期）はセグメント値のため法人単体として不採用。未踏経路＝有報『主要な損益情報等』の実額・官報決算公告。",
+  "J": "https://www.unisol-gr.com/ir/ ; https://www3.unisol-gr.com/wp-content/uploads/2025/02/er_2412_jp.pdf ; https://www.unisol-corp.com/company/company_profile/ ; https://irbank.net/E36707"
+ },
+ {
+  "行": 4310,
+  "I": "△ 妥当：確認不可で正しい。新たに判明＝伊藤ハム米久HD有報で10%超注記の対象は伊藤ハム(株)・米久(株)・ANZCO FOODS・伊藤ハムミート販売西(株)・同東(株)の5社であり当社は含まれない→連結1兆500億円×10%＝1,050億円未満が確定し、有報『関係会社の状況』に当社の実額は存在しない（検算済）。法人は存続（HD公式にグループ会社ページあり／法人番号の登記所コード1400＝神戸で西宮本社と一致し同名別法人ではない）。当たった経路＝親会社有報・決算短信・決算説明資料・HD公式・gBizINFO・官報。『売上300億円超』は禁止ソースのみ。",
+  "J": "https://www.itoham-yonekyu-holdings.com/itoham-hanbai/ ; https://www.itoham-yonekyu-holdings.com/ir/securities_report.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8140001072208 ; http://www.itoham-hanbai.co.jp/index.html"
+ },
+ {
+  "行": 4313,
+  "I": "△ 妥当：確認不可で正しい。JFEHD連結約5兆円に対し当社の推定329億円は約0.7%で10%基準に遠く及ばず、親会社有報『関係会社の状況』に実額は存在しない（検算済＝経路6は構造的に使えない）。NIKKEI COMPASS・バフェット・コード等に約329億円（2024年3月期・単体、従業員434名、JFEスチール100%出資）の記載があるが承認ソース外。当たった経路＝自社HP会社概要・JFEスチール決算公告ページ・親会社IR/有報・EDINET・官報。未踏＝当社自身の官報決算公告（catr.jp依存となり§7-1に落ちる見込み）。",
+  "J": "https://www.jfe-wp.co.jp/company/ ; https://www.jfe-steel.co.jp/kessan/ ; https://www.jfe-wp.co.jp/"
+ },
+ {
+  "行": 4314,
+  "I": "△ 妥当：確認不可で正しい。§6-2照合＝法人番号4040001044732の登記所コード0400（千葉）が本社所在地（千葉県成田市不動ケ岡）と一致し同名別法人ではないことを検索なしで確認。空港関連業務代行・航空機整備の会社で従業員183名・資本金1,000万円・1996年8月設立。当たった経路＝自社HP会社概要・gBizINFO・官報決算公告・EDINET（親会社なし）。売上30億円の記述はBaseconnect/マイナビ転職等の禁止ソースのみ。規模的にE列の300億以上レンジ自体が誤りと見られるが、承認ソースでの確定値がないため△。",
+  "J": "http://www.fmg.sc/company/ ; http://www.fmg.sc/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4040001044732"
+ },
+ {
+  "行": 4315,
+  "I": "△ 妥当：確認不可で正しい。自社HP会社概要（新宿区西新宿・1990年設立・スタッフ約500名・Webサイト構築/コミュニケーションデザイン）に売上高の記載がないことを確認。非上場でIR・EDINET・TDnetいずれも該当なし。当たった経路＝自社HP会社概要／会社情報／ニュースリリース・EDINET・TDnet・官報決算公告・gBizINFO。未踏＝採用サイト『1ページでわかるミツエーリンクス』。従業員500名規模で年商300億（1人当たり6,000万円）はWeb制作業として非現実的であり、E列レンジ自体が疑わしい。",
+  "J": "https://www.mitsue.co.jp/company/profile.html ; https://www.mitsue.co.jp/company/ ; https://jobs.mitsue.co.jp/about_us/1page/"
+ },
+ {
+  "行": 4316,
+  "I": "△ §7-1回答待ち：494.97億円（第55期・単体。売上総利益42.78億円／営業利益20.60億円／経常利益19.35億円／当期純利益17.76億円）を官報決算公告で確認済み。ただし出典がcatr.jp・官報索引ブログの二次サイトのみで、官報本体の号数・頁は未特定。コナミG連結4,216億円（2025年3月期）×10%＝421.6億円＜494.97億円で10%超に該当するため、コナミグループ有報『関係会社の状況』に実額が記載されている可能性が高く未確認（回収見込みあり）。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/ebad0/8526 ; https://catr.jp/settlements/cb069/253179 ; https://kanpo-kanpo.blog.jp/archives/46199342.html ; https://www.konami.com/ir/ja/ir-data/"
+ },
+ {
+  "行": 4318,
+  "I": "○ 回収：587億円（単体）。デリカフーズHD公式サイトの企業情報／グループ会社紹介に『デリカフーズ株式会社 売上高587億円・正社員816名・19拠点』と記載＝自社公式（承認ソース①）。同社はグループの主業である青果物流通事業を担う中核事業会社で、HD連結62,219百万円＝622.19億円（2025年3月期・決算短信）の大半を占め整合する。子会社単体で300億円を大きく超えるため§3-3を満たし架電可。1次はHD連結622.19億円をグループ値として退けていたが、単体値が公式サイトに存在した。",
+  "J": "https://www.delica.co.jp/company/ ; https://www.delica.co.jp/company/summary/ ; https://www.delica.co.jp/wp-content/uploads/2025/05/20250509.pdf ; https://www.delica.co.jp/ir/"
+ }
+]
