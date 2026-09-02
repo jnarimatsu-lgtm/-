@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2532,
+  "I": "△ 要再確認（§7-1回答待ち）：Otis日本法人＝子会社のため単体判定。第114期（2024年11月期・単体）決算公告で売上高822.80億円（営業利益186.53億／純利益126.95億）を確認し300億は充足するが、出典が官報決算DB(catr.jp)と個人ブログのみで官報の号数・頁を特定できず。追加で当たった経路＝otis.com掲載の自社会社概要PDF（2022年11月版・鮮度外）／gBizINFO（695.96億円・2021年11月期・鮮度外）／親会社Otis WorldwideのIR（日本単体の記載なし）。catr.jpが承認されれば○に回収可能",
+  "J": "https://catr.jp/companies/9181e/39951/settlements/f9f91/392703;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010001075825;https://www.otis.com/documents/256045/364703556/NipponOtis_221109.pdf"
+ },
+ {
+  "行": 2535,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝1次未踏の自社HP「業績と主要取引先」ページ(https://www.wex.co.jp/corporate/performance.html)を新規に発見しドメイン限定検索したが売上高の数値は取得できず／自社HP会社概要／官報決算公告（catr.jp等に同社の収録なし）／EDINET（非上場・提出なし）。流通する「437億円（2025年4月期）」はマイナビ・ワンキャリア・就活会議・転職会議・Wikipedia等の禁止ソースのみで§6-6加藤化学と同型。承認ソースで確定できないため△",
+  "J": "https://www.wex.co.jp/corporate/performance.html;https://www.wex.co.jp/corporate/about.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001014630"
+ },
+ {
+  "行": 2536,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算データベース(catr.jp)を新規に検索したが、収録されているのはヤマザキマザックトレーディング（第58期1,445.88億円）・ヤマザキマザックマニュファクチャリング（第39期936.81億円）・ヤマザキマザックキャピタルの各別法人のみで、ヤマザキマザック株式会社（法人番号9180001081170）本体の決算公告は存在しない／新聞社記事は日刊工業新聞の2008年3月期2,900億円台のみで鮮度外／自社HP会社概要に売上高欄なし。※グループ他社の金額を本体に流用してはいけない（§6-2）",
+  "J": "https://catr.jp/settlements/d7da0/189352;https://catr.jp/settlements/64e25/114567;https://www.mazak.com/jp-ja/about-us/company-outline/;https://www.nikkan.co.jp/articles/view/00021516"
+ },
+ {
+  "行": 2540,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要をドメイン限定(totor.co.jp)で再検索したが売上高の数値は本文から取得できず／自社HP企業情報・沿革／官報決算データベース(catr.jp)／EDINET（非上場・提出なし）。【反証層追記】catr.jp収録の決算公告は第38期325.50億円・第37期327.05億円（いずれも単体）で、流通する『423億円（2025年3月期）』とは一致せず二次情報側が誤り。仮に§7-1でcatr.jpが承認されても300億基準に対し余裕が約8%しかなく、かつ第37/38期の決算期年月を特定できないため（§3-8鮮度不明）承認ソースでの確定が別途必要。現時点では△を維持。",
+  "J": "https://www.totor.co.jp/company/profile;https://www.totor.co.jp/company;https://catr.jp/companies/46704/28573;https://catr.jp/settlements/b5e3b/126478;https://catr.jp/settlements/b700c/28954"
+ },
+ {
+  "行": 2549,
+  "I": "△ 妥当：確認不可で正しい。リクルートスタッフィングの100%子会社＝§3-3により単体300億以上のみ可（連結・親会社値は使えない）。当たった経路＝官報決算公告（catr.jpに親会社リクルートスタッフィングの第34/35/37/39期は収録されるが、リクルートスタッフィング情報サービス単体の公告は見つからず）／リクルートHDのIR決算関連資料（孫会社単体の記載なし）／自社HP会社概要（売上高欄なし）。リクルートHD連結約3.4兆円の10%＝約3,400億のため親会社有報の下限証明も使えない",
+  "J": "https://www.rs-is.co.jp/corp-information/;https://catr.jp/companies/493cd/21735/settlements/1f2ad/424752;https://recruit-holdings.com/ja/ir/financials/"
+ },
+ {
+  "行": 2553,
+  "I": "○ 回収：東証プライム上場（コード8051）の独立系上場会社＝親会社扱いで連結可。2026年3月期 決算短信〔日本基準〕（連結）で連結売上高541,885百万円＝5,418.85億円（前期比5.0%増、2026年5月13日開示）。自社IRサイト掲載の決算短信PDFで確認（§3-4②）。300億基準を大幅に充足。1次は「二次情報のみ」としていたが自社IRの一次資料が存在する",
+  "J": "https://www.yamazen.co.jp/archives/001/2_20260513_Financial_Results_j.pdf;https://www.yamazen.co.jp/ir/"
+ },
+ {
+  "行": 2555,
+  "I": "○ 回収：自社公式サイトが「第53期決算公告」PDFを直接掲載（会社概要ページからリンク）＝§3-4①の承認ソース（catr.jp依存が解消）。第53期・単体の売上高420.42億円（営業利益48.49億／経常利益56.45億／当期純利益32.42億）。官報決算データベースおよびPRTIMES決算情報も同一の第53期数値で一致し検算済み。冠婚葬祭互助会グループの中核会社＝親会社扱いで単体420.42億円により300億基準を充足。※第53期の決算期月までは特定できず（2025年公告分）",
+  "J": "https://www.nihon-ceremony.jp/assets/pdf/nihon-ceremony.pdf;https://www.nihon-ceremony.jp/aboutus/company.html;https://catr.jp/companies/711aa/6282/settlements/1411d/410329;https://prtimes.jp/finance/1250001006136/settlement"
+ },
+ {
+  "行": 2558,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算データベース(catr.jp)に第32・36・37期決算公告の収録は確認できたが売上高の数値を承認ソースで確定できず／自社HP会社概要（売上高欄なし）／自社HPに電子公告・IRページなし／EDINET（非上場・提出なし）。流通する「2,800億円」はマイナビ・ビズリーチ等の禁止ソースで、かつグループ全体値（資本金・従業員数もグループ連結表記）であり単体値ではない。承認ソースで確定できないため△",
+  "J": "https://www.nobuta123.co.jp/corporate/profile/;https://catr.jp/companies/e3fea/33903;https://catr.jp/settlements/5cc33/381940"
+ },
+ {
+  "行": 2560,
+  "I": "△ 妥当：確認不可で正しい。旧・大建工業が2025年9月26日にDAIKEN株式会社へ商号変更（自社リリース、法人格は存続）。伊藤忠商事のTOBで完全子会社化・上場廃止済み＝§3-3により子会社単体で判定要。当たった経路＝自社IRの連結値（2025年3月期2,163.23億円）は子会社のため使用不可／自社HPの電子公告ページと第108期有報は存在するが単体売上高の本文数値を取得できず／伊藤忠連結収益約14兆円に対し約1.5%で10%未満のため親会社有報「関係会社の状況」に実額も下限注記もなし。二次情報の1,373.91億円は不採用",
+  "J": "https://www.daiken.jp/ir/announcement/;https://www.daiken.jp/ir/pdf/annualsecurityreport/2024/%E6%8F%90%E5%87%BA%E6%9C%AC%E6%96%87%E6%9B%B8%E5%8F%8A%E3%81%B3%E7%9B%A3%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf;https://www.daiken.jp/news/detail/20250204031109.html;https://www.daiken.jp/ir/pl.html"
+ },
+ {
+  "行": 2563,
+  "I": "△ 要再確認（§7-1回答待ち）：官報決算公告が唯一の出典。当たった経路＝自社HPをドメイン限定(kawamura.co.jp)で再検索し会社概要・CSR・グループ企業・採用ページまで確認したが、資本金18億3,400万円・従業員1,923名（単体、2026年3月末）等はあるものの売上高の掲載は一切なし／自社HPに電子公告・IRページなし／EDINET（非上場・提出なし）。官報決算データベース(catr.jp)に第71・76・77・78期の決算公告が収録されているが二次サイトで金額を確定できず。catr.jpが承認ソースと認められれば○に回収可能",
+  "J": "https://www.kawamura.co.jp/corporate/about/;https://catr.jp/companies/e4c22/24888/settlements/eb2a3/424233;https://catr.jp/companies/e4c22/24888/settlements/58dde/367954"
+ }
+]

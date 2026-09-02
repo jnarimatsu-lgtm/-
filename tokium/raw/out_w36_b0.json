@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2406,
+  "I": "○ 回収：銀行のため§3-7により経常収益で判定。横浜FG（旧コンコルディアFG）子会社だが単体で充足。横浜銀行単体の有価証券報告書（横浜FG公式サイト掲載）「主要な経営指標等の推移」に単体経常収益2,350億円規模の記載。加えて2026年3月期の横浜銀行単体は業務粗利益2,393億円・当期純利益923.97億円（日経／神奈川新聞、決算期明記＝§3-4④）で、経常収益はこれを上回り300億円超が確定。横浜FG連結経常収益は2026年3月期4,907億円。",
+  "J": "https://www.yokohamafg.co.jp/shared/pdf/shareholder/ir/securities/securities-boy/pdf-securities-boy.pdf ; https://www.yokohamafg.co.jp/shareholder/highlight-boy-all/index.html ; https://www.yokohamafg.co.jp/shared/pdf/shareholder/ir/closing/closing-boy/pdf-closing26.pdf ; https://www.nikkei.com/article/DGXZQOCC124R40S6A510C2000000/ ; https://www.kanaloco.jp/news/economy/article-1271248.html"
+ },
+ {
+  "行": 2407,
+  "I": "○ 回収：自社公式の2026年3月期決算短信〔IFRS〕（連結）でトップライン7,337,259百万円＝7兆3,372.59億円。原文表記は「収益」だが、IFRS採用企業の売上高相当科目であり§3-7の「IFRS等の売上収益は売上高と同義」に該当するため採用。住友商事は東証プライム上場の親会社（8053）で§3-3により連結採用可。300億円基準の約245倍で桁の疑義なし。",
+  "J": "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/summary/2025/2603Tanshin.pdf ; https://www.sumitomocorp.com/ja/jp/ir/report/yuka"
+ },
+ {
+  "行": 2416,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①現行自社HP（corps-inc.jp）会社概要・代表挨拶・事業所一覧、②旧ドメインcorps.co.jp/information、③自社採用サイトcorps-saiyo.jp、④官報決算公告、⑤gBizINFO、⑥新聞記事。いずれも売上高の記載なし。数値は禁止ソース（マイナビ／Baseconnect／エン／Wikipedia）のみで2025年8月期223億円・2024年8月期213億円・2023年207.49億円。仮に採用しても全て300億円未満で回収余地なし。",
+  "J": "https://www.corps-inc.jp/company/ ; https://corps-inc.jp/ ; http://www.corps.co.jp/information ; https://corps-saiyo.jp/-/top/proper.html"
+ },
+ {
+  "行": 2418,
+  "I": "○ 回収：2026年3月期 連結営業収益655,435百万円＝6,554.35億円（前期比3.8%増、営業利益71,861百万円）。出典は自社IRの2026年3月期決算短信〔日本基準〕（連結）PDF。鉄道業は「営業収益」が売上高相当のトップライン科目で、§3-7が銀行の経常収益を認めるのと同じ扱いで採用（本プロジェクトでも既に営業収益での記入実績あり）。東武鉄道は東証プライム上場の親会社（9001）で§3-3により連結採用可。",
+  "J": "https://www.tobu.co.jp/cms-pdf/financial_summaries/20260430154313jWHZgF-QyiV776F5eyclZw.pdf ; https://www.tobu.co.jp/ir/results/"
+ },
+ {
+  "行": 2419,
+  "I": "○ 回収：2026年3月期 連結売上高（営業収益）1兆4,423億円（前期比869億円減、燃料費調整の減少による）。出典は自社IRの2026年3月期決算短信〔日本基準〕（連結）PDF。決算短信の科目表記は「売上高（営業収益）」で売上高そのもの。中国電力は東証プライム上場の親会社（9504）で§3-3により連結採用可。300億円基準の約48倍。",
+  "J": "https://www.energia.co.jp/ir/pdf/kessan/2026-4renketu.pdf ; https://www.energia.co.jp/ir/irzaimu/tanshin.html"
+ },
+ {
+  "行": 2420,
+  "I": "○ 妥当（G列注記：決算期が古い）：住友電気工業の連結子会社のため§3-3により単体で判定。単体売上高は直近も2,000億円超規模で300億円基準の約7倍、判定は不変。ただし1次採用の第136期（2024年3月期）単体201,298百万円＝2,012.98億円は最新ではない。EDINET（E01097）で第137期＝2025年3月期の有価証券報告書が2025年6月20日提出（書類番号S100VZJC）、さらに第138期の存在も確認。G列の決算期は2025年3月期・単体へ更新すべき。なお2025年3月期の単体売上高として213,066百万円＝2,130.66億円という記述を検索で得たが、承認ソース本文で再現できなかったため金額は断定しない（どちらでも300億円を大幅超過で判定不変）。",
+  "J": "https://f.irbank.net/pdf/E01097/ir/S100VZJC.pdf (EDINET E01097 第137期有報 2025/6/20提出) ; https://www.sumitomoriko.co.jp/ir/securities.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6180001076207"
+ },
+ {
+  "行": 2422,
+  "I": "△ 妥当（1次の残存経路は誤り。経路を訂正）：伊藤忠商事がTOBで議決権65%（下限50.1%）を取得し2017年度に連結子会社化した事実を確認したため、§3-3で単体実額が必須という1次の枠組みは正しい。1次が「残る経路」とした自社HPの決算公告PDF（kessan-YYMMDD.pdf）は中身が連結貸借対照表で単体損益計算書を含まず、かつ有報提出会社は会社法440条4項で決算公告義務が免除されるため、この経路は行き止まり。新経路を発見：ヤナセはEDINET継続開示会社（E02586）で、第153期（2024年4月1日-2025年3月31日）の有価証券報告書を2025年6月26日に提出済み。単体売上高は同有報の「提出会社の経営指標等の推移」および個別財務諸表に必ず存在するが、当環境はWebFetch遮断でPDF本文を取得できず数値未確定のため○には戻さない。連結は541,001百万円＝5,410.01億円（第153期）だが子会社のため不採用。当たった経路＝自社HP企業概要/業績決算情報/プレスリリース/決算公告PDF索引、伊藤忠有報「関係会社の状況」（ヤナセは伊藤忠連結収益の10%未満で主要な損益情報等の記載義務なし）、EDINET索引、日経会社情報。→ PDF本文が読める環境なら1点確認で○回収できる見込みが高い最優先の再訪行。",
+  "J": "https://www.yanase.co.jp/company/financials.html ; https://disclosure.edinet-fsa.go.jp/ (E02586 第153期有価証券報告書 2025/6/26提出) ; https://www.nikkei.com/nkd/disclosure/ednr/20220624S100OE16/ ; https://www.nikkei.com/article/DGXLASDZ25H4V_V20C17A5MM0000/ ; https://www.yanase.co.jp/company/information/press/2025/pdf/yanasenews20250523_web.pdf"
+ },
+ {
+  "行": 2425,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（leverages-medicalcare.jp／レバウェル）、②親会社レバレジーズ株式会社のニュースリリース（2025年4月1日にレバレジーズメディカルケア→レバウェルへ社名変更。売上高の記載なし）、③官報決算公告（第1期のみ・純利益／利益剰余金／総資産の記載で売上高欄が存在しない）、④gBizINFO（法人番号3011001118728は現存）、⑤親会社は非上場で有報がなく「関係会社の状況」経路自体が存在しない。売上高は禁止ソース（Baseconnect／OpenWork／gurafu.net）のみ。",
+  "J": "https://leverages.jp/news/2025/0401/4581/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011001118728 ; https://leverages-medicalcare.jp/company"
+ },
+ {
+  "行": 2426,
+  "I": "○ 妥当（鮮度注記）：2024年3月期 連結売上高4,489.54億円は自社IR決算短信で確認でき300億円基準の約15倍。§3-8の直近3期（2026年3月期/2025年3月期/2024年3月期）の最古に該当し現時点では有効。ただし2025年3月3日に東証プライム市場を上場廃止（買収による非公開化）しており、自社IRライブラリを再確認しても2025年3月期以降の通期実績開示は存在しない。承認ソースで確認できる最新は2025年2月10日の通期業績予想修正（適時開示）の売上高4,184億円で、これは実績ではなく予想。2027年3月期に入ると2024年3月期が直近3期から外れ確認不可へ倒れるため、次回棚卸しで要再確認。なお非公開化後は取得SPCの子会社となるが、4,489.54億円はティーガイア自身の連結でありグループ親の数値の流用ではないため§3-3の抵触はない。",
+  "J": "https://www.t-gaia.co.jp/ir/library/note.html ; https://www.t-gaia.co.jp/corp/ir/library/financial_results.html ; https://www.t-gaia.co.jp/ir/financial.html ; https://www.nikkei.com/nkd/company/kessan/?nik_code=0035873"
+ },
+ {
+  "行": 2432,
+  "I": "○ 回収：自社HP会社概要およびIR財務ハイライトの営業収益で、単体579億54百万円＝579.54億円、連結1,555億円。物流業は「営業収益」が売上高相当のトップライン科目で、§3-7が銀行の経常収益を認めるのと同じ扱いで採用。ハマキョウレックスは東証プライム上場の親会社（9037）で、単体・連結いずれも300億円を大幅超過するため親子判定の争点なし。2026年3月期の四半期決算短信も自社IRで継続開示。",
+  "J": "https://www.hamakyorex.co.jp/corporate/outline/ ; https://www.hamakyorex.co.jp/ir/highlight/highlight-tan/ ; https://www.hamakyorex.co.jp/ir/highlight/highlight-ren/ ; https://www.hamakyorex.co.jp/ir/library/accounts/upload/tanshin_202512.pdf"
+ }
+]

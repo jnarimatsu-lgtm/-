@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2467,
+  "I": "△ §7-1回答待ち：官報決算公告（第23期）で単体売上高405.26億円（営業利益56.83億円・経常利益54.73億円・純利益37.39億円）を確認。P&Gグループ日本法人（神戸市中央区）の子会社単体値で300億円は超えるが、出典が catr.jp（官報二次サイト）のみ。自社HP jp.pg.com には会社概要のみで売上高記載なし、EDINET非提出、電子公告ページも不存在。catr.jp が承認ソースと認められれば○に回収可能。なお第23期が何年何月期かは特定できておらず、§3-8の鮮度確認も別途必要。",
+  "J": "https://catr.jp/companies/f9cfd/34968/settlements/f3bcf/332943 ; https://jp.pg.com/profile/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5140001021051"
+ },
+ {
+  "行": 2469,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社公式HP会社概要（acoop-east-t.jp／acoop-kinki.co.jp／acoop-nishinihon.jp）に売上高104,000百万円＝1,040億円の記載はあるが明記が『令和4年度実績』で、§3-8の直近3期（令和5〜7年度）を外れる。②本法人は令和6年4月1日に(株)Aコープ東日本・(株)エーコープ近畿・(株)Aコープ西日本の3社合併で発足した新体制で、発足後の決算値は自社HP・全農プレスリリースいずれにも未公表。③親会社にあたるJA全農の財務情報ページ（取扱高・財務諸表 令和6年度）にも子会社単体売上高の記載なし。④EDINET非提出。未踏経路＝官報決算公告（catr.jpに収録あり＝§7-1依存）。",
+  "J": "https://www.acoop-east-t.jp/company/ ; https://www.acoop-kinki.co.jp/company/outline.html ; https://www.zennoh.or.jp/about/financial/statement/r6-7.html ; https://www.zennoh.or.jp/press/release/2024/99211.html"
+ },
+ {
+  "行": 2470,
+  "I": "△ §7-1回答待ち：官報決算公告で単体売上高3,065.59億円（2026年1月期・第26期）を確認。第25期約2,792億円、第24期2,345.99億円と推移も整合し、いずれも300億円を大きく超える。ただし出典は catr.jp 等の官報二次サイトのみ。自社HP salesforce.com/jp を確認したが電子公告・決算公告の掲載はなく、掲載される業績は米Salesforce, Inc.のグローバル業績（抄訳）のみで日本法人単体値は不記載。EDINET非提出。catr.jp が承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/1b573/6657/settlements/fbb91/401719 ; https://catr.jp/companies/1b573/6657/settlements/fe68e/349750 ; https://salesforce.com/jp/company/overview"
+ },
+ {
+  "行": 2474,
+  "I": "○ 回収：2026年3月期 連結営業収益1,923.15億円（192,315百万円、前期比+0.7%）。出典＝自社IR『財務ハイライト』および決算短信（2026年5月20日決算説明会）。東証プライム上場の親会社であり§3-3により連結で判定可。信販・クレジット会社のためP/Lのトップラインが『営業収益』であり、これが売上高に相当する（§3-7が銀行・保険で経常収益を採るのと同趣旨。本プロジェクトでも他行で『○○億円（2026年3月期・営業収益）』をG列採用済み）。1次の『営業収益は売上高と同一視しないため不採用』は過剰な却下で、300億円基準は6.4倍の余裕をもって充足。",
+  "J": "https://www.jaccs.co.jp/corporate/ir/achievements/highlight/ ; https://www.jaccs.co.jp/corporate/ir/library/fs/ ; https://www.jaccs.co.jp/corporate/ir/achievements/sales.html"
+ },
+ {
+  "行": 2476,
+  "I": "△ §7-1回答待ち：官報決算公告で単体売上高4,197.82億円（2025年12月期）を確認。子会社単体値で300億円は大幅超だが、出典が官報二次サイト（catr.jp系）のみ。自社HP astrazeneca.co.jp の投資家向けページを確認したが、掲載資料は英AstraZeneca PLC のグローバル四半期・通期業績（2021〜2024年）のみで日本法人アストラゼネカ株式会社単体の売上高は不記載。電子公告ページも不存在、EDINET非提出、gBizINFOにも財務情報なし。catr.jp が承認ソースと認められれば○に回収可能。",
+  "J": "https://www.astrazeneca.co.jp/azkk/investors.html ; https://www.astrazeneca.co.jp/azkk/company.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9120001073652"
+ },
+ {
+  "行": 2478,
+  "I": "○ 回収：2026年3月期 連結営業収益2,647.14億円（前期比+1.5%）。出典＝自社IR決算短信PDF（2026年4月30日開示・コード9044）。※商号変更に注意＝法人番号6120001077499の法人は2026年4月1日付で『株式会社NANKAI』に商号変更し事業持株会社へ移行、鉄道事業は会社分割で新・南海電気鉄道株式会社（NANKAI 100%子会社）に承継された。法人格は存続しており§6-7の消滅事案ではない。株式会社NANKAIは事業持株会社＝親会社であり§3-3によりグループ連結2,647.14億円で判定可。承継先の新・南海電気鉄道も運輸業単体で1,000億円規模のため、いずれを架電対象としても300億円基準は充足。架電時の社名は『株式会社NANKAI』が正。1次の『営業収益は不採用』は過剰（鉄道会社のP/Lトップライン＝営業収益＝売上高相当）。",
+  "J": "https://www.nankai.co.jp/lib/company/ir/library/tanshin/pdf/260430.pdf ; https://www.nankai.co.jp/news/260316.html ; https://www.nankai.co.jp/ir/library/brief"
+ },
+ {
+  "行": 2479,
+  "I": "○ 回収：2026年3月期 連結営業収益3,041.92億円（前期比+3.5%、営業利益335.53億円、親会社株主帰属当期純利益274.92億円）。出典＝2026年5月11日開示の決算短信〔日本基準〕(連結)（上場会社名 京浜急行電鉄株式会社・コード9006）および自社IR業績ハイライト。東証プライム上場の親会社であり§3-3により連結で判定可。鉄道会社のP/Lトップラインは『営業収益』でこれが売上高に相当するため、1次の不採用は過剰。300億円基準は10倍の余裕をもって充足。",
+  "J": "https://www.keikyu.co.jp/ir/library/accounts.html ; https://www.keikyu.co.jp/ir/financial_info/highlight.html ; https://www.keikyu.co.jp/ir/financial_info/pl.html"
+ },
+ {
+  "行": 2490,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（sankyo-gr.com）に売上高の掲載なし、②gBizINFOに財務情報なし、③EDINET非提出、④官報決算公告（catr.jpに第30期・第34期の収録あり＝§7-1依存）。加えて重要な点として、非承認の求人媒体（マイナビ）と官報決算公告のいずれも2024年8月期151.42億円・2023年8月期142.99億円で一致しており、仮に§7-1でcatr.jpが承認ソースと認められても300億円を大きく下回るため直アポ大の対象外（実質×）。回収の見込みはなく、架電対象に戻す必要なし。",
+  "J": "https://www.sankyo-gr.com/page/detail/company-overview ; https://catr.jp/companies/573df/128626 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2180301008326"
+ },
+ {
+  "行": 2493,
+  "I": "△ §7-1回答待ち：官報決算公告（第55期）で単体売上高721.67億円を確認（第50期は1,028.25億円）。旧J-DevicesでAmkorグループ日本子会社（大分県臼杵市）、子会社単体値で300億円は超えるが、出典が catr.jp（官報二次サイト）のみ。自社HP（amkor.com/jp・j-devices.co.jp）に売上高記載および電子公告ページなし、EDINET非提出、米国親会社Amkor Technology(AMKR)の開示にも日本法人単体売上高の記載なし。catr.jp が承認ソースと認められれば○に回収可能。第55期の決算期特定も別途必要（§3-8）。",
+  "J": "https://catr.jp/companies/4deb6/75403/settlements/f6fec/395614 ; https://catr.jp/companies/4deb6/75403/settlements/22610/343713 ; https://amkor.com/jp/"
+ },
+ {
+  "行": 2497,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（hitocom.co.jp）に売上高記載なし、②親会社ヒト・コミュニケーションズ・ホールディングス(4433)のIR（決算短信・決算説明資料・業績ハイライト）は連結値のみで2025年8月期連結売上高635.96億円、子会社単体の記載なし、③EDINET／有報『関係会社の状況・主要な損益情報等』は本検証の検索範囲では単体実額を取得できず、④官報決算公告も承認ソースでは未確認。下限証明も不可＝親会社連結635.96億円×10%＝63.6億円で300億円に届かない。未踏経路＝EDINETで4433の有価証券報告書本文『関係会社の状況／主要な損益情報等』を直接開いて当社単体売上高を確認すること（連結の過半を占める中核事業会社のため実額が記載されている可能性が高い）。ここが取れれば○回収の見込みあり。",
+  "J": "https://www.hitocom-hd.com/ja/ir/library/result.html ; https://www.hitocom-hd.com/ja/group.html ; https://www.hitocom.co.jp/company/outline.html ; https://www.hitocom-hd.com/ja/ir/bc/highlight.html"
+ }
+]
