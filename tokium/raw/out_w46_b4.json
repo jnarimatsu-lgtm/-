@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3612,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(sdm.co.jp/company.html)、gBizINFO(6010901001825)、官報決算公告検索。いずれも売上高の記載なし。資本金1,000万円・社員20名/契約社員60名/在宅45名のDM発送代行業で、E列「1,000億円以上」は明らかに誤り。法人番号0109＝東京法務局府中支局管轄で本社調布市と一致し同名別法人ではない。数値は禁止ソース(Baseconnect等)にしか無い。",
+  "J": "https://www.sdm.co.jp/company.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010901001825"
+ },
+ {
+  "行": 3613,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(mitsugi-zd.co.jp/company.html)、gBizINFO、官報決算公告、完成工事高の公表資料。売上高の記載なし。千葉県君津市の造園土木工事会社で健康経営優良法人「中小規模法人部門」認定＝中小企業。法人番号0400＝千葉地方法務局管轄で本社君津市と一致。E列「1,000億円以上」は誤り。",
+  "J": "http://www.mitsugi-zd.co.jp/company.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9040001052193"
+ },
+ {
+  "行": 3614,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社採用サイト(yubi.jp)、関連のYubiホールディングス会社概要(yubi-hd.co.jp/company/)、gBizINFO、官報決算公告。売上高の記載なし。仙台発祥の美容室チェーンで山形・郡山・八戸・札幌・NY計56店舗規模。法人番号3700＝仙台法務局管轄で本社と一致。禁止ソース(QJナビ等)のみ。",
+  "J": "https://yubi.jp/; https://yubi-hd.co.jp/company/"
+ },
+ {
+  "行": 3615,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP概要(soei-inc.co.jp/corporate.html)、官報決算公告、gBizINFO、同名のSOEIホールディングス(東京都新宿区・別法人／2024年2月期70.9億円)との切り分け。売上高の記載なし。横浜市・資本金2,000万円・従業員55名の空間装飾/内装設計施工業。法人番号0200＝横浜地方法務局と一致。E列「300億以上」は誤り。",
+  "J": "https://www.soei-inc.co.jp/corporate.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001020759"
+ },
+ {
+  "行": 3616,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報・当社の歩み(sairan.co.jp/company, /history)、gBizINFO、官報決算公告。売上高の記載なし。静岡市の広告代理業／総合印刷業(1905年創業)。法人番号0800＝静岡地方法務局管轄で本社静岡市と一致。承認ソースに数値なく、禁止ソース(Baseconnect／NIKKEI COMPASS)のみ。",
+  "J": "https://www.sairan.co.jp/company; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6080001001612"
+ },
+ {
+  "行": 3617,
+  "I": "△ 妥当：確認不可で正しい。1次未踏の採用サイト「数字で見る葵設計事務所」(recruit.aoi-sekkei.jp/number/)まで当たったが売上高の数値を取得できず。他に自社HP企業情報、gBizINFO、官報決算公告も確認。愛知県豊橋市の建設コンサルで健康経営優良法人2025「中小規模法人部門」認定＝中小企業。法人番号1803＝名古屋法務局豊橋支局と一致。E列「1,000億円以上」は誤り。",
+  "J": "https://aoi-sekkei.jp/company/; https://recruit.aoi-sekkei.jp/number/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8180301004906"
+ },
+ {
+  "行": 3618,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(radian.co.jp)、gBizINFO、日本パッケージデザイン協会の企業情報、官報決算公告。売上高の記載なし。東京都品川区上大崎・従業員53名のパッケージデザイン会社(2016年に旧マックスラジアンから改称)。法人番号0107＝東京法務局品川出張所管轄で本社品川区と一致。禁止ソース(Wantedly／OpenWork／転職会議)のみ。",
+  "J": "https://www.radian.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010701012953"
+ },
+ {
+  "行": 3619,
+  "I": "△ 反証：1次の「○ 回収」を取り消す。①採用値390億円を金額シードで検索しても自社サイト(taikawa.co.jp)由来の再現が一度も取れず、ドメイン限定検索でも会社概要・企業理念ページに売上/年商の数値記載を確認できない。②決算期の記載が無く§3-8の直近3期以内を確定できない（G列書式に必須の決算期も書けない）。③自社サイトの記載は兵庫パルプ工業・タイカワ運輸を『関連会社』とするもので、390億円がタイカワ商事単体か井川家分家系のタイカワグループ合計かを切り分けられない。関連会社は子会社ではなく§3-3の『グループ連結』にも当たらない。④資本金5,000万円・従業員43名（法人番号9500001014361・四国中央市三島宮川で同定一致）。基準300億に対し余裕が3割しかなく、上記の不確定を残したまま○にすると§1の最悪誤り（架電後に計上不可＝アポインター無報酬）になる。§3-5により載せない。当たった経路＝自社HP会社概要/企業理念/CSR、taikawa.co.jpドメイン限定検索、gBizINFO、グループ各社サイト。禁止ソース(Baseconnect／NIKKEI COMPASS／バフェット・コード)のみに数値が流通。",
+  "J": "https://taikawa.co.jp/company_overview.html; https://taikawa.co.jp/company_about.html; https://taikawa.co.jp/company_group.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9500001014361"
+ },
+ {
+  "行": 3620,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(dram.co.jp/profile.html, /company.html)、gBizINFO、官報決算公告。売上高の記載なし。東京都千代田区一番町・資本金1,000万円・従業員37名の港湾/空港/漁港系建設コンサルタント。法人番号0100＝東京法務局本局管轄で本社千代田区と一致。E列「1,000億円以上」は誤り。禁止ソース(SalesNow／Baseconnect／OpenWork)のみ。",
+  "J": "http://www.dram.co.jp/company.html; http://www.dram.co.jp/profile.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001024760"
+ },
+ {
+  "行": 3621,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(chuwa-p.co.jp/profile/)、官報決算公告(該当掲載を確認できず)、gBizINFO。売上高の記載なし。東京都中央区入船2-2-14・1947年7月設立の印刷会社。法人番号0100＝東京法務局本局管轄で本社中央区と一致。E列「1,000億円以上」は誤り。",
+  "J": "https://www.chuwa-p.co.jp/profile/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001050335"
+ }
+]
