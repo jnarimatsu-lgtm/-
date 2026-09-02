@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1765,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(beaconcom.jp)会社概要／ピュブリシス・グループIR／電通IR／自社電子公告ページ(存在せず)／gBizINFO財務情報／EDINET／TDnet。いずれも単体売上高の記載なし。catr.jp・Baseconnect・NIKKEI COMPASS等の二次情報のみで承認ソース不在。ピュブリシス×電通の合弁子会社のため連結値も使用不可。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010701013892 ; https://catr.jp/companies/2363c/54037 ; https://www.beaconcom.jp/"
+ },
+ {
+  "行": 1772,
+  "I": "△ 妥当（未踏経路あり）：追加経路＝自社HP会社案内PDF(2025年8月現在)／英文Corporate Outline／ごあいさつ／お知らせ／ダイヤモンド・チェーンストア記事。判明したのは「ニチリウグループ売上規模4兆円」で加盟20社合計＝当社単体ではない。単体取扱高は第35期2,492億円・第40期2,699億円のみでWikipedia由来かつ10年超前(§3-8不適)。自社HP会社案内PDF本文に最新取扱高が載る可能性が残る。",
+  "J": "https://www.nichiryu.co.jp/wp/wp-content/themes/nichiryu/images/corporate/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf ; https://www.nichiryu.co.jp/en/corporate/ ; https://www.nichiryu.co.jp/greet/"
+ },
+ {
+  "行": 1773,
+  "I": "△ 妥当（回収見込みあり）：追加経路＝自社HP電子公告ページで第85期(2024年12月期)貸借対照表・損益計算書・個別注記表PDFの存在を確認したが、PDF本文を取得できず数値未確定。資本金110.56億円＝会社法上の大会社のため損益計算書に売上高が必ず記載される。FORVIA(仏)子会社でEDINET・TDnet提出なし、親の日本語有報も無し。二次情報の795億/1,831億は不採用。",
+  "J": "https://www.clarion.com/jp/ja/corp/about-clarion/ir/publication/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6030001017472 ; https://www.faurecia-japan.jp/en/about-us/faurecia-clarion-electronics-co-ltd"
+ },
+ {
+  "行": 1774,
+  "I": "○ 回収：780.65億円（2026年3月期・単体）。コーエーテクモHD(3635)有価証券報告書「関係会社の状況」に当社を特定子会社として掲載し、売上高(連結相互間の内部売上高を除く)の連結売上高に占める割合が10%超と注記＋主要な損益情報等を開示。HD連結883.93億円と整合（前期2024年3月期の単体は748億円）。子会社単体で300億円を大幅超過。",
+  "J": "https://www.koeitecmo.co.jp/ir/library/securities/ ; https://regfis.com/reports/20260619_S100YEES_E22460_null_010_030000_120 ; https://www.koeitecmo.co.jp/ir/docs/ir3_20260427.pdf"
+ },
+ {
+  "行": 1777,
+  "I": "○ 回収：562億円（2025年3月期実績・単体）。自社HP「株式会社北越ケーズ 会社概要」に売上高562億円・ケーズデンキ51店舗・従業員1,210名(2025年4月)と記載。同ページ併記のグループ累計7,380億円はケーズHD2025年3月期連結と一致し整合（2026年3月期連結は7,597.10億円）。子会社単体で300億円を大幅超過。",
+  "J": "https://www.ksdenki.co.jp/hokuetsu/company/outline/ ; https://www.ksdenki.co.jp/hokuetsu/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6110001008158"
+ },
+ {
+  "行": 1778,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝自社HP企業情報／生命保険協会／gBizINFO／官報決算公告(第11期)／親会社エージェント・インシュアランス・グループ(5836)のIR・適時開示。売上高の記載は無いが、決算公告の総資産21.41億円・純利益0.79億円(2025年1月期)および親会社の営業収益規模から、300億円に遠く及ばない可能性が高い。実額確認できれば×相当。",
+  "J": "https://financialjapan.jp/company/ ; https://catr.jp/companies/6affd/64653 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010701027617 ; https://www.seiho.or.jp/quality_result/list/000295.html"
+ },
+ {
+  "行": 1785,
+  "I": "△ 妥当（未踏経路あり）：追加経路＝自社HP電子公告ページに第29期(2025年3月期)決算公告PDF(2025/6/16掲載)の存在を確認したが本文取得不可で数値未確定。自社HP会社概要にも売上高記載なし。日立システムズ100%子会社で同社は非上場、日立製作所有報にも当社単体の記載なし。決算公告が貸借対照表のみの場合は売上高が取得不能で△確定。",
+  "J": "https://www.hitachi-systems-fs.co.jp/corporate/publicnotice/index.html ; https://www.hitachi-systems-fs.co.jp/corporate/info/outline/index.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010701017795"
+ },
+ {
+  "行": 1788,
+  "I": "○ 妥当（G列注記：395.75億円＝2025年9月期・第75期・単体は独立クエリ2本で再現し、前期322.23億・前々期323.85億とも整合）。ただし自社HP決算書ページ https://mux-hp.jp/pages/49/ で索引できた掲載期は第70〜74期で、第75期の値を返した出典はマイナビ等の禁止ソースに偏る。承認ソースで確定できる直近値は第74期(2024年9月期)322.23億円。3期連続300億超のため判定は○で不変だが、322億は基準比+7%と薄くHP原本での再確認を推奨。",
+  "J": "https://mux-hp.jp/pages/49/ ; https://mux-hp.jp/pages/59/ ; https://keishin.ullet.com/38-015761/mark.html"
+ },
+ {
+  "行": 1791,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要／自社HP採用ページ／官報決算公告／gBizINFO／新聞記事。自社発信の会社概要・採用情報のいずれでも売上高は「非公開」と明示されている。愛知・岐阜でLUCKY PLAZA13店舗、子会社ディークリエイトで飲食15店、グループ従業員620名。承認ソースに売上高が存在せず探索の余地なし。",
+  "J": "https://www.luckyplaza.co.jp/company/ ; https://www.luckyplaza.co.jp/daimatsu/"
+ },
+ {
+  "行": 1798,
+  "I": "○ 回収：641.23億円（64,123百万円・単体）。キユーピー有価証券報告書「関係会社の状況」に当社の売上高として記載、かつ売上高(連結相互間の内部売上高を除く)が連結売上高の10%超と注記。キユーピー2025年11月期連結売上高4,693億円×10%＝469.3億円>300億円のため下限も確定。100%子会社だが単体で基準充足。",
+  "J": "https://www.kewpie.com/ir/pdf/ir_download/ir_20260224_113_yuho.pdf ; https://www.kewpie.com/ir/pdf/kessan_tanshin/2025/ir_20260114_FY2025q4_tanshin.pdf ; https://edinetdb.jp/company/E00464/text"
+ }
+]

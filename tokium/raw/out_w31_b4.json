@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1800,
+  "I": "○ 回収：2026年3月期(FY2025)連結営業収益2,713億円。自社公式プレスリリース(2026/6/12)で確認。空港運営会社は損益計算書の収益科目が「営業収益」であり、§3-7の銀行「経常収益」と同様に売上高相当として採用可。ORIX40%/VINCI40%等の共同出資で単独親会社を持たない親会社であり§3-3により連結を採用。基準の約9倍で桁の疑義なし。",
+  "J": "https://www.kansai-airports.co.jp/news/j-260612-pressrelease-fiscalyear2025/;https://www.kansai-airports.co.jp/en/news/e-260612-pressrelease-fiscalyear2025/;https://www.kansai-airports.co.jp/about-us/ir/"
+ },
+ {
+  "行": 1801,
+  "I": "○ 回収：2026年3月期 連結売上高47,252百万円＝472.52億円(前期比3.8%減)。自社HP掲載の2026年3月期決算短信(2026/5/15開示)で確認。東証スタンダード上場(7932)の親会社であり§3-3により連結を採用。1次が未到達だった経路＝自社IR「業績・財務」内の決算短信PDF。",
+  "J": "https://www.nippi-inc.co.jp/ir/financial/;https://www.nippi-inc.co.jp/LinkClick.aspx?fileticket=cBRIL4CSXkA%3D&tabid=158&mid=870"
+ },
+ {
+  "行": 1804,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社案内(売上高の記載なし)②メディパルHD(7459)有報「関係会社の状況」＝同社連結は3兆円規模で10%超注記の対象外、下限証明も不成立 ③官報決算公告(第68期)は当期純利益16.23億円・利益剰余金82.13億円・総資産210.09億円のみで売上高欄が存在せず。メディパルHDの子会社のため連結値は使用不可。",
+  "J": "https://www.mpagro.co.jp/company-profile/;https://catr.jp/companies/e358c/15235/settlements/1e324/353003;https://www.medipal.co.jp/ir/library/securities/"
+ },
+ {
+  "行": 1812,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(車検・整備・SS運営等。売上高の記載なし)②gBizINFO 法人番号4011401003990(財務情報の登録なし)③官報決算公告データベースでも当社名義の公告を検出できず(上位に出る大東商事・大東企業は別法人)④非上場でEDINET/TDnetの提出実績なし。数値の流通はマイナビ転職等の禁止ソースのみ。",
+  "J": "https://www.daito-exp.co.jp/profile/profile/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011401003990"
+ },
+ {
+  "行": 1816,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(corp/index12.html。売上高の記載なし)②2017年1月に上場廃止(6935)、以降EDINET/TDnetの提出なし ③官報決算公告はcatr.jp(第55期・第58期)の二次サイトのみで§7-1未決着、かつ売上高欄が本文に現れず ④アイベックスエアラインズを持つが連結開示なし。流通する2026年3月期445億円台はマイナビ等の禁止ソース由来。",
+  "J": "https://www.jdl.co.jp/corp/index12.html;https://catr.jp/companies/da2a6/10601;https://www.jdl.co.jp/corp/pdf/JDL-Delisting-information.pdf"
+ },
+ {
+  "行": 1817,
+  "I": "△ 妥当：確認不可で正しい。2025/9/1にDCMHDの完全子会社化(2025/8/28上場廃止)のため§3-3で単体300億以上が必要。当たった経路＝①自社HP「売上高・資本金・従業員推移」は連結値のみ ②自社電子公告ページは「公告すべき事項なし」③DCMHD株式交換開示(2025/5/9)は2025年3月期連結332.28億円のみ ④DCMHD連結5千億円規模で10%注記の下限証明も不成立。未踏経路＝2025年3月期有報の個別財務諸表。",
+  "J": "https://www.encho.co.jp/orga/orga05.html;https://www.encho.co.jp/ir/ectaison.html;https://www.encho.co.jp/dat/updoc/11746774976.pdf"
+ },
+ {
+  "行": 1818,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①gBizINFO 法人番号7010401028731(千代田区丸の内3-2-3。財務情報なし)②沿革＝旧・三菱アルミニウム(株)が2022年4月に「(株)エム・エム・エー」へ商号変更し、アルミ事業は別法人MAアルミニウム(株)(アルテミラG)へ承継 ③当社名義の自社HP・IR・決算公告は検出できず。※D列のmalco.co.jpはMAアルミニウム＝別法人。§6-2の取り違え要注意。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010401028731;https://www.ma-aluminum.com/corporate/history.html"
+ },
+ {
+  "行": 1827,
+  "I": "△ 妥当：確認不可で正しい。DuPont65%/東レ35%の子会社のため§3-3で単体300億以上が必要。当たった経路＝①自社HP会社概要(売上高の記載なし)②東レのIR・統合報告書2025(持分法側で単体損益の開示なし)③親会社DuPontは米国法人で日本法人単体の開示なし ④官報決算公告はcatr.jpの二次サイトのみ(§7-1未決着)。前身「東レ・デュポン(株)」名義の公告に245.84億円との情報があるが法人同一性・決算期とも未確定で採用不可。",
+  "J": "https://www.dupont-toray-sm.co.jp/about/;https://www.toray.co.jp/ir/pdf/lib/lib_a650.pdf;https://catr.jp/settlements/3d1d7/315015"
+ },
+ {
+  "行": 1828,
+  "I": "△ 妥当：確認不可で正しい。2023/10の単独株式移転でミガロHD(5535)の完全子会社となり§3-3で単体300億以上が必要。当たった経路＝①ミガロHD決算短信・決算説明資料(2026年3月期連結575.32億円。子会社単体の内訳なし)②ミガロHD有報「関係会社の状況」＝主要な損益情報等の金額を本文から取得できず ③gBizINFOは2023年3月期357.23億円までで鮮度外。連結575.32億×10%＝57.5億で下限証明は不成立。",
+  "J": "https://www.migalo.co.jp/ir/library/results/;https://www.migalo.co.jp/ir/library/pasecuritie/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011101036771"
+ },
+ {
+  "行": 1829,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP(minami-enterprise.com。売上高の記載なし)②gBizINFO 法人番号8380001006736(財務情報なし)③官報決算公告データベースに収録はあるが売上高欄が本文に現れず(§7-1未決着)④EDINET/TDnetの提出実績なし。数値はYahoo!しごとカタログ・NIKKEI COMPASS等の禁止ソースのみで、その2024年3月期172.85億円も300億未満のため回収見込みなし。",
+  "J": "http://minami-enterprise.com/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8380001006736;https://catr.jp/companies/b17b3/44211"
+ }
+]
