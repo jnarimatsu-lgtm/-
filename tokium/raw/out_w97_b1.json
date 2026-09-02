@@ -1,0 +1,22 @@
+[
+ {
+  "行": 3108,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（2026/7/1更新）・企業情報・採用サイト＝売上高の記載なし ②自社HP電子公告ページ（PDF）に売上高の掲示なし ③親会社NTTドコモ／NTT持株の有報「関係会社の状況」＝NTT連結約13兆円の10%＝約1.3兆円に遠く及ばず実額の開示対象外（比率検算で経路自体が不成立）④法人はNTTドコモ100%出資の機能分担会社として現存（会社概要2026/7/1更新、合併リリースなし）。流通する「1,120億円」「137.69億円」は就活会議・doda・Wikipedia等の禁止ソースのみで相互に矛盾。子会社のため単体300億以上の実額が必要だが承認ソースになし。",
+  "J": "https://www.docomo-cs-tokai.co.jp/corporate/outline.html;http://www.docomo-cs-tokai.co.jp/corporate/announcement.html;https://www.docomo-cs-tokai.co.jp/corporate/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001006999"
+ },
+ {
+  "行": 3127,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・組織図／会社情報／沿革／事業拠点（buil-system.co.jp）＝売上高の記載なし ②自社HP採用・求人ページ（数字で見る等）にも売上高なし ③非上場・資本金1億円でEDINET／TDnetに該当なし ④官報決算公告も承認可能な形で売上高を確認できず ⑤法人番号3020001047911＝横浜地方法務局本局管轄で本社（横浜市中区尾上町）と一致し同名別法人ではない。流通する111.77億円（2023年3月期）はSalesNow等の禁止ソースのみ。仮に正しければ300億未満でE列レンジ自体が誤り。回収見込みなし。",
+  "J": "https://www.buil-system.co.jp/company/about/profile.html;https://www.buil-system.co.jp/company/about/;https://www.buil-system.co.jp/company/about/history.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047911"
+ },
+ {
+  "行": 3135,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・関係会社・ニュースリリース一覧＝売上高の記載なし（「連結決算のため非公開」）②官報決算公告（catr.jp収録）は2025年12月期の当期純損失96,977千円・繰越利益剰余金のみで売上高欄が存在しない ③親会社ManpowerGroup Inc（NYSE:MAN）FY2025 Form 10-KはAPMEセグメント2,041.9百万ドル止まりで日本単体の内訳開示なし ④法人番号5020001016039＝横浜地方法務局本局で本社横浜みなとみらいと一致。米国親会社100%子会社＝子会社判定のため単体300億以上の実額が必要だが承認ソースになし。",
+  "J": "https://www.manpowergroup.jp/company/;https://www.manpowergroup.jp/company/guide/;https://catr.jp/companies/b52af/88482;https://www.sec.gov/Archives/edgar/data/871763/000119312526064113/man-20251231.htm;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001016039"
+ },
+ {
+  "行": 3145,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP（nukaga-kinzoku.co.jp）全ページ＝会社概要に売上高・資本金の記載なし ②IR／電子公告ページが存在しない ③EDINET・TDnetに該当なし（非上場）④官報決算公告でも売上高を確認できず ⑤独立系（親会社なし）のため親会社IR「関係会社の状況」経路は存在しない ⑥法人番号6011401005119＝東京法務局板橋出張所管轄で本社（東京都板橋区蓮沼町1-23-1）と一致し同名別法人ではない。1920年創業のダイカスト材料商社で、E列レンジ（300億〜1,000億）を裏付ける承認ソースは皆無。禁止ソースにも売上高の記載なし。",
+  "J": "https://nukaga-kinzoku.co.jp/;https://nukaga-kinzoku.co.jp/contact/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011401005119"
+ }
+]
