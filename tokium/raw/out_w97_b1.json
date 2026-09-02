@@ -1,22 +1,22 @@
 [
  {
   "行": 3108,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（2026/7/1更新）・企業情報・採用サイト＝売上高の記載なし ②自社HP電子公告ページ（PDF）に売上高の掲示なし ③親会社NTTドコモ／NTT持株の有報「関係会社の状況」＝NTT連結約13兆円の10%＝約1.3兆円に遠く及ばず実額の開示対象外（比率検算で経路自体が不成立）④法人はNTTドコモ100%出資の機能分担会社として現存（会社概要2026/7/1更新、合併リリースなし）。流通する「1,120億円」「137.69億円」は就活会議・doda・Wikipedia等の禁止ソースのみで相互に矛盾。子会社のため単体300億以上の実額が必要だが承認ソースになし。",
-  "J": "https://www.docomo-cs-tokai.co.jp/corporate/outline.html;http://www.docomo-cs-tokai.co.jp/corporate/announcement.html;https://www.docomo-cs-tokai.co.jp/corporate/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001006999"
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要 outline.html（資本金・従業員のみ、売上高欄なし）②自社HP電子公告 announcement.html③自社HP沿革・組織図・業務内容④官報決算公告（catr.jp／kanpoo検索でドコモCS東海名義の決算公告はヒットせず）⑤親会社NTTドコモの決算公告・IRライブラリ⑥Gビズインフォ。売上高が出るのは就活会議・doda・Yahoo!しごとカタログ等の禁止ソースのみ（§6-6）。検索要約が返す「1,188.08億円（2024年度）」は別法人=株式会社ドコモCSの値で東海の値ではない（§6-2の取り違え）。法人番号4180001006999は登記所1800＝名古屋法務局で名古屋本社と整合し同名別法人ではない。NTTドコモ連結約6兆円に対し当社は10%未満のため親会社有報『関係会社の状況』に実額は載らない（下限証明も不可）。子会社のため単体300億の確認が必須だが承認ソースに数値なし。",
+  "J": "https://www.docomo-cs-tokai.co.jp/corporate/outline.html; http://www.docomo-cs-tokai.co.jp/corporate/announcement.html; https://www.docomo.ne.jp/corporate/ir/library/financial_results/; https://catr.jp/companies/65daa/50109; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001006999"
  },
  {
   "行": 3127,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・組織図／会社情報／沿革／事業拠点（buil-system.co.jp）＝売上高の記載なし ②自社HP採用・求人ページ（数字で見る等）にも売上高なし ③非上場・資本金1億円でEDINET／TDnetに該当なし ④官報決算公告も承認可能な形で売上高を確認できず ⑤法人番号3020001047911＝横浜地方法務局本局管轄で本社（横浜市中区尾上町）と一致し同名別法人ではない。流通する111.77億円（2023年3月期）はSalesNow等の禁止ソースのみ。仮に正しければ300億未満でE列レンジ自体が誤り。回収見込みなし。",
-  "J": "https://www.buil-system.co.jp/company/about/profile.html;https://www.buil-system.co.jp/company/about/;https://www.buil-system.co.jp/company/about/history.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047911"
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・組織図 profile.html②自社HP事業拠点 office.html③マンション管理業協会の会員データ④官報決算公告（catr.jp／kanpoo検索でヒットなし）⑤Gビズインフォ⑥新聞社記事。承認ソースに売上高の記載なし。法人番号3020001047911は登記所0200＝横浜地方法務局で横浜市中区尾上町の本社と整合（同名の『横浜ビルシステム株式会社』6020001030914とは別法人）。なお非承認ソース（NIKKEI COMPASS）は111.77億円（2023年3月期）と記載しており、従業員3,000名・資本金1億円のビル/マンション管理業という規模感とも整合するため、実態は300億を大きく下回る可能性が高い。承認ソースで数値が取れれば△ではなく×（300億未満）に倒すべき行だが、現時点では△が妥当で架電しない。",
+  "J": "https://www.buil-system.co.jp/company/about/profile.html; https://www.buil-system.co.jp/company/about/office.html; https://www.kanrikyo.or.jp/member/data/200404007.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047911"
  },
  {
   "行": 3135,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・関係会社・ニュースリリース一覧＝売上高の記載なし（「連結決算のため非公開」）②官報決算公告（catr.jp収録）は2025年12月期の当期純損失96,977千円・繰越利益剰余金のみで売上高欄が存在しない ③親会社ManpowerGroup Inc（NYSE:MAN）FY2025 Form 10-KはAPMEセグメント2,041.9百万ドル止まりで日本単体の内訳開示なし ④法人番号5020001016039＝横浜地方法務局本局で本社横浜みなとみらいと一致。米国親会社100%子会社＝子会社判定のため単体300億以上の実額が必要だが承認ソースになし。",
-  "J": "https://www.manpowergroup.jp/company/;https://www.manpowergroup.jp/company/guide/;https://catr.jp/companies/b52af/88482;https://www.sec.gov/Archives/edgar/data/871763/000119312526064113/man-20251231.htm;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001016039"
+  "I": "△ 妥当（回収余地あり）：当たった経路＝①自社HP会社概要（資本金40億円・事業内容のみ。売上高は『連結決算のため非公開』）②自社HPニュースリリース・関係会社ページ③官報決算公告（catr.jp に当社の決算公告収録ページは存在するが金額に到達できず。§7-1でcatr.jpの可否が未決着）④厚労省・人材サービス総合サイト（検索経由では事業所単位の派遣売上高に到達不可）⑤米国親会社ManpowerGroup Inc.のIR（2025年12月期 連結47億1,310万米ドル＝グローバル連結であり日本法人単体ではない。100%出資の子会社のため§3-3により連結値は使用不可）⑥Gビズインフォ。法人番号5020001016039は登記所0200＝横浜地方法務局で横浜みなとみらい本社と整合。資本金40億円＝会社法上の大会社であり決算公告に損益計算書（売上高）が載っているはずなので、官報本体の号数・頁を特定できれば○回収の可能性が残る。現時点では承認ソースで数値未確認のため△。",
+  "J": "https://www.manpowergroup.jp/company/; https://catr.jp/companies/b52af/88482; https://jinzai.hellowork.mhlw.go.jp/JinzaiWeb/GICB101010.do?action=initDisp&screenId=GICB101010; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001016039"
  },
  {
   "行": 3145,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP（nukaga-kinzoku.co.jp）全ページ＝会社概要に売上高・資本金の記載なし ②IR／電子公告ページが存在しない ③EDINET・TDnetに該当なし（非上場）④官報決算公告でも売上高を確認できず ⑤独立系（親会社なし）のため親会社IR「関係会社の状況」経路は存在しない ⑥法人番号6011401005119＝東京法務局板橋出張所管轄で本社（東京都板橋区蓮沼町1-23-1）と一致し同名別法人ではない。1920年創業のダイカスト材料商社で、E列レンジ（300億〜1,000億）を裏付ける承認ソースは皆無。禁止ソースにも売上高の記載なし。",
-  "J": "https://nukaga-kinzoku.co.jp/;https://nukaga-kinzoku.co.jp/contact/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011401005119"
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HPトップ／SERVICE／会社情報（創業1920年・ダイカスト材料＝非鉄金属地金・副資材・スクラップの商社。売上高の記載なし）②自社HP電子公告の有無③官報決算公告（catr.jp／kanpoo検索で糠加金属名義の決算公告はヒットせず＝公告掲載自体が確認できない）④Gビズインフォ⑤採用・会社データ／数字で見る系ページ（存在せず）⑥業界ポータル（イプロス等は非承認）。承認ソースに売上高が一切なく、Baseconnect等の禁止ソースにしか記載がない（§6-6）。法人番号6011401005119は登記所0114＝東京法務局管内の出張所で東京本社と整合し同名別法人の疑いなし。非上場・決算公告の掲載が確認できないため、これ以上探しても承認ソースは出ない見込み。",
+  "J": "https://nukaga-kinzoku.co.jp/; https://nukaga-kinzoku.co.jp/service/; https://catr.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011401005119"
  }
 ]

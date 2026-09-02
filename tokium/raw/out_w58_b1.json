@@ -1,0 +1,42 @@
+[
+ {
+  "行": 4354,
+  "I": "○ 回収：株式会社東光ストア単体 売上高412.40億円（2025年2月期・単体、前期比+1.7%）。1次が未踏だった親会社アークス㈱のIR『決算補足説明資料（事業会社別業績）』から取得（§5-3系統6）。2026年2月期は中間6ヶ月で206.16億円（+2.1%）＝通期410億円超のペース、アークス連結は2026年2月期6,269.57億円。子会社だが単体で300億基準を約37%上回るため§3-3を充足。株式会社・法人番号4430001007930（登記所4300＝札幌管内、本社札幌市と整合）、2026年2月期補足資料に事業会社として記載され現存を確認。",
+  "J": "https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2026/arcs_202602hosoku_2026041311.pdf; https://www.arcs-g.co.jp/ir/library/financial-results/index.html; https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2025/arcs_20253qhosoku_2026010811.pdf; https://hre-net.com/keizai/ryutu/82415/; https://hre-net.com/keizai/ryutu/86644/"
+ },
+ {
+  "行": 4355,
+  "I": "△ 要再確認：第47期決算公告で売上高48,745百万円＝487.45億円（総資産33,208百万円＝332.08億円、当期純利益1,291百万円＝12.91億円）を確認したが、出所が官報決算公告の二次サイト（個人ブログ）のみで§3-4の承認ソース外。追加で当たった経路＝自社HP会社概要(nipponham-syokuhin.jp)＝売上高記載なし／日本ハム㈱電子公告＝会社法440条4項により自社BSのみで子会社分なし／日本ハム㈱2026年3月期決算説明会資料。検算：日本ハム連結1兆4,574億円（2026年3月期）に対し487億は約3.3%で10%未満のため有報『関係会社の状況』に実額は載らない（この経路は不可と確定）。§7-1（官報二次サイトの可否）が承認されれば○に回収可能。",
+  "J": "https://www.nipponham-syokuhin.jp/corporate/about/; https://www.nipponham.co.jp/ir/e-ad/; https://www.nipponham.co.jp/corporate/ir/library/briefing-session/pdf/20260508_01.pdf; https://www.nipponham.co.jp/ir/library/report/; https://ryo-nakamura1.hatenablog.jp/entry/2025/11/29/140000_1"
+ },
+ {
+  "行": 4356,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝シミックグループ公式(cmicgroup.com 会社概要・グループ会社ページ)、シミックHD 2023/11/7適時開示および2023年9月期決算短信（HD連結1,047.01億円）、大日本印刷IR、Gビズインフォ、官報決算データベース。2023年6月30日みなし譲渡日でシミックHDの連結子会社→持分法適用関連会社となりDNP傘下へ移行、シミックHD自体も上場廃止で有報が存在しない。検算：DNP連結約1.4兆円の10%＝約1,400億に遠く及ばずDNP有報『関係会社の状況』にも実額は載らない。単体売上高は承認ソースに一切なく、CDMO事業規模から300億到達自体も不確実。残る経路は官報決算公告本体のみ。",
+  "J": "https://www.cmicgroup.com/corporate/group-companies/cmic-cmo/; https://www.cmicgroup.com/corporate/profile/; https://www.cmicgroup.com/files/user/NewsRelease/Japanese/20231107_J_3.pdf; https://www.nihon-ma.co.jp/news/20230417_7912-10/"
+ },
+ {
+  "行": 4357,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝日産車体㈱ 有報ライブラリ（第102期／2025年6月公開）・企業情報・直近の決算概況、EDINET相当の有報記載、官報決算データベース。日産車体100%子会社（資本金10百万円・従業員1,220名／2026年3月末）で日産車体からの受託製造専業のため、連結相互間内部売上を除いた外部売上がほぼゼロ。よって親会社有報『関係会社の状況』の10%超注記も実額記載も対象外であることを確認（下限証明・実額いずれの経路も不可）。日産車体連結は2026年3月期第1四半期で1,119億円。残る経路は官報決算公告（catr.jpに第16期決算公告の存在のみ確認、§7-1未決着のため数値採用不可）。",
+  "J": "https://www.nissan-shatai.co.jp/IR/LIBRARY/FR/index.html; https://www.nissan-shatai.co.jp/COMPANY/INFO/index.html; https://www.nissan-shatai.co.jp/IR/ACHIEVEMENT/OUTLOOK/index.html; https://catr.jp/companies/e72cb/24792/settlements/58910/316691"
+ },
+ {
+  "行": 4358,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(mtrl.canon/ja/company/overview.html)・会社紹介・事業紹介＝売上高の記載なし／大分県企業立地ガイド（自治体の公的企業情報、§5-3系統7）＝所在地・代表者・事業内容のみで売上高なし／キヤノンIR／Gビズインフォ／官報決算データベース。『608億円（2025年12月期）』『632億円（2024年12月期）』が流通するが掲載先はマイナビ・NIKKEI COMPASS・Baseconnect・usonar・Wikipediaという禁止ソースのみで、§6-6加藤化学と同型。検算：キヤノン連結約4.5兆円の10%＝約4,500億のため親会社有報『関係会社の状況』の実額対象外。残る経路は官報決算公告本体（§7-1未決着）。",
+  "J": "https://mtrl.canon/ja/company/overview.html; https://mtrl.canon/ja/company/; https://ritti-oita.jp/company/detail/f890b365-8a55-4256-a289-28601aea0e28; https://catr.jp/companies/dabf0/2372"
+ },
+ {
+  "行": 4361,
+  "I": "○ 回収：株式会社福原単体 売上高436.94億円（2025年2月期・単体、前期比+1.0%）。1次が未踏だった親会社アークス㈱のIR『決算補足説明資料（事業会社別業績）』から取得（§5-3系統6）。2026年2月期は中間6ヶ月で221.39億円（+1.6%）＝通期440億円前後のペース、アークス連結は2026年2月期6,269.57億円。子会社だが単体で300億基準を約46%上回るため§3-3を充足。株式会社・法人番号6460101001481（登記所4601＝帯広管内、本社北海道帯広市と整合）、2026年2月期補足資料に事業会社として記載され現存を確認。",
+  "J": "https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2026/arcs_202602hosoku_2026041311.pdf; https://www.arcs-g.co.jp/ir/library/financial-results/index.html; https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2025/arcs_20253qhosoku_2026010811.pdf; https://hre-net.com/keizai/ryutu/82415/; https://hre-net.com/keizai/ryutu/86644/"
+ },
+ {
+  "行": 4362,
+  "I": "○ 回収：株式会社道北アークス単体 売上高447.22億円（2025年2月期・単体、前期比+0.6%）。1次が未踏だった親会社アークス㈱のIR『決算補足説明資料（事業会社別業績）』から取得（§5-3系統6）。2026年2月期は中間6ヶ月で225.92億円（+1.1%）＝通期450億円前後のペース、アークス連結は2026年2月期6,269.57億円。子会社だが単体で300億基準を約49%上回るため§3-3を充足。株式会社・法人番号2450001002584（登記所4500＝旭川地方法務局、本社北海道旭川市と整合）、2026年2月期補足資料に事業会社として記載され現存を確認。",
+  "J": "https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2026/arcs_202602hosoku_2026041311.pdf; https://www.arcs-g.co.jp/ir/library/financial-results/index.html; https://www.arcs-g.co.jp/vc-files/arcs-g/ir/pdf/2025/arcs_20253qhosoku_2026010811.pdf; https://hre-net.com/keizai/ryutu/82415/; https://hre-net.com/keizai/ryutu/86644/"
+ },
+ {
+  "行": 4363,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要･沿革(denso-iwate.co.jp/about/company_history/)＝資本金23.5億円・従業員1,501名（2026年3月末）・㈱デンソー100%出資は記載されているが売上高の記載自体がない／企業情報トップ／デンソーIR／Gビズインフォ／官報決算データベース。『1,363億円（2025年4月〜2026年3月）』はマイナビ・NIKKEI COMPASS等の禁止ソースのみに掲載。検算：デンソー連結約7兆円の10%＝約7,000億のため親会社有報『関係会社の状況』の実額対象外。官報決算公告には第12期売上高464億円等があるが二次サイト依存（§7-1未決着）かつ決算期が古い。残る経路は官報本体の号数・頁特定。",
+  "J": "https://www.denso-iwate.co.jp/about/company_history/index.html; https://www.denso-iwate.co.jp/about/index.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9400601001100; https://catr.jp/companies/99e3a/26510/settlements/6a245/369384"
+ }
+]
