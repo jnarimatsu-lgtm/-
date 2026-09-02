@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1577,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概況/会社情報（売上高欄なし）、gBizINFO、catr.jp官報決算公告（第70期2023年3月期・第71期2024年3月期。掲載は貸借対照表項目のみで売上高の記載を確認できず）、EDINET非提出（非上場）。NIKKEI COMPASS等の41,257百万円（2022年度）と求人媒体の258.32億円は禁止ソースかつ相互に矛盾するため不採用。§7-1（catr.jp）が承認され公告にPLがある場合のみ再検討余地。",
+  "J": "https://toyohashi-shiryo.co.jp/overview/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8180301006571 ; https://catr.jp/companies/47bbf/29794"
+ },
+ {
+  "行": 1579,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(meihogp.co.jp)、gBizINFO、catr.jp官報決算公告（貸借対照表項目のみ。2018年度は総資産172.24億円・当期純利益1.89億円で売上高の掲載なし）、EDINET非提出。愛知県豊橋市のパチンコホール運営の非上場会社で売上高の開示義務がなく、マイナビ転職・Baseconnect・アラームボックス等の禁止ソースにしか数値がない。",
+  "J": "http://www.meihogp.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3180301007384 ; https://catr.jp/"
+ },
+ {
+  "行": 1580,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO（法人番号4021001043305・神奈川県横須賀市久里浜で照合）、店舗公式サイトp-zapp.jp（財務情報の掲載なし）、catr.jp官報決算公告、EDINET非提出。横須賀4店舗のパチンコホール運営の非上場会社で売上高の公表義務がなく、NIKKEI COMPASS・Baseconnect・全国法人リスト等の禁止ソースまたは有料DBにしか数値がない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4021001043305 ; https://p-zapp.jp/"
+ },
+ {
+  "行": 1588,
+  "I": "× 要修正：300億未満が確定。自社2026年3月期決算公告の営業収益200.99億円（単体）。証券会社は売上高科目が存在せず営業収益がトップライン（§3-7準用）。親会社アイザワ証券グループ(株)(8708)の2026年3月期決算短信でも連結営業収益209.73億円（前期比1.9%増）で、子会社単体・親連結のいずれも300億未満。G列は【300億未満】200.99億円（2026年3月期・単体・営業収益）に修正。",
+  "J": "https://www.aizawa.co.jp/documents/company/notice/financialresult_202603.pdf ; https://www.nikkei.com/article/DGXZRST0512748Y6A420C2000000/ ; https://www.nikkei.com/nkd/company/kigyo/?scode=8708"
+ },
+ {
+  "行": 1593,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(fujitametal.co.jp/outline.html)、gBizINFO、catr.jp官報決算公告、EDINET非提出。検索上位の『売上高392億円(2025年4月実績)』は新潟県の別法人『藤田金屬株式会社』(fujita-kinzoku.co.jp)のマイナビ掲載値。本件は法人番号8010001055654（会社法人等番号の先頭0100＝東京法務局本局）で別法人のため使用不可（§6-2）。当該法人自体の売上高は承認ソースになし。",
+  "J": "http://www.fujitametal.co.jp/outline.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001055654 ; https://catr.jp/companies/88cba/30757/settlements/d92ab/421767"
+ },
+ {
+  "行": 1601,
+  "I": "○ 回収：2026年2月期 連結営業収入3,606.63億円（360,663百万円、2026年4月14日開示の決算短信）。東宝(株)は東証プライム上場の親会社で、日本基準PLのトップライン科目が『営業収入』（映画139,862/IP・アニメ69,391/演劇22,890/不動産79,653百万円の事業収益）であり売上高と同義。IFRSの売上収益と同様に採用（§3-7準用）。基準300億の12倍で科目解釈の差では覆らない。G列＝3,606.63億円（2026年2月期・連結・営業収入）。",
+  "J": "https://www.toho.co.jp/files/c2b148a10d769e73f17be37600aafbfdcd9849cbb675d9497d30520acb36a50f ; https://www.toho.co.jp/company/ir/highlight ; https://www.toho.co.jp/company/ir/disclosure"
+ },
+ {
+  "行": 1603,
+  "I": "○ 回収：2025年2月期 売上高530億円（単体・前期比1.0%減）。日本経済新聞『大分のトキハ、25年2月期の最終赤字54億円 債務超過27億円』に決算期と売上高が明記されており§3-4の新聞社ソースに該当。大分合同新聞も同決算を報道。(株)トキハは非上場だがトキハインダストリー等を擁する親会社側で、単体530億円が300億超。※ランサムウェア被害で発表が遅延、減損により27.12億円の債務超過だが売上高基準には影響しない。G列＝530億円（2025年2月期・単体）。",
+  "J": "https://www.nikkei.com/article/DGXZQOJC260PR0W6A220C2000000/ ; https://www.oita-press.co.jp/1010000000/2026/02/25/JDC2026022501084 ; https://www.data-max.co.jp/article/83344"
+ },
+ {
+  "行": 1606,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP『株式会社オータ｜グループ概要』（設立1972年・資本金1,000万円・従業員93名の記載はあるが売上高欄なし）、オータグループ企業情報、自社採用ページ『オータのデータ』、gBizINFO、catr.jp、EDINET非提出。法人番号7011101003826＝東京都三鷹市のアミューズメント(遊技)企業で、同名別法人(kabu-ohta.com)との取り違えに注意（§6-2）。承認ソースに売上高の記載なし。",
+  "J": "https://www.ohta.co.jp/company/outline/ohta.html ; https://www.ohta.co.jp/company/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7011101003826"
+ },
+ {
+  "行": 1609,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（掲載値は連結で2022年度504億円・2024年度519億円。エア・ウォーター(株)が99.8%出資の子会社）、親会社エア・ウォーターのIR/有価証券報告書（連結売上高約1.1兆円のため10%超注記の対象外＝下限証明が成立せず、関係会社の状況にも単体売上高の記載なし）、catr.jp決算公告（総資産209.90億円等のBS項目のみで売上高欄なし）。子会社のため連結値は使用不可（§3-3）、単体は承認ソースになし。",
+  "J": "https://www.aw-mt.com/company/outline/ ; https://www.awi.co.jp/ja/ir/library/securities.html ; https://catr.jp/companies/07f7f/20447"
+ },
+ {
+  "行": 1610,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝全薬グループ公式『会社概要』および『全薬工業株式会社』紹介ページ（資本金4,800万円等の記載のみで売上高欄なし）、全薬ホールディングス紹介ページ、gBizINFO、catr.jp、EDINET非提出（非上場）。マイナビ・Baseconnect・就活会議・gurafu.net等の禁止ソースにしか数値がなく、§6-6の加藤化学と同型。全薬HD子会社のため連結値も使用不可。",
+  "J": "https://www.zenyaku.co.jp/corp/gaiyo/ ; https://www.zenyaku.co.jp/corp/jigyosyo/detail/kogyo.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001048162"
+ }
+]

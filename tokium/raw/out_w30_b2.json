@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1545,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝親会社ダイナムジャパンHD（香港上場）のIR資料室・有価証券報告書アーカイブ・財務ハイライト、DYJHグループ企業ページ（夢屋27店舗運営の100%ホール子会社と確認）、官報決算公告DB、gBizINFO、自社IR（貸借対照表中心で売上高欄なし）。子会社単体売上高は承認ソースに記載なし。DYJH有報『関係会社の状況』本文は未取得。",
+  "J": "https://www.dyjh.co.jp/group/yumecorporation.html; https://www.dyjh.co.jp/ir/archives/securities/; https://www.dyjh.co.jp/ir/investment/finance/; https://www.yume-corp.co.jp/iri/; https://catr.jp/companies/3d7cd/44115"
+ },
+ {
+  "行": 1546,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告（2026年3月期。純利益12.68億円等のみで売上高欄が存在せず『-』表記）、gBizINFO、自社HP、トヨタ・コニックHD公式。627億円（2021年3月期）はマイナビ・ワンキャリア等の禁止ソースのみで鮮度も条件外。子会社単体の売上高は承認ソースに記載なし。",
+  "J": "https://catr.jp/companies/8f53a/18547; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001052899; https://toyotaconiq-pro.co.jp/"
+ },
+ {
+  "行": 1548,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告（2026年3月期。純利益1.05億円・利益剰余金12.60億円・総資産17.13億円のみで売上高欄なし）、自社HP会社概要（近鉄リテールHD100%子会社）、近鉄グループHD IR決算短信。近鉄GHD連結約1.5兆円×10%＝1,500億円で10%超注記による下限証明も不成立。391億円は求人媒体のみ。",
+  "J": "https://catr.jp/companies/0e944/68016; https://kintetsu-retailing.co.jp/company/; https://www.kintetsu-g-hd.co.jp/ir/zaimuinfo/"
+ },
+ {
+  "行": 1552,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号6260001003350で照合し旧商号『島本商事株式会社』からの社名変更・岡山市南区泉田のパチンコホール運営会社と特定。gBizINFO（決算情報の公開許諾なし）、官報決算公告DB、自社Web。いずれも売上高の掲載なし。400億円はSalesNow等の禁止ソースのみで不採用。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6260001003350; https://catr.jp/pref/33"
+ },
+ {
+  "行": 1554,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告 第39期（純利益9.17億円・利益剰余金19.20億円・総資産69.10億円のみで売上高欄が存在しない）、自社HP、親会社アンダーツリー公式、gBizINFO。売上高の開示義務がなく承認ソースに記載なし。316億円・252億円はSalesNow/Baseconnect/マイナビのみで不採用。",
+  "J": "https://catr.jp/companies/60f85/44201; https://catr.jp/settlements/caee5/153707; https://undertree.co.jp/company/"
+ },
+ {
+  "行": 1555,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報および採用『会社を知る 会社概要』（資本金1億円・従業員674名／2025年3月1日。売上高の記載なし）、SUBARU本体IR財務データ・販売会社資料（個社売上なし）、SUBARU販社採用ページ（271億円は2020年度で鮮度条件外）。389億円はマイナビ2027/2028等の禁止ソースのみ。",
+  "J": "https://www.kanagawa-subaru.com/corporate/; https://www.kanagawa-subaru.com/job/company/overview.html; https://www.subaru.co.jp/ir/finance/; https://catr.jp/companies/122f4/17621/settlements/38ea9/309016"
+ },
+ {
+  "行": 1560,
+  "I": "△ 妥当：確認不可で正しい。かつ回収見込みなし。当たった経路＝官報決算公告DB（2026年3月期 売上高279.91億円・前期比+5.19%／第16期222.98億円）、JR西日本IR事業別業績、自社HP。仮に§7-1でcatr.jpが承認されても300億円未満のため直アポ大の基準を満たさない。承認ソースでの単体売上高は取得できず。",
+  "J": "https://catr.jp/companies/8aa84/28937/settlements/ad5ac/273444; https://www.westjr.co.jp/company/ir/finance/results/; https://jrwsc.co.jp/"
+ },
+ {
+  "行": 1562,
+  "I": "△ §7-1回答待ち：1,575.89億円（2025年2月期・第18期・単体）を官報決算公告で確認済み（前期1,504.50億円／2024年2月期、総資産355.79億円）。子会社単体で300億円を大きく超える。catr.jpが承認ソースと認められれば○に回収可能。自社HP・イオン公式IR・電子公告・日経記事には単体売上高の記載なし。",
+  "J": "https://catr.jp/companies/4532a/5587; https://catr.jp/companies/4532a/5587/settlements/426f7/402711; https://aeonglobalscm.co.jp/; https://www.aeon.info/ir/"
+ },
+ {
+  "行": 1565,
+  "I": "△ §7-1回答待ち：460.31億円（2025年2月期・第57期・単体）を官報決算公告で確認済み（売上総利益222.69億円・営業利益64.63億円）。子会社単体で300億円超。catr.jpが承認ソースと認められれば○に回収可能。日経・西日本新聞等の新聞記事、自社HP会社概要、ソフトバンクG IRには単体売上高の記載なし。",
+  "J": "https://catr.jp/companies/61a5a/7316/settlements/44d0d/409222; https://www.softbankhawks.co.jp/company/company_profile.html; https://www.nikkei.com/article/DGXZQOUC192TZ0Z11C24A1000000/"
+ },
+ {
+  "行": 1575,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告 第5期（純利益▲12.57億円・利益剰余金77.95億円のみで売上高欄が存在しない）、親会社永谷園HD IR有価証券報告書・業績データ（2024年9月27日上場廃止で直近3期の有報なし）、自社HP、gBizINFO。連結1,138億円×10%＝113.8億円<300億円で下限証明も不成立。",
+  "J": "https://www.nagatanien-hd.co.jp/ir/library_securities.html; https://www.nagatanien-hd.co.jp/ir/financial.html; https://kanpo-kanpo.blog.jp/archives/46498313.html; https://www.nagatanien-foods.co.jp/"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1498,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社/採用HP（recruit.bubu-iss.com「数字を知る」「企業情報」）②MID.αグループ公式 ③親会社MIDアルファホールディングス公式 ④同HDの官報決算公告（catr.jp収録）⑤gBizINFO。判明したのはグループ年商461億円（2022年12月現在・610名・31店舗）のみで、MID等を含むグループ合計値かつ鮮度条件外。MID ALFAはMIDアルファHD傘下の子会社で§3-3により単体300億以上の証明が必要だが単体売上高は承認ソースに記載なし。残る経路はHDの決算公告（§7-1依存）。",
+  "J": "http://recruit.bubu-iss.com/number/ ; https://recruit.bubu-iss.com/about/profile/ ; https://mid-alfa.co.jp/company/ ; https://mid-alfa-holdings.co.jp/company/outline/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3430001022476 ; https://catr.jp/companies/c9894/65302"
+ },
+ {
+  "行": 1501,
+  "I": "△ §7-1回答待ち：官報決算公告（第88期）で売上高約699億円（2025年3月期・単体、売上原価約654億円・営業利益14.6億円・当期純利益12.10億円・純資産約184億円）を確認済み。数値は第88期公告と令和7年3月期の別ソース（純資産184億円が一致）で二重に整合。なお佐渡島は淀川製鋼所の持分法適用会社＝関連会社であり子会社ではないため単体699億円で基準充足となる。ただし官報本体は直近90日のみ公開で、参照経路がcatr.jp等の官報転載サイトに限られる。catr.jpが承認ソースと認められれば○に回収可能。自社HP会社概要には金額記載なし。",
+  "J": "https://catr.jp/companies/ed94c/11174/settlements/3946e/357144 ; https://catr.jp/settlements/6cd24/305254 ; http://www.sadoshima.com/abstract/company.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120001077427"
+ },
+ {
+  "行": 1502,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①親会社ダイヤモンドエレクトリックホールディングス（6699・東証上場）の2026年3月期決算短信＝連結売上高967.68億円 ②同社IR/会社情報 ③官報決算公告 ④gBizINFO。下限証明は不可：連結967.68億円×10%＝96.8億円で、有報「関係会社の状況」の10%超注記があっても300億円に届かない。さらに2021年10月にダイヤモンド電機は車載機器事業をダイヤゼブラ電機（旧・田淵電機）へ承継し本社も鳥取へ移転済みで、単体規模は連結の一部にとどまる。単体売上高を示す承認ソースなし。",
+  "J": "https://www.diaelec-hd.co.jp/wp/wp-content/uploads/2026/05/140120260513530819.pdf ; https://www.diaelec-hd.co.jp/about/company/ ; https://www.diaelec-hd.co.jp/en/ir_news/ir_news_cat/financial_statements-en/"
+ },
+ {
+  "行": 1504,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社情報（jst-mfg.com/profile/、/company/info.php）②EDINET（非上場のため有報提出なし）③官報決算公告（売上高の掲載を確認できず）④gBizINFO ⑤新聞記事。流通している「2025年3月期 755億円（国内単独）」はマイナビ等の求人媒体由来で、§3-4の禁止ソースのみ（§6-6の加藤化学と同型）。承認ソースでの再現に4系統当たったが不出。自社HP会社情報ページに売上高欄が存在するか直接閲覧できれば回収余地は残る。",
+  "J": "https://www.jst-mfg.com/profile/ ; https://www.jst-mfg.com/company/info.php ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001093045"
+ },
+ {
+  "行": 1508,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社情報（nopt.co.jp/company/）②官報決算公告（catr.jp収録・売上高欄なし）③gBizINFO ④旧店頭公開（証券コード2680）時代のEDINET/IPO開示＝資本金3.29億円等で鮮度条件外。眼鏡・コンタクトレンズ小売（愛知県豊田市）。求人媒体の「2025年12月期159億円」は禁止ソースで採用不可であり、仮に採用しても300億円を大きく下回るため回収方向の見込みもない。",
+  "J": "https://www.nopt.co.jp/company/ ; https://catr.jp/companies/f7fad/121893 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2180001055478 ; https://www.watch.impress.co.jp/finance/ipo/note/nopt.htm"
+ },
+ {
+  "行": 1523,
+  "I": "△ 要再確認（§7-1依存）：決算公告ルートに売上高が存在することを確認。ただし参照経路が官報転載サイト（catr.jp／prtimes.jp finance）に限られ、取得できたのは第73期の売上高418億円（2022年掲載）で直近期の数値は未取得。追加で当たった経路＝①自社HP「数字で見る伊藤組土建」「会社概要」（金額の掲載を確認できず）②GHG年次報告 ③国交省・北海道の経営事項審査（完成工事高データ未取得）④建設通信新聞の完成工事高ランキング（当社の掲載を確認できず）⑤gBizINFO。§7-1でcatr.jpが認められ、かつ直近期公告を確認できれば○に回収可能。",
+  "J": "https://www.itogumi.co.jp/company/explanation.html ; https://www.itogumi.co.jp/company/aboutus.php ; https://catr.jp/settlements/c740b/32227 ; https://prtimes.jp/finance/8430001001830/settlement ; https://www.itogumi.co.jp/csr/sbt-annual_report.html"
+ },
+ {
+  "行": 1530,
+  "I": "△ 要再確認（鮮度が論点）：自社HP（承認ソース）に売上高ページが存在し、show-wa.co.jp内検索で122,825百万円＝1,228.25億円（2022年度）の記載を確認。300億円基準を4倍超で上回るがページが旧サイト（/sp/sales.html）で決算期が2022年度のため§3-8の直近3期からわずかに外れ、現行サイト（/about/info）でも直近期の金額を取得できず。名古屋市熱田区の水産・食品卸、従業員961名でE列1,000億以上とも整合。追加経路＝官報決算公告（catr.jp・§7-1依存）。当該ページを直接閲覧して決算期と最新値を確定できれば○に回収可能。",
+  "J": "http://www.show-wa.co.jp/sp/sales.html ; https://www.show-wa.co.jp/about/info ; https://www.show-wa.co.jp/about ; https://catr.jp/settlements/0ab14/37476 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3180001022007"
+ },
+ {
+  "行": 1539,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（ytk.co.jp/company/outline.html・金額記載なし）②親会社日本郵船の有報/決算短信＝連結約2.5兆円規模のため10%超注記の対象外で下限証明に使えない ③官報決算公告（catr.jp収録分は総資産72.22億円・当期純利益9.55億円・利益剰余金19.70億円等の貸借対照表項目のみ。大会社に該当せず損益計算書の公告義務がないため売上高欄が存在しない＝決算公告ルートでは今後も出ない）④gBizINFO/EDINET。流通する「2025年3月期348億円」は求人媒体のみで採用不可。",
+  "J": "https://www.ytk.co.jp/company/outline.html ; https://catr.jp/companies/2ecb9/18731 ; https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100YBT6 ; https://www.ytk.co.jp/company/"
+ },
+ {
+  "行": 1540,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①親会社岩谷産業の2025年3月期決算短信・決算説明資料＝連結売上高8,830.11億円 ②同社ニュースリリース ③自社HP（tgenergy.co.jp）④官報決算公告（売上高非開示）⑤gBizINFO。下限証明は不可：連結8,830億円×10%＝883億円であり、公表規模216億円（2021年3月期）のエネライフは有報「関係会社の状況」の10%超注記の対象にならない。承認ソースで確認できる唯一の金額216億円は鮮度条件外かつ300億円未満で、回収方向の見込みもない。",
+  "J": "https://www.iwatani.co.jp/jpn/news/files/2022/20220602_news.pdf ; https://www.iwatani.co.jp/jpn/ir/library/briefing-material/files/202503/202503_kessan_n.pdf ; https://www.tgenergy.co.jp/"
+ },
+ {
+  "行": 1543,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP（aeonibs.co.jp）②親会社イオンの有報/決算短信＝連結約10兆円規模のため10%超注記の対象外で下限証明に使えない ③gBizINFO ④官報決算公告（転載サイトの44.6億円は未承認ソース）。イオングループのシェアードサービス会社であり、2024年12月にIT事業を分割移管済みで規模はさらに縮小。子会社のため§3-3により単体300億以上が必要だが、確認できる金額はいずれも300億円を大きく下回り回収方向の見込みもない。",
+  "J": "http://www.aeonibs.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4040001014132"
+ }
+]

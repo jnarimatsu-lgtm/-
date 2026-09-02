@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1476,
+  "I": "○ 回収：自社HP会社概要に「売上高401億円（2026年3月期実績）・従業員856名（2026年3月）」の記載。単体・機械土工/トンネル等の専門建設業で持株会社や親会社はなく単体判定。法人番号8010001059291・東京都中央区日本橋富沢町でD列と一致。300億基準を充足。http://www.yamazaki.co.jp/company/",
+  "J": "http://www.yamazaki.co.jp/company/; http://www.yamazaki.co.jp/company/history.html"
+ },
+ {
+  "行": 1477,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・ニュース（RMS事業買収案内）、旧社名「日本チャールス・リバー」での決算公告・官報、gBizINFO、米国親法人The Jackson Laboratory開示。承認ソースに売上高記載なし。禁止ソース（転職会議/doda）に2017年12月期51.86億円があるのみで鮮度・ソースとも不可。",
+  "J": "https://www.jax.or.jp/company/profile; https://www.jax.or.jp/news/detail/387; https://houjin.jp/c/7020001035961"
+ },
+ {
+  "行": 1478,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・事業内容・CSR&CSV REPORT 2017〜2024（自社統合報告書相当）。自社開示は「本部取扱高」のみ（2024年2月期1兆984億円／2026年2月期1兆870億円）で売上高ではない。官報決算公告転載の個人ブログに第52期売上高3,655億円とあるが禁止ソース。",
+  "J": "https://www.cgcjapan.co.jp/company/outline/; https://www.cgcjapan.co.jp/cgcgroups/csr/report/digital/2024/pageindices/index4.html"
+ },
+ {
+  "行": 1480,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・会社案内・沿革・グループ紹介・採用「北海道いすゞについて」、親会社いすゞ自動車のIR/決算短信、官報決算公告。いすゞ系販売会社の決算公告は貸借対照表のみで売上高欄が存在しない。承認ソースに単体売上高の開示なし。",
+  "J": "https://www.hokkaido-isuzu.jp/company/overview/; https://www.hokkaido-isuzu.jp/recruit/about/; https://www.isuzu.co.jp/company/investor/financial/results/assets/pdf/con202503.pdf"
+ },
+ {
+  "行": 1486,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・沿革・代表メッセージ・実績データ頁(result/proceeds.php)・分譲実績・採用サイトdata、gBizINFO、決算公告。実績データ頁は分譲/施工の実績で、売上高の直近3期値を承認ソースで確認できず。2006年設立・資本金1億円のマンション分譲業。",
+  "J": "https://www.sanshinjyuken.com/company/outline.php; https://www.sanshinjyuken.com/result/proceeds.php; https://recruit.sanshinjyuken.com/data"
+ },
+ {
+  "行": 1488,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社紹介・物流サービス頁、決算公告、gBizINFO。自社開示は3PL受託の「取扱金額1,138億円」のみで売上高ではない。資本金1,000万円・正社員50名/パート470名（2024年12月末）の規模から売上高は300億を大きく下回る可能性が高いが、承認ソースで未確認。",
+  "J": "https://www.yamaichi-y.jp/company/; https://www.yamaichi-y.jp/logistics/"
+ },
+ {
+  "行": 1490,
+  "I": "△ 妥当：確認不可で正しい。※1次の「親会社ミライト・ワン」は誤りで、2018年よりエクシオグループ(1951)の子会社。当たった経路＝自社HP企業情報/財務情報/電子公告/IR、エクシオグループ会社概要・グループ会社・ファクトシート・IR。エクシオ連結7,877億円(2026年3月期)の10%=787億超の注記もなく下限証明不可。",
+  "J": "https://www.ndknet.co.jp/company/finance/; https://www.ndknet.co.jp/company/publicly/; https://www.exeo.co.jp/company/group.html; https://www.exeo.co.jp/ir/factsheet.html"
+ },
+ {
+  "行": 1491,
+  "I": "△ 要再確認（§7-1）：官報決算公告収録サイトcatr.jpに2026年3月期・単体売上高414.9億円（純利益29.25億円）との記載あり。自社HP企業概要は資本金35億円・従業員347名のみで売上高非開示、ブラザー工業の有報/決算短信にも単体値なし（連結の10%未満で下限証明も不可）。catr.jp承認なら○に回収可能。",
+  "J": "https://www.brother.co.jp/corporate/bsl/profile/; https://global.brother/en/investor/business/yuho; https://catr.jp/companies/8e806/48795"
+ },
+ {
+  "行": 1495,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/会社案内/事業内容/決算公告頁、親会社JR九州のIRライブラリ（有報・決算短信・セグメント別業績・経営成績の推移）、gBizINFO。決算公告は貸借対照表のみで売上高欄なし。JR九州連結営業収益約4,300億円に対する10%超注記もなく下限証明不可。",
+  "J": "https://www.jr-retail.co.jp/company/; https://www.jr-retail.co.jp/company/financial/; https://www.jrkyushu.co.jp/company/ir/library/securities_report/; https://www.jrkyushu.co.jp/company/ir/finance/results/"
+ },
+ {
+  "行": 1497,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/基本情報/新着情報、gBizINFO、長野県公式SDGs推進企業情報サイト、官報決算公告（第80期は当期純利益286百万円のみで売上高欄なし）。「2025年3月期連結売上高500億円」はタナベコンサル媒体TCG REVIEWのみで承認ソース外。自社HPは売上高非開示。",
+  "J": "http://www.johnan-seisakusho.co.jp/en/about/information/; https://nagano-sdgs.com/company/2590/profile/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2100001011034"
+ }
+]

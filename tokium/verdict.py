@@ -48,9 +48,11 @@ if __name__ == "__main__":
     res = build()
     c = Counter(r["最終判定"] for r in res)
     ok = sum(1 for r in res if r["架電可"] == "○")
-    print(f"検証済み {len(res)}行 → 架電可 {ok}行 ({ok/len(res)*100:.1f}%) / 架電不可 {len(res)-ok}行")
-    for k, v in c.most_common(): print(f"   {k:<28}{v:>5}")
+    summary = (f"検証済み {len(res)}/4422行 ({len(res)/4422*100:.1f}%) → "
+               f"架電可 {ok}行 ({ok/len(res)*100:.1f}%) / 架電不可 {len(res)-ok}行")
+    detail = "\n".join(f"   {k:<28}{v:>5}" for k, v in c.most_common())
+    open("/home/user/-/tokium/results/SUMMARY.txt", "w", encoding="utf-8").write(summary + "\n" + detail + "\n")
+    print(summary)
     p = "/home/user/-/tokium/results/IJ_paste.csv"
     with open(p, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(res[0].keys())); w.writeheader(); w.writerows(res)
-    print(f"\n-> {p}")

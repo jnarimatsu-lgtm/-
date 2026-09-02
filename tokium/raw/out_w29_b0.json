@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1337,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（資本金8億円・住友林業100%出資の記載のみで売上高なし）／親会社住友林業のIRライブラリ・有価証券報告書・業績ハイライト／gBizINFO（財務情報の掲載なし）／官報決算公告。314.12億円（2025年12月期）はマイナビ・Yahoo!しごとカタログ・Baseconnect等の禁止ソースにしかなく採用不可。",
+  "J": "https://www.sumirin-crest.co.jp/company/profile/;https://sfc.jp/information/ir/library/report/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010001089831"
+ },
+ {
+  "行": 1340,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP／親会社（ドワンゴ・KADOKAWA）IR／gBizINFO／官報決算公告（第44期・2026年7月14日官報号外第157号）。決算公告は貸借対照表のみで売上高欄が存在せず、当期純利益5.75億円・利益剰余金35.67億円のみ。承認ソースに売上高の記載がなく、開示義務もないため探しても出ない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010401097553;https://catr.jp/companies/275ca/24779;https://kanpo-kanpo.blog.jp/archives/46364740.html"
+ },
+ {
+  "行": 1341,
+  "I": "△ §7-1回答待ち：8,420億円（第36期・単体）を官報決算公告で確認済み。ただし出典はcatr.jp。自社HP会社概要は資本金20億円・三菱商事100%出資のみで売上高記載なし、親会社三菱商事の有報「関係会社の状況」・IRライブラリにも単体売上高を確認できず。catr.jpが承認ソースと認められれば○に回収可能（金額は基準を大幅に超過）。",
+  "J": "https://catr.jp/companies/884d2/20990;https://www.mc-ene.com/about/profile/;https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/"
+ },
+ {
+  "行": 1342,
+  "I": "△ §7-1回答待ち（G列訂正）：最新は第32期＝2025年3月期・単体の売上高424.19億円（前期比+17.09%）。1次が採った362.28億円は第31期＝2024年3月期の前年度値でありG列は第32期424.19億円に訂正。出典は官報決算公告の二次収録サイトcatr.jpのみで、自社HP企業情報・親会社NTTドコモのIR・gBizINFOには単体売上高の記載なし。catr.jpが承認ソースと認められれば○に回収可（第31期・第32期とも300億超）。",
+  "J": "https://catr.jp/companies/43079/11148/settlements/9b9c5/414489;https://catr.jp/companies/43079/11148;https://www.oaklawn.co.jp/company/outline/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001034813"
+ },
+ {
+  "行": 1344,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社/親会社公式（富士紡HDグループ会社ページ）／富士紡HD 2026年3月期決算短信〔日本基準〕(連結)＝連結売上高459.29億円／同社IRのセグメント情報。親会社グループ連結でも459.29億円しかなく、生活衣料事業を担う一子会社の単体が300億円を超える蓋然性は低いが、単体売上高そのものは承認ソースで確認できず。",
+  "J": "https://www.fujibo.co.jp/corporate/outline/group/apparel/;https://www.nikkei.com/nkd/disclosure/tdnr/20260514535559/"
+ },
+ {
+  "行": 1346,
+  "I": "× 要修正：300億未満。自社HP会社情報の2025年3月期トップラインは収益272億円（新収益認識基準の純額表示・単体）で300億円未満。旧基準の売上831億円は§3-7・§6-3により不採用（H列併記対象）。丸紅の子会社のため親会社連結は使用不可（§3-3）。※自社サイト表記は「丸紅テツゲンメタルズ株式会社」で商号変更の可能性あり。",
+  "J": "https://www.marumet.co.jp/company/company.html;https://www.marumet.co.jp/"
+ },
+ {
+  "行": 1347,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（sankyo-co.jp）会社概要／官報決算公告・catr.jp／gBizINFO／公的統計／新聞社記事。直近3期の売上高を承認ソースで確認できず。なお検索では法人番号の異なる別法人「三協化成株式会社」（富山県高岡市）が多数返るため§6-2の取り違えに注意。",
+  "J": "https://www.sankyo-co.jp/"
+ },
+ {
+  "行": 1349,
+  "I": "○ 妥当（再検証済）：495.18億円（2025年12月期・連結／営業収益49,518百万円・前期比7.0%減、純営業収益45,587百万円）。2026年2月4日付「2025年12月期決算短信〔日本基準〕(連結)」で数値・決算期とも再現確認。東証スタンダード7177は現在も上場継続でTOB・上場廃止の事実なし。GMOインターネットグループ(9449)の連結子会社だが自身が上場金融持株会社のため§3-3「ホールディングスはグループ連結300億超で可」を適用。証券・FX業のトップラインである営業収益を売上高相当として採用（§3-7）。",
+  "J": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260204/20260204547001.pdf;https://www.gmofh.com/ir/financials.html"
+ },
+ {
+  "行": 1352,
+  "I": "× 要修正：子会社単体で300億未満。川崎汽船の子会社。官報決算公告の単体売上高は第64期290.56億円・第65期203.02億円・第66期229.39億円でいずれも300億円未満（第65期決算公告は経済産業省gBizINFOにも掲載）。親会社公式の435億円はケイラインロジスティックス連結値であり§3-3により子会社判定には使用不可。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=f77bc6e5-f873-40a4-9709-e54be0c0f4e4;https://catr.jp/companies/316dd/19635/settlements/42bdb/414513;https://www.kline.co.jp/ja/news/logistics/logistics-20240927.html"
+ },
+ {
+  "行": 1362,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（直近売上高の記載なし）／官報決算公告（第87期。当期純利益9.42億円・資産合計284.38億円のみで売上高欄が存在しない貸借対照表のみの公告）／gBizINFO／新聞社記事。302億円や401.61億円（2022年度）は求人媒体・信用調査系サイトのみで承認ソースになく、決算期も直近3期外。",
+  "J": "https://www.tuboi.co.jp/about/profile/;https://catr.jp/companies/e041e/38494/settlements/b7658/442593"
+ }
+]

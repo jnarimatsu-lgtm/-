@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1611,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・沿革・グループサイト（売上高非掲載、電子公告ページなし）／gBizINFO（財務情報なし）／官報決算データベース（当社名義の決算公告なし。「株式会社タイホウ」「株式会社タイホー」は別法人）。352.77億円（2019年頃）はBaseconnect・Yahoo!しごとカタログ等の禁止ソース由来かつ直近3期外で採用不可。",
+  "J": "https://www.taiho-group.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001037667; https://catr.jp/companies/433ef/187389/settlements/68071/378984"
+ },
+ {
+  "行": 1614,
+  "I": "△ 妥当（1次の「要再確認」を解消）：業界紙が報じた2023/10/16発表の第一次中期経営計画のうち実績と言えるのは2023年3月期723億円のみで、これは4期前＝§3-8の直近3期外。2024年3月期800億円・2028年3月期1,400億円は計画値。2026年3月期1,460億円はマイナビ（禁止ソース）かつグループ合算。決算公告 第36期は貸借対照表のみで売上高記載なし（純利益2.29億円・利益剰余金169.69億円・総資産273.98億円）。承認ソースに直近3期の売上高なし。",
+  "J": "https://amusement-japan.co.jp/article/detail/10003869/; https://web-greenbelt.jp/post-77362/; https://catr.jp/companies/2bae8/44146/settlements/b089e/387923; https://www.heiseikankou.com/about/outline.html"
+ },
+ {
+  "行": 1624,
+  "I": "△ 妥当：旧船井電機・ホールディングス。2025年1月7日に東京地裁で破産手続開始決定（負債262億1,543万円・2024年9月末）、子会社船井電機も2024年10月24日破産開始決定。当たった経路＝自社HP／EDINET・TDnet（直近の決算開示なし）／報道。直近3期の売上高は承認ソースに存在せず、TSR・TDBは信用調査会社で承認ソース外。事業実体が消滅しており架電対象としても不適。",
+  "J": "https://www.tsr-net.co.jp/news/tsr/detail/1200863_1521.html; https://www.tdb.co.jp/report/bankruptcy/flash/5103/; https://www2.funai.co.jp/"
+ },
+ {
+  "行": 1628,
+  "I": "△ 妥当：住友商事が直接出資する鉄鋼系コイルセンター。追加で当たった経路＝住友商事 有価証券報告書 第157期（2025年3月期）「関係会社の状況」／住友商事グループ会社一覧／官報決算データベース（当社の売上高記載なし。「KSサミットスチール」は別法人・閉鎖済）／自社HP会社案内。単体売上高も「連結売上高の10%超」注記もなく、住友商事連結約6.9兆円のため10%下限証明（約6,900億円）も使えない。",
+  "J": "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2024/202503yuho.pdf?sc_lang=ja; https://www.sumitomocorp.com/ja/jp/about/company/scgroup/business/business01; https://catr.jp/companies/b9a8b/63657; http://www.summitsteel.co.jp/company"
+ },
+ {
+  "行": 1637,
+  "I": "△ 妥当：総合医療機器メーカー（東京都足立区・法人番号6011801010503）。追加で当たった経路＝自社HP会社概要・会社情報・採用「数字でみるトップ」いずれも売上高非掲載／gBizINFO財務情報なし／官報決算データベースに当社の決算公告なし。305億円（2024年11月期）・325億円（2025年11月期）はマイナビ・Baseconnect・OpenWork等の禁止ソースのみ。同名のOA機器商社（株）トップ（単体332.68億円）は別法人で流用不可。基準300億に近く承認ソースなしでは○にできない。",
+  "J": "https://www.top-tokyo.co.jp/corporate/about/; https://www.top-tokyo.co.jp/recruit/data/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011801010503"
+ },
+ {
+  "行": 1638,
+  "I": "△ §7-1回答待ち：2,952.87億円（第49期・2025年12月期・単体。前期第48期3,031.90億円）を官報決算公告で確認済み（catr.jp／prtimes官報決算データ）。J&J子会社だが単体で300億を大幅超のため金額要件は充足。自社公式・EDINET・TDnet・親会社J&JのIRに日本法人単体の売上高記載なし。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/3e555/140903/settlements/9c4dd/399689; https://prtimes.com/finance/4010001089128/settlement; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010001089128"
+ },
+ {
+  "行": 1640,
+  "I": "△ 妥当：タイヘイ（株）が2018年に旅行事業統括の事業持株会社として設立した100%子会社。追加で当たった経路＝自社HP会社概要・沿革（売上高非掲載）／グループ再編プレスリリース（travel-inn.co.jp）／官報決算データベース（決算公告ページに売上高記載なし）／EDINET提出なし／親会社タイヘイは非上場でIR開示なし。子会社のため単体300億以上の裏取りが必要だが承認ソースなし。旅行業の取扱高は売上高と乖離するため代用不可。",
+  "J": "https://www.t-life.co.jp/corporate/overview/; https://catr.jp/companies/f6041/182025; https://www.travel-inn.co.jp/pdf/20211011press_release.pdf"
+ },
+ {
+  "行": 1648,
+  "I": "○ 妥当（反証検証で維持）：654.77億円（2026年3月期・連結）。EDINET有報 第59期（2026年6月30日提出・北海道財務局長宛）。半期報告書（2025年12月19日提出）の上期連結売上高347.76億円・前年同期比+14.99%と整合し通期650億円規模を裏付け。提出会社（単体）は391.61億円で、仮に子会社扱いでも300億超のため判定不変。連結財務諸表提出会社＝グループ親会社につき§3-3により連結値で可。EDINETは§3-4承認ソース。",
+  "J": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YMZO.pdf; https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XBK4.pdf; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5430001050054"
+ },
+ {
+  "行": 1656,
+  "I": "△ 妥当（決算期を特定）：官報決算公告（catr.jp収録）第43期341.52億円・第42期344.75億円（いずれも単体）を再現確認。第41期公告が2022年4月4日付官報（令和4年号外第74号）掲載であることから決算期は12月期と推定され、第43期＝2023年12月期＝直近3期の最古端。第44期以降は未収録で最新値不明。出典は§7-1未決着のcatr.jpのみ、自社HPと親会社（東芝ライフスタイル／美的グループ・非上場）に開示なし。300億に近く△維持。",
+  "J": "https://catr.jp/companies/95919/29320/settlements/baf9b/345158; https://catr.jp/companies/95919/29320/settlements/51e24/293767; https://search.kanpoo.jp/r/20220404g74p58-1a1/; https://www.toshiba-tht.co.jp/company/gaiyo/"
+ },
+ {
+  "行": 1667,
+  "I": "△ 妥当：富士通グループ子会社。1次が第11期（2026年3月期）決算公告は貸借対照表のみで売上高欄が存在しないことを確認済み＝開示義務がなく探索しても出ない。当たった経路＝自社HP会社概要・IRページ／決算公告／EDINET・TDnet提出なし。親会社富士通の有報「関係会社の状況」10%超注記による下限証明も、富士通連結約3.7兆円＝下限約3,700億円となり当社規模では成立しない。確認不可で正しい。",
+  "J": "https://www.1finity.co.jp/subsidiaries/1fw/about/ir"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 1438,
+  "I": "○ 回収：441.16億円（2025年3月期・単体）。1次が未踏だった自社HP『業績』ページ（受注高・売上高の年度推移を公開）で確認。自社の中期計画も売上高420〜470億円規模を明示し整合。EDINETコードE00253を持つ有価証券報告書提出会社で、日経会社情報にも業績・財務あり。300億基準を約1.47倍で充足。",
+  "J": "https://www.fujiki.co.jp/company/performance/ ; https://www.fujiki.co.jp/company/profile/ ; https://irbank.net/E00253"
+ },
+ {
+  "行": 1440,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（corporate.sarkland.co.jp/company_profile/、sarkland.co.jp/abouts/）、gBizINFO、官報決算公告DB、EDINET。総合レンタル業・資本金3,500万円・従業員264名（2025年10月）で売上高の公表なし。数値はマイナビ転職/Baseconnect等の禁止ソースのみ。E列の売上レンジは規模感と乖離。",
+  "J": "https://corporate.sarkland.co.jp/company_profile/ ; https://www.sarkland.co.jp/abouts/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011701003179"
+ },
+ {
+  "行": 1444,
+  "I": "△ 妥当：確認不可のまま。反証で追加踏破＝自社HP沿革・会社概要・会社案内PDF（CompanyBrochure.pdf）・採用サイトcareers.chiyodagumi.co.jp。直近3期の売上高記載なし（公式は2020年3月期996億円のみで鮮度外）。国交省経審の1,033.07億円（2024年3月期）はUllet経審＝二次サイト経由でしか到達できず§7-1のcatr.jp同様に承認ソース未確定。規模は1,000億円級だが一次証跡なし。",
+  "J": "https://www.chiyodagumi.co.jp/company/history ; https://www.chiyodagumi.co.jp/pdf/CompanyBrochure.pdf ; https://careers.chiyodagumi.co.jp/ ; https://keishin.ullet.com/00-005731/mark.html"
+ },
+ {
+  "行": 1445,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・会社情報、雪印メグミルク決算短信/有報のセグメント情報、官報決算公告DB。親会社開示の飼料・種苗セグメントは約490億円（同社が主に担当と親会社が明記）だがセグメント値であり単体ではない。477億円は求人媒体由来で不採用。親連結約6,200億円に対し10%超注記も非該当で下限証明不可。",
+  "J": "https://www.snowseed.co.jp/corporate/outline/ ; https://www.snowseed.co.jp/corporate/ ; https://www.meg-snow.com/ir/news/pdf/20220628-1562.pdf"
+ },
+ {
+  "行": 1446,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（ttsystems.com）、豊田通商IR、EDINET、TDnet、官報決算公告DB（catr.jpに第31期決算公告あり）。自社ドメインに電子公告ページなし。catr.jp掲載値は売上高と純利益が整合せず信頼できない。§7-1でcatr.jpが承認ソースと認められれば再検討の余地あり。",
+  "J": "https://www.ttsystems.com/jp ; https://catr.jp/companies/bb7c4/63264 ; https://catr.jp/companies/bb7c4/63264/settlements/cf2eb/363192"
+ },
+ {
+  "行": 1447,
+  "I": "○ 回収：1,324.43億円（2025年3月期・単体）。1次未踏の自社HP決算公告ページに第79期決算公告PDF（2024/4/1-2025/3/31）が実在＝承認ソース§5-3経路5。同公告の個別損益は営業利益92.27億円・経常利益82.99億円（IFRS連結に無いJGAAP科目＝個別の証左）・販管費164.61億円→売上総利益256.88億円。日経会社情報の単体1,324.43億円と整合し、商社粗利率上300億未満はあり得ない。連結売上収益1,973.39億円。",
+  "J": "https://www.elematec.com/company/public-notice.html ; https://www.elematec.com/uploads/675db25830286e09c36164aa6a5c1fce41b04255.pdf ; https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0049931"
+ },
+ {
+  "行": 1448,
+  "I": "× 要修正：子会社単体で300億円未満が確定。AOKIホールディングス2026年3月期決算説明会（親会社IR＝承認ソース）でアニヴェルセル・ブライダル事業の売上高12,448百万円＝124.48億円（前年比106.3%）。同社は当該セグメントの中核会社であり単体がセグメント全体を上回ることはない。§3-3により子会社は単体300億以上のみOK。",
+  "J": "https://ir.aoki-hd.co.jp/ja/news/news/auto_20260521543164/main/0/link/26.3_setsumeikai.pdf ; https://ir.aoki-hd.co.jp/ja/ir/finance/segment.html"
+ },
+ {
+  "行": 1450,
+  "I": "△ 妥当：確認不可のまま。反証で日経記事（承認ソース§3-4-4）を発見＝2025年3月期売上高は前期比1%増の1,740億円『見込み』。決算期と金額は明記だが実績値でなく単体/連結の別も不明のためG列採用不可。自社HP決算公告PDF（p20250625.pdf）は実在するが検索では売上高本文を取得できず。基準の約5.8倍規模につき人手でのPDF確認を推奨。",
+  "J": "https://www.nikkei.com/article/DGXZQOFD1792R0X11C24A2000000/ ; https://www.toyotahome.co.jp/corporate/pdf/p20250625.pdf ; https://www.toyotahome.co.jp/corporate/announcement/"
+ },
+ {
+  "行": 1451,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・電子公告ページ（with-e-home.com/publicnotice/ に第9期決算公告掲載）、新昭和グループ公式、官報決算公告DB。求人媒体の2025年3月期270.11億円は禁止ソースのため不採用だが、事実なら300億円未満で×に倒れる行。承認ソースでの実額は未取得。",
+  "J": "https://with-e-home.com/publicnotice/ ; https://catr.jp/companies/43416/82856 ; https://www.shinshowa.co.jp/company/group.php"
+ },
+ {
+  "行": 1453,
+  "I": "○ 回収：約1,043億円（2025年3月期・単体）。1次未踏の自社ドメイン内採用サイト会社概要（recruit.sojitz-planet.com）に売上高記載。官報決算公告（第39期・2025年3月期・単体）でも1,113.89億円。1次が挙げた444.04億円を採っても300億円を大きく超え判定は不変。双日100%子会社だが単体1,000億円級で§3-3の子会社単体基準を充足。",
+  "J": "https://www.recruit.sojitz-planet.com/fresh/company/ ; https://prtimes.jp/finance/7120001080106/settlement ; https://www.sojitz.com/jp/corporate/group/company_14001.html"
+ }
+]
