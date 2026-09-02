@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3936,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(advance.tkcnf.com／TKC全国会系の会計・経営コンサル)会社概要、決算公告・官報索引、gBizINFO(法人番号8200001028962で法人は現存、売上高項目なし)、新聞社記事。§6-2登記所コード2000＝地方局で、東京0100・大阪1200の同名別法人とは別。承認ソースに売上高の記載自体が存在せず、SFのE列『300億以上』は根拠不明。回収経路なし。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8200001028962 ; https://advance.tkcnf.com/"
+ },
+ {
+  "行": 3937,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(spo-mane.co.jp)会社概要・創業精神・社員紹介・物販、決算公告、公的DB。東京都渋谷区神宮前、2000年6月創業、資本金4,500万円、従業員20名規模のアマチュアサッカー大会運営会社。承認ソースに売上高の開示なし。数値はBaseconnect/NIKKEI COMPASS等の禁止ソースのみ。SFのE列『1,000億以上』は誤登録。",
+  "J": "https://www.spo-mane.co.jp/ ; https://spo-mane.co.jp/philosophy ; https://spo-mane.co.jp/index-content=member.html"
+ },
+ {
+  "行": 3938,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(jet-e.jp)企業情報、決算公告、新聞社記事、EDINET。千代田区一番町、ERS(発酵乾燥資源循環装置)の開発製造販売、従業員54名。売上高はNIKKEI COMPASS/Indeed等の禁止ソースにしかなく、その値でも114.3億円規模(2025年6月期)で300億に届かない。承認ソースでの開示なし。SFのE列『1,000億以上』は誤登録。",
+  "J": "https://jet-e.jp/company/ ; https://jet-e.jp/"
+ },
+ {
+  "行": 3939,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(fujishodoku.co.jp)会社案内・スタッフ紹介、決算公告、gBizINFO、公的DB。横浜市戸塚区上倉田町のシロアリ・害虫駆除業。§6-2登記所コード0200＝横浜で本社所在地と一致し、山梨の株式会社富士消毒化学研究所(4090001003163)とは別法人と確定。承認ソースに売上高の記載なし。SFのE列『300億以上』は誤登録。",
+  "J": "https://www.fujishodoku.co.jp/company.php ; https://www.fujishodoku.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4090001003163"
+ },
+ {
+  "行": 3940,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(hamasoft.co.jp)会社概要、決算公告、gBizINFO、新聞社記事、業界団体(全日本マネキン紹介事業協会)。神奈川(川崎市川崎区)の受託ソフト開発・給与計算アウトソーシング。§6-2登記所コード0200＝横浜局で所在地と一致。売上高はNIKKEI COMPASS・マイナビ転職・type等の禁止ソースのみで承認ソースに記載なし。",
+  "J": "http://www.hamasoft.co.jp/ ; http://www.hamasoft.co.jp/profile.htm ; https://zensyokyo.org/kaiin/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%9E%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/"
+ },
+ {
+  "行": 3942,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(takeda-tx.co.jp)Company、決算公告・官報索引(catr.jpにも当該法人の掲載なし／出るのは別法人の武田産業)、新聞社記事、EDINET。大阪市中央区安土町3-3-9 田村駒ビル6F、1949年設立のスポーツ・水着・ストレッチ素材のOEM/ODM繊維商社。§6-2登記所コード1200＝大阪で一致、武田薬品工業(2120001077461)とは別法人。売上高の承認ソース記載なし。",
+  "J": "https://www.takeda-tx.co.jp/company/index.html ; https://www.takeda-tx.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120001077461"
+ },
+ {
+  "行": 3943,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(shunpoen.co.jp)会社案内、横浜市公式サイトの経営者インタビュー、横浜企業経営支援財団(IDEC・公的機関)、神奈川県造園業協会、決算公告。横浜市金沢区釜利谷東の造園・土木業、1976年創業、従業員10名(2024年横浜市インタビュー)。公的ソースにも売上高の記載なし。SFのE列『300億以上』は誤登録。",
+  "J": "https://www.shunpoen.co.jp/ ; https://www.city.yokohama.lg.jp/business/kigyoshien/keieishien/womanport/Career_komachi/shunpoen.html ; https://www.idec.or.jp/business/csr/company_info.html?id=79"
+ },
+ {
+  "行": 3944,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(j-act.co.jp)、gBizINFO、決算公告・官報索引、新聞社記事。§6-2登記所コード1200＝大阪で所在地と一致。1次指摘の2026年3月期0.94億円は求人媒体(禁止ソース)のみの数値で採用不可だが、規模感として300億回収の見込みはない。承認ソースに売上高の記載なし。SFのE列『1,000億以上』は誤登録。",
+  "J": "https://j-act.co.jp"
+ },
+ {
+  "行": 3945,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(hataden.com)会社概要・事業内容、gBizINFO、決算公告、自治体系DB(ゼロカーボンシティさがし推進パートナー制度)、新聞社記事。佐賀県佐賀市鍋島の電気・通信・消防設備工事業、2011年4月設立。§6-2登記所コード3000＝佐賀で本社所在地と一致(富山等の同名別法人ではない)。売上高はNIKKEI COMPASS/Baseconnect等の禁止ソースのみ。",
+  "J": "https://hataden.com/company ; https://hataden.com/service ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2300001008324"
+ },
+ {
+  "行": 3946,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(hakkou-sekkei.biz-web.jp／無料ホスティング上の会社概要)、決算公告・官報索引、新聞社記事、公的DB。検索で出る『八光グループ』(長野県・株式会社八光 売上77億円／八光電機33億円)は法人番号が異なる別法人で、当該法人2310001004025(§6-2登記所コード3100)とは一致しない。当該法人の売上高は承認ソースに記載なし。",
+  "J": "http://www.hakkou-sekkei.biz-web.jp/company.html"
+ }
+]

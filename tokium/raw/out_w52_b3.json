@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3968,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO(法人番号9430001002761／北海道札幌市豊平区月寒東四条9丁目5-11・1989年1月31日設立)、自社HP会社概要(emumatu.co.jp/company/)、官報決算公告(catr.jp北海道一覧)、農水省公表資料。OA機器・事務機器販売の商社で、承認ソースに売上高の記載が一切ない。流通する企業情報はBaseconnect等の禁止ソースのみ。§6-2チェック：法人番号2〜5桁=4300は札幌法務局管内で本店所在地と一致し、同名別法人の取り違えはない。E列『300億円以上』はSF側の誤登録の可能性が高いが、実額の承認ソースが無いため確認不可のまま。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9430001002761; http://www.emumatu.co.jp/company/; https://catr.jp/pref/1"
+ },
+ {
+  "行": 3969,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(yamako.jp)会社概要、gBizINFO、EDINET/TDnet(上場実体なし)、官報決算公告。東京都港区三田2-14-5、2001年5月設立、資本金1,500万円、従業員44名の旅行・航空分野専門の企画制作／Web制作会社。承認ソースに売上高の記載なし。数値はSalesNow・Wantedly・転職会議＝禁止ソースのみ。§6-2チェック：法人番号1010401049808の2〜5桁=0104は東京法務局管内で港区の所在地と一致。事業規模から300億は非現実的だが、承認ソースの実額が無いため確認不可のまま。",
+  "J": "https://www.yamako.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010401049808"
+ },
+ {
+  "行": 3971,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(barrel-3.co.jp)、gBizINFO、官報決算公告、EDINET。専門店・オフィス・施設・住宅の設計／内装を手がける小規模設計会社で、承認ソースに売上高の記載なし。§6-2チェック：法人番号1011001110281の2〜5桁=0110は東京法務局管内。同名の別法人が複数存在する（三鷹市の株式会社Barrel 7012401029511、岐阜市の株式会社Barrel 2200001036789、横浜のBARREL Inc.／株式会社バレル、barrel-jp.com、barrelled.net）ため、他社の数値を流用してはならない。",
+  "J": "https://barrel-3.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7012401029511; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2200001036789"
+ },
+ {
+  "行": 3973,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社案内(e-seibu.jp/company/)、国交省の経営事項審査／完成工事高、gBizINFO、官報決算公告。実体は埼玉県越谷市南越谷1-19-8のセンチュリー21加盟の不動産仲介会社（賃貸・売買・管理・リフォーム、営業時間10:00-18:00・水曜定休）で建設業ではなく、完成工事高の経審データも該当なし。承認ソースに売上高の記載なし。§6-2チェック：法人番号1030001067753の2〜5桁=0300はさいたま法務局管内で越谷市と一致。大手の西武建設株式会社(seibu-const.co.jp)・西部建設株式会社(seibu-kensetu.jp)・西部電気建設とは別法人であり、それらの数値を流用してはならない。",
+  "J": "https://www.e-seibu.jp/company/; https://www.e-seibu.jp/"
+ },
+ {
+  "行": 3975,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝広島県公式『Go!ひろしま』企業データベース(pref.hiroshima.lg.jp＝§3-4③公的機関)、ひろしまワークス(hiroshimaworks.jp)、自社HP ABOUT(pdpc.co.jp)、gBizINFO、官報決算公告。いずれにも売上高欄がない。広島県尾道市東尾道12-5、1965年3月25日設立、資本金2,000万円、従業員16名の業務用ソフトウェア開発・システム機器販売会社。§6-2チェック：法人番号1240001038394の2〜5桁=2400は広島法務局管内で尾道市と一致。従業員16名の規模で300億は非現実的だが、承認ソースの実額が無いため確認不可のまま。",
+  "J": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-hiroshima-datebase-kigyo/go-data-0152.html; https://pdpc.co.jp/?page_id=2; https://www.hiroshimaworks.jp/facility/detail/369"
+ },
+ {
+  "行": 3978,
+  "I": "△ 妥当：確認不可で正しい。かつ§6-2の同名取り違えに要警戒。当社（法人番号2120001039965）はgBizINFOで大阪市浪速区敷津東3丁目11-6、自社HP matsuo-sangyo.com＝ハトメ・ホック・カシメ・ファスナー等の服飾用金物および鞄・靴部材の卸小売業で、承認ソースに売上高の記載なし（2026年9月28日に大阪市中央区島之内1-3-5へ移転予定）。ネット上に流通する『売上高311億4,000万円・経常利益15億1,000万円（2025年3月期）』は、大阪市中央区本町の別法人・松尾産業株式会社（1120001047481／matsuo-sangyo.co.jp・塗料原材料／機能性材料商社・従業員57名）の数値であり当社のものではない。しかもその出典はマイナビ転職・ブンナビ・Baseconnect＝禁止ソース。追加で当たった経路＝gBizINFO、自社HP、EDINET、官報決算公告(catr.jp)、親会社IRなし。この行を311.4億円で○に回収してはならない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120001039965; https://matsuo-sangyo.com/content3.html; https://www.matsuo-sangyo.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1120001047481"
+ },
+ {
+  "行": 3979,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要(zeo-management.co.jp)、分譲賃貸サイト会社概要(zeo-rent.com/company.html)、旧サイト(zeo-management.sakura.ne.jp/company.html)、gBizINFO、官報決算公告。福岡市中央区赤坂1-14-22-4F、1991年5月設立、資本金1,000万円、従業員7名のマンション管理会社で、承認ソースに売上高の記載なし。§6-2チェック：法人番号2290001008235の2〜5桁=2900は福岡法務局管内で所在地と一致。従業員7名の規模で300億は非現実的だが、承認ソースの実額が無いため確認不可のまま。",
+  "J": "https://www.zeo-management.co.jp/; https://www.zeo-rent.com/company.html; https://houjin.jp/c/2290001008235"
+ },
+ {
+  "行": 3980,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO、ツクリンク会社概要、ビジネスモール(b-mall.ne.jp／福岡商工会議所系)、官報決算公告、EDINET。福岡市中央区天神所在、上下水道管路設計など公共事業関連の設計・コンサルティング業、資本金1,000万円、従業員13名。承認ソースに売上高の記載なし。§6-2チェック：法人番号2290001018481の2〜5桁=2900は福岡法務局管内で所在地と一致。同名のウェルプランニング株式会社が他に複数存在する（welplan.co.jp、wel-plan.co.jp）ため数値流用は不可。従業員13名の規模で300億は非現実的だが、承認ソースの実額が無いため確認不可のまま。",
+  "J": "https://tsukulink.net/fukuoka/city_401331/726197; https://www.b-mall.ne.jp/CompanyDetail-HYbqCQbvCRks.html"
+ },
+ {
+  "行": 3982,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO(法人番号2350001013146)、林野庁の合法木材供給事業者認定情報(goho-wood.jp)、鹿児島県『林業事業体の登録情報』(pref.kagoshima.jp)、企業INDEXナビ、官報決算公告。所在地はgBizINFOで宮崎県西臼杵郡五ヶ瀬町大字三ヶ所8302番地1の林業事業者であり、いずれの公的資料にも売上高の記載がない。E列の『1,000億円以上』は五ヶ瀬町の林業事業者としてありえずSF側の誤登録。承認ソースの実額が無いため確認不可のまま（推測で×にも○にもしない）。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2350001013146; https://www.goho-wood.jp/nintei_system/user/detail.php?entrepreneur_id=134628&group_id=130; http://www.pref.kagoshima.jp/ad12/sangyo-rodo/rinsui/ringyo/ikusei/tourokuichiran.html"
+ },
+ {
+  "行": 3983,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(musashino-kankyo.co.jp)、gBizINFO(3012801003689)、エコアクション21環境経営レポート(ea21.jp)、官報決算公告(catr.jp)、EDINET。東京都東大和市所在、工事に伴う建物・環境調査および補償コンサルタント事業、従業員9名(正社員7名)の小規模事業者で、承認ソースには売上高の記載なし。禁止ソースのマイナビ2026にのみ『売上高205,963,094円＝約2.06億円(2024年5月期)』の記載があり、300億には遠く及ばないことが強く示唆されるが、承認ソースでの実額が無いため確認不可のまま。§6-2チェック：法人番号2〜5桁=0128は東京法務局管内で東大和市と整合。株式会社武蔵野(9030001049637系・catr.jp掲載)とは別法人。",
+  "J": "https://www.musashino-kankyo.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3012801003689; https://www.ea21.jp/list/pdfn/0001833.pdf"
+ }
+]
