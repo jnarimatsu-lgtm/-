@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3908,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・官報に加え本パスで①決算公告/官報索引 ②建設業者情報（kensetumap）③カイシャリサーチの法人番号照合を追加確認したが売上高の公表なし。§6-2照合＝法人番号3430001033151の登記所コード4300＝札幌法務局管内で本社「北海道石狩市厚田区厚田6-1」と一致し同名別法人ではない。実態は河川工事等の土木建設業者で、E列「300億以上〜1,000億未満」はSF側の誤り。承認ソースに売上高の開示自体が存在しない。",
+  "J": "https://www.atsutasangyo.com/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3430001033151;https://kaisharesearch.com/company/detail/3430001033151/;https://www.kensetumap.com/company/507926/profile.php"
+ },
+ {
+  "行": 3909,
+  "I": "△ 妥当：確認不可で正しい。1次の自社会社概要・gBizINFOに加え本パスで①親会社「株式会社ヘソホールディングス」heso-hd.co.jp のIR/会社情報（非上場でIR開示なし）②決算公告 を追加確認したが単体売上高なし。自社公表値は資本金600万円・従業員9名・2014年11月設立のオリジナル商品企画制作会社で、単体300億は非現実的。数値はBaseconnect/Yahoo!しごとカタログ等の禁止ソースにのみ存在し§3-4で採用不可。E列「300億以上」はSF側の誤り。",
+  "J": "https://www.heso-pro.com/;https://heso-hd.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120101052313"
+ },
+ {
+  "行": 3911,
+  "I": "△ 妥当：確認不可で正しい。1次の自社会社概要・gBizINFO・官報に加え本パスで①自社会社案内PDF sp-kokusai.co.jp/pdf/outline.pdf ②採用ページ（数字で見る系）を追加確認。自社公表の会社概要には資本金2,000万円・従業員16名・昭和22年設立の記載はあるが売上高欄が存在しない。従業員16名の店舗内装・什器の企画施工業者で単体300億は非現実的。E列「300億以上〜1,000億未満」はSF側の誤り。承認ソースに売上高なし。",
+  "J": "https://sp-kokusai.co.jp/outline;https://sp-kokusai.co.jp/pdf/outline.pdf;https://sp-kokusai.co.jp/company/index.html"
+ },
+ {
+  "行": 3913,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・厚労省求人票に加え本パスで①一般社団法人沖縄県測量建設コンサルタンツ協会の会員企業情報（公的団体・売上高欄なし）②決算公告/官報 を追加確認したが記載なし。§6-2照合＝法人番号8360001013081の登記所コード3600＝那覇地方法務局管内で、実態は1994年設立・沖縄県石垣市の測量建設コンサルタント。E列「300億以上〜1,000億未満」はSF側の誤り。",
+  "J": "https://kankyo-plan.co.jp/profile.php;https://www.kankyo-plan.co.jp/;http://www.okikencon.com/about/kaiin-5gXGD9.html"
+ },
+ {
+  "行": 3915,
+  "I": "△ 妥当：確認不可で正しい。1次の自社会社概要・gBizINFOに加え本パスで①麻生グループ公式のグループ会社紹介 ②親会社=株式会社麻生の会社概要 を追加確認。株式会社麻生は非上場で有価証券報告書・決算短信が存在せず、§5-3の6（親会社IR巻末「関係会社の状況」）ルート自体が使えない。麻生グループ総売上8,440億円（2026年3月期）はグループ連結値であり、§3-3により子会社は単体300億以上のみOK。同社は資本金2,000万円・2000年設立のBPO事業会社で単体値の開示なし。",
+  "J": "https://aso-as.jp/company/;https://www.aso-group.jp/group/detail.php?id=42;https://www.aso-corp.jp/outline.html"
+ },
+ {
+  "行": 3916,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・公的情報・決算公告に加え本パスで①自社「特例子会社として」ページ ②親会社クラフティア（旧九電工）の有報「関係会社の状況」ルート を追加検討。同社は平成13年10月厚労省認定の障がい者雇用の特例子会社（オンデマンド印刷が主業）。親の連結売上高は数千億円規模で開示要件の10%＝数百億に対し同社は桁違いに小さく、有報に実額が載らないため下限証明・実額取得ともに不可。E列レンジはSF側の誤り。",
+  "J": "http://www.kyudenko-friendly.co.jp/;http://www.kyudenko-friendly.co.jp/kf_friendly.html;http://www.kyudenko-friendly.co.jp/kf_kyudenko-friendly.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1290001021338"
+ },
+ {
+  "行": 3917,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・官報に加え本パスで①自社会社概要 aspire-net.co.jp/about ②決算公告 を追加確認したが売上高なし。§6-2照合＝法人番号1320001012762の登記所コード3200＝大分地方法務局管内で、当該法人は大分市萩原の受託開発ソフトウェア業。東京都港区の人材紹介「アスパイア株式会社」（aspire-jpn.com）や「株式会社アスペア」は別法人。E列「1,000億円以上」はSF側の明白な誤り。",
+  "J": "http://www.aspire-net.co.jp/about"
+ },
+ {
+  "行": 3918,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・官公庁情報に加え本パスで①自社会社概要 ka-mizu.co.jp/about/outline-html（売上高記載なし・従業員15名）②官報決算公告の鹿児島県一覧 catr.jp/pref/46 を追加確認したが該当社の掲載を確認できず。売上高は2022年度8.44億円・2023年度9.77億円という数値がアラームボックス/マイナビ等の禁止ソースにのみ存在し§3-4で採用不可。いずれにせよ300億に遠くE列レンジはSF側の誤り。",
+  "J": "https://www.ka-mizu.co.jp/about/outline-html;https://www.ka-mizu.co.jp/;https://catr.jp/pref/46"
+ },
+ {
+  "行": 3919,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・官報に加え本パスで①会社概要ページ ②決算公告 を再確認したが売上高なし。§6-2照合＝法人番号2060001013919の登記所コード0600＝宇都宮地方法務局管内で本社「栃木県真岡市荒町5218」と一致し同名別法人ではない。実態は古紙・動植物性残さ・廃プラ等の産業廃棄物収集運搬処理業。数値はBaseconnect等の禁止ソースのみで§3-4により採用不可。E列レンジはSF側の誤り。",
+  "J": "http://www.kantoshigen.co.jp/company2.htm;https://baseconnect.in/companies/09611393-1398-4954-acdc-16998c016fc4"
+ },
+ {
+  "行": 3920,
+  "I": "△ 妥当：確認不可で正しい。1次の自社HP・gBizINFO・官報に加え本パスで①gBizINFOの法人番号2220001012334 ②決算公告 を追加確認したが売上高なし。§6-2照合＝登記所コード2200＝金沢地方法務局管内で、当該法人は石川県小松市白江町ロ72-1の総合ビルメンテナンス会社。同名の株式会社ビルカンが群馬県太田市（6070001016479・birukan.net）にも存在するが、D列URL kk-birukan.co.jp は石川の当該法人のもので取り違えはない。E列レンジはSF側の誤り。",
+  "J": "http://www.kk-birukan.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220001012334;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6070001016479"
+ }
+]

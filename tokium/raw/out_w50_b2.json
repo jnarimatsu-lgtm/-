@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3836,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(ecocity.co.jp/company/)、都市計画コンサルタント協会 会員名簿PDF(toshicon.or.jp)、gBizINFO、官報決算公告検索。法人番号3010001024944の登記所コード0100＝東京法務局本局で本社・東京都千代田区岩本町3-2-1と整合(§6-2の同名別法人は否定)。1971年8月設立・資本金2,000万円・従業員20〜50人の都市計画コンサルタントで、E列『1,000億円以上』はSF側の誤り。承認ソースに売上高の記載なし（doda/キャリタス/SalesNow等の禁止ソースのみ）。",
+  "J": "https://ecocity.co.jp/company/;http://www.toshicon.or.jp/pdf/P38613850.pdf;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010001024944"
+ },
+ {
+  "行": 3837,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(aqa-tech.com/company/)、gBizINFO、同名他社(aqua-tech.co.jp／aquatech-group.co.jp／アクアテック株式会社5011601010745)との切り分け、決算公告検索。法人番号3430001030099の登記所コード4300は北海道内の法務局とみられ、検索でも『北海道本社・海洋/河川の調査計画設計コンサル』が返る。1次がD列に持つaqa-tech.com(DX/ICT系)は別法人の疑いがあり§6-2の要注意行。いずれの候補も建設コンサル規模で、承認ソースに売上高の記載なし。",
+  "J": "https://www.aqa-tech.com/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3430001030099;https://www.aquatech-group.co.jp/company/profile/"
+ },
+ {
+  "行": 3838,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内(omori-g.jp/company/)、gBizINFO、兵庫県の建設業許可・経営事項審査情報(公的機関)、官報決算公告検索。法人番号5140001058135の登記所コード1400＝神戸地方法務局で本社・兵庫県姫路市飾磨区中島と整合。兵庫県知事免許56173の土木一式・建築一式業者（大阪営業所あり、創業60周年）だが、完成工事高・売上高とも承認ソースに記載なし。E列『300億以上』の裏付けは取れず。",
+  "J": "https://omori-g.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5140001058135;https://web.pref.hyogo.lg.jp/ks02/wd37_000000005.html"
+ },
+ {
+  "行": 3839,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内・沿革(misumi-kosan.co.jp/company)、不動産ジャパン(不動産流通推進センター)会員情報、gBizINFO、官報決算公告検索。法人番号6140001066608の登記所コード1400＝神戸地方法務局で本社・兵庫県三田市中央町4-5と整合。1969年11月設立・資本金4,110万円、自社オフィスビル/賃貸マンション/駐車場/ゴルフ場/三田駅前ビジネスホテルの保有賃貸業。承認ソースに売上高の記載なし。E列『1,000億円以上』はSF側の誤り。",
+  "J": "https://www.misumi-kosan.co.jp/company;https://www.misumi-kosan.co.jp/company/history;https://www.fudousan.or.jp/property/agency/detail?id=e8ff192dd09de61a;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6140001066608"
+ },
+ {
+  "行": 3841,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・事業案内(m-dsystem.com/company/)、gBizINFO、官報決算公告検索。法人番号7010001099982の登記所コード0100＝東京法務局本局で本社・東京都千代田区内神田1-18-11と整合。2003年設立・資本金300万円・従業員18名のSES/受託システム開発（金融向け社内システム、Web・組込・物流系）。E列『1,000億円以上』はSF側の明白な誤り。売上高はOpenWork/Baseconnect等の禁止ソースにしかなく、承認ソースには記載なし。",
+  "J": "https://www.m-dsystem.com/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001099982"
+ },
+ {
+  "行": 3842,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(smile-d.net)、gBizINFO、大阪府の店舗デザイン業者情報、官報決算公告検索。法人番号7120001109169の登記所コード1200＝大阪法務局で本社・大阪市博労町1-7-2と整合。2003年12月設立・資本金1,000万円・従業員21名の商業施設内装デザイン施工会社（代表 佐々木政明、年間250店舗超の施工）。承認ソースに売上高の記載なし。E列『300億以上』は従業員21名の事業規模と整合しない。",
+  "J": "https://smile-d.net/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7120001109169"
+ },
+ {
+  "行": 3843,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(bgnet.jp/about/)、gBizINFO、官報決算公告検索。法人番号7120001188709の登記所コード1200＝大阪法務局で本社・大阪市此花区春日出中2-18-14と整合。2015年2月設立・従業員10人以上20人未満（gBizINFO＝§3-4③の公的データ）の空間グラフィックデザイン／内装工事・サイン施工会社（代表 藤川明快）。この従業員規模でE列『1,000億円以上』は成立し得ないが、売上高の実額は承認ソースに存在せずSalesNow等の禁止ソースのみ。",
+  "J": "https://www.bgnet.jp/about/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7120001188709"
+ },
+ {
+  "行": 3844,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報(ryuseiconsul.com/company.php)、gBizINFO、おきなわSDGsプラットフォーム（沖縄県）登録情報、官報決算公告検索。法人番号7360001009320の登記所コード3600＝那覇地方法務局で本社・沖縄県浦添市当山1-20-20と整合。1979年1月設立・資本金2,400万円・従業員19名の県内水道施設コンサル。流通する売上高2億1,400万円は禁止ソース由来で不採用だが、この規模でE列『300億以上』は成立し得ない。",
+  "J": "https://www.ryuseiconsul.com/company.php;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7360001009320;https://platform.okinawa-sdgs.jp/certified_members/view/386"
+ },
+ {
+  "行": 3845,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、gBizINFO、親団体・電通共済生協の公式サイト、同FACTBOOK2025（第59期／生協法53条の2の子会社開示）の所在特定。法人番号8010001096368の登記所コード0100＝東京法務局本局で本社・千代田区神田淡路町ワテラスタワーと整合。1985年6月設立・資本金8,000万円、電通共済生協の子会社で共済事務受託と損保/生保代理店。§3-3により子会社単体300億以上が必要だが単体売上高は未取得。FACTBOOK PDFが唯一の未読経路（本環境はWebFetch遮断で中身未確認）。",
+  "J": "https://your-support.co.jp/company/profile/;https://www.dentsu-kyosai.or.jp/your-support/index.html;https://www.dentsu-kyosai.or.jp/outline/document/factbook2025.pdf;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001096368"
+ },
+ {
+  "行": 3846,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP/グループページ(kashiwano.co.jp)、gBizINFO、石川県産業創出支援機構ISICO（公益財団法人）の企業情報、官報決算公告検索。法人番号9220001001792の登記所コード2200＝金沢地方法務局で本社・石川県金沢市新神田1-9-18と整合。1991年3月設立、柏野公認会計士事務所・税理士法人K-taxと一体の経営コンサルティング会社。E列『1,000億円以上』はSF側の誤り。NIKKEI COMPASSは有料で数値非表示、他は禁止ソースのみで承認ソースに売上高の記載なし。",
+  "J": "https://www.kashiwano.co.jp/group/accounting.html;https://www.isico.or.jp/company/dgnet/2337.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9220001001792"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3882,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／官報決算公告索引(catr.jp福岡県一覧に該当掲載なし)／新聞記事検索。福岡県久留米市東合川新町、2022年6月設立の新設法人で承認ソースに売上高の記載なし。数値はNIKKEI COMPASS・Baseconnect等の禁止ソースのみ。§6-2:法人番号6290001050984の登記所コード2900＝福岡法務局で本社所在地と整合し同名別法人ではない。E列「1,000億円以上」は設立年からも成立せず。",
+  "J": "https://civil-web.com/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6290001050984; https://catr.jp/pref/40"
+ },
+ {
+  "行": 3883,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／WAM(独立行政法人福祉医療機構)障害福祉サービス等情報公表システム／官報決算公告／新聞記事検索。沖縄県那覇市久米の就労継続支援A型事業所運営会社と特定。WAMの公的事業所情報にも売上高の開示はなく、承認ソースでの売上高確認は不可。禁止ソース(NIKKEI COMPASS・Baseconnect)のみ。事業規模からE列「1,000億円以上」は誤り。",
+  "J": "https://majorss.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6360001017927; https://www.wam.go.jp/sfkohyoout/COP020100E00.do?_FORMID=COP000101&corporationNumber=E4720100000045&facilityNumber=4710100696&bunjoNumber=000000&serviceType=45&serviceSubNumber=E0000057241"
+ },
+ {
+  "行": 3884,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP／gBizINFO／官報決算公告／千葉県経営事項審査関連ページ／新聞記事検索。自社サイトは現存するが会社概要の財務記載がなく、承認ソースに売上高・完成工事高とも見当たらない。§6-2:法人番号7040001018023の登記所コード0400は千葉管轄で社名・所在と矛盾なし、種別01で株式会社と整合。未踏経路は国交省「建設業者・宅建業者企業情報検索システム」の経審完成工事高のみ。",
+  "J": "http://www.tkym-ryokka.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7040001018023; https://www.pref.chiba.lg.jp/kenfudou/nyuu-kei/kensetsukouji/keieijikou/chiji/index.html"
+ },
+ {
+  "行": 3885,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／官報決算公告／新聞記事検索。satoprint.co.jpは茨城県水戸市・つくばの印刷会社「佐藤印刷株式会社」と特定でき、§6-2で法人番号7050001001093の登記所コード0500＝水戸地方法務局と完全に一致(横浜の佐藤印刷所・台東区の佐藤印刷等の同名別法人を排除)。会社概要に売上高の記載なく承認ソースで確認不可。E列「1,000億円以上」は事業規模と乖離。",
+  "J": "http://www.satoprint.co.jp/ci.htm; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7050001001093"
+ },
+ {
+  "行": 3887,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／gBizINFO／官報決算公告／PR TIMES企業ページ／新聞記事検索。東京都千代田区神田須田町の雑誌・書籍出版社(1980年創業、ラジオライフ等)と特定。§6-2:法人番号8010001044178の登記所コード0100＝東京法務局本局で千代田区本社と整合。承認ソースに売上高の開示がなく、掲載はOpenWork・マイナビ転職・Wikipedia等の禁止ソースのみ。E列は誤り。",
+  "J": "https://www.sansaibooks.co.jp/company/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001044178"
+ },
+ {
+  "行": 3888,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP／gBizINFO／官報決算公告／新聞記事検索。sailus.co.jpは東京都千代田区西神田のITサポート事業会社で、§6-2の登記所コード0100＝東京法務局本局と整合(大阪の同名法人9120001200495・silas-inc.jpの株式会社サイラスとは別法人)。自社サイトに財務開示がなく承認ソースで売上高を確認できず。数値はNIKKEI COMPASS・Baseconnect・転職会議等の禁止ソースのみ。",
+  "J": "https://www.sailus.co.jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010001116076"
+ },
+ {
+  "行": 3889,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・ご挨拶／gBizINFO(法人番号8010701025064で同社と一致確認)／官報決算公告／新聞記事検索。東京都千代田区九段南、2010年12月設立、資本金約4,065万円、従業員10名の社宅コンシェルジュ事業者。承認ソースに売上高の記載なし。社宅供給戸数は取扱高であり売上高ではない。E列「1,000億円以上」は従業員規模と明らかに矛盾。",
+  "J": "https://egaia.co.jp/company.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010701025064"
+ },
+ {
+  "行": 3891,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・環境活動レポート／gBizINFO／官報決算公告(catr.jpにも該当なし。類似のグリーンエコ建設株式会社は別法人)／新聞記事検索。千葉県千葉市若葉区千城台北、2012年4月設立、資本金1,000万円、3月決算の廃棄物収集運搬・リサイクル業。§6-2:登記所コード0400は千葉管轄で所在と整合。承認ソースに売上高なし。E列「1,000億円以上」は誤り。",
+  "J": "https://green-eco-kk.com/company.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9040001076572"
+ },
+ {
+  "行": 3892,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社案内／gBizINFO／官報決算公告索引(catr.jp静岡県一覧に該当掲載なし)／新聞記事検索。静岡県静岡市清水区月見町の造園・緑地造成業者と特定し、§6-2の登記所コード0800(静岡管轄)と整合。会社案内に財務記載がなく承認ソースで売上高・完成工事高とも確認不可。未踏経路は国交省の建設業者検索(経審完成工事高)のみだが、地場造園業で300億到達は想定しがたい。",
+  "J": "https://www.suruga-r.co.jp/company; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9080001008415; https://catr.jp/pref/22"
+ },
+ {
+  "行": 3893,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO／自社HP・業界団体(兵庫県測量設計業協会)会員ページ／官報決算公告／新聞記事検索。兵庫県丹波市の建設コンサルタント(調査測量・設計・補償)で従業員約22名、§6-2の登記所コード1400＝神戸地方法務局と整合。承認ソースの数値はgBizINFOの2018年5月期1.8583億円のみで§3-8の鮮度条件外のため確認不可。ただし規模から300億到達は事実上あり得ず、回収の見込みなし。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9140001041392; http://www.hyosoku.or.jp/kaiin/reoplan/reoplan.html"
+ }
+]
