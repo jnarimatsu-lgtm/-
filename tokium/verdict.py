@@ -85,4 +85,16 @@ if __name__ == "__main__":
     with open(pc, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.writer(fh); w.writerow(["I列_検証結果", "J列_ソース"])
         for r in full: w.writerow([r["I列_検証結果"], r["J列_ソース"]])
-    print(f"貼り付け用: {pf} と {pc} を全{len(full)}行で出力（欠番なし・ID照合済み）")
+    # §4 は H列を1セル300字以内と定める。I列に明文の制限はないが、アポインターが
+    # セル内で読み切れるよう300字版も出す。判定記号とG列訂正は必ず先頭に来るので、
+    # 文末（。）で切り詰めても「架電可否」と「採用値」は失われない。
+    def shorten(t, lim=300):
+        if len(t) <= lim: return t
+        cut = t[:lim]
+        i = cut.rfind("。")
+        return (cut[:i + 1] if i >= lim // 2 else cut[:lim - 1]) + ("" if i >= lim // 2 else "…")
+    ps = "/home/user/-/tokium/results/IJ_columns_short.csv"
+    with open(ps, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.writer(fh); w.writerow(["I列_検証結果", "J列_ソース"])
+        for r in full: w.writerow([shorten(r["I列_検証結果"]), r["J列_ソース"]])
+    print(f"貼り付け用: {pf} / {pc} / {ps} を全{len(full)}行で出力（欠番なし・ID照合済み）")
