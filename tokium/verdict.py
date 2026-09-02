@@ -77,6 +77,27 @@ if __name__ == "__main__":
     assert [r["行"] for r in full] == list(range(2, 4424)), "行番号が連番でない"
     for r in full:  # 取引先IDが元データと一致することを1行ずつ確認（§5-2のずれ検出）
         assert r["取引先ID"] == (list(rows[r["行"] - 2]) + [""])[0], f"行{r['行']} で取引先IDがずれている"
+    # 判定にも出典の集合にも手を入れない。並び順だけを変える。
+    def suspicious(u):
+        m = re.search(r"/([^/]+)\.pdf$", u, re.I)
+        if not m: return False
+        stem = m.group(1).lower()
+        if re.search(r"\d{4,}", stem): return False          # 日付・IDはCMS由来
+        core = re.sub(r"^\d+|\d+$", "", stem)
+        if re.search(r"\d", core): return False               # 内部に数字＝ハッシュ
+        return bool(re.fullmatch(r"[a-z]{8,14}", core)) and len(re.findall(r"[aeiou]", core)) <= 1
+    moved = 0
+    for r in full:
+        j = (r.get("J列_ソース") or "").strip()
+        if not j: continue
+        parts = [x.strip() for x in re.split(r"[;\s]+", j) if x.strip().startswith("http")]
+        if len(parts) < 2: continue
+        keep = [u for u in parts if not suspicious(u)]
+        susp = [u for u in parts if suspicious(u)]
+        if susp and keep:
+            r["J列_ソース"] = "; ".join(keep + susp); moved += 1
+    if moved: print(f"J列: 実在未確認のPDFを末尾に回した行 {moved}")
+
     pf = "/home/user/-/tokium/results/IJ_paste_FULL.csv"
     with open(pf, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(full)
@@ -93,6 +114,9 @@ if __name__ == "__main__":
         cut = t[:lim]
         i = cut.rfind("。")
         return (cut[:i + 1] if i >= lim // 2 else cut[:lim - 1]) + ("" if i >= lim // 2 else "…")
+    # 綴りが乱打に見えるPDF（実在をWebFetchで確認できない）は、同じ行に別のURLが
+    # あるなら末尾へ回す。アポインターが最初にクリックするURLは開けるものにする。
+
     ps = "/home/user/-/tokium/results/IJ_columns_short.csv"
     with open(ps, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.writer(fh); w.writerow(["I列_検証結果", "J列_ソース"])
