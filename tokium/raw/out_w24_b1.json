@@ -1,0 +1,102 @@
+[
+ {
+  "行": 149,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要/沿革、官報検索(kanpoo.jp)、catr.jp会社ページ(決算公告の収録なし)、遊技機業界公表資料。売上高は会社方針により非公開。禁止ソース(就活会議/Yahoo!しごとカタログ/転職会議)に2021年12月期1,395億円が流通するのみで、承認ソースには一切記載なし。§6-6加藤化学と同型。",
+  "J": "https://www.sanyobussan.co.jp/corporate/outline.html ; https://catr.jp/companies/5dfb1/62748"
+ },
+ {
+  "行": 150,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP全体(会社概要/採用/100周年サイト)、新潟県「新潟企業情報ナビ」、官報検索(1998年第60期のみヒット)、catr.jp会社ページ(決算公告の収録なし)、gBizINFO。禁止ソース(NIKKEI COMPASS/Yahoo!しごとカタログ)に「2025年度344.86億円」とあるが承認ソースに記載なし。決算公告ルートで回収余地あり。",
+  "J": "https://www.kk-marutake.co.jp/company_s01/ ; https://www.niigata-kigyo-navi.jp/search/company/1285 ; https://catr.jp/companies/f1b03/123722 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3110001005348"
+ },
+ {
+  "行": 152,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP決算公告ページ(nilax.jp/company/accounting/)、すかいらーくHD電子公告、すかいらーくHD財務諸表ページ、日経開示。いずれも単体売上高なし。禁止ソース(マイナビ)には「2023年度通期101億円」とあり、すかいらーく傘下のブッフェ業態子会社として300億未満の公算が大きい。",
+  "J": "https://nilax.jp/company/accounting/ ; https://nilax.jp/company/financial ; https://corp.skylark.co.jp/ir/notice/ ; https://corp.skylark.co.jp/ir/financial/statements/"
+ },
+ {
+  "行": 165,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝日産自動車ニュースリリース(連結子会社の統合について)、日産愛知販売 統合特設ページ、日刊自動車新聞・M&Aニュース記事。いずれも売上高の記載なし(統合後従業員約1,800名の記載のみ)。※2026/4/1に愛知日産と統合し「日産愛知販売株式会社」が発足しており、現社名での架電可否自体も要確認。",
+  "J": "https://global.nissannews.com/ja-JP/releases/250327-01-j ; https://area.nissan.co.jp/fair/ni-aichi/26/04/integration/ ; https://www.netdenjd.com/articles/-/315516"
+ },
+ {
+  "行": 167,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報(roki-jp.com/profile/)、静岡県「しずおか就職net」、マークラインズ、catr.jp(ROKIホールディングス/ロキグループ)。しずおか就職netの650億円は「グループ連結」値であり、当社はROKIホールディングス傘下の子会社のため§3-3により単体値が必要。単体売上高は承認ソースに記載なし。",
+  "J": "https://www.roki-jp.com/profile/ ; https://www.koyou.pref.shizuoka.jp/employment/detail/5081 ; https://catr.jp/companies/11f50/179699 ; https://catr.jp/companies/0e600/93587"
+ },
+ {
+  "行": 169,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業概要、catr.jp会社ページ、gBizINFO、東京商工リサーチ/建工調系。決算公告はBSのみで売上高なし。禁止ソース(アラームボックス/NIKKEI COMPASS/就活会議)では「年商48億円超」「2019年 総資産166.73億円・純利益3.48億円」とされ、むしろ300億未満の公算が大きい。承認ソースなし。",
+  "J": "http://www.torkor.co.jp/company.html ; https://catr.jp/companies/39988/4244"
+ },
+ {
+  "行": 173,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、catr.jp(株式会社ニューギン／ニューギンホールディングス両社)、gBizINFO(HD 法人番号1180001132872)、官報検索。決算公告はBSのみ(HD第1期・総資産301.89億円/純利益▲13万円)で売上高の記載なし。非上場・売上高非公表。禁止ソース(転職会議/Baseconnect)のみ。",
+  "J": "https://www.newgin.co.jp/company/overview/ ; https://catr.jp/companies/d81db/145139 ; https://catr.jp/companies/d66d6/69304 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001132872"
+ },
+ {
+  "行": 175,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝NISSHA決算発表・事業説明会資料、統合報告書NisshaReport2025、gBizINFO、catr.jp第16/17期決算公告。公告はBSのみ(第17期 純利益8.87億円・総資産147.81億円・自己資本比率約78%)で売上高なし。親会社NISSHA(7915)開示にも子会社単体の損益情報なし。禁止ソースのみ。",
+  "J": "https://www.nissha.com/ir/library/results.html ; https://www.nissha.com/ir/library/had98i0000024pbp-att/NisshaReport2025_A3.pdf ; https://catr.jp/companies/38319/40309 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9140001065623"
+ },
+ {
+  "行": 181,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報、SATS Ltd.グループ開示、NIKKEI COMPASS、TKC導入事例。承認ソースに売上高なし。禁止ソース(Baseconnect等)でも「50億〜300億円」のレンジ表記に留まり、決算公告の総資産144.6億円と併せると300億未満の公算が大きい。SATS(シンガポール上場)の子会社で単体非開示。",
+  "J": "https://satstfk.com/company/ ; https://www.nikkei.com/compass/company/iQxRproHxMkXCnJTTtHaN5"
+ },
+ {
+  "行": 182,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝catr.jp第32/33/34期決算公告(第33期＝2025年8月期はBSのみ・純利益4.00億円/総資産180.32億円で売上高なし)、自社HP会社概要、リフォーム産業新聞(「500億円へ」は目標値)。禁止ソース(Yahoo!しごとカタログ/起業ログ)には2025年8月期214.27億円＝300億未満が流通。自社HPの520億円は2026年8月期の予定値で実績ではない。○にできないだけでなく×寄りの疑いあり。",
+  "J": "https://catr.jp/companies/6f4ed/35895 ; https://shukobuild.com/company/outline/ ; https://www.reform-online.jp/interview/22939.php"
+ },
+ {
+  "行": 184,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝山佐グループHP企業情報、山佐ネクスト(株)企業情報、catr.jp(山佐産業)、官報検索。※2020年12月に山佐(株)から遊技機事業を分離し山佐ネクスト(株)が承継しており、現在の山佐(株)は従業員32名。禁止ソース(転職会議)の988億円(2022年度)等は分離前またはグループ値で当社単体ではない。承認ソースに単体売上高なし。",
+  "J": "https://www.yamasa.co.jp/about/company/ ; https://yamasa-next.co.jp/corporate ; https://catr.jp/companies/b7379/44668"
+ },
+ {
+  "行": 186,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝森紙業グループHP(グループ連結17社1,246億円・森紙業(株)単体856億円／2025年3月実績)、catr.jp(森紙業(株)第14期)、gBizINFO、自社事業所ページ。群馬森紙業(株)個社の売上高はいずれにも記載なし(資本金1,100万円)。グループ連結値は§3-3により子会社アプローチには使用不可。",
+  "J": "http://morishigyo-gr.co.jp/group-info/foothold/ ; https://catr.jp/companies/b7f8e/34913 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8130001028747"
+ },
+ {
+  "行": 187,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝catr.jp第36/37期決算公告、ファミリーマート決算関連情報・月次営業報告、自社HP企業情報。第37期(2026年2月期)公告はBSのみで売上高欄は「-」(純利益10.63億円・総資産246.48億円)。ファミマ本体開示にもエリアFC個社の売上高なし。禁止ソースのみ。",
+  "J": "https://catr.jp/companies/17eb1/5873 ; https://www.family.co.jp/company/familymart/overview.html ; https://www.okinawa-familymart.jp/corporate"
+ },
+ {
+  "行": 192,
+  "I": "△ 要再確認（数値不安定）：1次の「2026年3月期372.41億円」を金額シードで検索したが再現せず、同じcatr.jp第51期公告から売上高352.36億円が返った。どちらでも300億超だが値が確定しない。ホッカンHD連結売上高92,419百万円＝924.19億円との整合はとれる(充填事業)。ホッカンHD有報「関係会社の状況」・自社HP会社情報には単体売上高を確認できず、出典はcatr.jp(§7-1未決着)とNIKKEI COMPASS(§6-6禁止)のみ。catr.jp可否の先方確認と原本照合が必要。",
+  "J": "https://catr.jp/companies/37d88/9348/settlements/8a159/309203 ; https://catr.jp/companies/37d88/9348 ; https://nihoncanpack.jp/company/ ; https://hokkanholdings.co.jp/ir/library/yuho/"
+ },
+ {
+  "行": 193,
+  "I": "△ 要再確認（G列更新）：1次より新しい第86期(2025年3月期)決算公告 売上高535.80億円(前期比+0.47%)・純利益7.78億円・総資産136.65億円を検出。第85期(2024年3月期)533.27億円も金額シード検索で再現し数値は安定。単体535.80億円で300億超。ただし出典は依然catr.jp等の官報収録二次サイトのみ(§7-1未決着)で、名鉄の決算短信・決算説明資料・自社HP(年間取扱額764億円のみ)に単体売上高の記載なし。catr.jp可否の先方確認で○に転じうる。採用時はG列を第86期535.80億円に更新すること。",
+  "J": "https://catr.jp/companies/9c686/1968 ; https://catr.jp/companies/9c686/1968/settlements/f31f9/357764 ; https://www.mwt.co.jp/profile/gaiyo.shtml ; https://www.meitetsu.co.jp/ir/reference/statement/index.html"
+ },
+ {
+  "行": 195,
+  "I": "△ 要再確認（数値は再現）：第99期(2025年12月期)売上高331,668百万円＝3,316.68億円・純利益19,722百万円を金額シード検索で複数の官報決算公告収録先が一致して返し、1次の数値は安定と確認。300億を大きく超える。ただし出典はcatr.jp等の二次サイトのみ(§7-1未決着)。自社HP電子公告は第89期(2016年3月期)までで以降は官報公告へ移行、キヤノン有報「関係会社の状況」にも当社の損益情報を確認できず。※2026/4/1にキヤノンへ事業を吸収分割し再編。catr.jp可否の先方確認で○に転じうる。",
+  "J": "https://jp.medical.canon/about/corporate/epub/ ; https://catr.jp/companies/1e488/23976 ; https://global.canon/ja/ir/yuuhou/canon2024.pdf"
+ },
+ {
+  "行": 196,
+  "I": "○ 妥当（G列訂正）：判定○は維持。ただし1次の「ツルハHD有報 関係会社の状況 126,019百万円(2025年5月期)」は金額シード検索で一度も再現せず、citation を確認できない。代わりにツルハHD自社HP IR「2024年5月期決算説明会資料」の事業会社別売上高が承認ソース経路として存在し、(株)ツルハ＝150,826百万円(＝1,508.26億円)との返りと87,112百万円との返りが混在し値は未確定。いずれにせよ1,433店舗を擁するグループ中核事業会社で単体871〜1,508億円と300億を大きく超え、子会社単体基準§3-3を満たすため判定は安定。G列の金額・決算期は原本PDF照合で確定させること。",
+  "J": "https://www.tsuruha-hd.com/content/files/ir/result/material/2024/20240621.pdf ; https://www.tsuruha-hd.com/ir/result/material/ ; https://www.tsuruha-hd.co.jp/ir/p/financial/ ; https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VTHA.pdf"
+ },
+ {
+  "行": 206,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP全ページ(会社概要/企業情報/製品/部署紹介)、静岡県「しずおか就職net」、catr.jp、gBizINFO。禁止ソース(マイナビ/doda/Baseconnect)には「343億円(2025年3月実績)・従業員680名」とあり300億超の可能性はあるが、承認ソースには売上高の掲載が一切なし。愛知県刈谷市の自動車部品(シャフト/アルミ/ギヤ)メーカーで法人番号一致。決算公告ルートで回収余地あり。",
+  "J": "http://www.koritsu.co.jp/krtwp/company_top/information/ ; http://www.koritsu.co.jp/krtwp/company_top/ ; https://www.koyou.pref.shizuoka.jp/employment/detail/541"
+ },
+ {
+  "行": 207,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP(machida-kiko.co.jp/machida-kiko.com)、gBizINFO、沖縄県企業情報「りっか沖縄」、りゅうナビ、東京商工リサーチ/建工調。承認ソースに売上高の記載なし。沖縄県内13拠点・従業員170名の建機レンタル業で、規模的にも300億到達は考えにくい。禁止ソース(NIKKEI COMPASS/Baseconnect)のみ。",
+  "J": "https://machida-kiko.co.jp/company ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2360001009201 ; https://uiokinawa.com/company/408"
+ },
+ {
+  "行": 208,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(chutei.com/corporate/profile/)、gBizINFO、catr.jp、建工調。承認ソースに売上高の記載なし。禁止ソース(SalesNow/NIKKEI COMPASS/マイナビ)に「約300億円(2025年12月)・従業員557名」とあるが、基準300億ちょうどの表記で判定に使えず、出典も承認外。空調用熱交換器・エレベーター意匠品製造、愛知県稲沢市、法人番号一致。",
+  "J": "https://chutei.com/corporate/profile/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5180001085976"
+ }
+]

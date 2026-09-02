@@ -1,0 +1,102 @@
+[
+ {
+  "行": 302,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／日産販売会社グループ採用サイト(dealersaiyo.nissan.co.jp)／官報決算公告DB(catr.jp 第13期＝純利益4.16億円・利益剰余金65.07億円・総資産193.83億円で売上高の記載なし)。売上高524億円(2026年3月)はマイナビ・OpenWork等の禁止ソースのみで承認ソースなし",
+  "J": "https://ni-hyogo.nissan-dealer.jp/company/about.html; https://catr.jp/companies/c4874/58806; https://catr.jp/settlements/a3a2e/128436; https://dealersaiyo.nissan.co.jp/saiyou/fresh/hyougo/?tab=tab01"
+ },
+ {
+  "行": 307,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告DB(catr.jp 第92期348.40億円／第91期467.43億円)。ただし当該公告の収録は2019年頃で直近3期に該当せず(§3-8)、かつ出典がcatr.jp単独(§7-1未決着)。gBizINFOに決算情報なし、自社HPも特定できず。最新期の売上高は非公表",
+  "J": "https://catr.jp/companies/6113d/65823/settlements/9347d/216039; https://catr.jp/companies/6113d/65823/settlements/7dc5e/174802; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8060001016528"
+ },
+ {
+  "行": 308,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝リケンNPR(株)のIR業績・財務データおよびIR資料室(連結売上高1,703.40億円のみ)／2025年3月期決算短信／自社HP(npr.co.jp)は2026年4月のグループ再編で閉鎖。持株会社リケンNPRの開示に日本ピストンリング単体の売上高を確認できず、子会社単体300億以上の裏取り不可",
+  "J": "https://www.npr-riken.co.jp/ir/highlight/; https://www.npr-riken.co.jp/ir/library/; https://www.npr.co.jp/company/; https://www.npr.co.jp/ir/ir0202.html"
+ },
+ {
+  "行": 310,
+  "I": "△ 要再確認：官報決算公告DB(catr.jp)に決算期末2025年12月31日の売上高316.59億円(前年比▲24.55%)・純利益28.20億円・総資産932.61億円。AGC(株)の子会社で単体316.59億円なら300億超だが、①出典がcatr.jp単独で§7-1未決着 ②前年約419億円からの大幅減収で300億割れ間近。第31期公告では売上高203.30億円。自社HP会社概要・AGCのIRには単体売上高なし",
+  "J": "https://catr.jp/companies/c4081/698/settlements/06b2e/243363; https://www.agcel.co.jp/company.html; https://catr.jp/companies/c5c24/48301/subsidiaries"
+ },
+ {
+  "行": 313,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／自社採用サイト「数字で見る全農物流」／親組織JA全農の公式媒体(全農ウィークリー「全農グループ会社探訪」)／JA全農の財務情報ページ。いずれも当社の売上高記載を確認できず。売上高827億円(2025年3月期)はマイナビ・SalesNow等の禁止ソースのみ。未踏経路＝採用サイト掲載の会社案内PDF",
+  "J": "https://recruit.zennoh-butsuryu.co.jp/profile/about/; https://www.zennoh-weekly.jp/wp/articles/2531; https://www.zennoh.or.jp/about/financial/; https://www.zennoh-butsuryu.co.jp/business/about/"
+ },
+ {
+  "行": 314,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO／官報決算公告DB(2026年3月期＝当期純損失2.687億円・総資産101.86億円で売上高の記載なし)／prtimes決算公告DB／NTN(株)のIR財務・業績データ(連結のみ)。総資産101.86億円・資本金30億円の規模から300億到達は疑わしいが、売上高非公表のため×も確定できない",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1190001013337; https://catr.jp/companies/75f28/19093; https://prtimes.jp/finance/1190001013337; https://www.ntn.co.jp/japan/investors/finance.html"
+ },
+ {
+  "行": 315,
+  "I": "○ 回収：売上高776億円(2025年実績＝2025年12月期)。出典＝自社ドメイン内の採用ページ「早わかりNIKKEN」(§5-3経路9)。役職員2,831名(2026年4月1日現在)。同社は日建グループの中核会社で子会社ではない。自社サイトに第79〜81期の計算書類PDFも掲載。※過去掲載の596億円(2024年実績)とは集計範囲が異なる可能性があるが、いずれも300億超で判定不変",
+  "J": "https://www.nikken.co.jp/ja/career/about/index.html; https://www.nikken.co.jp/ja/about/pj4urv0000004hsm-att/kessan2023.pdf; https://www.nikken.co.jp/ja/about/portfolio/overview.html"
+ },
+ {
+  "行": 321,
+  "I": "△ 要再確認：日本食糧新聞(承認ソース＝新聞社)に名古屋製酪単体235.14億円・経常6.41億円、東京めいらく210.41億円、大阪めいらく86.35億円、九州めいらく15.42億円。単体は300億未満で、親会社としてグループ計547億円なら300億超だが、①グループ連結決算は非公表で単純合算 ②記事の対象決算期(6年3月期か前期か)を特定できず ③スジャータめいらく(株)との親子関係が未確定。自社HPに売上高なし",
+  "J": "https://news.nissyoku.co.jp/news/nss-7729-0021; https://news.nissyoku.co.jp/news/nss-7397-0010; https://www.sujahta.co.jp/company/gaiyo/; https://catr.jp/companies/c4503/84946"
+ },
+ {
+  "行": 322,
+  "I": "○ 回収：売上高853,792百万円＝8,537.92億円(単体)。出典＝キリンホールディングス有価証券報告書「関係会社の状況」の主要な損益情報等(2026年3月27日提出・第187期＝2025年12月期)。経常利益637.05億円・純資産595.79億円・総資産5,466.10億円。子会社だが単体で300億を大幅超過のためOK(§3-3)。1次が当たっていなかった経路＝親会社有報の巻末「関係会社の状況」",
+  "J": "https://pdf.irpocket.com/C2503/FgNv/lS1l/hGZM.pdf; https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/securities-report/20260327/S100XTVS.pdf; https://edinetdb.jp/company/E00395/text"
+ },
+ {
+  "行": 325,
+  "I": "○ 回収：売上高615.55億円(2025年5月期・連結)。出典＝自社HPのIR「業績・財務情報」。同社は上場会社(証券コード3022)であり自らが親会社。§3-3により親会社は連結300億超でOK。1次が当たっていなかった経路＝自社HPのIR業績・財務情報／IR関連資料室(決算短信・事業報告書)",
+  "J": "https://www.yamashitaika.co.jp/ir/financial/; https://www.yamashitaika.co.jp/ir/library/; https://www.yamashitaika.co.jp/company/outline/"
+ },
+ {
+  "行": 326,
+  "I": "× 要修正：売上高25.11億円(2,511百万円・2023年11月期)で300億未満。出典＝親会社(株)ミツハシの公式リリース「株式会社草加デリカの株式取得(子会社化)に関するお知らせ」の会社概要欄。資本金98百万円・従業員108名規模、2024年7月1日付でミツハシの完全子会社。SFのE列(300億以上〜1,000億未満)は誤り",
+  "J": "https://www.3284rice.com/news/202402001/; https://www.ssnp.co.jp/rice/536770/; https://www.3284rice.com/corporate/group/map_soka/"
+ },
+ {
+  "行": 328,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO決算情報(第52期・2023年3月27日公告)／prtimes決算公告DB(第45〜52期)／親会社サンヨー食品(株)のニュースリリース・自社HPグループ企業一覧。いずれも当社単体の売上高記載を確認できず(参考：親会社サンヨー食品単体は第71期491.09億円・第70期469.66億円)",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=bfc82ed6-8ac3-498f-963d-3d8d9c0f9215; https://prtimes.com/finance/5010401048070/settlement; https://www.sanyofoods.co.jp/company/about/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010401048070"
+ },
+ {
+  "行": 334,
+  "I": "△ 要再確認：自社サイト会社概要に年間売上高550億円・28店舗・従業員500名の記載があるが決算期の明示がなく、トリックスターズグループ計か当社単体かも不明。官報決算公告DB(catr.jp)第50期は純利益1.02億円・利益剰余金89.56億円・総資産189.43億円で売上高の記載なし。パチンコ業のため貸玉収入の総額／純額計上の別も未確定(§6-3)",
+  "J": "http://trickster-recruit.com/profile.html; https://tricksters-union.jp/company/; https://catr.jp/companies/f1cb0/60791/settlements/2b3c2/225279"
+ },
+ {
+  "行": 335,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要／自社サイトの決算公告(最新は第28期＝令和6年4月〜令和7年3月。貸借対照表のみで売上高非公表)／パナソニックHDのIR(法人単体の開示なし)／日経新聞記事。日経記事の420億円は2018年度実績・1,000億円は2030年度目標で、直近3期の実績値がなく§3-8により確認不可",
+  "J": "https://panasonic.co.jp/paf/company/accounts.html; https://panasonic.co.jp/paf/company/outline.html; https://www.nikkei.com/article/DGXMZO50194400V20C19A9LKA000/"
+ },
+ {
+  "行": 338,
+  "I": "△ 要再確認：日経新聞(2026年1月)に「名鉄百貨店は閉店前需要で10%増、2025年売上高413億円」の記載があり300億超だが、暦年ベースの店頭売上で決算期売上高ではない(§3-4④の要件を満たさない)。加えて本店は2026年2月に閉店し百貨店事業は終了、外商は名鉄生活創研へ承継済みで今後の年商300億維持は見込めない。名古屋鉄道の有報・決算短信に子会社単体の売上高記載なし",
+  "J": "https://www.nikkei.com/article/DGXZQOFD0528D0V00C26A1000000/; https://www.meitetsu.co.jp/ir/reference/securities/index.html; https://www.meitetsu.co.jp/ir/reference/statement/index.html; http://www.e-meitetsu.com/mds/company/index.html"
+ },
+ {
+  "行": 340,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP「タマイとは」・会社案内／自社採用サイト(tamai777-jinji.jbplt.jp)／官報決算公告DB。高知県内7店舗のパチンコホール・ホテル運営。1992年3月期に約628億円という記載はあるが禁止ソース(Wikipedia)かつ鮮度不足。直近期の売上高は承認ソースで確認できず",
+  "J": "https://www.tamai-777.com/about/; http://www.tamai-777.com/profile.html; https://tamai777-jinji.jbplt.jp/"
+ },
+ {
+  "行": 344,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報・会社概要(資本金37.9億円・資本準備金33.0億円のみで売上高なし)／三菱電機(株)のIRセグメント別業績・決算説明会資料(法人単体の開示なし)／官報決算公告DB(2012年公告で従業員923名・純利益2.12億円、売上高の記載なし)。三菱電機の子会社で単体300億以上の裏取り不可",
+  "J": "https://www.mitsubishi-lighting.co.jp/company/about/index.html; https://www.mitsubishi-lighting.co.jp/company/; https://catr.jp/companies/ad4bc/57148; https://www.mitsubishielectric.co.jp/ir/individual/achieve/business_segment/index.html"
+ },
+ {
+  "行": 345,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(売上高なし)／gBizINFO／愛知県「あいち女性の活躍促進応援サイト」企業情報／eiicon。公的サイト等には売上高10,553百万円(105.53億円)との記載があり300億未満の可能性が高いが、決算期と出典が特定できず×は確定できない。SFのE列(300億以上)は疑わしい",
+  "J": "https://www.sigma-logi.jp/company/profile.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010701002068; https://jokatsu.pref.aichi.jp/company/details/cp-01322.html"
+ },
+ {
+  "行": 346,
+  "I": "× 要修正：売上高257億円(2025年実績)・244.7億円(2024年実績)で300億未満。出典＝自社ドメイン内の採用サイト「数字で見るイカリ消毒」(§5-3経路9)。従業員1,540名(2026年1月現在)。自社HP会社概要には売上高の記載なし。※単体／グループの別は明示なしだが、いずれの数値も300億未満で判定不変",
+  "J": "https://recruit.ikari.co.jp/data/; https://www.ikari.co.jp/company/overview/; https://catr.jp/companies/48954/91181"
+ },
+ {
+  "行": 348,
+  "I": "△ 要再確認：官報決算公告DB(catr.jp)に第35期決算公告があり、売上高415.61億円(2025年2月期)・営業利益9.32億円とする情報。ツルハHDの完全子会社で単体415億円なら300億超だが、①出典がcatr.jp等の二次DB単独で§7-1未決着 ②NetIB-News記事は「9.5カ月の変則決算で415億円」と旧年度の可能性があり決算期を確定できない。自社HPは沿革の「2018年2月 年商500億円突破」のみで鮮度不足",
+  "J": "https://catr.jp/companies/a8fa6/7342/settlements/3970d/376116; https://www.data-max.co.jp/article/77878; https://www.drugeleven.com/company/profile/; https://www.tsuruha-hd.co.jp/ir/highlight/"
+ }
+]

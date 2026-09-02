@@ -1,0 +1,102 @@
+[
+ {
+  "行": 64,
+  "I": "△ 反証：1次の○を取消し確認不可に戻す。572億円の出典は『感働！ふくしま』（福島県の就職支援ポータル）とマイナビ・就活会議・Baseconnectのみで、RULES§3-4の禁止ソース「求人媒体」に該当（§6-6加藤化学と同型）。自社HP会社概要・オリンパス有報「関係会社の状況」（連結の10%未満で売上非開示）・福島民報／民友の記事いずれにも売上高なし。従業員数も860／1,007／1,030名と媒体間で不一致、決算期も特定不能。§3-5により確認不可",
+  "J": "https://www.shirakawa.olympus.co.jp/company/outline/ ; https://www.olympus.co.jp/ir/data/pdf/annual_fy2025_jp.pdf ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2380001010248 ; （不採用）https://kando-fukushima.jp/companies/3596/"
+ },
+ {
+  "行": 69,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、官報決算公告（catr.jp・掲載は2018年2月期の1件のみ）、源吉兆庵ホールディングス／グループ各社サイト、新聞・業界紙検索。承認ソースに売上高の記載なし。数値はBaseconnect・OpenWork等の禁止ソースのみで、そこでも「50〜300億円」のレンジ表示にとどまり確定不能",
+  "J": "https://www.kitchoan.co.jp/about/profile/"
+ },
+ {
+  "行": 70,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・会社案内PDF、官報決算公告（catr.jp・売上高の掲載なし）、新聞記事検索（2025/3/3更生手続終結の報道に売上高の記載なし）。旧イセ食品時代の470.6億円（2018年1月期）はWikipedia等の禁止ソースかつ直近3期外で採用不可",
+  "J": "https://www.tandc.inc/company/co_profile/ ; https://catr.jp/companies/400f0/160786"
+ },
+ {
+  "行": 72,
+  "I": "△ 妥当：1次の確認経路（自社HP会社概要、官報決算公告9期分＝いずれも貸借対照表のみで損益計算書の公告なし）を精査し確認不可の結論を支持。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://www.vati.co.jp/vati/company.htm"
+ },
+ {
+  "行": 75,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・グループ会社・採用ページ、官報決算公告（catr.jp）、業界紙（通販新聞社「今期グループ500億円見送り」）。承認ソースに売上高の記載なし。単体226.13億円（2024年度）／グループ548億円はYahoo!しごとカタログ・NIKKEI COMPASS等の禁止ソースのみ",
+  "J": "https://beekeeper.3838.com/profile/gaiyo/ ; https://catr.jp/companies/8b076/109922 ; https://www.tsuhanshimbun.com/products/detail/45"
+ },
+ {
+  "行": 76,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社採用ページ「データで知る新潟中央青果」（県内取引額331億円だが2022年度＝直近3期外）、企業案内、会社情報、官報決算公告（9期とも貸借対照表のみ）。2024〜2026年3月期の数値は承認ソースに更新掲載なし。§3-8により確認不可が正しい",
+  "J": "https://www.sinjirsi.co.jp/employment/data/ ; https://www.sinjirsi.co.jp/category/info-company/"
+ },
+ {
+  "行": 77,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝木下グループHP企業概要、自社HP会社情報、官報決算公告（catr.jp・木下グループ／木下工務店とも売上高欄なし）、国交省・CIIC経営事項審査（Ullet経審に許可番号11-024520の登録はあるが完成工事高の数値を取得できず）、住宅業界紙。単体売上高の承認ソース開示なし",
+  "J": "https://www.kinoshita-group.co.jp/corporate/outline/ ; https://catr.jp/companies/0380f/28417 ; https://keishin.ullet.com/11-024520/mark.html"
+ },
+ {
+  "行": 82,
+  "I": "△ 妥当：1次の確認経路（自社HP企業情報の全ページ巡回、EDINET、官報決算公告いずれも掲載なし）を精査し確認不可の結論を支持。全国124店舗規模で300億到達の蓋然性は低い。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://kowapets.co.jp/"
+ },
+ {
+  "行": 84,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、厚労省「人材サービス総合サイト」労働者派遣事業詳細（許可番号 派26-020070。サイト障害中で事業報告の売上高を確認できず）、厚労省 労働者派遣事業報告集計、官報決算公告（掲載なし）。342億円はマイナビ・Baseconnect等の禁止ソースのみ",
+  "J": "https://www.keitem.co.jp/company/outline/ ; https://jinzai.hellowork.mhlw.go.jp/JinzaiWeb/GICB102010.do?screenId=GICB102010&action=detail ; https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000079194.html"
+ },
+ {
+  "行": 101,
+  "I": "△ 要再確認：親会社アスクルのIRでロジスティクス／その他セグメント売上高は確認できるが、金額が「82億15百万円」と「821億5,000万円」の二通りで流通し桁が確定しない（§6-1）。いずれもセグメント外部売上でASKUL LOGIST単体の売上高としての開示ではない。当たった経路＝アスクル決算短信・Investors Guide・業績ハイライト、官報決算公告",
+  "J": "https://www.askul.co.jp/corp/investor/finance/ ; https://pdf.irpocket.com/C2678/gaLs/jKTV/B8Y0.pdf ; https://catr.jp/companies/c3e95/28706 ; https://www.askullogist.co.jp/company/about.html"
+ },
+ {
+  "行": 110,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝村田製作所グループ会社紹介ページ、ジョブカフェ石川（石川県）の高校生向け企業紹介資料（従業員728名のみで売上高なし）、石川高専技術振興交流会 会員企業ページ。流通する1兆7,434億円は村田製作所グループ連結値で、子会社単体には使えない（§3-3）",
+  "J": "https://corporate.murata.com/en-us/company/muratalocations/affiliated_japan/komatsumurata ; https://www.jobcafe-ishikawa.jp/koukousei/2025/122.pdf ; https://itec.ishikawa-nct.ac.jp/company/429/"
+ },
+ {
+  "行": 114,
+  "I": "△ 妥当：1次の法人番号照合（7180001021269・名古屋市天白区・遊技場3店舗・従業員177名）と確認経路（自社HP、EDINET、官報決算公告、gBizINFO）を精査し、京楽産業.株式会社との別法人判定を含め確認不可の結論を支持。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://www.kyoraku.co.jp/company/kyoraku.php"
+ },
+ {
+  "行": 120,
+  "I": "△ 妥当：1次の確認経路（自社HP会社概要、親会社JR西日本の有価証券報告書「関係会社の状況」、EDINET、官報決算公告 第26〜29期＝貸借対照表のみ、gBizINFO、採用ページ）を精査し確認不可の結論を支持。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://www.j-c-maintec.co.jp/"
+ },
+ {
+  "行": 122,
+  "I": "△ 妥当：1次の確認経路（自社電子公告＝決算公告は貸借対照表のみでPLなし、EDINET、gBizINFO、親会社パーソルHDの有価証券報告書「関係会社の状況」）を精査し確認不可の結論を支持。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://persol-diverse.co.jp/public/"
+ },
+ {
+  "行": 123,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、官報決算公告（第13期・貸借対照表の要旨のみでPLなし）、EDINET、親会社いすゞ自動車の有価証券報告書「関係会社の状況」および決算／事業報告書ページ、gBizINFO、新聞記事検索。単体売上高の承認ソース開示なし",
+  "J": "https://www.isuzu-tohoku.co.jp/ ; https://www.isuzu.co.jp/company/investor/financial/reports/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3370001022383"
+ },
+ {
+  "行": 129,
+  "I": "△ 妥当：1次の確認経路（自社HPは取扱高356億円＝2025年度のみで売上高の記載なし。広告業の取扱高は売上高と別概念、EDINET、親会社JR西日本の有価証券報告書「関係会社の状況」）を精査し確認不可の結論を支持。本再検証では検索予算の配分上、追加経路の新規探索は未実施",
+  "J": "https://www.jcomm.co.jp/company/aboutus/"
+ },
+ {
+  "行": 134,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・会社案内・グループ会社紹介、株式会社日建学院サイト、EDINET、gBizINFO（決算公告の掲載なし）、PR配信の企業ページ、新聞記事検索。承認ソースに売上高の記載は一切なし。数値はdoda・エンカイシャの評判等の禁止ソースのみ",
+  "J": "https://www.ksknet.co.jp/profile/outline.aspx ; https://www.ksknet.co.jp/profile/associ.aspx ; https://www.nik-g.com/company/"
+ },
+ {
+  "行": 136,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（医療従事者向けゲートの内側で売上高非掲載）、官報決算公告（catr.jp 第81〜83期＝純利益・利益剰余金・総資産のみで売上高欄なし）、大阪中小企業投資育成の投資先企業紹介、gBizINFO。440億円（2025年7月度実績）はマイナビ等の禁止ソースのみ",
+  "J": "https://www.muranaka.co.jp/company/overview/ ; https://catr.jp/companies/7896c/33224/settlements/cbd27/381347 ; https://www.sbic-wj.co.jp/outline/sort/10359/"
+ },
+ {
+  "行": 142,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝親会社CNCI（コミュニティネットワークセンター）の第26期・第27期決算概要リリース、CNCIグループサイト、自社HP会社概要。開示はグループ連結売上高（第26期605.13億円／第27期627.24億円）のみでCCNet単体は非開示。子会社のため連結値は使えない（§3-3）",
+  "J": "https://www.cnci.co.jp/uploads/2026/05/20260527_press.pdf ; https://www.cnci.co.jp/uploads/2025/05/%E7%AC%AC26%E6%9C%9F%EF%BC%882024%E5%B9%B4%E5%BA%A6%EF%BC%89%E6%B1%BA%E7%AE%97%E6%A6%82%E8%A6%81%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-1.pdf ; https://www.ccnw.co.jp/company/profile.html"
+ },
+ {
+  "行": 144,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・ジーシーの概要、グローバルCSRレポート2024/2025（GC Holding AG傘下のグループ連結のみ）、官報決算公告（catr.jp 第105期646億円＝2018年3月期、第109期339.7億円＝2022年3月期の6か月決算。第110期以降の掲載なし）、EDINET／TDnet提出なし。直近3期の単体売上高が承認ソースにない",
+  "J": "https://www.gc.dental/japan/company/gc-corporation/company-profile ; https://catr.jp/companies/99ac6/38128/settlements/cbde0/296842 ; https://www.gc.dental/japan/company/gc-corporation/globalcsr2025"
+ }
+]

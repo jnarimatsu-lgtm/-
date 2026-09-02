@@ -1,0 +1,102 @@
+[
+ {
+  "行": 350,
+  "I": "○ 回収：3,655.43億円（2025年3月期・単体／官報決算公告）。加えてシャープ㈱有価証券報告書「関係会社の状況」で当社は『売上高（連結会社相互間の内部売上高を除く）の連結売上高に占める割合が100分の10を超える』＝主要な損益情報等の開示対象と明記。シャープ連結売上高1兆8,928.11億円（2026年3月期・決算短信）の10%超＝1,892億円超が承認ソース（有報）だけで確定し、決算公告値3,655.43億円とも整合。シャープの子会社だが単体で300億を大幅超過。1次が当たっていない経路＝親会社有報「関係会社の状況」／官報決算公告。",
+  "J": "https://corporate.jp.sharp/ir/library/securities/ ; https://www.nikkei.com/nkd/disclosure/tdnr/20260429514125/ ; https://catr.jp/companies/6ffbd/12786 ; https://catr.jp/companies/6ffbd/12786/settlements/863fb/310911"
+ },
+ {
+  "行": 351,
+  "I": "○ 回収：連結売上高3,980億円（2026年3月期・前期比22%増、2015年度の3,505億円を超え過去最高）。出典は海事プレス／日本海事新聞の決算記事で決算期と売上高を明記（RULES §3-4④の新聞社記事）。単体も第22期決算公告で3,684億円（+22.64%）と整合。親子いずれの扱いでも単体・連結とも300億を13倍前後上回る。1次が当たっていない経路＝業界紙（海事プレス／日本海事新聞）の決算記事、官報決算公告。",
+  "J": "https://www.kaijipress.com/news/shipbuilding/2026/05/201340/ ; https://www.jmd.co.jp/article.php?no=315035 ; https://www.nikkei.com/article/DGXZQOUC087XD0Y6A500C2000000/ ; https://catr.jp/companies/590a5/8214/settlements/be6e2/266607"
+ },
+ {
+  "行": 369,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（売上高記載なし）②自社HP電子公告ページ（第27〜30期＝2022〜2025年3月期の決算公告PDFを掲載。ただし貸借対照表のみで損益計算書・売上高は不掲載）③日立ハイテク／日立製作所のIR・有報（当社は連結売上高10%基準に達せず主要な損益情報等の開示対象外）④官報決算公告DB。自社が公告している決算に売上高そのものが存在しないため承認ソースでの確定は不可。",
+  "J": "https://www.hitachi-hightech.com/jp/ja/company/group/hms/about/finance.html ; https://www.hitachi-hightech.com/jp/ja/company/group/hms/about/profile.html ; https://www.hitachi-hightech.com/jp/ja/company/publicnotice.html"
+ },
+ {
+  "行": 372,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（資本金・従業員数のみ）②官報決算公告（第30期・2025年公告。当期純利益51.19億円、利益剰余金51.96億円、総資産105.86億円までは判明するが貸借対照表のみで売上高は不掲載）③PR TIMES決算公告DB④官報決算データサービス（第25期も貸借対照表のみ）⑤gBizINFO。決算公告に売上高の項目が無く、承認ソースで300億以上を確定できない。総資産105.86億円という規模からも300億超の裏付けは得られない。",
+  "J": "https://www.hotelmonterey.co.jp/profile/ ; https://catr.jp/companies/9c099/23956 ; https://catr.jp/settlements/95ba8/171317 ; https://prtimes.jp/finance/5120001070356/settlement ; https://kanpo.tremolo.work/company/17430"
+ },
+ {
+  "行": 373,
+  "I": "○ 回収：547.77億円（54,777百万円／2026年2月期・IFRS「売上収益」・当社単体）。クリエイト・レストランツHDの有価証券報告書／決算資料に「株式会社クリエイト・レストランツは『しゃぶ菜』『MACCHA HOUSE 抹茶館』等のコアブランドを運営、当連結会計年度の売上収益54,777百万円、連結店舗数518店舗」と記載。CRHD連結売上収益1,654.49億円（2026年2月期）の約33%＝10%超のため有報「関係会社の状況」の主要な損益情報等の開示対象。518店舗×約1.06億円/店と単価も整合し、300億基準を1.8倍上回る。1次が当たっていない経路＝親会社有報「事業の内容／関係会社の状況」。※単体値か CR事業セグメント値かは有報原文での最終確認が望ましい（いずれにせよ300億超）。",
+  "J": "https://www.createrestaurants.com/ir/library/securities/ ; https://www.createrestaurants.com/ir/library/results/ ; https://www.createrestaurants.com/ir/finance/"
+ },
+ {
+  "行": 376,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（売上高記載なし）②官報決算公告DB（catr.jp／PR TIMES決算公告DB。当社名義の決算公告を確認できず）③gBizINFO④新聞社記事⑤自社採用ページ。売上高が出るのはマイナビ転職等の禁止ソースのみで、承認ソースには一切記載がない。新聞輸送主体の運輸会社で300億超の裏付けも得られない。",
+  "J": "https://www.anritsutransport.co.jp/ ; https://catr.jp/ ; https://www.tsr-net.co.jp/data/detail/1197761_1527.html"
+ },
+ {
+  "行": 377,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要（thh.html／売上高記載なし）②帝人㈱IR業績ハイライト・有報（ヘルスケアセグメント売上収益1,386億円＝セグメント値であり当社単体ではない。当社は連結10%基準に達せず主要な損益情報等の開示対象外）③官報決算公告（2025年3月期：当期純利益12.66億円、利益剰余金37.54億円、総資産97.98億円。貸借対照表のみで売上高は不掲載）④gBizINFO。総資産97.98億円の規模で単体売上高の開示が一切なく、承認ソースで確定不可。",
+  "J": "https://www.teijin-pharma.co.jp/company/outline/thh.html ; https://www.teijin.co.jp/ir/financial-highlights/ ; https://catr.jp/companies/05c5b/12196 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010001098723"
+ },
+ {
+  "行": 381,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP企業情報（設立1988年10月、本社目黒。売上高記載なし）②伊藤ハム米久HD採用サイトのグループ会社紹介ページ③伊藤ハム㈱電子公告④伊藤ハム米久HD電子公告⑤HD有報（当社は主要な損益情報等の開示対象外）⑥官報決算公告DB。※検索要約が一度「売上高1,500億円・従業員226名」を返したが、ドメイン限定の再検索で再現できず、伊藤ハム㈱単体の1,529億円（2025年3月期）との取り違えと判断して不採用。承認ソースで当社単体売上高を確定できない。",
+  "J": "https://www.itoham-mheast.com/company/ ; https://www.itoham-yonekyu-holdings.com/Portals/0/saiyo/group/east/ ; https://www.itoham-yonekyu-holdings.com/ir/e-koukoku.html ; https://www.itoham.co.jp/corporate/ir/e-koukoku.html"
+ },
+ {
+  "行": 388,
+  "I": "△ 要再確認：官報決算公告に単体売上高1,178.13億円（2025年12月期・前期比+3.41%、当期純利益2.52億円）、第85期は1,087.05億円。セコマの子会社だが決算公告は単体値のため子会社基準でも300億を約3.9倍上回る。ただし出典が官報決算データベース（catr.jp）単独で、RULES §7-1（catr.jpが承認ソースか未決着）に依存するため○に倒せない。自社HP会社概要・セコマグループ公式・EDINET・TDnetには売上高の記載なし。§7-1が承認となれば○に回収可能。",
+  "J": "https://catr.jp/settlements/663d5/294180 ; https://catr.jp/companies/219ef/1457/settlements/94b1f/244190 ; https://www.seicofreshfoods.co.jp/company.html ; https://catr.jp/companies/dba9c/116"
+ },
+ {
+  "行": 391,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要・日本法人紹介ページ（決算月6月、資本金4.85億円、従業員510名までで売上高記載なし）②gBizINFO（官報掲載情報のうち公開許諾法人のみ収録で当社の決算情報は非掲載）③官報決算公告DB（当社ページは存在するが売上高を含む公告なし）④米Cardinal Health本社のIR・10-K（日本法人単体の開示なし）⑤EDINET。承認ソースに単体売上高が一切存在しない。",
+  "J": "https://www.cardinalhealth.jp/ja_jp/about-us/japanese-corporations.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010901023732 ; https://catr.jp/companies/0850f/112787 ; https://www.cardinalhealth.jp/ja_jp/about-us.html"
+ },
+ {
+  "行": 394,
+  "I": "△ 要再確認：官報決算公告（第22期）に単体売上高2,103.73億円（2026年3月期・前期比+5.7%、当期純利益198.84億円、総資産1,971.89億円）。日立製作所の子会社だが決算公告は単体値のため子会社基準でも300億を約7倍上回る。ただし出典が官報決算データベース（catr.jp）単独で RULES §7-1 に依存。日立製作所連結売上収益10兆円超に対し2%程度で有報「関係会社の状況」の10%基準に届かず主要な損益情報等の開示対象外、自社HPの電子公告も日立製作所本体分のみで当社PDFを確認できず。§7-1が承認となれば○に回収可能。",
+  "J": "https://catr.jp/companies/da281/21027/settlements/52f1e/365778 ; https://catr.jp/companies/da281/21027 ; https://www.hitachi-ies.co.jp/corporate/about/ ; https://www.hitachi.com/content/dam/hitachi/global/ja_jp/press/files/2026/04/0427/2025_Anpre.pdf"
+ },
+ {
+  "行": 396,
+  "I": "○ 回収：バローHD 2026年3月期決算短信のスーパーマーケット（SM）事業セグメント営業収益5,407.61億円（前期比+11.9%）。SM事業の中核が㈱バローであり、同HD有価証券報告書「関係会社の状況」で㈱バローは特定子会社かつ『営業収益（連結会社相互間の内部営業収益を除く）が連結営業収益に占める割合が10%を超えている』と明記＝バローHD連結営業収益9,241億円（2026年3月期）の10%超＝924億円超が承認ソースのみで確定。子会社単体で300億基準を大幅超過。1次が当たっていない経路＝親会社決算短信のセグメント情報／有報「関係会社の状況」。",
+  "J": "https://www.release.tdnet.info/inbs/140120260512526532.pdf ; https://valorholdings.co.jp/ir/library/ ; https://valorholdings.co.jp/news-ir/4353/ ; https://www.ryutsuu.biz/accounts/s051375.html"
+ },
+ {
+  "行": 397,
+  "I": "△ 要再確認：自社HP会社概要は『取扱高（単体）470億円（2025年度）』のみで売上高は非開示。取扱高は売上高ではなく、商社の純額表示では売上高が取扱高を大幅に下回る。官報決算公告DB（catr.jp）では2025年3月期の売上高8.81億円（当期純利益87.21億円、総資産1,051.13億円）とされ、これが正なら【300億未満】で×となるが、①出典がcatr.jp単独で RULES §7-1 に依存②売上高8.81億円と純利益87.21億円の整合性に疑義があり桁の確認ができない、の2点で確定できない。当たった経路＝自社HP会社概要・ニュース、gBizINFO、官報決算公告DB、PR TIMES決算公告DB、住友商事IR。回収より×側の再確認が必要な行。",
+  "J": "https://www.summit-agro.co.jp/company/overview.html ; https://catr.jp/companies/2355f/26303 ; https://catr.jp/companies/2355f/26303/settlements/bb86f/270896 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001020197"
+ },
+ {
+  "行": 404,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝①官報決算公告DB（catr.jp に当社ページは存在するが売上高を含む決算公告の掲載なし）②PR TIMES決算公告DB③流通ニュース等の業界サイト（1,167億円は古い期の値、かつ新聞社ではない）。自社HPの年商6,404億円（2026年2月期）は『グループ合算』と明記されており、OICグループの子会社である当社の単体値としては RULES §3-3 により使用不可。単体売上高が承認ソースに存在しない。",
+  "J": "https://lopia.jp/company ; https://catr.jp/companies/4b886/69078 ; https://www.ryutsuu.biz/accounts/k102446.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1021001004499"
+ },
+ {
+  "行": 414,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝①官報決算公告（第59期。総資産209.1億円、当期純利益1.2億円までは判明するが貸借対照表のみで売上高は不掲載）②官報決算公告DB（catr.jp）③gBizINFO④自社HPプレスリリース一覧。決算公告に売上高の項目が存在せず、売上高が出るのはマイナビ・OpenWork等の禁止ソースのみ。総資産209.1億円の規模からも300億超の裏付けは得られない。",
+  "J": "https://www.akitatamago.co.jp/corporate/company/ ; https://catr.jp/companies/9b6de/98091 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2240001029715 ; https://www.akitatamago.co.jp/corporate/press/"
+ },
+ {
+  "行": 415,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝①gBizINFO（当社の決算情報は非掲載）②官報決算公告DB（親会社㈱アペックスの第55期・第62期決算公告は存在するが、アペックス西日本単体の公告は確認できず）③親会社HPのアペックスグループ紹介ページ。親会社アペックス公式の売上高372億円（2025年12月期）は『アペックス西日本を含む』値であり、子会社である当社の単体値は必然的にこれを下回る＝むしろ300億未満の公算が大きいが、単体値が承認ソースに無いため×とも確定できない。",
+  "J": "https://www.apex-co.co.jp/profile/profile.html ; https://www.apex-co.co.jp/profile/group.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5120001140828 ; https://catr.jp/companies/71f25/33932"
+ },
+ {
+  "行": 418,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝①わらべや日洋HD電子公告ページ（会社法440条4項により決算公告は行わず、貸借対照表・損益計算書は有報／四半期報告書ページで開示、との明記あり＝決算公告ルートが構造的に存在しない）②HD有価証券報告書・四半期報告書ページ③HD「売上データ」ページ④HD「業績・財務」ページ⑤gBizINFO。HDの開示は連結および国内／海外セグメント単位までで、わらべや日洋インターナショナル単体の売上高は記載なし。",
+  "J": "https://www.warabeya.co.jp/ja/ir/stock/accounting.html ; https://www.warabeya.co.jp/ja/ir/individual/sales.html ; https://www.warabeya.co.jp/ja/ir/library/securities.html ; https://www.warabeya.co.jp/ja/ir/finance.html"
+ },
+ {
+  "行": 419,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝官報決算公告DB（2025年9月期：当期純利益3.65億円、利益剰余金21.84億円、総資産30.76億円が掲載されるが売上高は『−』で不掲載）、㈱マイナビおよびマイナビ系各社の決算公告、gBizINFO。総資産30.76億円という規模から300億以上は考えにくく、むしろ300億未満の公算が大きいが、承認ソースに売上高が無いため×とも確定できない。マイナビ掲載の225億円は禁止ソースのため不採用。",
+  "J": "https://mynavi-works.jp/company/detail.html ; https://catr.jp/companies/787c6/70906 ; https://catr.jp/companies/e2624/70908"
+ },
+ {
+  "行": 420,
+  "I": "△ 妥当：確認不可で正しい。1次に加えて当たった経路＝①官報決算公告DB（catr.jp）およびPR TIMES決算公告DB（北辰商事名義の決算公告を確認できず）②gBizINFO③新聞社記事④自社HPトップメッセージ／会社案内。自社HP会社概要の売上高500億円は2020年3月期実績で RULES §3-8 の直近3期を満たさず、直近期の売上高は承認ソースに存在しない。数値が出るのはリクナビ・NewsPicks・Wikipedia等の禁止ソースのみ。",
+  "J": "https://www.rogers.co.jp/company/outline.html ; https://www.rogers.co.jp/company/ ; https://catr.jp/"
+ },
+ {
+  "行": 427,
+  "I": "△ 要再確認：官報決算公告に単体売上高2,508.08億円（2025年3月期・前期比▲2.04%、当期純利益170.40億円、利益剰余金895.67億円）。富士通グループの子会社だが決算公告は単体値のため子会社基準でも300億を約8倍上回る。ただし出典が官報決算データベース（catr.jp）単独で RULES §7-1 に依存するため○に倒せない。富士通連結売上収益3兆円台に対し10%未満で有報「関係会社の状況」の主要な損益情報等の開示対象外、自社HP・富士通クライアントコンピューティング会社案内にも単体売上高の記載なし。§7-1が承認となれば○に回収可能。",
+  "J": "https://catr.jp/companies/ef3b0/24641 ; https://www.fmv.com/group/sfj/about.html ; https://www.fujitsu.com/jp/group/sfj/ ; https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/ir/documents/Securities_Reports/125_Securities_Report.pdf"
+ }
+]
