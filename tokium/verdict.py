@@ -34,6 +34,16 @@ def build():
     rows = list(csv.reader(open(f"{SP}/tokium.csv", encoding="utf-8-sig")))[1:]
     R = {i+2: (list(r)+[""]*8)[:8] for i, r in enumerate(rows)}
     out = load_all(SP)
+    # 検索枠が回復したあとに掛け直した優先監査の結果で上書きする。
+    # 波の出力より新しいので、再集計しても監査の結論が波の結論に戻らないようにする。
+    import json, os
+    ovp = "/home/user/-/tokium/raw/audit_overrides.json"
+    if os.path.exists(ovp):
+        for k, v in json.load(open(ovp, encoding="utf-8")).items():
+            n = int(k)
+            if n in out:
+                out[n]["I"] = v["I"]
+                if v.get("J"): out[n]["J"] = v["J"]
     for x in out.values(): x["I"], _ = normalize(x["I"])
     res = []
     for n in sorted(out):
