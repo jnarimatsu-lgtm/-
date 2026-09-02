@@ -1,0 +1,47 @@
+[
+ {
+  "行": 2593,
+  "I": "○ 回収：自社HP会社概要（ABOUT/BUSINESS OUTLINE）に売上高538億円（2025年9月現在）を記載。株式会社ジユンはジュングループ中核の親会社のため§3-3で当該値を採用可、300億基準を充足。法人番号4010401013678の登記所コード0104＝東京法務局港出張所で本社（港区）と一致し同名別法人ではない。",
+  "J": "https://www.jun.co.jp/about/outline/;https://www.jun.co.jp/about/fact/"
+ },
+ {
+  "行": 2622,
+  "I": "○ 回収：自社IR掲載の2026年3月期決算短信〔IFRS〕（連結、2026/5/13）で売上収益1,138億円（前期比+3.1%）、事業利益393億円。東証プライム上場(4980)の親会社のため§3-3で連結値を採用可。IFRSの『売上収益』は§3-7により売上高と同義として採用。",
+  "J": "https://www.dexerials.jp/news/pdf/2026/news26014.pdf;https://www.nikkei.com/nkd/disclosure/tdnr/20260513529028/"
+ },
+ {
+  "行": 2641,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝東電HD『2025年度決算について』(2026/4/30)会社別計数・同決算説明資料・東電RP自社有報ページ・EDINET第7期(S100YIPO)。会社別計数の403億円は原文が『経常損益…前年度比132億円減の403億円の利益』であり売上高ではない。子会社のため連結値も使用不可。単体売上高は承認ソース本文から未取得。",
+  "J": "https://www.tepco.co.jp/about/ir/library/results/pdf/2603q4gaiyou-j.pdf;https://www.tepco.co.jp/about/ir/library/presentation/pdf/260430setsu-j.pdf;https://www.tepco.co.jp/rp/about/bond/securities_report/index-j.html;https://www.nikkei.com/nkd/disclosure/ednr/20260624S100YIPO/"
+ },
+ {
+  "行": 2673,
+  "I": "○ 回収：2025年12月期決算短信〔日本基準〕（連結、2026/2/12）で営業収益4,745億86百万円（前期比+2.3%）、営業利益957億63百万円、経常利益781億87百万円。東証プライム上場(8804)の親会社のため§3-3で連結可。不動産業のP/L最上段科目が営業収益＝売上高。",
+  "J": "https://pdf.irpocket.com/C8804/YpwX/Bm8F/l2Ip.pdf;https://pdf.irpocket.com/C8804/YpwX/GtIj/pQV9.pdf;https://www.nikkei.com/nkd/disclosure/tdnr/20260210554860/"
+ },
+ {
+  "行": 2713,
+  "I": "○ 回収：東証スタンダード上場(9380)。2026年3月期決算短信（連結・2026/5/15発表）で営業収益401億4,837万円（40,148百万円＝401.48億円、前期比+1.9%）。上場親会社のため§3-3で連結可。※1次H列は『株式会社報知新聞社』を調べた取り違えで東海運を検証していない。",
+  "J": "http://www.azumaship.co.jp/ir/results.html;http://www.azumaship.co.jp/ir/con_mi.html;https://www.nikkei.com/nkd/company/kessan/?scode=9380"
+ },
+ {
+  "行": 2762,
+  "I": "○ 回収：自社HP会社情報でグループ売上高1,587億円（2026年3月）・前期1,582億円、企業の特長ページはグループ連結年商1,636億円。山口県宇部市琴芝町本社の総合商社でグループ9社を擁する親会社のため§3-3により連結値を採用可。法人番号9250001003679の登記所2500＝山口で本社と一致し佐賀県の同名法人(8300001003625)とは別法人。",
+  "J": "https://www.yamasan-grp.co.jp/info/summary/;https://www.yamasan-grp.co.jp/info/features/"
+ },
+ {
+  "行": 3103,
+  "I": "○ 回収：2026年3月期の営業収益2,794億円（前期比+6%、民営化以降最高値）、営業利益425億円。空港運営会社のP/L最上段科目が営業収益であり売上高に相当するため採用可（1次の『営業収益表記のみで不採用』は誤り）。株式会社形態の親会社で§3-3により連結可。日経記事にも決算期と金額の明記あり。",
+  "J": "https://www.narita-airport.jp/ja/company/ir/;https://www.nikkei.com/article/DGXZQOCC27CGA0X20C26A5000000/;https://www.aviationwire.jp/archives/344439"
+ },
+ {
+  "行": 3130,
+  "I": "○ 回収：イオン(株)2026年2月期決算説明会資料の子会社別計数でイオンリテール単体の営業収益2兆301億41百万円（対前期108.1%、395店舗）。子会社だが単体で300億を大幅超過し§3-3充足。イオン連結の約19%にあたり有報『関係会社の状況』の10%超開示対象とも整合。",
+  "J": "https://www.aeon.info/ir/;https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260409/20260409500824.pdf;https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260409/20260408599944.pdf"
+ },
+ {
+  "行": 3488,
+  "I": "○ 回収：第34期（2025年3月期）決算公告が令和7年7月18日付官報号外第166号160頁に掲載され、売上高2,001億7,200万円（200,172百万円）・当期純利益39億2,000万円。官報本体の号数頁を特定できるためcatr.jp依存(§7-1)を解消。自社HPの1,996.02億円ともほぼ一致し、連結単体いずれでも300億の6倍超で判定は不変。",
+  "J": "https://search.kanpoo.jp/r/20250718g166p160-542/;https://mn-interfashion.com/company/overview/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010401056967"
+ }
+]

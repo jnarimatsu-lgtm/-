@@ -11,8 +11,8 @@
  },
  {
   "行": 2633,
-  "I": "○ 回収：東証プライム上場（証券コード9755）であり1次の見落とし。2025年12月期第3四半期累計の連結売上高558.58億円（前年同期比103.8%、2025/11/11開示の決算短信）、通期予想760億円。自社IRサイトで開示され通期でも300億を大幅超過。上場親会社のため連結で判定可。",
-  "J": "https://www.oyo.co.jp/news-article/aae56dd017feda5f751948d676ddd15c5bb475e5/;https://www.oyo.co.jp/news/ir/;https://equity.jiji.com/storage/tdnet/140120251110593049.pdf"
+  "I": "○ 妥当（G列訂正：762.85億円（2025年12月期・連結）。1次のG列は3Q累計558.58億円だが、2026年2月12日開示の通期決算短信で通期売上高762.85億円・前期比+3.0%、営業利益37億円が確定済み。四半期累計値ではなく通期実績を採用すべき）。東証プライム9755の上場親会社で連結判定可。300億を大幅超過のため判定は○のまま不変。",
+  "J": "https://www.oyo.co.jp/investor-relations/ir-library/financial-report-for-the/;https://www.nikkei.com/nkd/disclosure/tdnr/20260210554590/;https://www.oyo.co.jp/news-article/aae56dd017feda5f751948d676ddd15c5bb475e5/"
  },
  {
   "行": 2669,
@@ -36,8 +36,8 @@
  },
  {
   "行": 3111,
-  "I": "○ 回収：520.13億円（2025年3月期・単体。原文表記は営業収入で、航空運送事業の売上高そのもの。§3-7の銀行の経常収益と同じ扱いで採用）。自社公式リリース『2025年3月期決算について』に旅客数・営業収入とも過去最高、営業費用511.54億円・営業利益8.59億円と明記。2026年3月期予想566億円。ANAHD持分法適用で子会社ではない。",
-  "J": "https://www.solaseedair.jp/corporate/pdf/press20250528-1.pdf;https://www.solaseedair.jp/corporate/pdf/press20251128.pdf"
+  "I": "○ 妥当（G列訂正：553.37億円＝55,337百万円（2026年3月期・単体・営業収入、前期比+6.3%で過去最高、営業利益20億円・純利益8.11億円）。1次採用の520.13億円は2025年3月期で1期古い）。自社公式リリース『2026年3月期決算について』2026/5/29で開示。原文表記は営業収入だが航空運送事業の売上高そのもの（§3-7の経常収益と同じ扱い）。ANAHD持分法適用で子会社ではない。",
+  "J": "https://www.solaseedair.jp/corporate/assets/mediafile/press20260529.pdf;https://www.solaseedair.jp/corporate/pdf/press20250528-1.pdf;https://www.solaseedair.jp/corporate/press/"
  },
  {
   "行": 3422,

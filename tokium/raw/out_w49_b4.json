@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3801,
+  "I": "△ 妥当：確認不可で正しい。§6-2法人番号照合＝3010001022080の登記所0100(東京本局)と登記住所・千代田区五番町10-7が整合。事業は金融商品仲介業。D列URL(rich-field.or.jp)は別法人「リッチフィールド税理士法人」のサイトでSF登録値の誤り。同名法人多数(介護/人材育成/農産/スキー)。当たった経路＝自社HP、EDINET、TDnet、官報決算公告、gBizINFO、NIKKEI COMPASS。売上高は承認ソースに無くSalesNow等の禁止ソースのみ。E列1,000億以上はSF側の誤り。",
+  "J": "https://rich-field.or.jp/ ; https://www.nikkei.com/compass/company/kjZvqtFZymK1UF16hDWUvh ; https://rich-field.co.jp/about/"
+ },
+ {
+  "行": 3802,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝3330001011191の登記所3300(熊本)と本社・熊本県上益城郡益城町田原が整合。当たった経路＝自社HP会社概要(設立平成2年4月・資本金2,000万円・計量証明/環境測定分析。売上高の記載なし)、自社HPご案内ページ、EDINET、TDnet、官報決算公告、gBizINFO、親会社IR(該当親会社なし)。売上高は承認ソースに無く禁止ソース(SalesNow/doda/Baseconnect)のみ。資本金2,000万円の環境計量会社でE列1,000億以上はSF側の明白な誤り。",
+  "J": "https://www.dojin-glocal.com/company-company ; https://www.dojin-glocal.com/company-brochure"
+ },
+ {
+  "行": 3803,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝4420001014861の登記所4200(青森)と登記住所・青森県上北郡おいらせ町上前田78-3が整合し、同名の古川建設/古川総建/桜樹会・古川建築事務所との取り違えを否定。読みは「こがわ」。事業は足場・支保工・吊足場の計画図作成(建築設計業)。当たった経路＝自社HP(kogawa-act.jp)、EDINET、TDnet、官報決算公告、経審、gBizINFO。売上高の記載はどこにも無い。E列1,000億以上はSF側の誤り。",
+  "J": "http://www.kogawa-act.jp/ ; https://www.nikkei.com/compass/company/u1vJPp5XtQwzsdv3D7Z6ni ; http://www.kogawa-act.jp/20flow/"
+ },
+ {
+  "行": 3804,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝5290801023595の登記所2908(福岡法務局管内の支局)。当たった経路＝自社HP(nextinv.biz)、gBizINFO、EDINET、官報決算公告、catr.jp。同名法人が全国に多数(5240001049917/9012801010416/8120001190705/3020001112839/2430001088287等)あり、担当法人番号に一致する財務情報は承認ソースに無い。検索で出た「グループ売上高118.46億円(2025年4月)」はマイナビ掲載の別法人の値で、禁止ソースかつ300億未満のため採用不可。",
+  "J": "https://www.nextinv.biz/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5240001049917 ; https://catr.jp/companies/c7ba2/184191"
+ },
+ {
+  "行": 3806,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝6120001124937の登記所1200(大阪本局)と本社・大阪市中央区安土町1-5-9ゼニヤベストビル5階が整合。企業INDEXナビが同法人番号で同社を収録し同定確認。当たった経路＝自社HP会社概要(資本金1,000万円・環境解析/省エネコンサル/CASBEE/建築設備設計。売上高欄なし)、事業内容ページ、日本ERI省エネ申請サポーター一覧、EDINET、TDnet、官報決算公告、gBizINFO。売上高は承認ソースに無い。実額が取れないため×にはできず△が正しい。",
+  "J": "https://www.kankyo-set.co.jp/about.html ; https://www.kankyo-set.co.jp/service/ ; https://www.j-eri.co.jp/shoene_support/s014.html ; https://cnavi.g-search.or.jp/detail/6120001124937.html"
+ },
+ {
+  "行": 3807,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝6290001008875の登記所2900(福岡本局)と本店・福岡市中央区赤坂1-10-23が整合。gBizINFOで法人番号一致・閉鎖表示なしを確認(§6-7)。当たった経路＝gBizINFO(設立1995年1月・資本金1,000万円・従業員50〜149人・一般労働者派遣/有料職業紹介/BPO・未上場)、自社HP、EDINET、TDnet、官報決算公告、親会社IR(該当なし)。売上高は承認ソースに無く転職会議等の禁止ソースのみ。E列1,000億以上はSF側の明白な誤り。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6290001008875 ; https://www.technical-group.co.jp/"
+ },
+ {
+  "行": 3808,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝6310001000540の登記所3100(長崎)と本社・長崎県長崎市平野町3-5が整合。gBizINFOで法人番号一致を確認。当たった経路＝gBizINFO(設立1970年6月・資本金1,000万円・従業員21名・建築設計)、自社HP(会社案内/実績紹介/健康経営宣言)、EDINET、TDnet、官報決算公告、経審。売上高の記載はどこにも無く、転職会議等の禁止ソースのみ。従業員21名でE列1,000億以上はSF側の明白な誤り。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6310001000540 ; https://kenyusha.co.jp/ ; https://kenyusha.co.jp/pages/92/"
+ },
+ {
+  "行": 3809,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝7011001001038の登記所0110(東京法務局管内の支局)と本社・東京都渋谷区千駄ヶ谷5-12-8が整合。事業は水処理剤販売/各種洗浄/水処理設備の新設改修(静岡県三島市・千葉市に営業所)。当たった経路＝自社HP2サイト(asamakougyou.co.jp会社概要、asamakougyou.jp会社案内。いずれも売上高欄なし)、イプロス企業情報、EDINET、TDnet、官報決算公告、gBizINFO。売上高は承認ソースに無い。未踏＝経審(完成工事高)。",
+  "J": "https://www.asamakougyou.co.jp/company/ ; https://www.asamakougyou.jp/company ; https://www.ipros.com/company/detail/2095311/"
+ },
+ {
+  "行": 3811,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝8010001131488の登記所0100(東京本局)と登記住所・東京都千代田区東神田1-17-9が整合。事業はアスベスト対策(IPH工法)。建設業許可は東京都知事許可(般-6)第133383号＝一般建設業許可のみで特定建設業許可が無く、下請発注が4,500万円未満に制限されるため年商300億規模の元請とは整合しない(公的許認可情報)。当たった経路＝自社HP会社概要・「データで見る」ページ・施工実績、EDINET、官報決算公告、東京都都市整備局/国交省の建設業者検索・経審。売上高は承認ソースに無い。",
+  "J": "https://eiecorp.com/company/ ; https://eiecorp.com/eie-data/ ; https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku/kensetsu/kensaku.htm ; https://etsuran2.mlit.go.jp/TAKKEN/kensetuKensaku.do?outPutKbn=1"
+ },
+ {
+  "行": 3812,
+  "I": "△ 妥当：確認不可で正しい。§6-2＝8011601012945の登記所0116(東京法務局管内の支局)と本社・東京都練馬区が整合し、日本気象協会(一般財団法人)・日本気象(株)との取り違えを否定。資本金1,250万円、気象情報提供業。当たった経路＝自社HP会社案内(売上高欄なし)、自社HPトップ、EDINET、TDnet、官報決算公告、気象庁の予報業務許可事業者情報、gBizINFO。売上高は承認ソースに無く、Baseconnect等の禁止ソースのみ。資本金1,250万円でE列1,000億以上はSF側の明白な誤り。",
+  "J": "https://www.weather-service.co.jp/corp_info/ ; https://www.weather-service.co.jp/"
+ }
+]
