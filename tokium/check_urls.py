@@ -19,7 +19,7 @@ def entropy(s):
 
 def suspicious(url):
     """ファイル名部分が乱打・無意味に見えるURLを拾う。"""
-    m = re.search(r"/([A-Za-z0-9_\-]{6,})\.(pdf|html?|php)$", url)
+    m = re.search(r"/([A-Za-z0-9_\-]{6,})\.pdf$", url)   # PDF に限定。IRページ名(highlight.html等)は正常な英単語なので誤検出する
     if not m: return None
     stem = m.group(1)
     if re.fullmatch(r"[0-9_\-]+", stem): return None          # 日付や連番は正常

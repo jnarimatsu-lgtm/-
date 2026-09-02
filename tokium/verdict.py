@@ -78,25 +78,23 @@ if __name__ == "__main__":
     for r in full:  # 取引先IDが元データと一致することを1行ずつ確認（§5-2のずれ検出）
         assert r["取引先ID"] == (list(rows[r["行"] - 2]) + [""])[0], f"行{r['行']} で取引先IDがずれている"
     # 判定にも出典の集合にも手を入れない。並び順だけを変える。
-    def suspicious(u):
-        m = re.search(r"/([^/]+)\.pdf$", u, re.I)
-        if not m: return False
-        stem = m.group(1).lower()
-        if re.search(r"\d{4,}", stem): return False          # 日付・IDはCMS由来
-        core = re.sub(r"^\d+|\d+$", "", stem)
-        if re.search(r"\d", core): return False               # 内部に数字＝ハッシュ
-        return bool(re.fullmatch(r"[a-z]{8,14}", core)) and len(re.findall(r"[aeiou]", core)) <= 1
+    def unstable(u):
+        """CMSのアップロード置き場より、IRトップや適時開示のURLを先に出す。
+        綴りからPDFの実在を当てることはできない（WebFetchが遮断されていて確認不能で、
+        pamphlet.pdf と 2ggeghasdw.pdf は母音比が同じ）。そこで綴りは見ず、
+        経路の安定性だけで並べる。差し替え・整理で消えやすいのは uploads 配下。"""
+        return bool(re.search(r"/wp-content/uploads/|/wp/wp-content/|/uploads/\d{4}/", u))
     moved = 0
     for r in full:
         j = (r.get("J列_ソース") or "").strip()
         if not j: continue
         parts = [x.strip() for x in re.split(r"[;\s]+", j) if x.strip().startswith("http")]
         if len(parts) < 2: continue
-        keep = [u for u in parts if not suspicious(u)]
-        susp = [u for u in parts if suspicious(u)]
-        if susp and keep:
-            r["J列_ソース"] = "; ".join(keep + susp); moved += 1
-    if moved: print(f"J列: 実在未確認のPDFを末尾に回した行 {moved}")
+        keep = [u for u in parts if not unstable(u)]
+        late = [u for u in parts if unstable(u)]
+        if late and keep and parts != keep + late:
+            r["J列_ソース"] = "; ".join(keep + late); moved += 1
+    if moved: print(f"J列: CMSアップロード配下のURLを末尾に回した行 {moved}")
 
     pf = "/home/user/-/tokium/results/IJ_paste_FULL.csv"
     with open(pf, "w", encoding="utf-8-sig", newline="") as fh:
