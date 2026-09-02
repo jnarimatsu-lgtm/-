@@ -1,0 +1,52 @@
+[
+ {
+  "行": 997,
+  "リスクスコア": 99,
+  "法人番号": "4240001006976",
+  "取引先名": "中電プラント株式会社",
+  "Webサイト": "https://www.chuden-plant.co.jp/company/office.html",
+  "E列_SF売上レンジ": "5: 300億円以上~1,000億円未満",
+  "G列_本来の売上高": "",
+  "H列_ソース判定": "○ 自社HP会社概要。中国電力100%子会社だが対象法人売上高489億円 https://www.chuden-plant.co.jp/company/outline.html"
+ },
+ {
+  "行": 1771,
+  "リスクスコア": 99,
+  "法人番号": "5360001008596",
+  "取引先名": "沖縄出光株式会社",
+  "Webサイト": "http://www.idemitsu.co.jp/okinawaidemitsu/index.html",
+  "E列_SF売上レンジ": "5: 300億円以上~1,000億円未満",
+  "G列_本来の売上高": "クボタミナミ",
+  "H列_ソース判定": "○ 出光興産100%子会社だが自社HP会社概要で対象法人の2025年度売上高424億円を直接開示。https://www.idemitsu.com/jp/okinawaidemitsu/company/profile.html"
+ },
+ {
+  "行": 2017,
+  "リスクスコア": 99,
+  "法人番号": "4120001150200",
+  "取引先名": "東洋紙業株式会社",
+  "Webサイト": "http://www.toyo-s.co.jp/index.html",
+  "E列_SF売上レンジ": "5: 300億円以上~1,000億円未満",
+  "G列_本来の売上高": "",
+  "H列_ソース判定": "× 300億未満。自社HP会社概要。2026年3月末売上高293.6億円。タイヘイグループ子会社。https://www.toyo-s.co.jp/company/outline.html"
+ },
+ {
+  "行": 2964,
+  "リスクスコア": 99,
+  "法人番号": "4180001009176",
+  "取引先名": "株式会社パロマ",
+  "Webサイト": "https://www.paloma.co.jp/corporate/company/outline.html",
+  "E列_SF売上レンジ": "6: 1,000億円以上",
+  "G列_本来の売上高": "",
+  "H列_ソース判定": "○ 自社HP会社概要。グループ中核会社として2025年12月グループ連結売上高1兆1,780億円を公表。https://www.paloma.co.jp/corporate/company/outline.html"
+ },
+ {
+  "行": 4317,
+  "リスクスコア": 99,
+  "法人番号": "4090001007288",
+  "取引先名": "株式会社シャトレーゼ",
+  "Webサイト": "https://www.chateraise.co.jp/company/information/",
+  "E列_SF売上レンジ": "6: 1,000億円以上",
+  "G列_本来の売上高": "",
+  "H列_ソース判定": "○ 子会社だが自社会社概要で株式会社シャトレーゼ単体の2026年3月期売上高1,418億円を確認。https://www.chateraise.co.jp/company/information"
+ }
+]
