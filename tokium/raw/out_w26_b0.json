@@ -1,0 +1,77 @@
+[
+ {
+  "行": 658,
+  "I": "○ 妥当（G列訂正：採用値は単体でなく同社連結）：出典PDFの実在を確認＝旭化成ホームズ発行「2026年3月期決算補足資料」（2026年5月12日）に連結売上高1兆343億円。同社は旭化成の子会社のため§3-3では単体が要るが、旭化成有報第134期「関係会社の状況」に同社売上高が連結売上高の10%超と明記＝単体でも2,900億円超。建築請負4,416億も単体事業。単体基準でも300億を大幅超過し○で確定。G列には「連結」と明記のこと",
+  "J": "https://www.asahi-kasei.co.jp/file.jsp?id=1034817;https://www.asahi-kasei.com/jp/ir/library/financial_report/pdf/134j_0625.pdf;https://www.asahi-kasei.co.jp/j-koho/company/performance/index.html/"
+ },
+ {
+  "行": 659,
+  "I": "○ 妥当（反証を試みたが追認）：自社HP「トンボグループ連結決算」ページの実在と連結売上高461億8,500万円（2025年6月期）を独立に再現。会社概要のグループ従業員1,880人・資本金2億6,187万円と整合。宮城トンボ・福島トンボ等の販売会社を傘下に持つ親会社で上位に持株会社なし＝§3-3により連結値で判定可。決算期も直近3期内。○で確定",
+  "J": "https://www.tombow.gr.jp/corporate/public_info.html;https://www.tombow.gr.jp/corporate/gaiyo.html"
+ },
+ {
+  "行": 660,
+  "I": "△ 要再確認：官報決算公告（catr.jp収録）で第37期（2025年1月期）単体売上高4,688億1,700万円、第33期（2021年1月期）3,217.77億円を確認。300億は大幅超過だが出典がcatr.jpのため§7-1未決着。catr.jpが承認されれば○に回収可。当たった経路＝官報決算公告DB（1次未踏）",
+  "J": "https://catr.jp/companies/2981e/6131/settlements/6579d/429268;https://catr.jp/companies/2981e/6131/settlements/63439/229521"
+ },
+ {
+  "行": 661,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HPの決算公告ページ（1次未踏）を確認したが、第50〜52期とも掲載は貸借対照表と注記事項のみで損益計算書がなく売上高欄が存在しない。官報決算DBも売上高「-」。親会社パナソニック ハウジングソリューションズのIRも子会社単体値なし",
+  "J": "https://panasonic.co.jp/phs/pheq/kessan/;https://catr.jp/companies/61c8c/179401/settlements/35030/305701;https://panasonic.co.jp/phs/pheq/corp/"
+ },
+ {
+  "行": 667,
+  "I": "△ 妥当（自社HPを再確認）：kyoritsuseiyaku.co.jp をドメイン限定で再検索したが、会社概要・共立製薬について・事業領域・役員一覧・ニュース一覧のいずれにも売上高の記載なし。承認ソースで確認できるのは決算公告DB経由の純利益等のみで、売上高792億円は二次情報にとどまる。§7-1未決着とあわせ確認不可のまま。自社HP経路の追加探索は不要",
+  "J": "https://www.kyoritsuseiyaku.co.jp/company/company.html;https://prtimes.jp/finance/8010001014420/settlement;https://catr.jp/companies/ddb85/69342"
+ },
+ {
+  "行": 671,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告DB（catr.jp 会社情報ページ／1次未踏）に売上高の掲載なし、gBizINFOも決算情報なし、自社HP会社概要は資本金4.5億円・2019年10月設立の記載のみで売上高欄なし。デンソー本体のIR・決算資料にも子会社単体値なし",
+  "J": "https://catr.jp/companies/9cd1d/8654;https://www.denso.com/group/denso-wipersystems/company/information/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2030001032632"
+ },
+ {
+  "行": 675,
+  "I": "△ 妥当（1次の理由付けを訂正）：「上場企業だから開示は必ずある」は誤り。ベインキャピタルのTOB成立（2024年3月6日）により2024年4月25日に上場廃止済で、以後の通期開示は存在しない。承認ソースの実績は2023年3月期連結436.67億が最新＝§3-8の直近3期外。2024年3月期はQ3累計343.17億の実績のみで通期実績未取得、かつTOB後はSPC傘下の子会社となり単体値が必要。回収見込みは低く追加探索不要",
+  "J": "https://www.jpx.co.jp/news/1023/20240327-12.html;https://www.toka-global.com/corp/ir/result/;https://www.toka-global.com/corp/ir/result/detail/files/2023051001.pdf"
+ },
+ {
+  "行": 676,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告DB（1次未踏）で2026年3月期の決算公告を確認したが、掲載は純利益25.47億円・利益剰余金31.33億円・総資産255.05億円のみで売上高欄が「-」（貸借対照表のみの公告）。TOPPAN HD有報・自社HPにも単体売上高なし",
+  "J": "https://catr.jp/companies/ddb64/21090;https://www.toppan-c.co.jp/company/"
+ },
+ {
+  "行": 681,
+  "I": "△ 要再確認（決算期を特定）：第53期＝2024年3月期・単体売上高351億4,500万円（営業利益12.31億／経常12.67億／純利益8.31億）と判明し、§3-8の直近3期内に収まる。catr.jpとkanpo.tremolo.workの2つの官報二次サイトで数値が一致。決算公告は単体のため親子判定の影響を受けず300億超。残る障害は§7-1（官報二次サイトが承認ソースか未確定）のみで、承認されれば即○回収可",
+  "J": "https://catr.jp/companies/d6f89/15388/settlements/b7e09/307915;https://kanpo.tremolo.work/disclosures/197429;https://www.nichii-lease.com/company/"
+ },
+ {
+  "行": 683,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告DB（1次未踏）で第106期決算公告を確認したが、掲載は純利益17.53億円・利益剰余金14億円・総資産373.69億円のみで売上高欄がない（貸借対照表のみの公告）。富士フイルムHDのIR・セグメント別データにも同社単体値なし",
+  "J": "https://catr.jp/companies/b0ee8/24321/settlements/69326/264512;https://catr.jp/companies/b0ee8/24321;https://ir.fujifilm.com/ja/investors/performance-and-finance/segment2.html"
+ },
+ {
+  "行": 684,
+  "I": "△ 妥当：確認不可で正しい。むしろ300億未満の疑いが強い。当たった経路＝官報決算公告DB（該当なし／1次未踏）、釧路市HP表彰紹介（売上高記載なし）。報道系では2023年の道内水産加工業売上高ランキングで283億円とされ基準未達の可能性。承認ソースでの売上高開示は確認できず",
+  "J": "https://catr.jp/;https://www.city.kushiro.lg.jp/machi/kyoudou/1009458/1009623.html;https://www.sennosuke.net/onlineshop/company"
+ },
+ {
+  "行": 686,
+  "I": "△ 要再確認（法人格の懸念は解消）：2024年4月1日の富士通による吸収合併の消滅会社は富士通クラウドテクノロジーズであり同社ではない。富士通公式の企業情報ページが現存し§6-7の消滅リスクはなし。ただし第40期1,499.48億円の決算期年度が依然未特定で§3-8を満たすか不明、出典もcatr.jp／PR TIMESで§7-1未決着のため△を維持",
+  "J": "https://global.fujitsu/ja-jp/subsidiaries/personal/about/profile;https://catr.jp/companies/59aa1/57581/settlements/66638/422356;https://prtimes.jp/finance/3010401057619/settlement"
+ },
+ {
+  "行": 698,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝ゼンショーHDの下の中間持株会社ゼンショーファクトリーホールディングス（zfhd.co.jp／1次未踏）の企業情報・傘下会社一覧、および官報決算公告DBを確認したがGFF単体の売上高開示なし。自社HP会社情報にも売上高欄なし",
+  "J": "https://www.zfhd.co.jp/company/;https://www.zfhd.co.jp/profile/;https://www.global-foodfactory.jp/gffinfo.html"
+ },
+ {
+  "行": 701,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告DB（catr.jp／1次未踏）に同社の決算公告収録なし、自社HP企業情報にも売上高欄なし。流通する2025年3月期854.1億円はマイナビ・NIKKEI COMPASS等の禁止ソース由来で承認ソースに記載なし。JERA・日本製鉄のIRにも単体値なし",
+  "J": "https://catr.jp/;https://kashima-ktp.co.jp/about/;https://kashima-ktp.co.jp/"
+ },
+ {
+  "行": 705,
+  "I": "△ 要再確認（数値に疑義）：catr.jpを除外して再検索したところ、別の官報二次サイト（kanpo.tremolo.work）に第57期決算公告があり、2026年3月期の売上高として4億2,200万円という不整合な値が返った。1次の第60期553.9億／508.69億と桁が合わず、いずれかが誤読の可能性。シャープ有報「関係会社の状況」でも単体売上高を特定できず。§7-1未決着に加え数値自体が未確定のため△維持",
+  "J": "https://kanpo.tremolo.work/disclosures/163631;https://corporate.jp.sharp/ir/library/securities/;https://catr.jp/companies/532a2/12412"
+ }
+]

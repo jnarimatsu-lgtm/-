@@ -1,0 +1,77 @@
+[
+ {
+  "行": 707,
+  "I": "△ 要再確認：官報決算公告（catr.jp収録）第23期・決算末日2026年3月31日で単体売上高2,289.94億円（純利益244.95億円／総資産2,433.29億円）＝300億超を確認。京セラ子会社だが単体基準を満たす。ただし出典がcatr.jp単独で§7-1（catr.jpが承認ソースか）未決着。京セラ有報「関係会社の状況」の主要な損益情報等は本文PDFを検索経由で確認できず。追加で当たった経路＝官報決算公告DB・京セラIR有報ライブラリ・自社HP会社概要",
+  "J": "https://catr.jp/companies/bf783/26068/settlements/18314/319445;https://catr.jp/companies/bf783/26068;https://www.kyocera.co.jp/ir/library/yuho.html;https://www.kyoceradocumentsolutions.com/global/ja/about-us/profile.html"
+ },
+ {
+  "行": 708,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告DB（catr.jp）に富山村田製作所の個社ページ・決算公告が存在しない、村田製作所2026年3月期決算短信（連結IFRSのみで子会社単体の開示なし）、村田グループ会社紹介ページ。単体売上高を開示する承認ソースは見つからず。未踏経路＝官報本体（インターネット版官報・官報情報検索サービス）",
+  "J": "https://catr.jp/pref/16;https://www.murata.com/ja-jp/group/toyamamurata;https://corporate.murata.com/ja-jp/group/toyamamurata/profile/overview"
+ },
+ {
+  "行": 709,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告DB（catr.jp）に会社ページはあるが決算公告の売上高を確認できず、自社HP企業情報、gBizINFO。二次サイト（アラームボックス／gurafu.net／官報決算データサービス）に「売上高45,862百万円＝458.62億円」とあるが承認ソースではなく決算期も特定できないため不採用。未踏経路＝官報本体・自社電子公告",
+  "J": "https://catr.jp/companies/14035/109693;https://www.lbm.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010401032062"
+ },
+ {
+  "行": 710,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP電子公告ページ・自社HP IR情報ページの存在を新たに確認したが売上高の数値をテキストで取得できず、官報決算公告DB（catr.jp）は第70期どまり、インフロニアHD 2026年3月期決算説明資料・グループ体系図にも前田製作所単体の売上高記載なし。上場廃止（6281）後の有報は3期超で§3-8により不採用。未踏経路＝自社電子公告PDF本文・インフロニアHD有報巻末",
+  "J": "https://www.maesei.co.jp/corporate/publicnotice/;https://www.maesei.co.jp/corporate/ir/;https://catr.jp/companies/7f052/68113/settlements/f7f6b/393989;https://www.infroneer.com/jp/ir/"
+ },
+ {
+  "行": 711,
+  "I": "× 要修正：官報決算公告（catr.jp収録）で2025年12月期（決算末日2025年12月31日）単体売上高229.71億円（前期比+16.13%）＝300億未満。キヤノン子会社のため§3-3により単体基準で判定し対象外。キヤノン連結売上に対し10%未満で親会社有報の主要な損益情報等には非該当。出典がcatr.jp単独で§7-1未決着だが、いずれにせよ直アポ大には載せない",
+  "J": "https://catr.jp/companies/56194/1456;https://tokki.canon/corporate/outline.html;https://global.canon/ja/ir/results/2025/rslt2025j.pdf"
+ },
+ {
+  "行": 716,
+  "I": "○ 回収：G列＝808.93億円（2025年3月期・連結営業収益、前期比+5.71%）。EDINET提出の有価証券報告書 第49期（自2024/4/1至2025/3/31、2025年6月25日提出・E32448）で確認＝承認ソース§3-4②。自社HP財務状況ページにも連結財務諸表を掲載。当社は子会社8社・関連会社2社を擁する有報提出会社＝親会社であり（野村HD等の子会社ではない）、§3-3により連結値の採用可。1次が未踏だったEDINET経路（§5-3経路3）で回収",
+  "J": "https://www.nomuratrading.co.jp/about/financial;https://irbank.net/E32448;https://www.nikkei.com/nkd/company/kessan/?nik_code=0036052;https://www.nomuratrading.co.jp/about/outline"
+ },
+ {
+  "行": 719,
+  "I": "× 要修正：【300億未満】売上高41.32億円（第47期・2025年3月期・単体、営業損失3.02億円）。第46期41.70億円／第45期44.58億円と整合。公式の年間取扱高1,146億円はカード取扱高であり売上高ではないとの1次判断が正しい。河北新報「赤字転落 日専連ライフサービス＜決算東北＞」（2025/6/25）が同期の赤字転落を報道し方向性は一致（承認ソース§3-4④）。E列「1,000億円以上」は誤り",
+  "J": "https://catr.jp/companies/b8b33/16699/settlements/611f7/413004;https://kahoku.news/articles/20250625khn000059.html;https://kahoku.news/articles/20240625khn000071.html;https://www.nissenren-sendai.or.jp/company/profile.html"
+ },
+ {
+  "行": 720,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝旭化成グループ会社の決算公告・電子公告一覧、旭化成メディカル電子公告ページ、官報決算公告DB（catr.jp）。決算公告は貸借対照表のみで売上高欄が存在せず（2024年3月期＝純利益2.38億円／利益剰余金20.34億円／総資産56.36億円のみ開示）、会社法上も売上高の開示義務がないため探しても出てこない。△が確定した結論",
+  "J": "https://www.asahi-kasei.com/jp/ir/affiliates/;https://www.asahi-kasei.co.jp/medical/news/ir/;https://www.asahi-kasei.co.jp/medical/company/summary/"
+ },
+ {
+  "行": 721,
+  "I": "△ 要再確認：官報決算公告（catr.jp／PR TIMES決算公告に収録）で第32期 単体売上高1,077.55億円（営業利益57.63億円・経常利益56.24億円・純利益40.41億円・総資産527.84億円）＝300億超を確認。ただし①出典がcatr.jp等の官報二次サイトのみで§7-1未決着、②第32期が西暦何年何月期か特定できず§3-8の直近3期判定ができない。追加で当たった経路＝官報決算公告DB・自社公式ニュースリリース。回収見込みは高い",
+  "J": "https://catr.jp/companies/84ea3/42115/settlements/bf73f/401172;https://catr.jp/companies/84ea3/42115;https://prtimes.jp/finance/9011101019705/settlement;https://www.bostonscientific.com/jp-JP/"
+ },
+ {
+  "行": 723,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP企業情報（沿革）・関連会社/グループ企業ページ・拠点一覧・採用サイト（recruit.frontier-ph.com）、官報決算公告DB（catr.jp）。同名の「株式会社フロンティア」「フロンティア株式会社」が多数あり法人番号8012701003116に一致する決算公告に到達できず、自社HPもグループ売上608億円の記載のみで単体売上高の開示なし",
+  "J": "https://www.frontier-ph.com/about-frontier/;https://www.frontier-ph.com/company_info/history/;https://www.frontier-ph.com/company/frontier-group/"
+ },
+ {
+  "行": 726,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告DB（catr.jp）第54期＝貸借対照表のみで売上高欄なし（純利益12.03億円／総資産245.38億円）、官報検索（2025/6/27 官報号外第146号に決算公告掲載）、自社HP会社情報、gBizINFO。公式のショップ売上高769億円はテナント総売上で会社の売上高ではないとの1次判断が正しい。禁止ソース（マイナビ／Wikipedia）には2024年度売上高118.4億円＝300億未満とあり、300億超の見込みは低い",
+  "J": "https://catr.jp/companies/655c5/21400;https://search.kanpoo.jp/r/20250627g146p188-7e8/;https://www.jryscc.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5021001037207"
+ },
+ {
+  "行": 728,
+  "I": "○ 回収：G列＝2,731.41億円（2024年3月期・単体営業収益）。三菱地所 第120期有価証券報告書（2023年度・自2023/4/1至2024/3/31）「関係会社の状況」で当社は連結営業収益の10%超に該当し、主要な損益情報等として営業収益273,141百万円を開示＝§5-3経路6・承認ソース§3-4②。三菱地所の子会社だが単体で300億を大幅超過し§3-3を満たす。2024年3月期は§3-8の直近3期内（2026/3期・2025/3期・2024/3期）",
+  "J": "https://www.mec.co.jp/ir/library/2024/yuho2023.pdf;https://www.mec.co.jp/ir/library/yuho.html;https://www.mec-r.com/company/ir.html;https://www.mec-r.com/company/outline.html"
+ },
+ {
+  "行": 732,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告DB（catr.jp）の個社ページ・最新決算公告＝貸借対照表のみで売上高欄なし（純利益8.27億円／利益剰余金86.91億円／総資産243.40億円）、自社HP会社情報。業界メディア（ダイヤモンド・チェーンストアオンライン）に2023年7月期 売上高553.16億円とあるが新聞社ソースではなく、かつ4期前で§3-8の直近3期外のため不採用",
+  "J": "https://catr.jp/companies/fe6b7/50395;https://catr.jp/companies/fe6b7/50395/settlements/30d42/401074;https://foodmarket-mom.com/corporate/company.html"
+ },
+ {
+  "行": 733,
+  "I": "△ 妥当：確認不可で正しい。ただし回収見込みが高い。追加で当たった経路＝自社HP「数字で見る」ページ（売上・連結2,603億円）を新たに発見したが、大和ハウス工業の子会社のため§3-3により連結値は使えず単体が必要。自社HP決算情報ページに第37期・第39期の計算書類PDF（貸借対照表・損益計算書）が公開されているが単体売上高の数値をテキストで確認できず。官報決算公告でも単体売上高に到達せず",
+  "J": "https://www.dh-realty.co.jp/company/number/;https://www.dh-realty.co.jp/company/ir/;https://www.dh-realty.co.jp/company/ir/pdf/39/financial_statements.pdf;https://www.dh-realty.co.jp/company/profile/"
+ },
+ {
+  "行": 742,
+  "I": "○ 回収：538億円（2024年度・単体）。自社HP会社概要に「売上高：ハイム538億円（2024年度）／グループ連結713億円（2024年度）」「従業員数：ハイム623名／グループ連結1,187名（2025年4月現在）」「資本金4億円・積水化学工業株式会社100%出資」と明記。積水化学の子会社だが単体（ハイム＝当社単体）538億円で300億超のため§3-3を満たす。承認ソース＝自社HP会社概要（§5-3経路1）。1次が当たっていなかった経路",
+  "J": "https://www.816kinki.com/gaiyou;https://catr.jp/companies/47297/53752;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7120001125364"
+ }
+]
