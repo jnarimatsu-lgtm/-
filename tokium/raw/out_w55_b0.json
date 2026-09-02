@@ -1,0 +1,52 @@
+[
+ {
+  "行": 4113,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=0300(さいたま地方法務局)で本店さいたま市中央区下落合と一致し同名別法人を否定／自社HP absgp.jp 会社概要／gBizINFO／官報決算公告(catr.jp索引にも該当なし)／電子公告／全日本不動産協会の宅建業者検索／埼玉県NPO情報ステーション。実態はレンタルオフィス・SOHO支援・不動産業の小規模事業者で、承認ソースに売上高の記載なし。E列「300億以上」はSF側の誤登録の可能性が高い。",
+  "J": "https://absgp.jp/company/ ; https://www.fudousan.or.jp/property/agency/detail?id=097c988a360f51a4 ; https://compalyze.co.jp/company/7030001015954"
+ },
+ {
+  "行": 4115,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=3100(長崎地方法務局)。当該法人番号は長崎市小江原2-35-3の法人で2024年10月設立(登記情報ベース)＝直近3期の実績自体が存在せず、E列「1,000億円以上」は明白なSF誤登録。D列 backoffice.co.jp / back-office.co.jp(中小企業向け記帳・給与計算代行)とは所在地が一致せずB列とD列の紐付け自体に疑義。自社HP会社概要・官報決算公告(catr.jp)・gBizINFOを確認したが売上高の記載なし。",
+  "J": "https://backoffice.co.jp/ ; https://www.back-office.co.jp/profile/ ; https://catr.jp/companies/5fe29/218940 ; https://alarmbox.jp/companyinfo/entities/7310001019241"
+ },
+ {
+  "行": 4116,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=0109(東京法務局の出張所)で本店東京都世田谷区等々力と整合／自社HP address-kk.co.jp・address-kk.info 会社概要(DM・冊子の封入封緘・発送代行、創立昭和47年4月、資本金1,000万円)／官報決算公告(catr.jp)／gBizINFO。資本金1,000万円の発送代行業で承認ソースに売上高の記載なし。※検索上位の多拠点コリビング「ADDress」を運営する株式会社アドレスは別法人、取り違え注意。",
+  "J": "http://www.address-kk.co.jp/gaiyou1.htm ; https://www.address-kk.info/ ; https://catr.jp/companies/69e4e/140938"
+ },
+ {
+  "行": 4117,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=0500(水戸地方法務局)＝茨城県法人。NIKKEI COMPASSも「茨城県の受託開発ソフトウェア業」と記載し整合。検索で出る ui-soft.co.jp(青森県八戸市の同名社)は別法人の可能性が高く根拠に使えない。自社HP・EDINET・TDnet・官報決算公告・gBizINFOを確認したが承認ソースに売上高の記載なし。受託開発の小規模事業者でE列「300億以上」と整合しない。",
+  "J": "http://www.uisoft.co.jp/ ; https://www.nikkei.com/compass/company/7hPTVRn5shZFdvBQCBnCPT ; http://www.ui-soft.co.jp/about.html"
+ },
+ {
+  "行": 4118,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=2400(広島法務局)で本店広島市中区紙屋町と一致／自社HP mbsh.jp/outline/ 会社概要＝2016年4月設立・資本金3,000万円・総合経営コンサルティング(会計/人事労務/法務代行、派遣・職業紹介、食料品卸)／gBizINFO／官報決算公告。承認ソースに売上高の記載なし。設立2016年・資本金3,000万円の規模でE列「300億以上」は整合しない。※毎日放送(MBSメディアHD)およびＭＢＳ株式会社(7240001047051)は別法人。",
+  "J": "https://mbsh.jp/outline/ ; https://mbsh.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7240001047051"
+ },
+ {
+  "行": 4121,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=2900(福岡法務局)で本店福岡市西区泉と一致／自社HP ksso.co.jp 会社概要・採用サイト／gBizINFO／元岡商工連合会の会員紹介／官報決算公告。承認ソースに売上高の記載なし。流通する「2018年2月期 売上高5,428万8千円」はNIKKEI COMPASS/Baseconnect系(§6-6の禁止ソース、かつ§3-8の直近3期外)のためG列に採用不可。ただし300億とは3桁の乖離があり、E列は明白なSF誤登録。",
+  "J": "https://ksso.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9290001000185 ; https://www.nikkei.com/compass/company/5QEyFUox4gvEtmHTqoLirx"
+ },
+ {
+  "行": 4122,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=3800(福島地方法務局)で本店福島県須賀川市と一致／自社HP tmc-jinji.com 企業情報(2017年7月設立、給与計算・経理BPO)／gBizINFO／官報決算公告。§5-3の6(親会社IR)も、親のTMCグループ(栃木県那須塩原市・1985年6月設立・資本金5,000万円)が非上場で有報・決算短信を出しておらず使えない。※検索で出る「売上高304億円」は同略称の別法人(TMCシステム等)の値で流用不可。",
+  "J": "https://www.tmc-jinji.com/about/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9380001028333"
+ },
+ {
+  "行": 4123,
+  "I": "△ 妥当：確認不可で正しい。法人格は§3-6クリア＝種別コード02(旧有限会社系)で高知県製造業ポータルも「有限会社ソイルファーム」表記だが、gBizINFO(公的ソース)の登記商号は「株式会社ソイルファーム」。当たった経路＝法人番号2-5桁=4900(高知地方法務局)で本店高知県四万十市横瀬と一致／自社HP soil-farm.com 会社概要(2004年4月設立、育苗培土・炭化装置)／gBizINFO／イプロス／官報決算公告。承認ソースに売上高の記載なし。",
+  "J": "http://www.soil-farm.com/company/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9490002008430 ; https://www.kochi-seizou.jp/introduction/?type=T&mid=147&lang=jp"
+ },
+ {
+  "行": 4124,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=0133(東京法務局の出張所)で本店東京都豊島区西巣鴨と整合／自社HP daiichi-hassou.com 会社概要(創業50年超のDM発送代行・封入封緘・データ入力)／イプロス都市まちづくり企業情報／gBizINFO／官報決算公告。承認ソースに売上高の記載なし。DM発送代行の小規模事業者でE列「300億以上」と整合しない。※第一貨物株式会社・株式会社第一は別法人、取り違え注意。",
+  "J": "https://www.daiichi-hassou.com/ ; https://kensetsu.ipros.jp/company/detail/2104435/"
+ },
+ {
+  "行": 4125,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝法人番号2-5桁=0300(さいたま地方法務局)で本店埼玉県川越市と一致／自社HP staff-a.co.jp 会社概要(法務・労務・経理・総務のワンストップ受託、人材派遣・紹介)／gBizINFO／全国法人リスト／官報決算公告。承認ソースに売上高の記載なし。※a-staff.work の株式会社エースタッフ(物流系派遣)は別法人で取り違え注意。E列「300億以上」はSF側の誤登録の可能性が高い。",
+  "J": "http://www.staff-a.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1030001057787 ; https://houjin.jp/c/1030001057787"
+ }
+]
