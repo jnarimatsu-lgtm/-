@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3546,
+  "I": "○ 回収：自社HP会社概要（承認ソース①）に「売上高 約330億円」と明記。同ページは従業員115人・令和6年1月1日現在と基準日を明示し、サイトは2026年分マーケットレポートを継続掲載＝現行値。単体（非上場・京都市下京区／法人番号5130001056107は登記所1300＝京都で本社と一致、ロイヤルHD等との別法人取り違えなし）。決算期の明記はないため直近期の特定は不可だが、承認ソース上300億超のため回収。※330億は基準に近く要留意",
+  "J": "http://www.royal-jp.com/corporate.html; https://www.royal-jp.com/corporate.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5130001056107"
+ },
+ {
+  "行": 3548,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO法人情報、官報決算公告索引（直近確認できた公告は当期純利益600万円・総資産6.22億円のみで売上高欄が存在しない＝貸借対照表のみの公告、開示義務なし）、自社HP会社概要、全国法人リスト。法人番号4030001061596＝東京都港区六本木・パチンコホール経営・従業員332人。公式918億円はメッセHD／グループ値で§3-3により子会社には使用不可。Baseconnect等は禁止ソース",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4030001061596; https://www.p-messe.com/company/corporate/; https://houjin.jp/c/4030001061596"
+ },
+ {
+  "行": 3549,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社情報・沿革ページ、gBizINFO、官報決算公告索引。食品販促のラベル企画・製造・印刷、1973年8月設立、資本金8,000万円、従業員約100名、東京都港区新橋（法人番号5010401050217＝登記所0104東京で整合）。承認ソースに売上高の記載なし。マイナビ転職・Baseconnect・jobtalk・バフェットコードのみで禁止／非承認。E列「1,000億円以上」は規模と整合しない",
+  "J": "https://www.tomo-jsp.co.jp/company.html; https://www.tomo-jsp.co.jp/news/company_info; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010401050217"
+ },
+ {
+  "行": 3550,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（cccommunications.co.jp）、gBizINFO、官報決算公告索引、全国法人リスト。旧商号「株式会社subLime design」でSF登録の32lime-design.comと整合、法人番号9011101052821＝登記所0111東京・中央区銀座で一致。総合人材サービス、2008年11月設立、資本金1,650万円、従業員143名。決算情報は問い合わせ対応で非開示。SalesNow/Baseconnectは禁止ソース。E列1,000億以上は規模と不整合",
+  "J": "https://cccommunications.co.jp/corporate/companyprofile/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011101052821; https://houjin.jp/c/9011101052821"
+ },
+ {
+  "行": 3551,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、gBizINFO、親会社（毎日新聞社／毎日新聞グループHD）側の公表資料・EDINET開示。ニュースサイトおよびデータベース制作の子会社で、親会社有報「関係会社の状況」に実額が載るのは連結売上高10%超の会社に限られ同社は該当せず記載を確認できなかった（下限証明も不可）。NIKKEI COMPASS・Yahoo!しごとカタログ・doda・Wikipediaは非承認ソース",
+  "J": "https://mainet.jp/details.html; https://www.nikkei.com/compass/company/fHDHExytJRmPPQwYLx5UFd"
+ },
+ {
+  "行": 3554,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（asumu.jp 会社概要・グループ会社）、gBizINFO、官報決算公告索引、全国法人リスト。法人番号7010001081230＝登記所0100東京本局・中央区銀座で一致。マンション運営管理／施設セキュリティ／集合住宅清掃、2002年12月設立、資本金3,000万円、従業員50〜300人未満。承認ソースに売上高記載なし。SalesNow/Baseconnectのみで禁止ソース。E列1,000億以上は規模と不整合",
+  "J": "http://www.asumu.jp/group.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001081230; https://houjin.jp/c/7010001081230"
+ },
+ {
+  "行": 3555,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（letsnext.net/corporate）、事業内容ページ、gBizINFO、官報決算公告索引。法人番号9200001016966＝登記所2000岐阜地方法務局で本店・岐阜市橋本町2-52 岐阜シティタワー43と一致し同名他社ではない。愛知・岐阜中心の人材派遣業。gBizINFOに決算情報の掲載なし（官報情報の公開許諾なし）。はたらこねっと・人材バンクネットは禁止ソース。E列1,000億以上は規模と不整合",
+  "J": "https://www.letsnext.net/corporate/company.php; https://www.letsnext.net/jigyou/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9200001016966"
+ },
+ {
+  "行": 3556,
+  "I": "○ 回収：gBizINFO（経済産業省＝§3-4③公的機関）の財務情報に第171期決算公告（2025年6月30日官報掲載、2025年3月期）として売上高1,799億4,000万円・単体を確認。日本郵船の子会社だが単体で300億基準を大幅超過（§3-3クリア）。前期1,694億円・前々期1,579.78億円も同水準で判定は反転しない。法人番号5010001069979＝登記所0100東京本局で本店東京と整合。catr.jpに依存せず§7-1論点を回避",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=7cc213e2-e832-47a0-b61a-a5c4c36beac1; https://nbpc.co.jp/company/access"
+ },
+ {
+  "行": 3560,
+  "I": "△ 妥当：確認不可で正しい（トリアージにより追加検索0クエリ・構造的理由で確定）。当たった経路＝親会社共立メンテナンスの組織図／グループ会社ページ、gBizINFO（法人番号4010001148742）。障害者雇用の特例子会社であり、親会社連結の10%超に該当せず有報「関係会社の状況」に実額記載なし（下限証明も不可）。単体売上高を開示する承認ソースが存在しない。E列1,000億以上は特例子会社の事業実態と整合しない",
+  "J": "https://www.kyoritsugroup.co.jp/company/organization/assist/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010001148742"
+ },
+ {
+  "行": 3563,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP（会社概要・沿革・採用）、gBizINFO、全国法人リスト、官報決算公告索引。法人番号8011101022619＝登記所0111東京・新宿区西新宿2-4-1 新宿NSビル25Fで一致。人材派遣／人材紹介と求人サイト「しごとナビ」運営、1980年4月設立、資本金5,000万円。※リスのプラスチックグループのリス株式会社（7200001005814）とは別法人で、risu.co.jpのグループ売上高推移は本行に使用不可。承認ソースに売上高記載なし",
+  "J": "https://www.lis21.co.jp/; http://www.lis21.co.jp/lis/topics.asp; https://houjin.jp/c/8011101022619; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7200001005814"
+ }
+]
