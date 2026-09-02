@@ -1,0 +1,77 @@
+[
+ {
+  "行": 579,
+  "I": "△ 妥当：確認不可で正しい。1次経路（自社HP会社概要の792億円＝「グループ連結」と明記、catr.jpは親会社リカマンHD分のみ、gBizINFO、禁止ソース各種）に加え、反証層で1次が未踏とした「リカーマウンテン単体の官報決算公告」を再探索。官報・官報二次サイトのいずれにも対象法人6160001007171単体の決算公告は所在せず、返るのはNIKKEI COMPASS／バフェット・コード等の非承認ソースのみ。HD傘下の子会社は§3-3により単体値のみ可のため、単体売上高を承認ソースで確認できず△を維持。未踏経路は消化済み。",
+  "J": "https://www.likaman.co.jp/outline/company.html;https://catr.jp/companies/0460c/42731;https://www.nikkei.com/compass/company/5jfX1kuRLjSCMzLcdhVEZg"
+ },
+ {
+  "行": 580,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO（決算情報の公開許諾なしで売上高欄なし）、官報決算公告DB（catr.jpに載るのはスジャータめいらく株式会社の公告で東京めいらく単体ではない）、日本食糧新聞（新聞社＝承認ソースだが記事は「めいらくグループ」6年3月期のグループ値1,780億円台であり対象法人単体ではない）、自社グループHP会社概要。単体値として流通するのは210.41億円（2015年報道）のみで§3-8の鮮度条件外かつ300億未満。",
+  "J": "https://www.sujahta.co.jp/company/gaiyo/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180001023980;https://news.nissyoku.co.jp/news/nss-7729-0021"
+ },
+ {
+  "行": 584,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告DB（catr.jpに掲載があるのは株式会社メイワパックスホールディングスの公告のみで、対象法人4122001021273単体の公告は不掲載）、gBizINFO、NIKKEI COMPASS、自社HP会社概要。309億円（2025年3月実績）はマイナビ2027／Yahoo!しごとカタログ等の禁止ソースのみで、HD傘下の子会社は§3-3により単体値が必要。基準300億にほぼ接する水準のため推定不可。§6-6加藤化学と同型。",
+  "J": "https://meiwa.mpx-group.jp/company/outline.html;https://catr.jp/companies/9770e/129957;https://job.mynavi.jp/27/pc/search/corp242323/outline.html"
+ },
+ {
+  "行": 585,
+  "I": "△ 妥当：確認不可のまま維持（1次の「○に回収できる見込みが高い」を反証）。自社HP「公開資料」ページの掲載最新は第47期（2020年3月期）の貸借対照表・損益計算書とみられ§3-8の鮮度条件外。第52期（2025年3月期・単体）売上高530.59億円は官報決算公告の二次サイト（catr.jp／prtimes.jp/finance／NIKKEI COMPASS／個人ブログ）のみで§7-1未決着のため採用不可。親会社は東北電力（2026年3月期決算短信に連結子会社・受電電力量2,791百万kWhと記載＝承認ソース）だが売上高の記載はなし。530.59億÷2,791百万kWh≒19.0円/kWhで金額自体は整合的。§7-1でcatr.jpが承認されれば○に反転する行。",
+  "J": "https://www.sakata-power.co.jp/company/document.html;https://prtimes.jp/finance/8390001006215/settlement;https://www.tohoku-epco.co.jp/news/normal/__icsFiles/afieldfile/2026/04/30/b_1248658.pdf"
+ },
+ {
+  "行": 587,
+  "I": "△ 要再確認：官報決算公告（単体）で第108期・2025年10月期の売上高343億円超、第106期・2023年10月期318.93億円を確認したが、出典がcatr.jpのため§7-1の未決着論点に依存。追加で当たった経路＝自社HP（会社紹介・事業紹介・募集情報。資本金4.5億円、決算期10月31日の記載のみで売上高・電子公告ページは不存在）、gBizINFO、NIKKEI COMPASS。非上場でEDINET・TDnet対象外、親会社なし。catr.jpが承認されれば2期連続300億超のため○に回収可能。",
+  "J": "https://www.sunyo-do.co.jp/company/;https://catr.jp/companies/3bd7c/38591/settlements/959ad/390073;https://catr.jp/companies/3bd7c/38591/settlements/e17fe/338548"
+ },
+ {
+  "行": 588,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO、官報決算公告DB（catr.jpに企業ページはあるが売上高の掲載なし）、親会社・東海澱粉株式会社の企業情報ページ、全国海水養魚協会の会員情報、自社HP会社情報。東海澱粉グループの子会社（本店＝福岡市中央区長浜、従業員131名）で§3-3により単体値が必要。流通する売上高168億円（2025年6月時点）は禁止ソース由来であり、かつ300億を大きく下回るため回収の余地なし。",
+  "J": "http://www.tokai-seapro.co.jp/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2290001023226;https://catr.jp/companies/85945/41290;https://www.tdc-net.co.jp/company/"
+ },
+ {
+  "行": 594,
+  "I": "△ 妥当：確認不可で正しい。反証層で1次が未踏とした親会社JAEの有報「関係会社の状況」を追加検証したが、弘前航空電子単体の売上高は取得できず。検索が一度「売上高25,637百万円」を返したものの、当該値をシードした再検索で一切再現せず裏取り不能（§6-6型の幻値と判断し不採用）。同社はJAEの全額出資100%子会社（1979年設立）で§3-3により単体値必須。内部売上を除く売上高が連結の10%基準に届かず有報「主要な損益情報等」の開示対象外と考えられる。流通する371億円（2023年3月期）は禁止ソースのみかつ鮮度条件外。",
+  "J": "https://www.jae.com/hirosaki/corporate/profile/data/;https://www.jae.com/ir/financial/indicators/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3420001009375"
+ },
+ {
+  "行": 598,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP、親会社・日本製鉄のIR／グループ会社情報、公的情報、官報決算公告DB。1次確認のとおり2025・2026年3月期は売上高非開示で、唯一流通する2024年3月期50.4億円（未承認catr.jp）は300億を大きく下回る。社名のとおり日鉄グループの管理運営会社であり、単体で300億に達する事業規模とは考えにくく、仮に承認ソースが出ても○にはならない。回収見込みなしと判断し追加検索は行わず△を確定。",
+  "J": "https://www.nspc.nipponsteel.com/"
+ },
+ {
+  "行": 599,
+  "I": "△ 保留（判定は不変だが1次の根拠記述を訂正）：1次の「catr.jp抽出値が自社HPの連結551億円と桁レベルで整合せず信頼不可」は誤り。官報決算公告（単体）は第43期505.65億円（営業利益23.21億・経常22.74億・純利益15.03億・総資産355.16億）、第38期433.49億円、第37期426.92億円で、自社HPの2025年3月期連結551億円と整合する。第43期はcatr.jpとprtimes.jp/financeの2つの独立ミラーに掲載。ただし出典が官報二次サイトのみで§7-1未決着のため○にはできない。親会社・大王製紙の有報「関係会社の状況」は連結売上高10%基準未満で主要な損益情報等の開示対象外。§7-1承認なら単体505.65億円で○に反転する行。",
+  "J": "https://www.daio-package.co.jp/company/about/;https://catr.jp/companies/44157/19642/settlements/6376e/423968;https://prtimes.jp/finance/8080001016484/settlement"
+ },
+ {
+  "行": 600,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFOの決算公告データ（第79期・2023年6月30日公告）、官報決算公告DB（catr.jp 第80期売上高232.18億円、第81期売上高179.3億円・当期純損失39.92億円）、自社HP。直近の単体売上高はいずれも300億円を大きく下回り、回収の余地はない。自社公式で確認できる連結473億円は2022年3月期で§3-8の鮮度条件外。2026年9月末に生産・販売から撤退予定との情報もあり。実質は300億未満の可能性が高いが承認ソースで確定できないため△を維持。",
+  "J": "https://www.mam.co.jp/company/company.html;https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=c84187f5-e650-4523-860f-ab719b7654ad;https://catr.jp/companies/0442e/27614"
+ },
+ {
+  "行": 601,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社案内・組織図、gBizINFO、官報決算公告DB（catr.jpに企業ページはあるが売上高の掲載なし）、企業INDEXナビ、NIKKEI COMPASS。フジパングループの物流会社（本店＝千葉県市川市塩浜、資本金5,000万円、従業員386名）で、流通する売上規模は100億〜300億円レンジ（禁止ソース由来）。E列の「1,000億円以上」は実態と大きく乖離。グループ子会社のため§3-3により単体値が必要だが承認ソースに記載なし。",
+  "J": "https://fujiecho.com/company/company.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4040001027431;https://catr.jp/companies/4a3e9/121574"
+ },
+ {
+  "行": 605,
+  "I": "○ 回収：2026年3月期・連結・営業収益977.16億円（自社IR「連結決算情報」「決算短信」で確認）。1次は「営業収益は売上高ではない」として不採用にしたが誤り。証券持株会社は損益計算書の最上段が『営業収益』で、これが売上高に相当する（§3-7が銀行・保険の『経常収益』を採用と定めるのと同趣旨。有報「主要な経営指標等の推移」でも売上高欄に営業収益を記載）。利益指標ではない。東証プライム上場の持株会社であり§3-3により「ホールディングスはグループ連結300億円超で可」に該当。300億基準を3.3倍上回るため架電可。",
+  "J": "https://www.tokaitokyo-fh.jp/investors/summary/performance/;https://www.tokaitokyo-fh.jp/investors/financial/statement/;https://www.tokaitokyo-fh.jp/investors/summary/highlight/;https://www.tokaitokyo-fh.jp/corporate/profile/"
+ },
+ {
+  "行": 606,
+  "I": "○ 回収：2026年3月期・連結・収益（IFRS）14.00兆円。自社IR「2026年3月期 決算短信〔IFRS〕（連結）」（2026年5月1日開示）で確認。1次は「収益は採用不可」として△にしたが誤り。§3-7が排除するのは『利益』であり、IFRSの『収益（Revenue）』は損益計算書の最上段＝売上高そのもので、同条の「IFRS等で売上収益表記なら売上高と同義として採用」に該当する。東証プライム上場（8031）の親会社で、300億基準の約466倍。原文表記は「収益」。架電可。",
+  "J": "https://www.mitsui.com/jp/ja/ir/library/meeting/pdf/ja_263_4q_ta.pdf;https://www.mitsui.com/jp/ja/ir/library/meeting/2026/index.html;https://www.mitsui.com/jp/ja/ir/library/meeting/index.html"
+ },
+ {
+  "行": 608,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO（法人番号8370001016975で照合。本店＝宮城県仙台市宮城野区、代表取締役清水明義、従業員173名、事業＝遊技場経営・飲食事業・福祉事業・リース業）、NIKKEI COMPASS、官報決算公告DB、自社系サイト（レッツ倶楽部富沢）。承認ソースに売上高の記載は一切なく、OpenWork等の禁止ソースでも「決算データなし」。決算公告も確認できず、直近3期の売上高を確定する手段がない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8370001016975;https://www.lets-club.jp/shop/tomizawa/company.html"
+ },
+ {
+  "行": 610,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO（法人番号3120001049022で照合。本店＝大阪市西区南堀江、設立1898年7月15日、従業員420名、資本金2億5,500万円、ENEOS特約店として石油製品・LPガス・石油化学品販売）、官報決算公告DB（catr.jpに企業ページあり・§7-1で未承認）、NIKKEI COMPASS、マイナビ、SalesNow。流通する392.68億円は2023年3月期で§3-8の鮮度条件外、かつ禁止ソースのみ。直近3期（2024〜2026年3月期）を承認ソースで確認できず。未踏経路＝官報の決算公告実物。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001049022;https://catr.jp/companies/dbfb7/22559"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "行": 537,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(c-kcs.co.jp/company/info/)、三菱食品2022/2/22子会社化リリース、三菱食品2025年3月期決算短信・決算説明資料、法人番号照合。三菱食品の連結子会社のため単体値が必要だが承認ソースに単体売上高なし。流通する850億円（2024年3月期）はNIKKEI COMPASS/就活会議等の禁止ソースのみ、自社公式の723億円は2020年度で鮮度条件外。未踏経路＝官報決算公告(catr.jp収録あり・§7-1未決着)、三菱食品有報「関係会社の状況」。",
+  "J": "https://www.c-kcs.co.jp/company/info/;https://www.mitsubishi-shokuhin.com/news/news_file/file/220222ReleaseHPapo.pdf;https://www.mitsubishi-shokuhin.com/news/news_file/file/20250508_03.pdf;https://catr.jp/companies/6e202/8111"
+ },
+ {
+  "行": 540,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要、gBizINFO(法人番号4010701013411)、富士通有価証券報告書第125期(2025年3月期)※2023年にLongreachへ譲渡済で富士通連結対象外を確認、上場廃止前の富士通コンポーネント決算短信(2018年)。親会社がPEファンドのためIR経路が存在せず、直近3期の単体売上高を承認ソースで確認できない。未踏経路＝官報決算公告。",
+  "J": "https://www.fcl-components.com/about/about.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010701013411;https://www.fcl-components.com/storage/en/press-releases/files/20181024.pdf"
+ },
+ {
+  "行": 547,
+  "I": "○ 回収：2026年3月期 連結営業収益535.17億円（前期比+2.5%／営業利益87.61億円）。東証上場の親会社（コード9010）のため連結値で可。鉄道・運輸・レジャー業は売上高に相当する最上位科目が「営業収益」であり、RULES§3-7が銀行・保険の経常収益を認めるのと同趣旨で採用。出典＝自社IR決算短信・決算説明資料（自社ドメイン）。",
+  "J": "https://www.fujikyu.co.jp/soumu/investors/pdf/2026-03kessantanshin.pdf;https://www.fujikyu.co.jp/soumu/investors/pdf/202603setsumei.pdf;https://www.fujikyu.co.jp/soumu/investors/ir.html"
+ },
+ {
+  "行": 549,
+  "I": "△ 妥当：確認不可で正しい（社名変更を再確認）。当たった経路＝gBizINFO(法人番号2010401059681＝現「三菱電機デジタルイノベーション株式会社」)、自社HP会社概要(mitsubishielectric.co.jp/medigital/corporate/outline/：資本金12.5億円・従業員約6,000名の記載はあるが売上高記載なし)、三菱電機2024/12/12社名決定リリース、三菱電機2026年3月期決算説明会資料。流通する「2024年度売上高1,500億円」はマイナビ等の禁止ソースのみ。三菱電機100%子会社のため単体値が必要。未踏経路＝官報決算公告、三菱電機有報「関係会社の状況」。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010401059681;https://www.mitsubishielectric.co.jp/medigital/corporate/outline/;https://www.mitsubishielectric.co.jp/ja/pr/2024/pdf/1212.pdf"
+ },
+ {
+  "行": 550,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HPの電子公告ページ(https://www.nifty.co.jp/company/kk/ 定款第5条に基づきBS・PLを掲載)の存在は確認したが掲載値をWebSearchで取得できず（WebFetch遮断のため未読取）、ノジマ2025年3月期決算短信・決算説明会資料（インターネット事業セグメント703.34億円までで単体開示なし）、ニフティライフスタイル(4262)は別法人と確認。未踏＝上記電子公告PDFの直読。",
+  "J": "https://www.nifty.co.jp/company/kk/;https://www.nojima.co.jp/wp-content/uploads/2025/05/ede7e86bad2dc35e6244ee34dc9d3fa3.pdf;https://www.nojima.co.jp/wp-content/uploads/2025/05/6139cca74773551109d5f9b0d29ffa7f.pdf"
+ },
+ {
+  "行": 553,
+  "I": "△ 要再確認：官報決算公告（catr.jp収録）第17期＝2024年12月期の単体売上高1,135.28億円を確認（1次記載の1,167.52億円は別期）。300億は大きく超えるが出典がcatr.jp／prtimes financeの官報転載のみで§7-1未決着のため確定できず。追加で当たった経路＝自社HP会社概要・会社案内PDF・グループ企業一覧、JT統合報告書、日経のテーブルマーク企業ページ→いずれも売上高記載なし。JT子会社のため単体値が必要。",
+  "J": "https://catr.jp/companies/8cd98/5021/settlements/5c31d/396373;https://www.tablemark.co.jp/corp/company.html;https://www.tablemark.co.jp/corp/pdf/companyprofile.pdf;https://www.nikkei.com/companies/0040882"
+ },
+ {
+  "行": 559,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝中小機構（独立行政法人中小企業基盤整備機構）「売上高100億円企業」創出支援サイト掲載PDFに株式会社ユーニック（本社=東京都江東区／卸売・小売業／清涼飲料及び関連商品の配送事業・介護住宅リフォーム事業）を確認。同事業は売上高100億円到達を目指す中小企業が対象であり、300億円規模でない可能性が高い（公的機関ソース）。gBizINFO・自社HP会社概要も確認したが売上高記載なし。同名の別法人（法人番号8120901018336・墨田区・自販機オペレーション）と要区別。",
+  "J": "https://growth-100-oku.smrj.go.jp/companies/pdf/00879-00.pdf;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010601021671;https://u-nic.co.jp/about-us/"
+ },
+ {
+  "行": 560,
+  "I": "△ 要再確認：官報決算公告（catr.jp）に決算公告の収録を確認し、流通値は584億円（2024年2月期）・604億円（2025年）で300億を大きく超えるが、前者はcoki等のまとめ記事、後者はマイナビで承認ソース外。§7-1が未決着のためcatr.jp単独では確定できない。追加で当たった経路＝自社HP会社情報・企業理念/会社概要・沿革・ニュースリリース（2025/1/16白十字パーラー事業譲受）、gBizINFO→いずれも売上高記載なし。",
+  "J": "https://www.ellena.co.jp/corporate/profile/;https://www.ellena.co.jp/corporate/;https://catr.jp/companies/7e05c/33882;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4310001005806"
+ },
+ {
+  "行": 561,
+  "I": "× 要修正：【300億未満】約99.44億円（2024年7月期・単体）。ピーク期でも2022年7月期 約104.73億円で300億に遠く及ばない。さらに2025年1月5日に東京地裁へ民事再生法の適用を申請（負債総額約60億円、粉飾決算も発覚）。出典＝東京新聞デジタル記事（決算期・年商明記／承認ソース§3-4の新聞社記事）、帝国データバンク倒産速報、東京商工リサーチTSR速報。直アポ大から除外すべき行。",
+  "J": "https://www.tokyo-np.co.jp/article/460183;https://www.tdb.co.jp/report/bankruptcy/flash/5191/;https://www.tsr-net.co.jp/news/tsr/detail/1202270_1521.html"
+ },
+ {
+  "行": 562,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO(法人番号5011001056835)、H&M Group年次報告、日本法人向け企業情報サイト、業界メディア(WWDJAPAN)→いずれも日本法人単体の売上高開示なし。H&Mグループの世界売上は§3-3により子会社判定に使えない。未踏経路＝官報決算公告、H&M Group Annual Reportの「Sales by market」内訳。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5011001056835;https://www.wwdjapan.com/articles/1318342"
+ },
+ {
+  "行": 563,
+  "I": "△ 要再確認：追加で当たった経路＝自社HPの電子公告ページ(https://asahifm.com/company/public.html)に第56期＝2024年12月期の決算公告掲載を確認、自社HP「数字で知るアサヒファシリティズ」、竹中工務店有価証券報告書(2026/3/26提出・2025年12月期)。流通値は639.40億円(2023年12月期)/670億円(2024年12月期)/743.88億円(2025年12月期)で300億を大きく超えるが、出典がマイナビ・catr.jp・有報抜粋サイト由来で確定できず。また資本金4億5,000万円で大会社に非該当の可能性があり、決算公告が貸借対照表のみ（売上高欄なし）の恐れ。竹中工務店グループ子会社のため単体値が必要。",
+  "J": "https://asahifm.com/company/public.html;https://asahifm.com/feature/infographic.html;https://www.takenaka.co.jp/corp/bspl/pdf/2025_88.pdf;https://catr.jp/companies/1eb56/73597"
+ },
+ {
+  "行": 568,
+  "I": "○ 回収：316億円（2024年2月期・単体）。日本経済新聞2025年10月21日「イオン九州、トキハインダストリーを買収 大分のスーパー」に決算期と売上高が明記（営業利益2.16億円・純資産17.8億円）＝§3-4の新聞社記事。食品新聞(shokuhin.net)も同内容を報道。子会社だが単体で300億超のため§3-3を満たす。※margin薄（316億／基準300億）。2025年3月のランサムウェア被害で2025年2月期決算が未確定、親会社トキハは2025年2月期最終赤字54億円・債務超過。2026年にイオン九州が完全子会社化。直近期で300億割れの可能性は残る。",
+  "J": "https://www.nikkei.com/article/DGXZQOJC217UE0R21C25A0000000/;https://shokuhin.net/133357/2025/10/27/ryutu/kouri/;https://www.tokiwa-industry.co.jp/company/about.php"
+ },
+ {
+  "行": 569,
+  "I": "○ 回収：1,962.44億円（2026年3月期・連結、前期比+1.5%）。2026年3月期決算短信は「売上高（営業収益）」として開示しており、物流業の売上高そのもの（LNEWS報道も「3月期の売上高1.5％増」と表記）。東証プライム上場の親会社（コード9303）のため連結値で可。1次は「営業収益＝売上高でない」として不採用としたが、住友倉庫の短信は売上高科目として計上しているため回収。",
+  "J": "https://www.sumitomo-soko.co.jp/ir/;https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260512/20260327591810.pdf;https://www.lnews.jp/2026/05/s0512503.html"
+ },
+ {
+  "行": 574,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告収録サイト(catr.jp)の株式会社PFU決算公告に2025年3月期の単体売上高263.54億円（前期比-5.6%）＝300億未満を示す記載を確認。§7-1未決着のため×では確定しないが、回収方向ではなく300億未満方向の示唆であり△維持が妥当。自社HP会社業績は2025年度連結売上収益1,240億円のみで単体非開示、リコー2025/3/4完全子会社化リリースも確認。子会社のため単体値が必要。",
+  "J": "https://catr.jp/companies/a5135/57580;https://www.pfu.ricoh.com/ir/;https://www.pfu.ricoh.com/about/profile/;https://jp.ricoh.com/release/2025/0304_2"
+ },
+ {
+  "行": 577,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP企業情報(eiwa-shoji.jp/company_info/、company.eiwa-shoji.jp/about/)、gBizINFO(法人番号4190001014423)、同名別法人（名古屋のNOK系商社 eiwasyoji.com／食品系 eiwa-shoji.com）との切り分け。当該法人は三重県四日市のアミューズメント（パチンコホール「WING」）運営会社で資本金3,300万円・従業員約270名。承認ソースに売上高の記載なし。未踏経路＝官報決算公告。",
+  "J": "http://www.eiwa-shoji.jp/company_info/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4190001014423;https://company.eiwa-shoji.jp/about/"
+ }
+]

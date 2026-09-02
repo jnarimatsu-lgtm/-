@@ -1,0 +1,77 @@
+[
+ {
+  "行": 488,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(資本金4億円・従業員216名の記載のみで売上高なし)・事業所一覧・関連会社ページ・沿革、gBizINFO、官報決算公告データベース(catr.jp)を社名検索したが同社の決算公告は収録なし。403億円はYahoo!しごとカタログ等の禁止ソースのみ。未踏経路＝日刊鉄鋼新聞等の鉄鋼業界紙の決算記事、官報本体。",
+  "J": "http://www.morisada.jp/company-outline/outline.html;http://www.morisada.jp/company-outline/kanren.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5180001033150;https://catr.jp/"
+ },
+ {
+  "行": 489,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP企業情報(profile.html)・社長メッセージ・事業紹介、自社採用ページ「数字とビジュアルでわかる名給まるわかり！」(recruit/num.html)＝ページの存在は確認できたが本文の売上高を取得できず、官報決算公告DB(catr.jp)企業ページ＝売上高の数値を確認できず。二次情報は313.64億円(2025年10月期)と345.40億円(doda)で値が割れており不採用。基準300億に近いため要注意。",
+  "J": "https://www.meikyu.co.jp/about/profile.html;https://www.meikyu.co.jp/recruit/num.html;https://catr.jp/companies/e5e26/185838"
+ },
+ {
+  "行": 491,
+  "I": "△ 要再確認：承認ソースで数値は取得済みだが科目論点が未決着。自社HP企業情報の2025年度 営業収益2,830億円（単体）は承認ソース。追加で当たった経路＝親会社JR東日本の2025年6月18日提出 有価証券報告書および決算説明資料を確認したが「関係会社の状況」に当社単体の売上高記載なし（流通・サービスセグメント営業収益に合算）、catr.jpにも単独決算公告なし。論点は「営業収益を判定基準の売上高として採用できるか」の一点のみで、採用可なら子会社単体で300億を大きく超え○。先方確認事項。",
+  "J": "https://www.jr-cross.co.jp/corp/;https://www.jreast.co.jp/investor/securitiesreport/2025/pdf/securitiesreport.pdf;https://catr.jp/companies/13410/66835"
+ },
+ {
+  "行": 493,
+  "I": "△ 要再確認：承認ソースで数値は取得済みだが科目論点が未決着。自社IRの2026年1月期 単体 営業収益136,508百万円＝1,365.08億円は承認ソース(自社開示)。論点は「営業収益を売上高として採用できるか」のみで、採用可なら子会社単体で300億を大きく超え○。親会社積水ハウス連結（約4兆円）に対し10%未満のため有報「関係会社の状況」には単体損益が載らない見込み。先方確認事項。",
+  "J": "https://www.sekisuihouse-f-chubu.co.jp/company/ir.html;https://www.sekisuihouse-f-chubu.co.jp/company/outline.html"
+ },
+ {
+  "行": 494,
+  "I": "△ 要再確認：新たに官報決算公告の数値を取得。第34期(2024年12月期・単体)売上高1,664.26億円、営業利益43.67億円、経常利益61.85億円、純利益64.28億円。第32期(2022年12月期)は1,645.10億円、第31期1,433.93億円、第30期1,301.36億円と推移も整合。子会社単体で300億を大きく超えるため、出典が認められれば○。ただし出典は官報転載の二次サイト(catr.jp／PR TIMES財務)であり§7-1未決着。当たった経路＝catr.jp第30〜34期公告、PR TIMES財務、東芝IR決算公告一覧。",
+  "J": "https://catr.jp/companies/469a2/32347/settlements/5ce76/400305;https://catr.jp/companies/469a2/32347;https://prtimes.jp/finance/4010001116880/settlement"
+ },
+ {
+  "行": 495,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝親会社太陽誘電の有価証券報告書「関係会社の状況」（当社は群馬県高崎市の関係会社として記載されるが単体売上高は開示規模に達せず）、太陽誘電IR決算短信、官報決算公告DB(catr.jp)企業ページ、gBizINFO。加えて事業内容は労働者派遣・業務請負・人材紹介・給与計算代行等、資本金4,500万円と小規模であり、E列の300億〜1,000億レンジ自体が疑わしい。承認ソースで300億以上を示す記載は一切なし。",
+  "J": "https://www.sunvertex.co.jp/company/;https://catr.jp/companies/b4d93/18819;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4070001006952;https://www.yuden.co.jp/jp/ir/library/financial_results.html"
+ },
+ {
+  "行": 500,
+  "I": "△ 要再確認：承認ソースの所在は限定できたが§7-1未決着。追加で当たった経路＝自社HP全域（企業理念・事業内容・拠点紹介・グループ会社・新着情報・サイトマップ・採用情報）を確認したがIR/財務/決算公告ページは存在せず、自社ドメイン内PDFも許認可証・製品リリースのみ。754.66億円は官報決算公告転載サイト(catr.jp)およびYahoo!しごとカタログにのみ存在。catr.jpが承認ソースと認められれば○の可能性、認められなければ△確定。",
+  "J": "https://www.kishiya.co.jp/about/idea.html;https://www.kishiya.co.jp/topics/;https://www.kishiya.co.jp/sitemap/;https://catr.jp/"
+ },
+ {
+  "行": 502,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要・沿革(資本金4,840万円・従業員877名(2026年4月)の記載のみで売上高欄なし)、官報決算公告DB(catr.jp)を社名検索したが当社の決算公告は収録なし（エヌテック等の類似社名のみ）、gBizINFO。373億円(2025年3月期)はマイナビ・NIKKEI COMPASS・与信サイト等の二次情報のみで承認ソースなし。基準300億に近いため数値の精度も要注意。未踏経路＝官報本体、自動車部品業界紙。",
+  "J": "https://www.nt-techno.co.jp/company/profile/;https://catr.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2180301015669"
+ },
+ {
+  "行": 517,
+  "I": "△ 妥当：確認不可で確定。追加で当たった経路＝官報決算公告DB(catr.jp)のイーピーエス株式会社 第8期・第10期決算公告を確認したが、公告内容は当期純利益・利益剰余金・総資産のみで【売上高欄が存在しない】（貸借対照表のみの決算公告）。親会社EPSホールディングスは2022年のMBOで上場廃止済みのため直近有報・決算短信も存在せず。EPSグループ会社案内PDFにも当社単体売上高の記載なし。開示義務がないため今後も承認ソースで単体売上高は取得できない見込み。",
+  "J": "https://catr.jp/companies/fd0bf/36405;https://catr.jp/settlements/b4cd8/235860;https://www.eps.co.jp/ja/company_profile.php;https://www.eps-holdings.co.jp/pdf/EPS_company_profile_JAP.pdf"
+ },
+ {
+  "行": 518,
+  "I": "△ 妥当：確認不可で正しい。加えて300億未満の蓋然性が高い。追加で当たった経路＝官報決算公告DB(catr.jp)企業ページ、Ullet経審(建設業経営事項審査データ)、NIKKEI COMPASS。二次情報の売上高は2024年度170.59億円、2025年8月期182.51億円(マイナビ)といずれも300億円を大きく下回り、複数系統で水準が一致する。ただし承認ソースでの裏取りができていないため×確定はせず△を維持。実務上はリスト除外で結論は変わらない。",
+  "J": "https://catr.jp/companies/2161e/134067;https://keishin.ullet.com/00-020294/mark.html;https://www.chugai-tec.co.jp/"
+ },
+ {
+  "行": 521,
+  "I": "△ 要再確認：承認ソース(自社HP第46期決算公告・単体)で営業収益394.37億円を取得済みで、論点は「営業収益を判定基準の売上高として採用できるか」の一点。採用可なら子会社単体で300億超のため○だが、394.37億円は基準300億に対し余裕が小さく、営業収益から売上高相当額を切り分けると下回る可能性も残る。親会社積水ハウス連結（約4兆円）に対し1%程度で有報「関係会社の状況」からは取得不可。先方確認事項。",
+  "J": "https://www.sekisuihouse-f-kyushu.co.jp/company/accounts/pdf/kessan_r8.pdf;https://www.sekisuihouse-f-kyushu.co.jp/company/profile/"
+ },
+ {
+  "行": 525,
+  "I": "△ 要再確認：承認ソースの所在を新たに特定。自社HP「IR情報・電子公告」ページに2026年3月期計算書類（令和8年3月31日現在）および2025年3月期計算書類のPDFが掲載されていることを確認＝自社発信の承認ソースが実在する。ただしPDF本文の売上高数値は本環境（WebSearchのみ・WebFetch遮断）では取得できず、653億円(2026年3月期)は求人媒体等の禁止ソースにしか存在しないため採用不可。当該PDFを直接開けば○に回収できる可能性が高い最有力行。他に当たった経路＝自社HP会社概要(資本金4億1,000万円・従業員880名、売上高記載なし)、採用サイトdigest、catr.jp企業ページ、gBizINFO。",
+  "J": "https://choshu.co.jp/information/ir/;https://choshu.co.jp/information/company/;https://www.choshu.co.jp/digest/;https://catr.jp/companies/6c7a5/92488"
+ },
+ {
+  "行": 527,
+  "I": "△ 要再確認：単体値の切り分けが未了。追加で当たった経路＝自社HP財務情報ページに第51期〜第55期の決算公告PDFが掲載されていることを確認（単体PLの直接確認は本環境では不可）、gBizINFO(財務はEDINET由来のため当社は非掲載)、catr.jp企業ページ、日刊鉄鋼新聞「新中計・長期ビジョン策定／35年度売上2,000億円、経常益150億円目標」記事＝将来目標であり決算期と実績売上高が明記された記事ではないため承認ソースとして不採用。公開HTMLの1,128.87億円は1次判定どおりグループ合算値の可能性が残る。第55期決算公告PDFの単体損益計算書を開けば確定できる。",
+  "J": "https://www.jfe-civil.com/company/finance.html;https://catr.jp/companies/75c63/55639;https://www.japanmetaldaily.com/articles/-/239740;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010501002402"
+ },
+ {
+  "行": 529,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝アパグループ公式サイトのニュースリリース、gBizINFO(法人番号2220001008159・石川県金沢市上堤町で同定)、官報決算公告DB(catr.jp)、不動産ポータルの会社詳細。いずれにも売上高の承認ソース記載なし。またアパグループの子会社であるためグループ連結値は判定に使えず（§3-3）、単体売上高が必要だが自社発信の開示が存在しない。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2220001008159;https://www.apa.co.jp/newsrelease/1179;https://catr.jp/"
+ },
+ {
+  "行": 536,
+  "I": "△ 要再確認：官報決算公告の存在を新たに確認。catr.jpに第9期決算公告（売上高498億5,200万円）が収録され、PR TIMES財務にも第10期・第13期・第15期・第16期の決算公告が存在。ただし①出典が官報転載の二次サイトで§7-1未決着、②取得できた数値が第9期と古く直近3期の売上高を確定できない、の2点で採用不可。なお同社は2024年4月に第一三共の連結から除外されており、第一三共の直近有報・決算説明資料には単体売上高の記載なし。第15/16期公告を直接確認できれば○に回収できる可能性がある。",
+  "J": "https://catr.jp/settlements/5b6df/104557;https://prtimes.jp/finance/7010001131745/settlement;https://www.daiichisankyo-ep.co.jp/corporate/about.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001131745"
+ }
+]

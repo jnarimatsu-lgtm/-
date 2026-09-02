@@ -1,0 +1,77 @@
+[
+ {
+  "行": 612,
+  "I": "△ 要再確認：官報決算公告で第62期（2026年3月期・単体）売上高1,246.19億円（前期比+0.63%）、第60期1,245.97億円、第59期1,191.98億円を取得。基準300億を大幅超だが出典が官報決算データベース（catr.jp）＝§7-1未決着のため○にできず。当たった経路＝官報決算公告、山崎製パン（親会社）IRライブラリ／有報索引、自社HP会社情報。catr.jpが承認されれば即○。山崎製パン有報「関係会社の状況」（連結約1.2兆円の10%超に該当しうる）が未踏。",
+  "J": "https://catr.jp/companies/14112/19638;https://catr.jp/settlements/76ba7/316820;https://catr.jp/settlements/1cad3/265866;https://www.yamazakipan.co.jp/ir/ir-library/yuukasyouken_houkoku/index.html;https://www.fuji-foods.com/corporate/"
+ },
+ {
+  "行": 613,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告（catr.jp に会社ページは存在するが売上高の数値は取得できず）、自社ニュースリリースサイト info.grapestone.co.jp、gBizINFO、日経会社情報。流通している「売上高461億円（2025年7月期）／424億円（2024年7月期）／329億円（2023年7月期）」はマイナビ掲載値のみで§3-4の禁止ソース（§6-6加藤化学と同型）。官報原本と自社採用サイト「数字で見る」が未踏で回収余地あり。",
+  "J": "https://catr.jp/companies/ed842/111011;https://info.grapestone.co.jp/2025/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011301002072;https://www.grapestone.co.jp/company/"
+ },
+ {
+  "行": 619,
+  "I": "△ 要再確認：官報決算公告で第79期（3月決算・直近期）売上高1,671.12億円（単体）を取得。第76期1,423.31億円、第75期1,267.97億円、第73期1,545.10億円と期系列も整合し、アイシン子会社の単体でも基準を大幅超過。ただし出典が官報決算データベース（catr.jp）＝§7-1未決着のため○にできず。当たった経路＝官報決算公告、gBizINFO（財務はEDINET由来で2020年上場廃止以降の値なし）、自社HP会社概要、アイシン本体IR。",
+  "J": "https://catr.jp/companies/8d34c/10667/settlements/8d8fa/404892;https://catr.jp/settlements/e1801/252440;https://catr.jp/settlements/5eb40/103680;https://www.at-takaoka.co.jp/profile/profile.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180301017773"
+ },
+ {
+  "行": 620,
+  "I": "△ 妥当：確認不可で正しい。法人番号5240001026775は広島県東広島市の自動車部品プレスメーカー（従業員1,346名・5月決算）で同定一致。当たった経路＝官報決算公告（catr.jp に第63期＝2023/6/1〜2024/5/31 と第58期のページがあるが売上高数値は取得できず）、gBizINFO、自社HP会社概要。「売上高48,699百万円＝486.99億円（2025年5月期）」はマイナビ掲載のみで禁止ソース。官報原本での確認が未踏。",
+  "J": "https://catr.jp/companies/2d0e1/32260/settlements/c1489/379348;https://catr.jp/companies/2d0e1/32260/settlements/777a5/129832;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5240001026775;http://www.ondo.co.jp/company"
+ },
+ {
+  "行": 624,
+  "I": "○ 回収：487.67億円（第31期・2026年3月期・単体）。自社HP「企業情報＞財務データ」に第31期487.67億円／第30期（2025年3月期）495.51億円／第29期（2024年3月期）476.47億円が掲載。1次は自社HPのニュース記事しか見ておらず財務ページを見落としていた。コープデリ生協連系だが当社自身は株式会社で、単体売上が基準300億を超えるため架電可。",
+  "J": "https://www.cx-cargo.co.jp/company/financial/;https://www.cx-cargo.co.jp/company/gaiyou-2/"
+ },
+ {
+  "行": 634,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要・事業概要、gBizINFO（決算情報の公開許諾がなく財務欄なし）、官報決算公告（catr.jp・gBizINFOとも該当データなし）、日経会社情報、日本食糧新聞ほか新聞記事検索。資本金9,800万円で会社法上の大会社に該当せず、決算公告に損益計算書（売上高欄）が載らない可能性が高い。禁止ソース（OpenWork／doda／FUMA）にしか数値がない。",
+  "J": "https://www.michinoku.ccbc.co.jp/company/profile/;https://www.michinoku.ccbc.co.jp/company/business/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4400001003957;https://www.nikkei.com/nkd/company/?nik_code=0008574"
+ },
+ {
+  "行": 635,
+  "I": "× 要修正：300億未満が確定。264.51億円（2025年3月期・単体、前期比1.2%減、当期純利益6.12億円＝第75期）。日刊水産経済新聞（新聞社＝§3-4の承認ソース）の決算記事で決算期と売上高が明記。1次が挙げた2021年度288.02億円からさらに減少しており、直近3期のいずれも300億未満。首都圏・関西の百貨店等64店舗（2025年3月末）。直アポ大からは除外が正しい（△ではなく×）。",
+  "J": "https://www.suikei.co.jp/archives/55756;https://nakajimasuisan.co.jp/ir/;https://nakajimasuisan.co.jp/about/profile/"
+ },
+ {
+  "行": 636,
+  "I": "○ 回収：営業収益545.62億円（第77期・2024年4月1日〜2025年3月31日・単体）。同社はEDINET提出会社（E03736）で有価証券報告書・半期報告書を継続提出しており、自社HPにも「決算情報」ページがある。1次は電子公告とgBizINFOしか見ておらずEDINET／自社決算情報ページを見落としていた。日産子会社だが単体で基準300億を超過。※数値の桁は自社HP掲載の有報原本で最終確認推奨（英語要約に5,460億円と読める表記も混在）。",
+  "J": "https://www.nissan-fs.co.jp/information/closing-of-accounts/index.html;https://www.nissan-fs.co.jp/information/closing-of-accounts/pdf/houkokusyo_2024.pdf;https://disclosure.edinet-fsa.go.jp/E01EW/BLMainController.jsp?uji.verb=W1E63011CXW1E6A011DSPSch&uji.bean=ee.bean.parent.EECommonSearchBean&TID=W1E63011&PID=W1E63011&mul=E03736"
+ },
+ {
+  "行": 641,
+  "I": "○ 回収：337.97億円（2025年3月期・単体、前期比2%減／営業利益2.45億円・経常利益3.36億円・当期純利益2.51億円）。みなと新聞（みなと山口合同新聞社）および日刊水産経済新聞の決算記事で決算期と売上高が明記＝§3-4の新聞社ソース。2022年3月期357億円（14%増収）とも整合。名古屋市熱田区・法人番号2180001022115で同定（築地の大都魚類とは別法人）。1次の「取扱高42,869百万円」は指標が異なる。基準300億に対し余裕が小さい点に留意。",
+  "J": "https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/153244;https://www.suikei.co.jp/archives/55758;https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/124913;https://www.nagoya-daitoh.co.jp/"
+ },
+ {
+  "行": 643,
+  "I": "○ 回収：親会社／ホールディングスのため§3-3によりグループ連結で判定可。2025年3月期・連結売上高7兆7,204億円（前期比約7%増）、営業利益391億円、当期純損失1,626億円、有利子負債6兆5,859億円。日経会社情報DIGITAL（日本経済新聞社）およびダイヤモンド・オンラインの決算報道で決算期と売上高が明記。1次が退けた「約7.7兆円」は当法人の連結計算書類の値と特定できた。基準300億を大幅超過。",
+  "J": "https://www.nikkei.com/nkd/company/?nik_code=0032344;https://diamond.jp/articles/-/367315;https://catr.jp/companies/2c03d/81182;https://lotte-hd.com/"
+ },
+ {
+  "行": 644,
+  "I": "○ 回収：単体売上高1,727.86億円（2024年度＝2025年3月期・官報決算公告、前期比△5.86%、当期純利益47.96億円、総資産675.49億円）。gBizINFO（経済産業省＝§3-4の公的機関）に同社の決算公告財務諸表ページが存在し2023年度分を掲載。1次は自社HPの連結2,007億円しか見ておらず決算公告ルートを取り切れていなかった。三菱商事系子会社だが単体で基準300億を大幅超過。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=08b73b06-c569-464f-9b15-2f90884ec2d3;https://catr.jp/companies/ca697/8513;https://catr.jp/settlements/dd0af/307950;https://www.nosan.co.jp/corp/outline/"
+ },
+ {
+  "行": 645,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HPの電子公告ページ、決算資料バックナンバー、会社概要、伊藤ハム米久HDの有価証券報告書PDF、官報決算公告（catr.jp に米久単体の公告データなし）、gBizINFO。承認ソースで取得できたのは第46期（2015年2月期）1,550.82億円で§3-8の3期以内を満たさない。禁止ソース（Yahoo!しごとカタログ／SalesNow）に「2026年3月期1,960.58億円」が流通しているが採用不可。自社HP電子公告PDFとHD有報「関係会社の状況・主要な損益情報等」の本文確認が未踏で、回収見込みは高い。",
+  "J": "https://www.yonekyu.co.jp/company/ir/koukoku.html;https://www.yonekyu.co.jp/company/ir/report.html;https://www.itoham-yonekyu-holdings.com/ir/securities_report.html;https://www.itoham-yonekyu-holdings.com/Portals/0/images/ir/pdf/file/20240626%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf"
+ },
+ {
+  "行": 646,
+  "I": "△ 要再確認：官報決算公告で2024年12月期・単体 売上高3,726.63億円（当期純利益120.97億円）、第44期 売上高3,473.29億円を取得。アサヒGHD子会社だが単体で基準を大幅超過。ただし出典が官報決算データベース（catr.jp）＝§7-1未決着と官報ブログ（個人ブログ＝禁止ソース）のみのため○にできず。当たった経路＝自社HP、アサヒGHDのIR／有報PDF・ニュースルーム、gBizINFO（決算公告データなし）、官報決算公告。アサヒGHD有報「関係会社の状況」本文（連結売上収益の10%超に該当し主要な損益情報が載る見込み）が未踏。",
+  "J": "https://catr.jp/companies/a489a/51018;https://kanpo-kanpo.blog.jp/archives/46430841.html;https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf;https://www.asahiinryo.co.jp/"
+ },
+ {
+  "行": 648,
+  "I": "× 要修正：300億未満が確定。131.95億円（2025年3月期・単体、営業利益3.26億円）。官報決算公告および日経（NIKKEI COMPASS）で確認。1次が挙げた「公式272億円（2018年3月期）」も300億未満であり、直近3期・過去いずれの期でも基準未達。北海道の農業用機械メーカーでIHI子会社。直アポ大からは除外が正しい（△ではなく×）。",
+  "J": "https://catr.jp/companies/6d15a/21398;https://www.nikkei.com/compass/company/ps6eaz9CeyJ8cSESgbDtDj;https://www.ihi.co.jp/iat/"
+ },
+ {
+  "行": 649,
+  "I": "△ 要再確認：官報決算公告で令和6年度（2025年3月期・単体）売上高71,010百万円＝710.10億円を取得（第69期 当期純利益53.98億円、自己資本比率81.6%）。基準300億を大幅超過だが、出典が官報決算データベース（catr.jp）および決算公告まとめブログ＝§7-1未決着／禁止ソースのため○にできず。当たった経路＝自社HP会社概要、官報決算公告、gBizINFO、日経（NIKKEI COMPASS）、新聞記事検索。官報原本での確認が未踏。",
+  "J": "https://catr.jp/companies/bc392/27145;https://catr.jp/companies/bc392/27145/settlements/c3aca/320247;https://shoeichem.co.jp/company/about/;https://www.shoeichem.co.jp/"
+ }
+]
