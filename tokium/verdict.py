@@ -56,3 +56,33 @@ if __name__ == "__main__":
     p = "/home/user/-/tokium/results/IJ_paste.csv"
     with open(p, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(res[0].keys())); w.writeheader(); w.writerows(res)
+
+    # ---- 貼り付け用（全4,422行・欠番なし）----------------------------------
+    # §5-2: 未検証行を詰めた表をそのまま貼ると、最初の欠番以降が1行ずつずれる。
+    # 実際にこの事故が元データの2707〜2719行で起きているので、必ず全長で出す。
+    rows = list(csv.reader(open(f"{SP}/tokium.csv", encoding="utf-8-sig")))[1:]
+    byrow = {r["行"]: r for r in res}
+    cols = list(res[0].keys())
+    full = []
+    for i, src in enumerate(rows):
+        n = i + 2
+        src = (list(src) + [""] * 8)[:8]
+        r = byrow.get(n)
+        if r is None:
+            r = {k: "" for k in cols}
+            r.update({"行": n, "取引先ID": src[0], "法人番号": src[1], "取引先名": src[2],
+                      "元H判定": src[7][:1], "最終判定": "未検証", "架電可": ""})
+        full.append(r)
+    assert len(full) == len(rows) == 4422, f"行数不一致 {len(full)} != 4422"
+    assert [r["行"] for r in full] == list(range(2, 4424)), "行番号が連番でない"
+    for r in full:  # 取引先IDが元データと一致することを1行ずつ確認（§5-2のずれ検出）
+        assert r["取引先ID"] == (list(rows[r["行"] - 2]) + [""])[0], f"行{r['行']} で取引先IDがずれている"
+    pf = "/home/user/-/tokium/results/IJ_paste_FULL.csv"
+    with open(pf, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(full)
+    # I列・J列だけを切り出した、そのまま貼れる2列版
+    pc = "/home/user/-/tokium/results/IJ_columns_only.csv"
+    with open(pc, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.writer(fh); w.writerow(["I列_検証結果", "J列_ソース"])
+        for r in full: w.writerow([r["I列_検証結果"], r["J列_ソース"]])
+    print(f"貼り付け用: {pf} と {pc} を全{len(full)}行で出力（欠番なし・ID照合済み）")
