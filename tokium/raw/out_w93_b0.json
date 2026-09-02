@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2566,
+  "I": "○ 回収：2,096.31億円（第102期・2025年3月期・単体）。官報 令和7年6月23日付 号外第139号187頁の決算公告に売上高209,631百万円と掲載（総資産70,047百万円は別項目として確認、取り違えなし）。トヨタ車体系の子会社だが単体で300億超のためOK。法人番号6200001006994は登記所コード2000＝岐阜地方法務局で各務原市本社と一致し同名別法人なし。2025年6月公告のため法人現存。",
+  "J": "https://search.kanpoo.jp/r/20250623g139p187-609/;https://catr.jp/companies/1e6b3/12583;https://www.gifubody.co.jp/company/outline.html"
+ },
+ {
+  "行": 2602,
+  "I": "○ 回収：878.77億円（2024年2月期・単体・原文表記は営業収益、前期比▲3.7%、経常利益20.71億円）。東証9977として上場していた当時の決算短信で開示（その後MBOで上場廃止、2025年2月期は予想非開示）。自社HPに電子公告ページがあり第50期決算公告を掲載。単体で300億超のためOK。",
+  "J": "https://www.aokisuper.co.jp/company/koukoku.html;https://www.nikkei.com/article/DGXZRST0569807S4A410C2000000/;http://ke.kabupro.jp/code/9977.htm"
+ },
+ {
+  "行": 2633,
+  "I": "○ 回収：東証プライム上場（証券コード9755）であり1次の見落とし。2025年12月期第3四半期累計の連結売上高558.58億円（前年同期比103.8%、2025/11/11開示の決算短信）、通期予想760億円。自社IRサイトで開示され通期でも300億を大幅超過。上場親会社のため連結で判定可。",
+  "J": "https://www.oyo.co.jp/news-article/aae56dd017feda5f751948d676ddd15c5bb475e5/;https://www.oyo.co.jp/news/ir/;https://equity.jiji.com/storage/tdnet/140120251110593049.pdf"
+ },
+ {
+  "行": 2669,
+  "I": "○ 回収：1,269.56億円（2026年3月期・連結）。東証プライム上場（証券コード7990、EDINET E02382）であり1次は上場企業であることを見落とし。決算短信で売上高1,269億5,600万円（+2.4%）、営業利益65.01億円、経常利益71.84億円。上場親会社のため連結で判定可。中計目標1,400億円ではなく実績値を採用。",
+  "J": "https://www.globeride.co.jp/ir/stockholder/;https://www.nikkei.com/nkd/company/kessan/?scode=7990;https://finance.yahoo.co.jp/quote/7990.T/financials"
+ },
+ {
+  "行": 2693,
+  "I": "△ §7-1回答待ち：913.84億円（第74期・2025年3月期・単体、営業利益19.99億円）を官報決算公告で確認済み。ただし閲覧できるのはcatr.jp等の二次索引のみで官報の号数・頁を特定できず。gBizINFOに第73期決算公告（2024/6/18）のレコードは実在。当たった経路＝自社HP会社概要・官報決算公告索引・gBizINFO。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/adca7/7922/settlements/c2229/407299;https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=df7a3fe0-c757-49e5-84f4-34905864929d;https://www.fukunishi.com/corporate/about/"
+ },
+ {
+  "行": 2719,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告索引・gBizINFO・自社HP（1次）。承認ソースに売上高の記載なし。なお1次のH列は『株式会社クリエイティブ』『syokusaikurabu.com』と無関係な社名・URLを記載しており対象法人を調べていない疑いがある。加えて京都市東山区に同名の株式会社晃商（法人番号2130001080605・旧商号KOSHO・焼肉天壇）が存在し取り違え注意。本行は8130001020712（登記所1300＝京都地方法務局）。",
+  "J": "https://toukibo.ai-con.lawyer/search-service/result/2130001080605;https://www.k-kosho.co.jp/company/"
+ },
+ {
+  "行": 2795,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告索引・gBizINFO・自社HP会社概要（1次）。catr.jpに載る『株式会社三永』第16/17期は青森県上北郡野辺地町の別法人（純利益1,000万円台）で本行8260001016326とは別法人であり流用不可。gBizINFOに本行の法人ページは存在するが売上高の記載を確認できず。承認ソースでの300億超の裏付けなし。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8260001016326;https://www.jumbo-sanei.com/company/profile.html"
+ },
+ {
+  "行": 3111,
+  "I": "○ 回収：520.13億円（2025年3月期・単体。原文表記は営業収入で、航空運送事業の売上高そのもの。§3-7の銀行の経常収益と同じ扱いで採用）。自社公式リリース『2025年3月期決算について』に旅客数・営業収入とも過去最高、営業費用511.54億円・営業利益8.59億円と明記。2026年3月期予想566億円。ANAHD持分法適用で子会社ではない。",
+  "J": "https://www.solaseedair.jp/corporate/pdf/press20250528-1.pdf;https://www.solaseedair.jp/corporate/pdf/press20251128.pdf"
+ },
+ {
+  "行": 3422,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社採用サイト『数字で見るしずてつストア』・静岡鉄道有報の関係会社の状況・静鉄グループ2025年3月期連結決算概況PDF・gBizINFO。自社記載の年商441.23億円は2022年3月期で§3-8の直近3期外。決算概況の流通事業477.46億円はセグメント値で単体ではない。二次情報の424.92億円（2025年2月期）は不採用。gBizINFO第52期決算公告の内容を確認できれば○回収の余地あり。",
+  "J": "https://www.s-store.co.jp/freshers/data/;https://www.shizutetsu.co.jp/media/pages/news/2025/hp202505292/c2829594e5-1748580379/hp202505292.pdf;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1080001002004"
+ },
+ {
+  "行": 3556,
+  "I": "○ 回収：1,799.4億円（第171期・2025年3月期・単体）。官報決算公告（2025年6月30日公告）が公的機関gBizINFO（経済産業省）に収録。第172期＝2026年3月期は1,579.78億円（▲12%）で1次が挙げた1,579億円と整合。日本郵船子会社だが単体で300億を大幅超過のためOK。法人番号5010001069979は登記所0100＝東京法務局本局で千代田区本社と一致。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=7cc213e2-e832-47a0-b61a-a5c4c36beac1;https://www.jmd.co.jp/article.php?no=297165;https://www.kaijipress.com/news/tramper/2026/07/202574/"
+ }
+]

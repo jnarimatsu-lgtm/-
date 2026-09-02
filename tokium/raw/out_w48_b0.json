@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3689,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝群馬県測量設計業協会の会員企業ページ・会員名簿（測量調査／建設コンサル、売上高の記載なし）、日本測量調査技術協会の会員紹介、自社HP会社案内MAP、NJSS入札結果（受注実績のみで年商記載なし）。法人番号1070001002260は登記所コード0700＝前橋地方法務局で群馬本社と一致し、同名別法人の取り違えではない。決算公告・EDINET・TDnetいずれも掲載なし。SF E列『1,000億円以上』は明白な誤りで、承認ソースに売上高は一切存在しない。",
+  "J": "https://www.gunsokkyo.or.jp/member/towaasvh/towaasvh.html;https://www.gunsokkyo.or.jp/meibo.html;http://towaasv.co.jp/framepage2-1.htm;https://sokugikyo.or.jp/about/member/"
+ },
+ {
+  "行": 3690,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝catr.jp官報決算データベースの新潟県／新潟市東区一覧に渡森の決算公告が存在せず（＝大会社の公告義務対象として掲載が確認できない）、新潟商工会議所 会員企業データベース詳細（売上高欄なし）、自社HP会社概要・沿革（1855年創業・製菓主原料卸、売上高の記載なし）、gBizINFO。法人番号1110001005861・新潟市東区卸新町2-916-8で照合済み。数値はNIKKEI COMPASS／Baseconnect等の非承認ソースのみ。残る未踏経路は官報情報検索サービス（有料）本体のみ。",
+  "J": "http://www.watamori.co.jp/company.html;https://www.niigata-cci.or.jp/db/search/detail/id/9020;https://catr.jp/pref/15;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1110001005861"
+ },
+ {
+  "行": 3692,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP（kaitosystem.com）、gBizINFO（法人番号2130001034437・京都府久御山町佐山西ノ口10-1で一致、2007年10月設立）、決算公告・EDINET・TDnetいずれも掲載なし。事務／軽作業中心の人材派遣業で資本金2,300万円・従業員38名の規模であり、SF E列『1,000億円以上』は明白な誤り。承認ソースに売上高の記載は一切なく、口コミ・求人媒体のみ。",
+  "J": "https://kaitosystem.com/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2130001034437"
+ },
+ {
+  "行": 3694,
+  "I": "× 要修正：法人格NG。法人番号4030002120764の登記商号は『有限会社ラインシステム』（埼玉県飯能市美杉台1丁目5番地4、2015/10/05法人番号指定）。法人番号の種別コードも02（有限会社系）で、登記所コード0300＝さいたま地方法務局管内と飯能市が一致する。1次が記した『2025年に有限会社から株式会社へ組織変更』を裏付ける登記情報・公告は確認できなかった。§3-6により有限会社は一律NGのため売上高の調査は不要。なおD列 line-system.jp は別法人（株式会社ラインシステム）のサイトの可能性があり、社名と法人番号の紐付け自体も要確認。",
+  "J": "https://houjin.jp/c/4030002120764;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4030002120764"
+ },
+ {
+  "行": 3696,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要（to-ya.jp/company・/aboutus。仙台市青葉区立町23-20-403、和食居酒屋『とうやグループ』6店舗、代表取締役 氏家伸。売上高の記載なし）、gBizINFO（法人番号1370002016493の登記商号は『株式会社グローアップ・シーン』＝法人格は株式会社でOK。種別コード02だが商号は株式会社）、決算公告・EDINET・TDnet掲載なし。従業員55名・6店舗の飲食業でSF E列『300億〜1,000億』は明白な誤り。",
+  "J": "https://to-ya.jp/company/;https://to-ya.jp/aboutus/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1370002016493"
+ },
+ {
+  "行": 3698,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要および不動産活用事業ページ（palplan.co.jp）、外食事業部の企業情報（palplan.net/recruit/company）、gBizINFO（法人番号5130001024658・登記商号『株式会社パルプラン』・京都市）。いずれも売上高の記載なし。決算公告・EDINET・TDnet掲載なし。資本金1,000万円、1984年12月設立、ビル／マンション・駐車場運営と居酒屋『櫻』等の外食が本業で、SF E列『300億〜1,000億』は非現実的。※上場のパルグループHD(2726)とは無関係の別法人であり混同不可。",
+  "J": "http://www.palplan.co.jp/company.html;https://www.palplan.net/recruit/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5130001024658"
+ },
+ {
+  "行": 3699,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社の会社概要ページ（ww31.tiki.ne.jp/~sec1/gaiyou.html）および sec-okayama.co.jp（岡山の環境計量証明・技術開発。売上高の記載なし）、gBizINFO、官公庁入札資格情報。法人番号7260001003201は登記所コード2600＝岡山地方法務局で岡山本社と一致し、上場の新光電気工業・新光商事等の同名類似企業とは別法人であることを確認。決算公告・EDINET・TDnet掲載なし。SF E列『1,000億円以上』は明白な誤り。",
+  "J": "http://ww31.tiki.ne.jp/~sec1/gaiyou.html;https://sec-okayama.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7260001003201"
+ },
+ {
+  "行": 3701,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要（sankobunseki.co.jp/company/outlline。静岡県浜松市中央区下江町604-1、1976年創業、環境計量証明事業所、資本金1,000万円。売上高の記載なし）、浜松市『ビジネスマッチングはままつ』掲載情報（公的支援事業）、gBizINFO（法人番号8080401001887で一致）。決算公告・EDINET・TDnet掲載なし。従業員24〜25名の分析受託業でSF E列『1,000億円以上』は明白な誤り。",
+  "J": "https://www.sankobunseki.co.jp/company/outlline/index.html;https://www.hamamatsu-bmf.jp/search2023/info.html?id=1001;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8080401001887"
+ },
+ {
+  "行": 3702,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝法人番号8140001042490は兵庫県加古川市の株式会社一成（1990/3/15設立。登記所コード1400＝神戸地方法務局管内と一致）であり、D列の issei-eco.com（自然環境コンサル）は同名別法人の可能性が高い点をまず特定。自社HP会社案内・gBizINFO・決算公告・EDINET・TDnetいずれも売上高の記載なし。非承認の民間DBに2018年2月期3億2,069万円とあるのみで§3-8の鮮度も満たさない。SF E列『1,000億円以上』は明白な誤り。",
+  "J": "https://houjin.jp/c/8140001042490;https://www.issei-eco.com/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8140001042490"
+ },
+ {
+  "行": 3703,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社案内（next-enviro.co.jp/company。山形県米沢市アルカディア1-808-17、2005/4/19設立、置賜地方唯一の計量証明事業登録機関。売上高の記載なし）、エコアクション21 認証・登録事業者の公表情報（ea21.jp）、gBizINFO（法人番号8390002014126で一致）。決算公告・EDINET・TDnet掲載なし。非承認の民間DBには2025年3月期6.67億円・従業員66名とあり、いずれにせよ300億には遠く、SF E列『1,000億円以上』は明白な誤り。",
+  "J": "https://next-enviro.co.jp/company/;https://www.ea21.jp/list/pdfn/0010347.pdf;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8390002014126"
+ }
+]
