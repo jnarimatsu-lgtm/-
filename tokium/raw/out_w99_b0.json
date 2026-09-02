@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2642,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要(和文/英文company_outline)②自社IR無し③EDINET未提出④TDnet対象外⑤官報決算公告(catr.jp収録あり・未検証)⑥親会社なし(独立系)⑦gBizINFO⑧日経記事(事業紹介のみで売上高記載なし)⑨自社採用サイト『データで見る』。承認ソースに売上高の記載を確認できず。流通値は『2025年3月期646億円』(上毛新聞ぐんま就活ナビ/キャリタス就活)と『2025年度 単体610億円・連結1211億円』(マイナビ)で数字が割れており、いずれも禁止ソース。§7-1が官報決算公告を承認すれば回収余地あり。",
+  "J": "https://www.sgrc.co.jp/en/company-en/company_outline-en/;https://www.sgrc.co.jp/recruit/data/;https://www.nikkei.com/companies/0054932;https://catr.jp/companies/8dfb4/99276"
+ },
+ {
+  "行": 2643,
+  "I": "○ 回収：売上高385億円（2025年2月期）。出典＝自社ドメイン内の採用ページ『数字で見る光洋』(§5-3⑨) https://www.koyo.jp/recruit/number.html 。同ページに従業員4,441名(パート含む)・創業1973年も併記。本社は神奈川県横浜市金沢区で法人番号5020001029800(登記所コード0200=横浜)と整合し同名他社ではない。光洋グループの中核会社＝親会社側のため§3-3上どちらの値でも可。ただし単体/グループの別が原文に明示されていない点は要留意。",
+  "J": "https://www.koyo.jp/recruit/number.html;https://www.koyo.jp/company/;https://www.koyo.jp/company/history.html"
+ },
+ {
+  "行": 2645,
+  "I": "△ 妥当：確認不可で正しい（ただし回収見込みあり）。当たった経路＝①自社HP会社概要②自社ニュース(生産動向説明会2022/2025/2026年)③EDINET未提出④TDnet対象外⑤官報決算公告未特定⑨採用『数字で見るレクザム』。自社サイト(承認ソース①)の2023年3月2日生産動向説明会記事に『売上げ前年比123％、742億円達成』＝2022年12月期実績があるが、§3-8の直近3期(2023〜2025年12月期)外。2025年・2026年の同説明会記事と電子デバイス産業新聞インタビュー記事には金額記載なし。『2024年12月期602.97億円』はマイナビ/Wikipedia/Yahoo等の禁止ソースのみ。",
+  "J": "https://www.rexxam.co.jp/news/corporate/entry-762.html;https://www.rexxam.co.jp/news/corporate/entry-784.html;https://www.rexxam.co.jp/corporate/overview.html;https://www.rexxam.co.jp/recruit/about/number.html"
+ },
+ {
+  "行": 2650,
+  "I": "△ 妥当：確認不可で正しい。住友商事100%子会社(2023年3月)のため§3-3により単体300億以上が必要。当たった経路＝①自社HP会社概要(資本金7,500万円・設立1979年のみ)②自社IR無し③EDINET未提出⑤官報決算公告に該当なし⑥住友商事の有報『関係会社の状況』＝住商連結約6.9兆円に対し薬樹は約0.5%で10%基準に遠く及ばず実額記載は存在しない（出典検算済み）⑨採用『数字で見る薬樹』(店舗数中心で売上高なし)。『2025年3月期380億円』はマイナビのみ＝禁止ソースのため採用不可。",
+  "J": "https://www.yakuju.co.jp/company/;https://www.yakuju.co.jp/recruit/in-numbers;https://www.yakuju.co.jp/news/2023/03/31/5123/"
+ },
+ {
+  "行": 2653,
+  "I": "△ §7-1回答待ち：官報決算公告で第19期（2025年3月期相当）売上高286,076百万円＝2,860.76億円（単体）を確認済みだが、確認できた出所がcatr.jp／決算公告まとめ経由のみで§7-1が未決着。自社公式(jazmf.co.jp)の『2025年度 年間取扱高2,978億円』は取扱高であり売上高としては採用不可。親会社の全国農業協同組合連合会は農協連合会でIR・有報がなく子会社単体値の掲載を確認できず。catr.jpが承認ソースと認められれば○に回収可能（2,860億円で基準は決定的にクリア）。",
+  "J": "https://www.jazmf.co.jp/outline/overview.html;https://catr.jp/companies/54f42/14752;https://www.zennoh.or.jp/about/financial/index.html"
+ },
+ {
+  "行": 2657,
+  "I": "△ 妥当：確認不可で正しい。D列URLのassist-japan.co.jpは運輸／旅客／飲食(生協宅配受託)を営む株式会社アシストで、自社公式のグループ売上高117.54億円(令和7年度)＝300億未満。ただし法人番号8010601027540とこのサイト運営法人の同一性をgBizINFO本体で確定できず、gBizINFOには同名の株式会社アシストが10件以上存在するため§6-2の取り違えリスクが残る。当たった経路＝①自社HP会社案内②IR無し③EDINET未提出⑤官報決算公告該当なし⑥アシストホールディングス側にも開示なし⑦gBizINFO。承認ソースで対象法人単体300億以上を確認できず。",
+  "J": "https://assist-japan.co.jp/logical/Group.html;https://assist-japan.co.jp/corporate/;https://assist-japan.co.jp/about/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010601027540"
+ },
+ {
+  "行": 2659,
+  "I": "△ 妥当：確認不可で正しい。加えて重大事実＝2023年10月30日に関連会社6社とともに東京地裁へ民事再生法の適用を申請（負債単体943.6億円／グループ7社計1,793.9億円、Jトラストがスポンサー）。当たった経路＝①自社HP②IR無し③EDINET未提出⑤官報決算公告索引(直近期の売上高記載を確認できず)⑦gBizINFO⑧報道。2023年5月期単体1,895.4億円は東京商工リサーチ(信用調査会社)発の数値で承認ソース外かつ§3-8の鮮度条件外。架電前に法人存続・商号・事業譲渡先の再確認を強く推奨。",
+  "J": "https://www.tsr-net.co.jp/data/detail/1198107_1527.html;https://www.tsr-net.co.jp/data/detail/1198108_1527.html;https://www.gaia-jp.com/;https://catr.jp/companies/2a1bf/44107"
+ },
+ {
+  "行": 2670,
+  "I": "△ 妥当：確認不可で正しい（ただし回収見込みあり）。当たった経路＝①自社HP会社概要(info.twave.co.jp/company/)・ドスパラ企業情報②IR無し③EDINET未提出④TDnet対象外⑤官報決算公告(catr.jp収録・第40期/第41期あり、未検証)⑥親会社なし⑧BCN+R/ダイヤモンド・オンライン記事は新聞社ではなく承認ソース外⑨自社プレスリリース(cts.dospara.co.jp)。承認ソースに売上高の記載を確認できず。『2025年7月期926億円/2024年7月期771億円』はマイナビ・起業ログ・gurafu等の禁止ソース経由。§7-1が官報決算公告を承認すれば○に回収可能。",
+  "J": "https://info.twave.co.jp/company/index.html;https://www.dospara.co.jp/contents/company.html;https://catr.jp/companies/675de/35752;https://cts.dospara.co.jp/5press/share_info.php?year=2025"
+ },
+ {
+  "行": 2674,
+  "I": "△ §7-1回答待ち：官報決算公告 第52期で売上高330億4,900万円（単体・営業利益53.18億円/経常利益48.22億円）を確認したが、出所がcatr.jpのみで§7-1が未決着。米CBRE Group日本法人＝子会社のため§3-3により単体判定となり、330.49億円は基準300億をわずかに超えるだけの薄いマージン。かつ第52期が何年12月期かを特定できておらず§3-8の鮮度も未確定。自社HP会社概要には売上高の記載なし、米国親会社のForm 10-Kにも日本法人単体の開示なし。回収するには決算期の特定と§7-1の回答が両方必要。",
+  "J": "https://catr.jp/settlements/1622b/198310;https://catr.jp/settlements/22031/4726;https://www.cbre.co.jp/about-us/corporate-profile"
+ },
+ {
+  "行": 2676,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP会社概要②IR無し③EDINET未提出④TDnet対象外⑤官報決算公告(catr.jp収録あり・未検証)⑥親会社JTBの決算概要PDF/ニュースルーム。⑥は出典検算で否定＝JTB連結売上高1兆733億円(2025年3月期)×10%＝1,073億円のため、当社単体は10%基準に届かず『関係会社の状況』に実額は載らない。JTB子会社のため単体300億以上が必要だが承認ソースに記載なし。§7-1が官報決算公告を承認すれば回収余地あり。",
+  "J": "https://www.jtbcorp.jp/jp/company/accounts/pdf/accounts_report202503.pdf;https://www.jtbcorp.jp/jp/newsroom/2025/05/23_jtb2025_03.html;https://www.jtbcom.co.jp/company/;https://catr.jp/companies/54f8c/72498"
+ }
+]

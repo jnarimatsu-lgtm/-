@@ -16,8 +16,8 @@
  },
  {
   "行": 2932,
-  "I": "○ 回収：三井不動産の子会社だが単体で基準充足。自社HP『公告・決算公告』に第50〜52期の計算書類PDFを掲載（承認ソース＝自社公式）、直近の売上高は約2,601億円規模。加えて三井不動産有報『関係会社の状況』で三井ホーム㈱に連結売上高10%超の注記があり、同社2026年3月期連結売上高2兆7,097.47億円×10%＝2,709.7億円>300億円で下限も確定。",
-  "J": "https://www.mitsuihome.co.jp/company/ir/koukoku.html; https://www.mitsuihome.co.jp/company/ir/pdf/koukoku_240624.pdf; https://www.mitsuihome.co.jp/company/ir/kessan.html; https://www.mitsuifudosan.co.jp/corporate/ir/library/fs/pdf/YUHO_2603.pdf; https://www.mitsuifudosan.co.jp/corporate/ir/presentation/pdf/tanshin260513.pdf"
+  "I": "○ 妥当（G列訂正：単体2,329.38億円・2026年3月期。1次の「約2,601億円」は連結値と見られ単体ではない／§6-4）。三井不動産の子会社だが単体で基準の7.8倍のためOK。自社HPに有価証券報告書・決算短信・公告決算公告の各ページを持つ有報提出会社（EDINET E00235）で承認ソースは自社IRから取得可。※1次の「三井不動産有報で連結売上高10%超の注記」は再現できず不採用（単体2,329億円<三井不動産連結2兆7,097億円の10%=2,709.7億円で論理も不整合）。",
+  "J": "https://www.mitsuihome.co.jp/company/ir/yuuka.html; https://www.mitsuihome.co.jp/company/ir/kessan.html; https://www.mitsuihome.co.jp/company/ir/koukoku.html; https://irbank.net/E00235"
  },
  {
   "行": 2937,
@@ -36,8 +36,8 @@
  },
  {
   "行": 2944,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP電子公告ページに第8期(2024年3月期)・第9期(2025年3月期)決算公告PDFが実在することまでは特定したが、PDF本文の売上高を読めず実額未確認。ほか博報堂DYHD有報『関係会社の状況』・同決算短信・EDINET・官報二次DBも当たったが単体売上高の実額記載なし。※決算公告PDF本文を直接読めば回収の見込みが高い。",
-  "J": "https://www.hakuhodody-one.co.jp/company/announcement/; https://www.hakuhodody-one.co.jp/wp-content/uploads/2025/06/20250624sa.pdf; https://www.hakuhodody-one.co.jp/wp-content/uploads/2024/08/20240625sa.pdf; https://www.hakuhodody-one.co.jp/company/about/"
+  "I": "△ 確認不可のまま（判定変更なし）。ただし1次未踏の回収経路を特定：上場子会社ユナイテッド㈱（2497・東証グロース）が毎年6月にTDnetで「非上場の親会社等の決算情報に関するお知らせ」を開示し、当社単体の貸借対照表・損益計算書を掲載（2024/6/26・2025/6/25・2026/6/24の3期分PDFが実在）。§5-3-4適時開示＝承認ソース。本環境はWebFetch遮断でPDF本文を読めず実額未取得。当該PDF1本で確定できる。",
+  "J": "https://united.jp/ir/ir-release/20250625fpc.html; https://united.jp/ir/uploads/JiE6pO1lPk.pdf; https://www.daiwair.co.jp/td_download.cgi?c=2497&i=3243089; https://united.jp/ir/uploads/MVSxYUA8DtfCMQHFwT6aJwTZ4hc4AV.pdf; https://www.hakuhodody-one.co.jp/company/announcement/"
  },
  {
   "行": 2945,
