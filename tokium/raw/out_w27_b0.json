@@ -1,0 +1,77 @@
+[
+ {
+  "行": 895,
+  "I": "○ 妥当（反証試行→維持・出典強化）：自社HP「決算公告」ページ https://www.myojofoods.co.jp/about/financial-statement/ の実在を再確認（承認ソース§5-3-5）。第76期は売上高535.66億円／売上総利益144.85億円／営業利益29.88億円／経常利益32.30億円／当期純利益23.48億円で内部整合（売上総利益144.85億を下回る53.56億という桁読みはあり得ず535.66億で確定）。決算公告は単体値。法人番号1011001022758はgBizINFOで一致。親会社日清食品HDの明星食品セグメント483.02億円（外部顧客売上）とも矛盾しない。§7-1（catr.jp）に依存せず300億超が成立するため○を維持。",
+  "J": "https://www.myojofoods.co.jp/about/financial-statement/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011001022758;https://www.nissin.com/jp/ir/financial/segment/;https://faq.myojofoods.co.jp/faq_detail.html?id=215"
+ },
+ {
+  "行": 897,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝バローHD有価証券報告書2025年3月期PDF・バローHD統合報告書2025・バローHDグループ企業紹介ページ・バローHDニュースリリース(2026/2/9 中部フーズ)・中部フーズ自社会社案内。いずれも中部フーズ単体売上高の記載なし。バローHD連結は約8千億円規模で10%＝約800億円のため、有報の10%超注記による下限証明も成立しない",
+  "J": "https://valorholdings.co.jp/wp-content/uploads/published/wp_re_yuho202503.pdf;https://valorholdings.co.jp/wp-content/uploads/2026/02/2025valorAR.pdf;https://valorholdings.co.jp/group/%E4%B8%AD%E9%83%A8%E3%83%95%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/;https://chubufoods.co.jp/company/"
+ },
+ {
+  "行": 898,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝親会社(株)トライト[9164]の有価証券報告書(2024年12月期)。同有報に「トライトキャリアは連結売上収益に占める割合が10%超」の注記を確認したが、トライト連結は約440億円規模（1Q118.52億/上期201.06億）で10%＝約44億円にとどまり下限証明は300億に届かない。加えて対象法人番号8010001254982は2025年設立の新法人で、注記対象の旧トライトキャリア(2026/4/10閉鎖)とは別法人",
+  "J": "https://tryt-group.co.jp/wp-content/uploads/2025/03/20250328_FY24report.pdf;https://tryt-group.co.jp/wp-content/uploads/2024/02/20240213_FY23presentation_J.pdf;https://catr.jp/companies/2650a/189661"
+ },
+ {
+  "行": 900,
+  "I": "△ 妥当（回収不能を確認）：広島県Go!ひろしま企業DBの株式会社福屋ページを承認ソースとして再照会したが売上高欄を取得できず。450億円（2025年2月期）の出所はマイナビ2027（禁止ソース§3-4）と官報決算DB catr.jp（§7-1未決着）のみで、自社HP・新聞社記事に決算期付き売上高の記載を確認できない。※fukuya-k.co.jp「FUKUYAグループ業績概要」は不動産の別法人で混同注意（§6-2）。承認ソースが確定するまで△を維持。",
+  "J": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-hiroshima-datebase-kigyo/go-data-0284.html;https://www.fukuya-dept.co.jp/company/;https://catr.jp/companies/6508e/7007/settlements/2e6c8/351909;https://job.mynavi.jp/27/pc/search/corp51465/outline.html"
+ },
+ {
+  "行": 911,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝gBizINFO・日本鉄リサイクル工業会 会員情報(共栄(株)神戸工場)・ひょうご/しごと情報広場・自社HP。いずれも売上高の記載なし。さらにgBizINFOでは神戸市中央区栄町通の共栄株式会社が法人番号1140001007137で表示され、B列2140001007136と不一致（§6-2の近似番号・同名取り違えリスク）。求人媒体の650億円は禁止ソースのため不採用",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1140001007137;https://www.jisri.or.jp/kaiin/mid281055;https://www.j-hiroba.jp/comlist01/detail_14420.html;http://www.kyoyei.com/"
+ },
+ {
+  "行": 912,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝gBizINFO（仙台の株式会社ワールドは法人番号4140001024328で表示され、B列2370001022987と照合できず）・上場(株)ワールド[3612]のIR資料。3612は神戸のアパレル大手(売上収益1,989億円)で完全な別法人のため不採用。B列法人番号に紐づく売上高はSalesNow DB(禁止ソース)にしか存在しない",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4140001024328;https://corp.world.co.jp/company/about/pdf/world_profile_2025.pdf"
+ },
+ {
+  "行": 913,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝gBizINFO・官報決算DB(第11/12/14期)・シャープ連結情報。むしろ直近期の売上高は12.56億円(前年比▲97.9%)との記載があり、2024年9月の堺工場パネル生産停止と整合する。回収の余地はなく、仮に確定すれば300億未満で×側。承認ソースでの直接確認はできないため△を維持",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8120101028152;https://catr.jp/companies/95b3f/1467/settlements/31198/295343;https://corporate.jp.sharp/info/consolidated/"
+ },
+ {
+  "行": 915,
+  "I": "△ 妥当：確認不可で正しい。公式開示は取扱高2,104億円(2026年3月期)のみで売上高(営業収益)ではなく、カード会社の営業収益は取扱高の数%規模のため300億到達の見込みが乏しい。回収見込みなしと判断し本再検証では追加検索を配分していない（＝本行は未検証）。1次の当たった経路＝自社HP会社概要・gBizINFO・決算公告",
+  "J": "https://www.kinki-shinkincard.co.jp/company/"
+ },
+ {
+  "行": 916,
+  "I": "△ 妥当（回収不能を確認）：yoshidasangyo.co.jp ドメイン内検索で電子公告／決算公告／業績ページが存在しないことを確認し、§5-3-5の経路が閉じた。第78期＝2025年3月期の売上高789.56億円・当期純利益8.91億円は複数ソースで一致するが、出所はマイナビ・OpenWork・Baseconnect・個人ブログ「決算公告データ倉庫」・catr.jpのみで、全て禁止ソースか§7-1未決着。承認ソースがゼロのため△を維持（1次H列の759.70億円は誤りで、正しくは789.56億円）。",
+  "J": "https://www.yoshidasangyo.co.jp/company/profile/index.html;https://www.yoshidasangyo.co.jp/company/;https://catr.jp/settlements/07d8c/211751;https://ryo-nakamura1.hatenablog.jp/entry/2025/12/26/180000_3"
+ },
+ {
+  "行": 917,
+  "I": "△ 妥当（回収不能を確認・親子判定は訂正）：決算期は8月20日締めと判明（catr掲載の第52期＝2023年8月期）。1,188億円は2025年8月期の値だがマイナビ・Wikipedia（禁止ソース）にしかない。CGCグループは加盟団体であって資本上の親会社ではなく、コノミヤは被支配子会社ではない＝§3-3では親会社側の判定が正しい（1次H列の「子会社単体判定」は誤り）。自社HPに電子公告／決算公告ページはなく、承認ソースで金額を確認できないため△を維持。",
+  "J": "https://www.konomiya.jp/company_profile/;https://catr.jp/companies/e71a5/7351/settlements/65e74/349680;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%A4"
+ },
+ {
+  "行": 920,
+  "I": "△ 妥当：確認不可で正しい。追加経路＝農林水産省近畿農政局の輸出事例PDF(公的機関。同社紹介はあるが売上高記載なし)・官報決算DB・自社HP・公式採用ページ。承認外ソースでは2025年6月期売上高約134.6億円(決算月6月)とされ、これが正しければ300億円を大きく下回る。回収の余地なし",
+  "J": "https://www.maff.go.jp/kinki/tiiki/hyogo/jirei/yusyutujirei/PDF/1.pdf;https://www.kagonet.co.jp/;https://www.kagonet.co.jp/recruit/welfare/"
+ },
+ {
+  "行": 923,
+  "I": "△ 妥当（回収不能を確認）：自社HPグループ会社概要は同社を中心とする5社（パートナーズ／マネジメント／ショップ／ワークス／MISハウスメイト）構成で、持株会社も出資比率も記載なし。よって同社を親会社と断定できず、自社HPの4社合計1,916.5億円を§3-3のグループ連結として援用できない。第45期1,341.86億円・2023年度1,403.84億円はcatr.jp／Yahoo!しごとカタログ／転職会議のみで、決算期も特定できない（§3-8）。△を維持。",
+  "J": "https://www.housemate.co.jp/company/about.html;https://www.housemate.co.jp/company/jisseki.html;https://catr.jp/companies/48938/146441/settlements/2dd06/239655"
+ },
+ {
+  "行": 941,
+  "I": "△ 妥当：確認不可で正しい。親会社やる気スイッチグループHDの連結売上収益が244.88億円(2024年度)で既に300億円未満であり、傘下事業会社である本法人の単体がこれを上回る余地はない。回収見込みなしと判断し本再検証では追加検索を配分していない（＝本行は未検証）。1次の経路＝自社HP・電子公告・JPX開示",
+  "J": "https://www.yarukiswitch-holdings.co.jp/notice"
+ },
+ {
+  "行": 942,
+  "I": "△ 妥当（回収不能を確認・重要な補強）：神戸製鋼所有報「関係会社の状況」の主要な損益情報等はWebSearchで取得できず。加えて国内販売は別法人コベルコ建機日本株式会社（決算公告 売上高576.42億円・2026年3月期）が担うことが判明し、建設機械セグメント3,895億円（2026年3月期）／3,880億円（2025年3月期）は同社ほか複数法人の合算である。よってセグメント値を法人番号8240001012153の単体売上へ読み替えるのは§6-4違反。自社電子公告 kessan_104.pdf（第104期＝2024年4月〜2025年3月、2025/6/20掲載）本文が唯一の確定経路だがPDFは取得不可。△を維持。",
+  "J": "https://www.kobelcocm-global.com/jp/koukoku/;https://www.kobelcocm-global.com/jp/koukoku/tn29gt0000000162-att/kessan_104.pdf;https://catr.jp/companies/9634d/19667;https://www.kobelco.co.jp/ir/presentation/pdf/250512_hosoku_ir.pdf"
+ },
+ {
+  "行": 944,
+  "I": "△ 妥当（回収不能を確認）：自社HP電子公告に第115〜117期の決算公告PDFが掲載されていること（承認ソース§5-3-5）を再確認し、第115期＝2023年12月期の当期純利益54.54億円までは取れたが売上高は取得できず。catr.jp等の二次DBにも同社の決算公告データが存在しない。公式696億円（2025年）は連結値であり、YAGEO/KEMET傘下の子会社判定には単体が必要（§3-3／§6-4）。PDF本文を直接読める手段があれば確定可能。△を維持。",
+  "J": "https://www.tokin.com/info/publicnotice/;https://www.tokin.com/koukoku/pdf/kessan_117.pdf;https://www.tokin.com/koukoku/pdf/kessan_115.pdf;https://www.tokin.com/info/tokin-info/gaiyo/"
+ }
+]

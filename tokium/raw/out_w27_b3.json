@@ -1,0 +1,77 @@
+[
+ {
+  "行": 1073,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝村田製作所コーポレートサイトのグループ会社/小諸村田ページ、採用サイト「データで見るムラタ」、村田製作所2026年3月期有報。いずれも小諸村田単体の売上高記載なし。下限証明も不可（村田連結1兆8,308.56億円×10%＝1,830.9億円で、この規模の10%超注記は同社に存在しない）",
+  "J": "https://corporate.murata.com/ja-jp/group/komoromurata/corporate/message ; https://recruit.murata.com/ja-jp/area/komoromurata/ ; https://corporate.murata.com/en-us/ir/financial/highlite"
+ },
+ {
+  "行": 1075,
+  "I": "△ 要再確認：官報決算公告に第25期・単体売上高359億0,800万円（前期比+27.63%、純利益△4.45億円、総資産290.88億円）。300億超だが出典が官報決算データベース(catr.jp)／PR TIMES決算公告転載で§7-1未決着。井関農機の有報(EDINET S100VI8J)・ISEKIレポート・事業報告書・グループ会社ページを追加で当たったが単体売上高の記載なし。井関連結1,857.70億円(2025年12月期)×10%＝185.8億円<300億で下限証明は使えない",
+  "J": "https://x.com/kessan_db/status/2041849145997308365 ; https://prtimes.jp/finance/7500001004562/settlement ; https://www.iseki.co.jp/group/md/ ; https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VI8J.pdf"
+ },
+ {
+  "行": 1076,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝マッシュHD/マッシュグループの業界紙報道(WWDJAPAN・fashionsnap・繊研新聞)、官報決算公告検索、自社HP。ビューティ事業売上は2025年8月期200億円(前期比+14%、グループ連結1,363億円)にとどまり、これは事業セグメント値で法人単体値ではないが300億未達を強く示唆。マッシュHDは非上場で有報がなく「関係会社の状況」による下限証明も不可",
+  "J": "https://www.fashionsnap.com/article/mash-business-2025/ ; https://www.wwdjapan.com/articles/2258703 ; https://www.mashbeautylab.com/"
+ },
+ {
+  "行": 1077,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP、官報決算公告(catr.jp／官報決算データベース)の2系統を追加で検索したが当社名義の決算公告は不掲載。承認ソース上に売上高なし。転職会議・Yahoo!しごとカタログ・マイナビ・doda・Baseconnect・キャリタス就活に「2024年度310億円」等の数値が流通するが全て禁止ソースで不採用（§6-6加藤化学と同型）。非上場で親会社もなく下限証明も不可",
+  "J": "https://www.fivefoxes.co.jp/ ; https://catr.jp/pref/13"
+ },
+ {
+  "行": 1091,
+  "I": "△ 要再確認：官報決算公告に第61期（3月決算・公告2025/6/20 令和7年官報号外第138号）単体売上高1,038億3,435万6,000円（営業利益27.28億円、経常利益54.15億円、純利益38.55億円）。300億を大幅超だが出典が官報検索!／catr.jpの官報転載で§7-1未決着。自社HPのIRライブラリに決算公告掲載ページは存在するが、検索で確認できた最新は第55期(2019年)で鮮度不足。住友金属鉱山の関連会社で同社有報での下限証明は未確認",
+  "J": "https://search.kanpoo.jp/r/20250620g138p136-5e4/ ; https://catr.jp/companies/93b6c/55810/settlements/d4ef2/409312 ; https://www.ne-chemcat.co.jp/ir/library/"
+ },
+ {
+  "行": 1097,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社IRライブラリの決算短信ページ・有報ページ（2023年上場廃止、コード1739）、メルディアグループ公式の決算公告ページ、第32期(2025年9月期)決算公告、自社企業概要。いずれも直近期の単体売上高を承認ソースで特定できず。1次が確認した通り公告は連結貸借対照表のみで売上高欄が存在しない",
+  "J": "https://meldia-dc.co.jp/ir/ir_library/info/financial_reports/ ; https://meldia-dc.co.jp/ir/ir_library/info/report/ ; https://meldia.co.jp/company/about/financials/ ; https://meldia-dc.co.jp/company/outline/"
+ },
+ {
+  "行": 1098,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告（第24期）を追加で確認したが、公告は純利益21.5億円・利益剰余金4.59億円・総資産67.28億円のみで売上高欄が存在しない。KPMGグローバルの総収入398億米ドル(FY25)は全世界メンバーファーム合算値であり当法人単体の売上高ではないため不採用。自社HP・gBizINFO・公的調達情報にも単体売上高なし",
+  "J": "https://catr.jp/companies/f3601/32681 ; https://catr.jp/companies/f3601/32681/settlements/501eb/33293 ; https://kpmg.com/jp/ja/"
+ },
+ {
+  "行": 1107,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP、gBizINFO、官報決算公告検索。9月決算だが売上高を記載した決算公告・公式資料を確認できず。キャリタス就活・OpenWork・Baseconnect・Wikipediaに「194億円」の記載があるが全て禁止ソースで、300億未満を示唆するものの×判定の根拠にもできない。非上場・親会社なしで下限証明も不可",
+  "J": "https://adachilight.co.jp/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3180001075467"
+ },
+ {
+  "行": 1108,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝東武鉄道の有報等IRページ、官報決算公告第80期(catr.jp)、自社HP会社概要、地元紙(下野新聞)。第80期公告は純利益△8億3,900万円・利益剰余金3億2,100万円のみで売上高欄なし。※同期の「売上高545.85億円」は別法人の株式会社東武百貨店の値で取り違え厳禁。東武鉄道連結×10%は600億超で公式最新明記240億円(2019年度)と整合せず下限証明も不可",
+  "J": "https://catr.jp/companies/d8512/6982/settlements/3b220/404399 ; https://www.tobu.co.jp/ir/fr/ ; https://www.tobu-u-dept.jp/company"
+ },
+ {
+  "行": 1111,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝1次が公式第21期決算公告を確認済みで、公告が貸借対照表のみ＝売上高欄が存在しないことまで判明している。会社法上の開示義務がなく、いかなる経路を追加しても承認ソース上の売上高は出ない構造のため検索枠を投入せず△確定とした（自社HP会社概要・電子公告ページ・gBizINFOも1次で確認済み）",
+  "J": "https://www.j-risk.jp/public_notice/ ; https://www.j-risk.jp/company/"
+ },
+ {
+  "行": 1113,
+  "I": "△ 要再確認：官報決算公告に2025年12月期・単体売上高1,145億5,600万円（前期比+6.41%、純利益72.16億円）。第17期公告では792億5,500万円。300億を大幅超だが出典が官報決算データベース(catr.jp)のみで§7-1未決着。追加でキヤノン公式の電子公告・有報・IRライブラリ、長崎キヤノン自社HP会社基本情報を当たったが単体売上高の記載なし。キヤノン連結約4.5兆円×10%＝4,500億で下限証明も使えない",
+  "J": "https://catr.jp/companies/5c00a/29567 ; https://catr.jp/companies/5c00a/29567/settlements/6c495/395259 ; https://nagasaki.canon/about/index.html ; https://global.canon/ja/ir/koukoku.html"
+ },
+ {
+  "行": 1119,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝官報決算公告の東京都一覧(catr.jp)、gBizINFO、自社サイト。法人番号4010601015805に対応する決算公告を特定できず。※検索で当たる「株式会社宮田工業所」(2180001027320／1180001032965)・「株式会社宮田機械店」・「株式会社宮田工業」はいずれも別法人番号で数値の流用不可(§6-2)。禁止ソースの260.55億円は不採用かつ300億未満を示唆",
+  "J": "https://catr.jp/pref/13 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010601015805 ; http://www.miyata-net.co.jp"
+ },
+ {
+  "行": 1125,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝gBizINFO、官報決算公告検索、同名企業の公式サイト照合。法人番号9060001036392は栃木県真岡市下籠谷4321-1の法人で、承認ソース上に自社サイトも財務情報も存在しない（民間与信サイトでは設立2023年10月と表示され、300億規模の蓋然性も低い）。大阪府八尾市の藤田金屬株式会社(fujita-kz.com)および fujitametal.co.jp は別法人で数値流用不可",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9060001036392 ; https://www.fujita-kz.com/company/outline.html ; http://www.fujitametal.co.jp/outline.html"
+ },
+ {
+  "行": 1126,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要(1966年設立・全国約600店舗)、フジパングループ本社公式会社概要、官報決算公告(catr.jpに当社の企業ページはあるが売上高付き公告は不掲載)、gBizINFO。親会社フジパングループ本社は非上場で有報がなく「関係会社の状況」による下限証明が使えない。同社第77期連結2,881.65億円はグループ値で子会社単体には使用不可(§3-3)",
+  "J": "https://www.fujipanstore.com/about/ ; https://catr.jp/companies/250ab/121565 ; https://www.fujipan.co.jp/company/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6180001010974"
+ },
+ {
+  "行": 1127,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HPの会社概要(和文/英文Company Profile)・Reportページ・拠点ページ、官報決算公告検索、gBizINFO。5月決算だが売上高を記載した承認ソースを確認できず。非上場・親会社なしで「関係会社の状況」による下限証明も不可。dodaほか求人媒体の数値は禁止ソースのため不採用",
+  "J": "https://iwatabolt.co.jp/en/company-profile/ ; https://iwatabolt.co.jp/en/report/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010701001101"
+ }
+]

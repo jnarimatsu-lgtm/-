@@ -1,0 +1,77 @@
+[
+ {
+  "行": 999,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝親会社ピックルスHDのIR/有報『関係会社の状況』、自社HP会社概要、EDINET、gBizINFO、官報決算公告索引。下限証明も不成立（HD連結409.23億円×10%＝40.92億円<300億）のため親IRの10%超注記では回収できない。対象法人単体の売上高開示は承認ソースに一切なし。",
+  "J": "https://www.pickles-hd.co.jp/ir/individual/ ; https://www.pickles.co.jp/company/operating/kansai/"
+ },
+ {
+  "行": 1003,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝親会社キユーソー流通システムのEDINET有報『関係会社の状況』（連結営業収益10%超の注記が付くのは(株)エスワイプロモーションのみで対象法人には無し）、KRS社IR財務情報、官報決算公告索引。下限証明も不成立（親連結2,026.02億円/2025年11月期×10%＝202.6億円<300億）。単体実額なし。",
+  "J": "https://www.krs.co.jp/ir/financial.html ; https://edinetdb.jp/company/E04213/ir-docs/ ; https://k-tis.jp/Company/overview.html"
+ },
+ {
+  "行": 1011,
+  "I": "△ 要再確認（補強）：再検索で第41期売上高517.19億円を1次とは別経路で再現、前期481.18億円（+7.5%）とも整合し数値自体の確度は高い。ただし参照可能な出典は官報決算公告の民間DB(catr.jp)のみで§7-1が未決着のため○に回収せず。§5-3の5は官報決算公告を承認経路に挙げており、§7-1が承認側で決着すれば300億超で即○に回収可。自社HP・かんぽ生命/日本郵政IRに売上高記載なし。",
+  "J": "https://catr.jp/companies/ed21a/24376/settlements/7229f/420783 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8011001067425 ; https://www.kamposol.jp-life.japanpost.jp/corp_info/gaiyo/index.html"
+ },
+ {
+  "行": 1012,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社案内・会社概要(sankoshoji.co.jp)、官報決算公告索引、gBizINFO、EDINET、新聞記事。福井の工作機械・産業機械商社で非上場、承認ソースに売上高の記載なし。上場の(株)サンコー[6964]および(株)サンコー(sko.co.jp)は別法人（法人番号4180001002131と不一致）のため不採用。",
+  "J": "https://www.sankoshoji.co.jp/company/profile.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001002131"
+ },
+ {
+  "行": 1015,
+  "I": "△ 要再確認（新経路発見）：1次未踏の経路として同社の指定電子公告がプロネクサス電子公告(kmasterplus.pronexus.co.jp)に存在することを確認。これは§5-3の5『自社の電子公告ページ』に当たりcatr.jp（§7-1未決着）に依存しない承認経路。ただし当該公告PDFの売上高を本パスでは読めず（WebFetch遮断・検索枠切れ）数値未確定のため○に回収せず。883.1億円は基準の2.9倍で確度は高い。次パスで当該公告1件を開けば決着可。",
+  "J": "https://kmasterplus.pronexus.co.jp/main/corp/m/0/m090/ ; https://www.otsukakj.jp/company/company_outline/ ; https://catr.jp/companies/f256d/54416"
+ },
+ {
+  "行": 1017,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP2025年度(第33期)決算報告、ファミリーマート本部の会社案内/決算関連情報/電子公告、gBizINFO、官報決算公告索引。開示はチェーン全店売上高813.81億円（加盟店店頭売上の合計）のみで、エリアFC単体の営業収益（直営店売上＋ロイヤリティ）は非開示。水準が大きく異なり代用不可。",
+  "J": "https://www.mfamily.co.jp/news/post-799/ ; https://www.family.co.jp/company/familymart/overview.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1340001004122"
+ },
+ {
+  "行": 1019,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝村田製作所コーポレートサイト拠点一覧/関係会社ページ、村田採用サイト『オカヤマムラタ RECRUITING SITE』、Factbook/Facts and Figures、官報決算公告索引、gBizINFO。いずれも資本金・従業員数・製品のみで単体売上高なし。村田連結17,434億円は連結値で子会社単体判定に使用不可。",
+  "J": "https://corporate.murata.com/ja-jp/company/muratalocations/affiliated_japan/okayamamurata ; https://recruit.murata.com/ja-jp/area/okayamamurata/ ; https://corporate.murata.com/en-us/company/factsandfigures"
+ },
+ {
+  "行": 1022,
+  "I": "○ 回収：自社HP『会社情報』に売上高451億円（2025年度実績・単体）と明記。TOTO子会社だが対象法人“単体”の数値であり300億以上を満たす。自社採用サイト『数字でわかるTOTOエムテック』にも同社の事業規模データを掲載。1次が未踏だった自社ドメイン内の会社概要/採用ページ（§5-3の1・9）で回収。",
+  "J": "https://tmt.jp.toto.com/information/outline/ ; https://tmt.jp.toto.com/recruit/numbers/"
+ },
+ {
+  "行": 1023,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO収録の官報決算公告、セラニーズ日本法人サイト(celanese.co.jp)、米Celanese決算リリース、EDINET。承認ソースで確認できる売上高は2018年12月期の742億円（純利益56.21億円）のみで §3-8 の直近3期を外れ不採用。2024年2月にデュポン(株)から商号変更しており事業範囲も変動。最新期は非公表。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001087831 ; https://www.celanese.co.jp/about-us/celanese-japan"
+ },
+ {
+  "行": 1029,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP企業情報(tsukasa-hd.jp)、gBizINFO、官報決算公告索引。所在地は熊本県玉名市でパチンコ・ホテル・ゴルフ場等を運営（従業員559人）。決算公告は貸借対照表の要旨のみで売上高欄が存在せず（純利益△539万円・利益剰余金△5.29億円）、開示義務がなく実額取得は不可能。",
+  "J": "https://tsukasa-hd.jp/about.php ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5330001011470"
+ },
+ {
+  "行": 1030,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（2026年3月期：純利益20.22億円・利益剰余金39.56億円・総資産153.15億円）。ただし公告は貸借対照表のみで売上高欄が存在せず実額は取得不能。オリックスIR（決算短信・有報『関係会社の状況』）、自社HP会社概要、gBizINFOにも単体売上高の記載なし。",
+  "J": "https://www.orix-f.co.jp/company/profile.html ; https://www.orix.co.jp/grp/company/ir/library/financial_result/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8130001019358"
+ },
+ {
+  "行": 1035,
+  "I": "○ 妥当（根拠差替）：1次は阪急梅田本店の店舗売上高3,487.47億円を根拠にしたが店舗売上高は単体売上高ではない。単体決算で総額売上高6,356億円（2025年3月期・前期比+10.0%、営業利益282億円）を確認し基準300億を大幅超過、結論は不変。自社電子公告ページ（計算書類）も実在。H2Oリテイリング子会社だが対象法人“単体”の値であり§3-3を満たす。",
+  "J": "https://www.hankyu-hanshin-dept.co.jp/koukoku.html ; https://www.h2o-retailing.co.jp/ja/ir/library/results.html ; https://www.h2o-retailing.co.jp/ja/ir/announce_group.html"
+ },
+ {
+  "行": 1039,
+  "I": "△ 覆し：1次の591.30億円は再現不能。金額シード検索『SGモータース 売上高 591億円』では当該値は名糖運輸のものと返り対象法人に結び付かず。代わりに第43期244.12億円（前年比▲9.29%・純利益4.38億円・総資産350.69億円）と2024年度463.76億円（Yahoo!しごとカタログ＝禁止ソース）が返り相互に矛盾。244.12億円なら300億未満で×相当。出典もcatr.jp単独で§7-1未決着。○は維持できず△へ差し戻す。要再調査＝官報第43期原本で売上高を確定。",
+  "J": "https://catr.jp/companies/12a60/9422/settlements/d1c1a/302104 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6120001027495 ; https://www.sg-motors.co.jp/company/company/"
+ },
+ {
+  "行": 1065,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝gBizINFO掲載の官報決算公告（第72期2024年6月27日公告・第71期）。いずれも貸借対照表のみで売上高欄が存在せず（純利益7.01億円・利益剰余金4.05億円・総資産19.17億円）。自社HP企業データ、味の素IR/有報『関係会社の状況』にも単体売上高なし。開示義務がなく実額取得不可。",
+  "J": "https://info.gbiz.go.jp/hojin/financialstatement?kessanJohoId=5490a99f-0d08-4326-b2e8-9c04e6e50fb6 ; https://www.ahs.ajinomoto.com/corporate/info.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001036640"
+ },
+ {
+  "行": 1066,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告索引（掲載は『貸借対照表の要旨』のみで売上高欄が存在しない）、自社HP会社概要、EDINET、gBizINFO。承認ソースで確認できる最新の売上明記は140億円（2023年2月期）で §3-8 の直近3期を外れるため不採用。売上高の開示義務がなく今後も実額取得は困難。",
+  "J": "https://catr.jp/companies/c1ad0/46909 ; https://www.ababakafudado.co.jp/company/"
+ }
+]

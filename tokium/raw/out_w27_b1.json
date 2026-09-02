@@ -1,0 +1,77 @@
+[
+ {
+  "行": 946,
+  "I": "△ 要再確認：官報決算公告（catr.jp収録）で2024年3月期 単体売上高734.67億円・純利益46.06億円・総資産420.16億円。NTTデータ100%子会社だが単体で300億超。ただし承認ソース（自社HP/親会社IR）に記載はなく、根拠が官報二次収録サイトのみで§7-1未決着。追加で当たった経路＝官報決算公告、NTTデータグループ公式（商号変更リリースのみ・売上高なし。連結4兆円超のため10%超注記による下限証明も不可）",
+  "J": "https://catr.jp/companies/454d1/12720; https://www.nttdata.com/global/ja/news/group/2025/100100/; https://www.fortience.com/company/profile/"
+ },
+ {
+  "行": 954,
+  "I": "△ 要再確認：第64期＝2025年6月期の単体売上高609.88億円・営業利益65.75億円（前期比117.9%増、前期は131.76億円の営業損失）。官報決算公告（catr.jp収録）と業界メディアgamebiz報道が一致。300億は超えるが、承認ソース（自社HP・新聞社記事）には売上高の記載がなく§7-1未決着。追加で当たった経路＝官報決算公告、業界専門メディア",
+  "J": "https://catr.jp/companies/95cc3/9020/settlements/48e79/348092; https://gamebiz.jp/news/424959; https://www.kyoraku.co.jp/company/about.php"
+ },
+ {
+  "行": 956,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告データベース（catr.jp収録の『株式会社シグマ』は京都市西京区・仙台市の別法人で、川崎市麻生区の当社の決算公告は未収録）、自社HP会社概要・採用サイト（売上高記載なし）。534.81億円(2024年8月期)・550.22億円(2025年8月期)はWikipedia/Baseconnect/求人媒体のみで承認外",
+  "J": "https://www.sigma-global.com/jp/corporate-overview/; https://catr.jp/companies/93118/230045; https://recruiting.sigma-photo.co.jp/about-3minutes.html"
+ },
+ {
+  "行": 965,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（catr.jpに第18〜23期を収録。第23期＝2024年3月期の売上高は186.25億円との記載で、事実なら300億未満＝×側）、自社HP会社概要、gBizINFO（いずれも売上高なし）。マイナビ掲載の340.6億円は禁止ソース。承認ソース不在かつ数値が基準近辺で割れるため△維持が正しい",
+  "J": "https://catr.jp/companies/7f72a/9833; https://catr.jp/companies/7f72a/9833/settlements/9a729/304477; https://steelplantech.com/aboutus/outline; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9020001039928"
+ },
+ {
+  "行": 969,
+  "I": "△ 要再確認：官報決算公告（catr.jp）第30期＝2025年3月期の単体売上高779.46億円・営業利益133.78億円・経常利益153.07億円・純利益106.01億円。東芝デバイス＆ストレージ100%子会社だが単体で300億超。根拠が官報二次収録サイトのみで§7-1未決着。追加で当たった経路＝官報決算公告（第26/28/30期）、東芝IR（連結3兆円超で10%超注記の対象外）",
+  "J": "https://catr.jp/companies/885b8/48664/settlements/5fd5c/414520; https://catr.jp/companies/885b8/48664; http://www.nuflare.co.jp/corporate/about/"
+ },
+ {
+  "行": 973,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告データベース（catr.jpに当社の決算公告収録なし）、自社HP会社概要 nisso.gr.jp/outline（売上高記載なし）。上場のNISSOホールディングス／日総工産は別法人で流用不可。約120億円との数値はマイナビ・Baseconnect・Buffett-Code等の禁止ソースのみで桁も不安定",
+  "J": "https://www.nisso.gr.jp/outline/; https://www.nisso.gr.jp/group/"
+ },
+ {
+  "行": 975,
+  "I": "△ 要再確認：2025年3月期の単体売上高692.51億円との記載を官報決算公告収録サイト（catr.jp企業ページ）およびBuffett-Codeで確認。メタルワン100%子会社だが単体で300億超。ただし承認ソースには記載がなく§7-1未決着。追加で当たった経路＝官報決算公告DB、親会社メタルワンの決算公表PDF（連結のみで子会社単体なし。連結1兆円超のため10%超注記も不可）",
+  "J": "https://catr.jp/companies/f9c2f/63660; https://www.mtlo.co.jp/ir/; https://www.mtlo.co.jp/wp-content/uploads/2025/05/%E6%B1%BA%E7%AE%972024.pdf; http://www.mtlo-nishinihon.co.jp/company/"
+ },
+ {
+  "行": 976,
+  "I": "△ 妥当：確認不可で正しい。1次の経路に加え、親会社ニチレイ有報「関係会社の状況」による下限証明は連結約6,700億円のため10%＝約670億円を要し、46億円規模の当社は構造上その対象外＝この経路は使えないことを確認。公式で取れる直近値は2017年度46億円のみで鮮度・金額とも基準未達。回収見込みなしと判断し本ブロックでは追加検索を行っていない",
+  "J": "https://www.nichirei.co.jp/news/2019/327.html; http://www.nichirei.co.jp/bio/index.html"
+ },
+ {
+  "行": 982,
+  "I": "△ 要再確認：官報決算公告（catr.jp／PR TIMES決算公告DB収録）で第55期売上高507.20億円、2024年3月期535.63億円。大王製紙子会社だが単体で300億超。承認ソース（自社HP・大王製紙有報）には記載がなく、大王製紙連結約6,700億円のため10%超注記による下限証明も使えない。§7-1が決着すれば○に回収可能。追加経路＝官報決算公告、親会社IR",
+  "J": "https://catr.jp/companies/1f2d9/16681; https://catr.jp/settlements/89cc1/16962; https://prtimes.jp/finance/3500001014375/settlement; https://www.elleair-product.com/aboutus.html"
+ },
+ {
+  "行": 984,
+  "I": "○ 妥当（G列訂正：1,638.8億円は薬王堂ホールディングス（7679）の2026年2月期『連結』売上高であり、株式会社薬王堂の単体値ではない。G列が単体表記なら連結に訂正）：HD決算短信で2026年2月期 連結売上高1,638.8億円（前期比+7.8%）・営業利益52.85億円・親会社株主帰属純利益40.28億円を再確認。薬王堂HDは株式移転による純粋持株会社で約400店のドラッグストア運営は当社が担うため単体でも300億を桁違いに超過し架電可否は○で維持。ただし1次が下限の根拠とした親会社有報『関係会社の状況』の90%超による主要な損益情報等省略の注記は、検索枠切れのため本層では再確認できていない。単体実額は未取得。",
+  "J": "https://www.yakuodo.co.jp/company/about/; https://www.yakuodo.co.jp/wp-content/uploads/2026/04/%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1_2602-1.pdf; https://www.yakuodo-hd.co.jp/ir/library/earning/"
+ },
+ {
+  "行": 987,
+  "I": "○ 回収：マクニカHD有価証券報告書「関係会社の状況」で、株式会社マクニカはMACNICA CYTECH LIMITEDとともに連結売上高に占める売上高（内部売上高除く）の割合が10%超と注記。同HD連結売上高は2026年3月期1兆2,141.96億円（決算短信）、2025年3月期1兆341.80億円。下限は1,034億円超となり、子会社単体で300億基準を確定的に充足",
+  "J": "https://edinetdb.jp/company/E31167/text; https://www.nikkei.com/nkd/disclosure/tdnr/20260508519332/; https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260511/20260508519332.pdf; https://www.macnica.co.jp/company/overview/"
+ },
+ {
+  "行": 988,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（catr.jpに2026年3月期・2025年3月期を収録するが売上高欄は「データなし」＝貸借対照表中心の公告。純利益25.22億円/利益剰余金136.93億円/総資産283.04億円のみ）、日産IR（連結12兆円規模で10%超注記の対象外）。売上高の開示経路自体が存在しない",
+  "J": "https://catr.jp/companies/24df9/58792; https://www.nissan-global.com/JP/IR/FINANCIAL_RESULTS/; https://www.nissankyushu.co.jp/"
+ },
+ {
+  "行": 991,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（catr.jp・決算期末2026/3/31を収録するが売上高欄は「-」で非公告。純利益13.07億円/総資産151.76億円）、G-7HD IR（第51期連結2,321.99億円。10%＝232億円で下限証明が300億に届かない）。自社HP会社概要は2022年3月期322.64億円のまま未更新。残る経路はG-7HD有報の主要な損益情報等",
+  "J": "https://g-7autoservice.co.jp/company/outline/; https://www.g-7holdings.co.jp/investors/portfolio/; https://www.g-7holdings.co.jp/investors/summary/"
+ },
+ {
+  "行": 992,
+  "I": "△ 要再確認：官報決算公告（catr.jp）で2025年3月期 単体売上高1,859.05億円（前年比+5.35%）、第38期1,764.99億円、第37期1,414.71億円。日産100%子会社だが単体で300億を大きく超える。自社HPには売上高記載なし、日産連結12兆円規模で10%超注記も対象外。根拠が官報二次収録サイトのみで§7-1未決着のため○にできず",
+  "J": "https://catr.jp/companies/ec2c4/19328/settlements/839a1/358981; https://catr.jp/companies/ec2c4/19328/settlements/015f6/311706; https://www.nissan-nmc.co.jp/company/about/"
+ },
+ {
+  "行": 993,
+  "I": "△ 妥当：確認不可で正しい。1次が自社HPの2023〜2025年度決算公告で売上高欄なし（貸借対照表のみの公告で損益の開示義務なし）まで確認済みのため追加検索は実施せず。加えて親会社Honda IRによる下限証明は連結20兆円規模で10%＝2兆円を要し構造上不可。承認ソースで売上高を取得する経路が存在しない",
+  "J": "https://global.honda/jp/HABC/company/financial_results/; https://global.honda/jp/HABC/company/profile/"
+ }
+]
