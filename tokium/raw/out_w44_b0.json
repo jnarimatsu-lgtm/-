@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3281,
+  "I": "△ 要再確認（§7-1回答待ち）：官報決算公告で2026年3月期・単体 売上高1,336.2億円（負債200億円超で大会社となりPL開示が復活）。出典がcatr.jp/官報ブログ/民間ブログのみで官報本体の号数・頁を特定できず。catr.jp承認なら○回収可。追加経路＝リクルートHD有報も検算したが連結約3.6兆円の10%＝3,600億>1,336億で「関係会社の状況」に実額は載らない。法人番号0104＝東京法務局港出張所で港区本店と整合。",
+  "J": "https://catr.jp/companies/8df8f/4428 ; https://kanpo-kanpo.blog.jp/archives/33990086.html ; https://compalyze.co.jp/journal/indeed-japan-fy2026-sales-disclosure ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010401108252"
+ },
+ {
+  "行": 3282,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝鹿児島県企業立地ガイド（自治体＝公的機関）に「売上高301億8,700万円・令和5年2月決算・従業員564人」を発見したが、2023年2月期は直近3期（2026/2・2025/2・2024/2）外で§3-8により採用不可。西原商会グループ連結は2026年2月期1,390億円だが子会社判定に連結は使えない。自社HP会社概要・gBizINFOにも単体記載なし。301.87億は基準+1.87億の薄利。",
+  "J": "https://kagoshima-kigyouricchi-guide.jp/company-information/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%A5%BF%E5%8E%9F%E5%95%86%E4%BC%9A%E4%B9%9D%E5%B7%9E%EF%BC%88%E6%9B%BD%E6%96%BC%E5%B8%82%EF%BC%9Ar5-6-13%EF%BC%89/ ; https://www.nishihara-shokai.co.jp/business/gaiyou/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1290001038480"
+ },
+ {
+  "行": 3283,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HPの電子公告・決算公告ページの存在を確認（2019/11/5に官報公告→電子公告へ変更）。ただしPDF本文の売上高は取得できず。企業情報ページ（hdgs/profile・plv/profile）に売上高記載なし。パナソニックHD連結約8.4兆円の10%＝8,400億に遠く及ばずHD有報「関係会社の状況」に実額は載らない（検算済）。禁止ソース(マイナビ)の477億円は不採用。",
+  "J": "https://panasonic.co.jp/phs/plv/heg/notification.html ; https://panasonic.co.jp/phs/plv/hdgs/profile.html ; https://panasonic.co.jp/phs/plv/profile.html"
+ },
+ {
+  "行": 3285,
+  "I": "△ 要再確認（§7-1回答待ち）：官報決算公告で第51期（2025年12月期・単体）売上高 約4,008億円、第50期388,589百万円＝3,885.89億円、第49期 約3,931億円を確認。いずれも300億を大幅超過。出典がcatr.jp/官報ブログのみで官報本体の号数・頁を2クエリでは特定できず。catr.jpが承認ソースと認められれば○に回収可能。法人番号0104＝港出張所で六本木本店と整合。",
+  "J": "https://catr.jp/companies/82bd5/1630 ; https://catr.jp/companies/82bd5/1630/settlements/08747/449386 ; https://kanpo-kanpo.blog.jp/archives/45958103.html"
+ },
+ {
+  "行": 3286,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝鹿屋市公式の企業情報ページ（自治体＝公的機関）、自社企業情報ページ、官報決算公告索引。いずれも売上高の記載なし。自社公表の「令和6年度 取扱高478億円」は§3-7の売上高ではないラベル違いのため不採用。資本金4億5,200万円で会社法上の大会社（資本金5億円以上）に非該当のため、決算公告は貸借対照表のみで損益計算書が付かない構造とみられる。",
+  "J": "https://j-syoku.karen-ja.or.jp/company ; https://www.city.kanoya.lg.jp/koyou/kigyoujouhou/jashokunikukagosima.html ; https://catr.jp/companies/fbcb6/29926"
+ },
+ {
+  "行": 3288,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP「ホームセンターいない」会社概要（inai-hc.co.jp）、inai.jp会社紹介、gBizINFO。いずれも売上高の記載なし。いないホールディングス（5270001004968・同一登記所2700＝鳥取）の子会社のため単体300億以上が必要。禁止ソース(マイナビ)には2026年2月期約225億円・2024年2月期約214億円とあり、むしろ300億未満の疑いが濃い。承認ソースなしのため不採用。",
+  "J": "https://www.inai-hc.co.jp/profile/outline.html ; https://www.inai.jp/f/about ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5270001004968"
+ },
+ {
+  "行": 3290,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝セントケアHDのIRライブラリ（有報・決算短信）と会社/グループ概要。子会社単体の売上高記載を確認できず。HD連結は2026年3月期585億8,800万円で、単体300億は連結の51%超に相当し連結子会社29社構成から見て考えにくい。連結585.88億×10%＝58.6億で下限証明は300億に届かず使用不可。HP内「グループ企業決算公告」ページが未踏の経路として残る。",
+  "J": "https://www.saint-care.com/ir/library/securities.html ; https://www.saint-care.com/company/outline/ ; https://www.saint-care.com/ir/library/earnings.html"
+ },
+ {
+  "行": 3291,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要・会社案内・グループ企業一覧、新居浜市働き方改革/SDGsポータル（自治体＝公的機関）。いずれも売上高の記載なし。法人番号5000＝松山地方法務局で愛媛県新居浜市惣開町の本店と整合し、同名他社の取り違えは否定。禁止ソース(マイナビ)には売上高104億6,700万円とあり、E列「1,000億円以上」は実態と大きく乖離。300億未満の疑いが濃い。",
+  "J": "https://www.morizane.co.jp/company/about/ ; https://www.morizane.co.jp/company/ ; http://company-portal.city.niihama.ehime.jp/cn6/cn7/pg2452.html"
+ },
+ {
+  "行": 3298,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝palazzo.co.jpのグループ概要/沿革/組織、採用サイト会社概要、官報決算公告索引、gBizINFO。株式会社パラッツォ単体の売上高記載なし（catr.jpにあるのは別法人の株式会社パラッツォ東京プラザ・新宿区）。公式グループ年商1,166億円はグループ値のため不採用。なおパチンコホールの売上高は貸玉収入の総額/純額表示で数倍変わるため転用は危険。官報の単体決算公告が未踏の経路。",
+  "J": "https://www.palazzo.co.jp/summary ; https://recruit.palazzo.co.jp/company/ ; https://catr.jp/companies/f997e/44116 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011101026701"
+ },
+ {
+  "行": 3301,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝広島県公式「Teamがん対策ひろしま」企業紹介（公的機関）、ふくし かいごネットひろしま、全国介護付きホーム協会会員情報、gBizINFO。売上高の記載なし。法人番号2400＝広島法務局で本店（広島県安芸高田市八千代町勝田438）と整合、D列yachiyokai.comの医療法人社団八千代会グループの介護事業会社と確認。従業員865人の老人福祉介護事業でE列「300億以上」は事業構造上疑わしい。",
+  "J": "https://www.pref.hiroshima.lg.jp/site/team-gantaisaku/kigyo-fuji.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1240001024816 ; https://fukushikaigo.net/authinfo/authinfo-52810"
+ }
+]

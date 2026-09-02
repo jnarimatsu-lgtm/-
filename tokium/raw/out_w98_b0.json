@@ -1,0 +1,27 @@
+[
+ {
+  "行": 997,
+  "I": "△ 反証成立（1次の○を差し戻し）：H列「自社HP会社概要で489億円」は承認ソースでの裏付けが取れない。①金額シード検索で489億円は一度も返らず、代わりに526億円（2025年3月実績）・433億円（2023年3月実績）・5年平均463.6億円が返る＝1次値が誤りである強い信号。②その526/433億円の出所はマイナビ2026-2028・キャリタス就活・中国新聞就活応援キャンペーン・NIKKEI COMPASS・Baseconnect・fumadataのみで、いずれも§3-4の禁止ソース（求人媒体・口コミ・まとめサイト）。これらをblocked_domainsで除外して再検索すると売上高数値が一切返らない。③自社ドメイン限定検索（allowed_domains=chuden-plant.co.jp）を3通りのクエリで実施したが、会社概要outline.htmlから売上高は一度も抽出できず、返るのは所在地（広島市南区出汐二丁目3番18号）・設立1953年・事業内容のみ。§6-6の加藤化学と同型（禁止ソースにのみ数値が流通し承認ソースに記載なし）。当たったソース：自社HP会社概要outline.html／会社案内・組織図PDF／採用ページ／中国電力グループ企業案内(energia.co.jp)／中国電力IR（連結約1.5兆円に対し当社は10%未満のため有報「関係会社の状況・主要な損益情報等」の記載対象外＝この経路は無効）／広島県Go!ひろしま企業DB(go-data-01285、売上高欄を取得できず)／gBizINFO／catr.jp官報決算DB。残る唯一の可能性はcatr.jp収録の官報決算公告だが§7-1で承認ソース性が未決着のため単独では使えない。よって§3-1③・§3-5により直アポ大に載せてはいけない＝△。※実額は400〜500億円台の蓋然性が高く300億未満の証拠はないが、承認ソースが無いこと自体が除外理由（§3-5）。※WebFetch遮断のため自社HP原文の直接精読は不可、判断は検索インデックス経由の間接証拠。",
+  "J": "https://www.chuden-plant.co.jp/company/outline.html;https://www.chuden-plant.co.jp/company/;https://www.chuden-plant.co.jp/assets/img/company/outline/sosiki.pdf;https://www.energia.co.jp/corp/company/group/group_goannai/index.html;https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-01285.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4240001006976;https://catr.jp/companies/e59bb/13610"
+ },
+ {
+  "行": 1771,
+  "I": "△ 反証成立（1次の○を差し戻し）：H列「自社HP会社概要で対象法人の2025年度売上高424億円を直接開示」は承認ソースでの裏付けが取れない。①金額シード検索で424億円は一度も返らず、代わりに443億円（2025年3月）が返る＝1次値が誤りである強い信号。②443億円の出所はマイナビ2027・SalesNow・Baseconnect・ジョブアンテナ沖縄・Wikipedia・coki.jpのみで全て§3-4の禁止ソース。これらをblocked_domainsで除外して再検索すると沖縄出光の売上高数値は一切返らない。③自社ドメイン限定検索（allowed_domains=idemitsu.com）でprofile.htmlの実在は確認できるが、売上高・資本金・従業員数のいずれも本文から抽出できず、3回の再検索でも同じ。「従業員99名（PB除く・2025年10月現在）」とセットで流通する443億円はマイナビ掲載の企業入稿データ由来と見られる。④出光興産の有報「関係会社の状況／主要な損益情報等」は連結売上高（約9兆円）の10%超の子会社が記載対象で、443億円規模の沖縄出光は対象外＝§5-3の6の経路は無効。⑤決算公告も検出できず（大会社でなければBSのみで売上高は載らない）。§6-6の加藤化学・フォンテラジャパンと同型。当たったソース：自社HP会社概要profile.html／会社情報index／社史／事業所一覧／出光興産IR（2025年3月期決算短信、セグメント情報、過去の有価証券報告書）／官報決算DB(catr.jp)。よって§3-1③・§3-5により直アポ大に載せてはいけない＝△。★別論点（判定とは独立）：G列に売上高ではなく別社名「クボタミナミ」が入っており§5-2の行ずれ事故の疑い。要修正。",
+  "J": "https://www.idemitsu.com/jp/okinawaidemitsu/company/profile.html;https://www.idemitsu.com/jp/okinawaidemitsu/company/index.html;https://www.idemitsu.com/jp/okinawaidemitsu/company/history.html;https://www.idemitsu.com/jp/okinawaidemitsu/company/office.html;https://www.idemitsu.com/jp/news/2025/250513_5.pdf;https://www.idemitsu.com/jp/ir/library/shell/security_reports/index.html;https://catr.jp/"
+ },
+ {
+  "行": 2017,
+  "I": "× 妥当（除外を維持）：toyo-s.co.jp の東洋紙業（大阪市浪速区芦原・1937年設立・タイヘイグループ・従業員908名）は、第95期＝2024年3月期の売上高が279億4,355万円＝279.44億円で300億未満。H列の293.6億円（2026年3月期）とも整合する推移で、直近3期のいずれも300億に届かない。加えてタイヘイグループの子会社であり、§3-3によりグループ値は使えないため、単体300億未満で除外が正しい。★重大な別論点：B列の法人番号4120001150200をgBizINFOで引くと本店が「大阪府枚方市長尾峠町34番22号」の別法人で、H列が根拠にしたtoyo-s.co.jpの東洋紙業（法人番号2120001039189・大阪市浪速区）と一致しない。gBizINFO上に東洋紙業株式会社は少なくとも4法人存在する（他に8010001024155＝閉鎖、9011601004628）。§6-2の同名企業取り違えの疑いがあり、B列の法人番号と調査対象企業の突合が必要。ただしどちらの法人でも300億以上を承認ソースで示せないため、除外という結論自体は変わらない。",
+  "J": "https://www.toyo-s.co.jp/company/outline.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120001150200;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2120001039189;https://prtimes.jp/finance/2120001039189/settlement"
+ },
+ {
+  "行": 2964,
+  "I": "○ 妥当（架電可を維持）だがH列の根拠は誤りでG列訂正が必要：株式会社パロマは2023年10月設立の株式会社パロマ・リームホールディングス傘下（2024年3月〜）の日本事業会社であり、H列の「グループ中核会社としてグループ連結1兆1,780億円」をそのまま当てるのは§3-3違反（子会社にグループ連結）。今回の反証で追加確認した根拠：①自社HP（§3-4①の承認ソース）に業績ハイライトPDF https://www.paloma.co.jp/vc-files/vs-files/corporate/company/pdf/highlight.pdf が実在し、パロマグループ連結売上高が2022年度907,414百万円＝9,074.14億円、2023年度904,574百万円＝9,045.74億円と明記（百万円単位。904億円ではなく9,045.74億円。§6-1の桁注意）。②パロマ・リームHD公式リリース（2024年12月期連結決算概要）でグループ売上高約1兆円・地域別構成の日本7%＝約700億円。③株式会社パロマ単体は第59期（2024年12月期）712億9,500万円で官報決算公告に記載（出典サイトはcatr.jpのため§7-1未決着に依存、補強材料の扱い）。①〜③が相互に整合し、単体700億円台＝基準300億の約2.4倍で、子会社と見ても親会社と見ても結論は動かない。法人番号4180001009176の登記所コード1800＝名古屋で本社所在地と一致、同名別法人の疑いなし。G列は空欄のままで仕様違反、「712.95億円（2024年12月期・単体）」の記入が必要。残る疑問：単体712.95億円をcatr.jp以外の承認ソース単独で再現できていないこと、およびTOKIUM側がパロマを「HD傘下の子会社」と見るか「パロマグループの発信主体」と見るかで適用条文が変わること。",
+  "J": "https://www.paloma.co.jp/vc-files/vs-files/corporate/company/pdf/highlight.pdf;https://www.paloma.co.jp/corporate/company/outline.html;https://www.pr-holdings.co.jp/news/2025/2505-001/;https://www.paloma.co.jp/vc-files/news/2024/2403-004_kigyo.pdf;https://catr.jp/companies/e9ecc/120337/settlements/57d1b/333582;https://www.pr-holdings.co.jp/company/"
+ },
+ {
+  "行": 4317,
+  "I": "○ 妥当（架電可を維持）：法人番号4090001007288の登記所コード0900＝甲府地方法務局で山梨県甲府市の本社と一致、同名別法人の疑いなし。株式会社シャトレーゼホールディングスの子会社のため§3-3で単体判定が必要だが、H列採用の単体1,418億円は300億の約4.7倍で余裕が極めて大きい。別経路で得たシャトレーゼHDの連結売上高1,613億円（2025年3月期）と比較しても単体1,418億円は約88%で比率として自然であり、単体と連結の取り違え（§6-4）は見当たらない。仮に1,418億円がグループ値だったとしても、シャトレーゼは同グループの中核事業会社であり単体で300億を下回る余地はない。自社HP会社概要 https://www.chateraise.co.jp/company/information/ の実在を確認（§3-4①の承認ソース）。残る軽微な確認点は決算期表記（2026年3月期）の原文確認のみ。G列が空欄のままで仕様違反、要記入。",
+  "J": "https://www.chateraise.co.jp/company/information/;https://recruit.chateraise.co.jp/company/"
+ }
+]

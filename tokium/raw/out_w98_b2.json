@@ -1,0 +1,22 @@
+[
+ {
+  "行": 1670,
+  "I": "○ 妥当（架電可を維持）：自社HP「会社情報」に2024年度売上高2,900億円の直接開示を確認。豊田通商100%子会社だが対象法人自身が開示した自社の値であり§3-3を満たす（基準300億の約9.7倍で桁誤読・境界の余地なし）。1次が挙げていない経路として自社HPの電子公告ページ（2025年3月期決算公告PDF掲載）の存在も確認し、法人が現存することを裏取り（§6-7）。法人番号6180001048098の登記所コード1800＝名古屋法務局本局で、本店の名古屋市中村区名駅（シンフォニー豊田ビル）と一致するため同名別法人ではない。",
+  "J": "https://www.toyotsumaterial.co.jp/company/ ; https://www.toyotsumaterial.co.jp/koukoku/ ; https://www.toyotsumaterial.co.jp/koukoku/pdf/202503.pdf"
+ },
+ {
+  "行": 1845,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝①タカナシ乳業HPの会社概要・企業情報・採用会社案内（高梨販売株式会社単体の売上高記載なし）②同HP内のIR・電子公告ページ（非上場のため存在せず）③官報決算公告（catr.jp・官報検索kanpoo.jpとも高梨販売株式会社の決算公告を検出できず。catr.jpに載るのは高梨乳業株式会社の分で別法人）④gBizINFO（法人番号6020001005288で法人は現存を確認できるが決算情報の掲載なし）⑤親会社・グループのIR資料（グループ全体が非上場でIR開示なし）。流通している907.48億円（2024年9月期）はYahoo!しごとカタログ・Baseconnect・マイナビ転職・NIKKEI COMPASS・バフェット・コードという禁止ソースにしか存在せず§3-4により採用不可（§6-6加藤化学と同型）。なお法人番号の登記所コード0200＝横浜地方法務局で本社の横浜市旭区と一致しており、法人の同定自体は正しい。",
+  "J": "https://www.takanashi-milk.co.jp/company/gaiyou ; https://www.takanashi-milk.co.jp/company ; https://www.takanashi-milk.co.jp/recruit/annai ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6020001005288 ; https://catr.jp/ ; https://search.kanpoo.jp/"
+ },
+ {
+  "行": 2570,
+  "I": "○ 妥当（架電可を維持）。ただし親子判定を訂正：株式会社ラックは2025/1/15成立のKDDIによる公開買付けで完全子会社化され、2025/2/25に上場廃止（東証の上場廃止決定・自社適時開示PDFで確認）。よって§3-3上は「子会社」であり、1次が根拠にした連結628億円は本来採用できない。もっとも単体ベースでも2025年3月期で530.23億円規模、さらに2025年7月にKDDIデジタルセキュリティ株式会社を吸収合併しており、単体300億円は決定的にクリアする。法人格は存続（自社HP・IRページ・決算公告ページとも稼働中、§6-7の消滅なし）。G列・H列は連結値ではなく単体値に差し替えるのが正しく、非上場化後に自社HPへ掲載される決算公告（単体の損益計算書）で単体売上高の実額を確定させることを推奨。",
+  "J": "https://www.lac.co.jp/corporate/info/ ; https://www.lac.co.jp/corporate/info/public_notice.html ; https://www.jpx.co.jp/news/1023/20250123-13.html ; https://www.lac.co.jp/ir/pdf/20250221_timely_disclosure.pdf ; https://www.lac.co.jp/news/2024/11/07_press_01.html ; https://www.lac.co.jp/news/2025/07/17_press_01.html ; https://www.lac.co.jp/ir/exchequer/performance.html"
+ },
+ {
+  "行": 3401,
+  "I": "○ 妥当（架電可を維持）：自社HP会社概要で2025年12月期売上高372億円（2025年12月末時点）を再現確認。ただし同HPのグループページに「株式会社アペックスの社員数・売上高はアペックス西日本を含んだ数字です」と明記されており、372億円は単体ではなくアペックス＋アペックス西日本の合算値である点を明示すべき。対象法人はアペックスグループ（アペックス／アペックス西日本／日本ベンダー整備／アペックスPV）の中核＝親会社であり、上位の持株会社は確認されないため§3-3の「親会社はグループ値可」に該当し採用可。法人番号5010001010216の登記所コード0100＝東京法務局本局で登記上本店の東京都千代田区と整合し、apecs.co.jp を運営する同名の別法人「株式会社アペックス」とは別法人であることを確認。基準300億に対する余裕が24%と薄いため、単体実額が取得できた場合は差し替えが望ましい。",
+  "J": "https://www.apex-co.co.jp/profile/profile.html ; https://www.apex-co.co.jp/profile/group.html ; https://www.apex-co.co.jp/profile/ ; https://www.apex-co.co.jp/profile/history.html"
+ }
+]

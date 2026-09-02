@@ -1,0 +1,52 @@
+[
+ {
+  "行": 3304,
+  "I": "○ 回収：自社グループ公式サイト会社概要が売上高1,020億円（2026年2月現在／前年2025年2月時点980億円）を開示。廣岡グループは株式会社廣岡（デリシャス広岡2店・スーパーデリシャスヒロ2店）と対象社（エバグリーン/スーパーエバグリーン37店＋NEX＋調剤薬局、従業員4,445名）の2社構成で、店舗・人員の大半が対象社。仮に2社合算値としても対象社単体で300億円を大幅超過することが確実。",
+  "J": "https://hirooka-g.co.jp/company/;http://www.hirooka-g.co.jp/company/organization/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1170001005113"
+ },
+ {
+  "行": 3307,
+  "I": "△ §7-1回答待ち：官報決算公告（第44期）で売上高309.51億円・営業利益25.77億円・経常利益26.75億円・純利益16.13億円（単体）を確認。ただし出典はcatr.jp（民間二次サイト）のみで官報原典の号数・頁を特定できず、第44期が何年度かも不明で§3-8（直近3期）未充足。catr.jpが承認ソースと認められ決算期が直近3期なら○に回収可能。基準比+3%の薄利ケース。",
+  "J": "https://catr.jp/companies/51236/93320;https://catr.jp/companies/51236/93320/settlements/c68df/182083;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9011101007115"
+ },
+ {
+  "行": 3315,
+  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP会社概要（資本金1億円・従業員4,000名、売上高の記載なし）／gBizINFO／官報決算公告（catr.jp）／与信系集約。官報公告系の集約値は売上223.85億円（22,385百万円）・経常利益8.56億円・総資産226.69億円（2024年決算）で、むしろ300億円未満の可能性が高く回収見込みは低い。承認ソースでの300億超の裏付けなし。",
+  "J": "http://www.tbs-net.co.jp/company/access/;https://catr.jp/companies/12551/241816;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101015161"
+ },
+ {
+  "行": 3323,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（catr.jp・官報ブログ。第34期以降いずれも貸借対照表のみで、当期純利益22.02億円・利益剰余金163.07億円等しか掲載されず売上高欄が存在しない＝資本金1億円で損益計算書の公告義務なし）／ビームスHDの決算公告／gBizINFO。子会社である対象社単体の売上高は承認ソースに存在しない。",
+  "J": "https://catr.jp/companies/ca1be/93347;https://kanpo-kanpo.blog.jp/archives/10969019.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011101017880"
+ },
+ {
+  "行": 3325,
+  "I": "△ §7-1回答待ち：官報決算公告で2026年3月期 売上高2,297億円（単体）を確認、別途第101期公告で当期純利益170.86億円。金額は基準を大幅超過するが、出典が官報決算データベース（catr.jp）等の民間二次サイトのみで、官報原典の発行日・号数・頁を1クエリでは特定できず。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/bf69b/17516;https://catr.jp/companies/bf69b/17516/settlements/b725b/263245;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8120001049050"
+ },
+ {
+  "行": 3326,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝官報決算公告（対象社第7期は貸借対照表のみで売上高欄なし。純利益16.33億円・利益剰余金▲105.50億円・総資産33.79億円）／親会社モンテローザ第36期公告（連結551.93億円・単体184.79億円）／gBizINFO。グループ連結でも551.93億円、対象社の総資産33.79億円という規模から単体300億円超の余地は乏しい。",
+  "J": "https://catr.jp/settlements/05acc/310238;https://catr.jp/companies/1d26d/17810/settlements/45369/310940;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011101077486"
+ },
+ {
+  "行": 3329,
+  "I": "△ 妥当：確認不可で正しい。§6-2法人番号照合で確定＝B列3120001004340は登記所コード1200（大阪法務局本局）＝大阪市西成区太子2-3-16の同名別法人。上場丸大食品は3120901012046（1209＝北大阪支局／高槻市緑町21-3・設立1950年・資本金6,716百万円・従業員1,681名）でgBizINFO上も別法人。西成区法人の売上高は承認ソースになし。※C/D列は上場企業を指しており法人番号との不整合の疑い。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001004340;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120901012046;https://www.marudai.jp/corporate/company/outline.html"
+ },
+ {
+  "行": 3336,
+  "I": "△ §7-1回答待ち：官報決算公告（令和6年度＝2026年3月期・単体）で売上高1,339.62億円・当期純利益79.01億円・利益剰余金463.27億円・総資産1,427.27億円を確認（令和5年度は1,131.22億円）。子会社だが単体で基準を大幅超過。ただし出典がcatr.jp／PR TIMES財務ページ等の二次サイトのみで官報の号数・頁を特定できず。catr.jpが承認ソースと認められれば○に回収可能。",
+  "J": "https://catr.jp/companies/04e58/22689;https://catr.jp/companies/04e58/22689/settlements/8d8c6/418743;https://prtimes.jp/finance/3011101011642/settlement"
+ },
+ {
+  "行": 3341,
+  "I": "△ 妥当：確認不可で正しい。追加判明＝対象法人は旧・株式会社ウィゴーで、2023年9月にWEGO事業を会社分割で別法人（現・株式会社ウィゴー）へ承継した後に商号をWGLへ変更した残存法人。本店も2024年5月に東京都港区虎ノ門3-10-3へ移転。禁止ソースの362.73億円は分割前の旧ウィゴーの数値で現在の実体を表さない。gBizINFOに閉鎖表示はないが承認ソースの直近売上高は存在せず、架電先としての実体も要確認。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011001053180;https://houjin.jp/c/4011001053180;https://wego.jp/pages/about"
+ },
+ {
+  "行": 3351,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝日本郵船の有報第138期・決算短信・業績ハイライト（物流事業セグメントは2026年3月期8,047億円だが法人単位ではなく、関係会社の状況に対象社単体売上高の実額記載を確認できず）／対象社自社IR（業績・財務ハイライト、決算短信等）／自社電子公告ページ／官報系。未踏経路＝自社サイト掲載の第83期決算公告PDF（大会社のため損益計算書掲載の可能性）。単体売上高の承認ソース値は未取得。",
+  "J": "https://www.yusen-logistics.com/jp_ja/about-us/electronic-public-notice;https://www.yusen-logistics.com/jp/investor-relations/financial-information/financial-highlights;https://www.nyk.com/ir/library/yuho/2024/__icsFiles/afieldfile/2025/06/18/20250617_yuhou.pdf"
+ }
+]
