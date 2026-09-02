@@ -1,13 +1,13 @@
 [
  {
   "行": 2683,
-  "I": "△ 妥当：確認不可で正しい（ただし回収見込みあり）。当たった経路＝①自社HP決算公告ページ https://www.niandc.co.jp/company/finance/ に第39〜41期（2024〜2026年3月期）の決算公告PDFが掲載されており単体損益計算書が存在するはずだが、PDF本文が検索経由で取得できず単体売上高を確定できず。②自社HP『数字でみるNI+C』は売上高558億円（2024年度）だが単体/連結の別が明示されていない。③親会社NTT有報『関係会社の状況』経路は無効＝NTT連結売上高14兆4,092億円×10%＝1兆4,409億円で、NI+C規模（約560億円）は10%基準に遠く届かず実額は載っていない。④catr.jp（官報決算公告）にも第41期の売上高数値は未収録。NTT65%/日本IBM35%出資の子会社のため単体値が必須であり、連結558〜564億円は採用不可。決算公告PDFを直接開ければ確定可能。",
-  "J": "https://www.niandc.co.jp/company/finance/; https://www.niandc.co.jp/company/numbers/; https://www.niandc.co.jp/company/profile/; https://catr.jp/companies/58265/72303"
+  "I": "△ 妥当：確認不可で正しい（回収見込みは残る）。反証追加＝①法人番号5010001087865をgBizINFOで照合し、リストの『ＮＴＴインテグレーション株式会社』＝旧『日本情報通信株式会社』（2025年12月18日商号変更、略称NI+C継続、本店東京都中央区明石町8-1、資本金40億円、1985年12月設立）と同一法人であることを確定＝D列のniandc.co.jpとの不一致は商号変更によるもので同名別法人ではない。②自社HP決算公告ページ https://www.niandc.co.jp/company/finance/ に第41期（2026年3月期）の決算公告PDFが掲載され承認ソースは存在するが、単体売上高の本文が検索経由で取得できず（2クエリ試行、いずれも数値未返却）。③『数字でみるNI+C』558億円（2024年度）は単体/連結の別が不明で、NTT65%出資の子会社は§3-3により単体値必須のため採用不可。決算公告PDFの直読が唯一の回収経路。",
+  "J": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001087865; https://www.niandc.co.jp/company/finance/; https://www.niandc.co.jp/lp/nttintegration/; https://www.niandc.co.jp/company/numbers/"
  },
  {
   "行": 2685,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝①自社HP dominos.jp の会社概要に売上高の記載なし。②非上場でEDINET未提出。③親会社 Domino's Pizza Enterprises Ltd（豪ASX:DMP）の年次報告は日本セグメント売上の開示にとどまり、株式会社ドミノ・ピザジャパン単体（法人）の売上高ではないため子会社ルール上採用不可。④catr.jp に決算公告の会社ページは存在するが売上高数値は取得できず、仮に取得できても §7-1 未決着。⑤流通する『790億円』は2023年6月期の全店売上高（システム全体売上）であって法人の売上高ではなく、かつ直近3期外。禁止ソース以外に単体売上高なし。",
-  "J": "http://www.dominos.jp/; https://catr.jp/companies/bf022/96462"
+  "I": "△ 妥当：確認不可で正しい。ただし1次が挙げていなかった§5-3⑤の経路を追加で発見＝自社HP dominos.jp に決算公告PDFが自社掲載されており（第14期＝2025年6月期 https://www.dominos.jp/media/2hdc1xs2/kessankoukoku2025.pdf 、第12期2023年6月期、第11期）、これは§3-4①の承認ソースに該当する。ただしPDF本文が検索経由で取得できず売上高を確定できない。加えて日本の決算公告は大会社でなければ貸借対照表のみの掲載で売上高が載らない可能性があり、PDFを開いても数値が無い場合がある。その他＝会社概要（773店舗・2025年8月末）に売上高記載なし、非上場でEDINET未提出、親会社Domino's Pizza Enterprises（豪ASX:DMP）は日本セグメント売上のみで法人単体値ではなく子会社ルール上採用不可、流通する『790億円』は2023年6月期の全店売上高（システム売上）で法人売上高ではない。",
+  "J": "https://www.dominos.jp/media/2hdc1xs2/kessankoukoku2025.pdf; https://www.dominos.jp/corporate/newsrelease; https://www.dominos.jp/corporate/outline; https://catr.jp/companies/bf022/96462"
  },
  {
   "行": 2688,
@@ -31,8 +31,8 @@
  },
  {
   "行": 2697,
-  "I": "○ 回収：2026年2月期・連結売上高 約932億円（前期比+1.0%）。東証プライム上場（証券コード8125）の上場親会社であり、§3-3により連結値で判定可＝300億円を大きく超える。出典＝2026年2月期決算短信〔日本基準〕（連結）2026年4月9日開示、および自社IR『経営成績』ページ https://www.wakita.co.jp/ir/finance.html ／決算短信アーカイブ https://www.wakita.co.jp/ir/archive_kessan.html 。1次は『検索取得可能な承認ソース本文から確定できず』として△にしていたが、上場企業で決算短信が自社IRに掲載済み。※億円未満の端数は決算短信原本で要確認（932億台であることは確実、300億基準には影響なし）。",
-  "J": "https://www.wakita.co.jp/ir/finance.html; https://www.wakita.co.jp/ir/archive_kessan.html; https://www.wakita.co.jp/corporate_profile/cov.html"
+  "I": "○ 妥当（G列確定）：反証試行したが覆らず。2026年2月期・連結売上高932億2,200万円（前期比+1.0%）、営業利益52億8,200万円（△17.3%）、経常利益54億8,500万円（△15.7%）、親会社株主に帰属する当期純利益34億5,100万円（△11.8%）。出典＝2026年2月期決算短信〔日本基準〕（連結）2026年4月9日開示（東証プライム8125）。1次が『約932億円・端数は要確認』としていた端数を確定＝G列は『932.22億円（2026年2月期・連結）』が正。上場親会社のため§3-3で連結値採用可、300億基準を3倍超で満たす。決算期も直近（2026年2月期）で§3-8適合。",
+  "J": "https://www.wakita.co.jp/ir/archive_kessan.html; https://www.wakita.co.jp/ir/finance.html; https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260409/20260408500309.pdf"
  },
  {
   "行": 2699,

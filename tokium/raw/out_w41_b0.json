@@ -1,0 +1,52 @@
+[
+ {
+  "行": 2996,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要(inter-cube.co.jp)／EDINET／官報決算公告(catr.jp)／gBizINFO／地方紙・業界紙。法人番号6010401064463は登記所0104(東京・渋谷管轄)で本店「渋谷区南平台町7-3」と一致し同名別法人ではない。空間デザイン施工・資本金1,000万円・従業員約30名で300億規模と整合せずE列は誤り。承認ソースに売上高の記載なし",
+  "J": "https://www.inter-cube.co.jp/;https://houjin.jp/c/6010401064463;https://craft-bank.com/company/356"
+ },
+ {
+  "行": 2997,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要(precs.co.jp/about-us/company・rpst.co.jp)／自社PR TIMESリリース／EDINET／官報決算公告／gBizINFO。旧・株式会社PRECS、2023年5月1日に社名変更。資本金2,000万円・従業員54名・本店千代田区外神田のECカートSaaSで300億規模と整合せずE列は誤り。承認ソースに売上高の記載なし",
+  "J": "https://precs.co.jp/about-us/company;https://prtimes.jp/main/html/rd/p/000000016.000029098.html;https://rpst.co.jp/about-us/company/"
+ },
+ {
+  "行": 2998,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP会社概要・サービス(corp.daio-k.jp)／自社採用サイト(daio-recruit.jp 会社概要)／官報決算公告／EDINET／gBizINFO／日経。旧・大王興業、パチンコ「大王」＋カプセルホテルSmart Stay SHIZUKU運営。法人番号9040001066904は登記所0400(仙台)＝東北発祥で現本店東京都墨田区東墨田と整合。売上高はいずれの承認ソースにも記載なし",
+  "J": "https://www.corp.daio-k.jp/service/;https://daio-recruit.jp/production/static/company_overview.html;https://companyinformation.jp/corp/9040001066904/"
+ },
+ {
+  "行": 2999,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(oys.co.jp)／読売新聞グループ本社サイト／官報決算公告(catr.jp)／EDINET／gBizINFO。読売新聞グループはグループ会社の業績数値を対外非開示と確認。子会社のため§3-3で単体300億以上が必須だが、従業員239名・紙面編成／写真販売／文化センター事業の規模と整合せず、単体売上高の承認ソースは存在しない",
+  "J": "https://www.oys.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120001072668;https://catr.jp/companies/efc5c/54403"
+ },
+ {
+  "行": 3000,
+  "I": "× 要修正：【300億未満】53億円（2025年8月実績・グループ）。自社HP会社概要に「売上高 53億円（2025年8月実績）」「従業員685名（グループ全体）」「資本金27百万円」と明記＝承認ソース(§3-4①)で取得。名古屋のウェディング／レストラン／ホテル業の持株会社で、グループ値でも300億に遠く及ばず。E列「1,000億円以上」は誤り。1次の△は回収不可・むしろ×が正",
+  "J": "https://ameba.co.jp/company/outline/;https://ameba.co.jp/company/;https://ameba.co.jp/recruit/figures/"
+ },
+ {
+  "行": 3002,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP企業情報(tenguy.jp/about＝設立・資本金4,000万円・従業員のみで売上高欄なし)／官報決算公告(catr.jp第36期は売上高「-」＝損益計算書の公告なし)／EDINET／gBizINFO／ふくおか経済・データマックス。「324億円」は求人系の禁止ソースのみ。承認ソースに売上高の記載なし",
+  "J": "https://tenguy.jp/about/;https://catr.jp/companies/ddb5f/38301/settlements/f5353/149898;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1290001000531"
+ },
+ {
+  "行": 3003,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝セントラルグループ公式(cen.co.jp/company、cen.co.jp/data「企業データ」、pachinko.cen.co.jp/info)／官報決算公告／EDINET／gBizINFO／高知新聞。「単体400億円・グループ1,000億円超」はマイナビ等の禁止ソースのみで、公式企業データ頁に売上高記載を確認できず。法人番号4260001024027は登記所2600で倉敷本店と整合",
+  "J": "https://www.cen.co.jp/data/;https://www.cen.co.jp/company/;https://pachinko.cen.co.jp/info/"
+ },
+ {
+  "行": 3004,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(okura-hd.com＝IR・電子公告ページ自体が存在しない)／官報決算公告(catr.jpは「王蔵西日本」のみで本体なし)／EDINET／gBizINFO／親会社Okura Holdings Ltd(HKEX:1655)のhkexnews年報。単体売上高の承認ソース記載なし。なお親会社グループ総収益は2025年6月期 約63.96億円（二次金融サイト集計）で、子会社単体300億超は現実的にあり得ない",
+  "J": "https://www.okura-hd.com/;https://catr.jp/pref/42;https://www.hkexnews.hk/listedco/listconews/sehk/2025/1023/2025102300358.pdf"
+ },
+ {
+  "行": 3005,
+  "I": "× 要修正：【300億未満】155.19億円（2018年3月期・単体）。トプコン有報(EDINET S100DBDT)「関係会社の状況」主要な損益情報等に売上高15,519百万円と記載。同期トプコン連結約1,403億円の11.1%＝10%超注記と整合し検算OK。直近期は連結約2,000億円超に対し10%未満で有報の金額記載対象外＝概ね200億円未満の水準。子会社単体300億未満のため§3-3で対象外",
+  "J": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100DBDT.pdf;https://www.topcon.co.jp/invest/library/filings/"
+ },
+ {
+  "行": 3006,
+  "I": "△ 妥当：確認不可で正しい。追加で当たった経路＝自社HP(gaia-sanpai.co.jp)／gBizINFO／官報決算公告／EDINET／新聞記事。gBizINFOで法人番号4010101009638＝株式会社ガイア（東京都八王子市川口町1901-8・2004年12月7日設立）と確定（1次H列の「7010101009638」はチェックディジット誤記。検算値は4）。同名のパチンコ大手ガイア(中央区・8010001065835)とは別法人でE列「1,000億円以上」は取り違え由来の誤り。売上高は承認ソースになし",
+  "J": "https://www.gaia-sanpai.co.jp/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010101009638;https://alarmbox.jp/companyinfo/entities/8010001065835"
+ }
+]

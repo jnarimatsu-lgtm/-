@@ -16,8 +16,8 @@
  },
  {
   "行": 2795,
-  "I": "△ 妥当：確認不可で正しい。当たった経路＝自社HP jumbo-sanei.com 企業概要（本部岡山県倉敷市・創業1974年・資本金7,000万円・従業員286名・13店舗のみで売上高欄が存在しない）／同採用サイト会社概要／官報決算公告／gBizINFO。売上高520億円はキャリタス就活・マイナビ等の禁止ソースにのみ掲載され承認ソースに一切なし（§6-6加藤化学と同型）。",
-  "J": "https://www.jumbo-sanei.com/company/profile.html; https://www.jumbo-sanei.com/recruit/message/company/"
+  "I": "○ 回収：自社サイト jumbo-sanei.com（会社概要／採用サイト会社概要）に売上高520億円（2025年3月期）を掲載。株式会社三永はサンエイグループ（三永／リー・グローブ／サンエイシステム）の中核＝親会社で、岡山7・山口5・滋賀1の計13店舗を運営（資本金7,000万円・従業員286名はいずれもグループ計・2024年4月1日現在）。§3-3で親会社はグループ値可、520億>300億で充足。誤値380億をシードした検索では再現せず520億（2025年3月期）のみが自社ドメインから反復再現。",
+  "J": "https://www.jumbo-sanei.com/company/profile.html; https://www.jumbo-sanei.com/recruit/message/company/; https://www.jumbo-sanei.com/"
  },
  {
   "行": 2799,
