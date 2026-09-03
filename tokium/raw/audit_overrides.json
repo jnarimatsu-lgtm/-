@@ -108,5 +108,575 @@
   "I": "△ 確認不可（採用値347億円は承認ソースで再現不能）：jmsys.co.jp・EDINET・決算公告・官報を当たったが、347億円を決算期付きで示す承認ソースは存在しない。347億が載るのはSalesNow・Baseconnect・doda・マイナビ・OpenWork等の禁止ソースのみ（§6-6）。自社サイトで確認できるのは「売上高308億円（2025年4月現在／直営店売上）」で、何年何月期か不明のため§3-8を満たさず、店舗ベース表記のため§3-7の売上高とも断定できない。308億でも基準まで8億の薄マージン。非上場・資本金5,000万円で有報・決算短信なし。同名の日本メディカルシステムホールディングス（法人番号7011701017226）との取り違えリスクもあり。§3-5により直アポ大には載せない。",
   "J": "https://www.jmsys.co.jp/company/; https://www.jmsys.co.jp/",
   "由来": "edge_verify wf_d2336626-ed0"
+ },
+ "4": {
+  "I": "○ 回収（§7-1確定）：フォンテラジャパン株式会社 単体859.71億円（第45期・2025年7月期）。金額は独立の検索結果でも第45期売上高約859.7億円と一致し整合。§6-6で警告されている流通値「800億2,500万円」（Yahoo!しごとカタログ／SalesNow／Baseconnect）には引きずられていない。法人格は株式会社で問題なく（§3-6充足）、外資日本法人だが単体で300億を大きく超える（§3-3充足）。決算期も直近3期以内で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/620b2/148115/settlements/cc9b1/435657; https://ryo-nakamura1.hatenablog.jp/entry/2026/01/30/170000_4",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "22": {
+  "I": "○ 回収（§7-1確定）：株式会社翔薬 単体1,970.68億円（2026年3月期）。金額は独立検索でも売上高1,970億6,800万円（前年比6.56%増）と一致し整合。スズケンの完全子会社だが単体で300億を大きく超えるため§3-3充足。自社HP会社概要・スズケンIRには売上高の記載がなく、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/546e2/14488; https://www.shoyaku.com/company/companyinfo/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "63": {
+  "I": "○ 回収（§7-1確定）：オムロンヘルスケア株式会社 単体845.19億円（2025年3月期）。オムロンの子会社を単体基準で判定しており§3-3充足、300億を大きく超える。代替経路（自社サイト社史データの「2022年度 売上高1,421億円」は4期前で§3-8の鮮度切れかつヘルスケア事業ベースの疑い、親会社オムロンのIRはヘルスケア事業セグメント値のみで会社単体の開示なし）は使えず、承認ソースは官報決算公告のみ。決算期は直近3期以内で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/0f812/11019/settlements/2f389/410086; https://www.healthcare.omron.co.jp/corp/companyhistory/data.html; https://www.healthcare.omron.co.jp/corp/outline.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "66": {
+  "I": "○ 回収（§7-1確定）：ニプロファーマ株式会社 単体1,054.01億円（2026年3月期）。金額は複数ソースで整合。ニプロの子会社だが単体で300億を大きく超え§3-3充足。ニプロ有価証券報告書は同社を特定子会社（売上高が連結売上高の10%超）と記載しており、桁の水準もこれと整合する。ニプロ有報・自社HP会社概要に単体数値の開示はなく、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/b0d12/14522/settlements/e08ab/463946;https://www.nipro.co.jp/assets/document/ir_library/72nd/securities_report.pdf;https://www.nipro.co.jp/ir/library/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "91": {
+  "I": "○ 回収（§7-1確定）：ヤンマーアグリジャパン株式会社 単体1,723.73億円（2026年3月期）。ヤンマーホールディングスの子会社のため§3-3で単体値のみが有効だが、単体で300億を大きく超える。ヤンマー公式（yanmar.com）の同社企業情報ページをドメイン限定で当たったが売上高の掲載はなく、唯一の自社資料である2022年8月版CORPORATE PROFILEは§3-8の鮮度外のため代替にならず、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/d6fbb/23558/settlements/57009/473381; https://www.yanmar.com/jp/about/company/yaj/information/; https://www.yanmar.com/media/news/2022/08/03074403/yaj_company_profile_202208.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "109": {
+  "I": "○ 回収（§7-1確定）：シチズンマシナリー株式会社 単体487.63億円（第83期・2026年3月期）。シチズン時計の子会社を単体基準で判定しており§3-3充足、300億を超える。自社HP会社概要（cmj.citizen.co.jp/company/outline.html）は資本金・従業員数・親会社の記載のみ、採用ページの「2023年度売上高目標800億円」は目標値で実績ではなく、親会社シチズン時計のIRは工作機械事業セグメント値のため代替不可。単体売上高はシチズン時計連結比10%超で桁の水準も整合する。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/519b9/21429/settlements/eeb63/467460; https://cmj.citizen.co.jp/company/outline.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "157": {
+  "I": "○ 回収（§7-1確定）：日揮触媒化成株式会社 単体407.13億円（第68期・2026年3月期）。日揮ホールディングスの子会社を単体基準で判定しており§3-3充足、300億を超える。自社HP会社概要（jgccc.com/profile）に売上高の記載は確認できず、日揮HDのIRは機能材料製造事業のセグメント値で当社単体の売上高ではないため代替にならない（日揮HD連結比が10%未満で有報「関係会社の状況」の主要な損益情報にも載りにくい）。承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/400ed/9886/settlements/fcea4/463221; https://www.jgccc.com/profile/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "161": {
+  "I": "○ 回収（§7-1確定）：千代田工販株式会社 単体559.73億円（2026年3月期。官報決算公告は単体値）。金額水準は有価証券報告書の最終提出期である第98期（2023年3月期・連結409.99億円）と整合的で、桁の誤りの疑いは薄い。自社HP（chiyodakohan.co.jp）は会社概要・沿革・組織図のみ、採用サイトも売上高欄が空、gBizINFOの財務情報は有報提出終了により直近3期に該当する開示がなく、承認ソースは官報決算公告のみ。法人は現存し閉鎖等の事実なし（組織図が2025年10月1日付で更新）。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/a9c72/83090 ; https://www.chiyodakohan.co.jp/corporate/outline.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001050391 ; https://recruit.chiyodakohan.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "162": {
+  "I": "○ 回収（§7-1確定）：ＭＳＤ株式会社 単体3,595.26億円（2025年12月期）。米Merck & Co., Inc.の日本子会社のため§3-3で単体値のみが有効だが、単体で300億を大きく超える。自社HP会社概要（msd.co.jp/about/summary/）をドメイン限定で当たったが、掲載は米Merckの全世界売上高（2025年度650億ドル）のみで日本法人MSD株式会社単体の売上高記載はなく、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/87b8e/5246/settlements/327b8/450638; https://www.msd.co.jp/about/summary/; https://www.msd.co.jp/news/chq-20260227/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "166": {
+  "I": "○ 回収（§7-1確定）：栗原工業株式会社 単体959.62億円（第83期・2025年9月期）。300億を大きく超え、決算期の鮮度にも問題がなく§3-8充足。自社HP（kurihara.co.jp 会社情報・企業情報・事業領域）をドメイン限定で当たったが売上高の掲載はなく、非上場でEDINET/TDnetにも開示がない。自社ニュースの週刊東洋経済「注目の中堅企業100社」掲載（2024/11/23号）にも具体的な売上高数値はなく、承認ソースは官報決算公告のみ。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/3237f/36799/settlements/cd352/439512; https://www.kurihara.co.jp/corporate/company/; https://www.kurihara.co.jp/news/archives/1220",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "193": {
+  "I": "○ 回収（§7-1確定）：名鉄観光サービス株式会社 単体535.80億円（第86期・2025年3月期。前期比+0.47%、純利益7.78億円、総資産136.65億円）。第85期（2024年3月期）533.27億円も金額シード検索で再現でき数値は安定。単体535.80億円で300億超（§3-3充足）、決算期も直近3期以内で§3-8充足。名鉄の決算短信・決算説明資料・自社HP（年間取扱額764億円のみ）に単体売上高の記載はなく、承認ソースは官報決算公告のみ。G列は第86期535.80億円に更新すること。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9c686/1968 ; https://catr.jp/companies/9c686/1968/settlements/f31f9/357764 ; https://www.mwt.co.jp/profile/gaiyo.shtml ; https://www.meitetsu.co.jp/ir/reference/statement/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "195": {
+  "I": "○ 回収（§7-1確定）：キヤノンメディカルシステムズ株式会社 単体3,316.68億円（第99期・2025年12月期。331,668百万円＝3,316.68億円、当期純利益19,722百万円）。金額シード検索で複数の官報決算公告収録先が一致して返し数値は安定と確認、300億を大きく超える。決算期は直近期で§3-8充足。自社HP電子公告は第89期（2016年3月期）までで以降は官報公告へ移行、キヤノン有報「関係会社の状況」にも当社の損益情報はなく、承認ソースは官報決算公告のみ。※2026/4/1にキヤノンへ事業を吸収分割し再編済みのため、架電時は先方の体制変更に注意。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://jp.medical.canon/about/corporate/epub/ ; https://catr.jp/companies/1e488/23976 ; https://global.canon/ja/ir/yuuhou/canon2024.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "216": {
+  "I": "○ 回収（§7-1確定）：ＵＢＥマシナリー株式会社 単体502.74億円（2026年3月期）。UBE100%子会社のため§3-3で単体値のみが有効（親会社UBEの連結4,623億円は子会社に当てられない）だが、単体で300億を大きく超える。単体売上高はUBE連結比約11%にあたり桁の水準も整合する。自社HP（会社概要・「3分で分かるUBEマシナリー」・会社紹介データ）に売上高の記載は確認できず、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/af060/14784/settlements/792bc/463394; https://www.ubemachinery.co.jp/company/profile.html; https://www.ubemachinery.co.jp/company/umc.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "228": {
+  "I": "○ 回収（§7-1確定）：三菱電機フィナンシャルソリューションズ株式会社 単体789.88億円（第57期・2026年3月期）。子会社を単体基準で判定しており§3-3充足、300億を大きく超える。自社HP会社概要（mefs.co.jp/company/03gaiyo/）は取扱高中心で§3-7の売上高ではなく、親会社側（三菱電機・三菱HCキャピタル）のIRにも同社単体の売上高開示は見当たらない（三菱電機連結比10%未満のため有報「関係会社の状況」の主要な損益情報にも載りにくい）。承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/8dfbc/14771/settlements/d4c13/468841; https://www.mefs.co.jp/company/03gaiyo/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "231": {
+  "I": "○ 回収（§7-1確定）：株式会社ミヤチク 単体652.82億円（第48期・2026年3月期）。JAグループ宮崎（宮崎県経済農業協同組合連合会）の子会社だが法人格は株式会社で§3-6充足、単体で300億を大きく超えるため§3-3充足。自社HP会社概要に併記される「652億（令和7年度実績）」とも金額が一致し桁の整合が取れる（同ページ本文はWebFetch遮断のため未取得）。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/33222/23076/settlements/b7c8c/478182; https://miyachiku.jp/about/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "382": {
+  "I": "○ 回収（§7-1確定）：伊勢久株式会社 単体319.76億円（第95期＝2024/10/1〜2025/9/30、2025年9月期）。金額はcatr.jp収録の官報決算公告と複数の二次情報で同額（319億7,600万円）が一致しており整合。自社HP会社概要（isekyu.co.jp/company/ および www.isekyu-jp.com/company/）はドメイン限定検索を2回実施したが沿革・事業内容のみで売上高の記載なし、gBizINFOも有報未提出でN/Aのため、承認ソースは官報決算公告のみ。法人番号3180001034126・愛知県名古屋市中区丸の内で同一法人であることは確認済み（§6-2）。決算期は直近期で§3-8充足、法人格は株式会社で§3-6充足。※300億の閾値まで約19億円（約6%）しか余裕がないため次期の減収には注意。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/e2579/204096;https://isekyu.co.jp/company/;https://www.isekyu-jp.com/company/;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3180001034126",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "388": {
+  "I": "○ 回収（§7-1確定）：株式会社セイコーフレッシュフーズ 単体1,178.13億円（2025年12月期・前期比+3.41%、当期純利益2.52億円）。第85期1,087.05億円との推移も整合。セコマの子会社だが決算公告は単体値であり、子会社基準（§3-3）でも300億を約3.9倍上回る。自社HP会社概要・セコマグループ公式・EDINET・TDnetには売上高の記載がなく、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/settlements/663d5/294180 ; https://catr.jp/companies/219ef/1457/settlements/94b1f/244190 ; https://www.seicofreshfoods.co.jp/company.html ; https://catr.jp/companies/dba9c/116",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "394": {
+  "I": "○ 回収（§7-1確定）：株式会社日立産機システム 単体2,103.73億円（第22期・2026年3月期・前期比+5.7%、当期純利益198.84億円、総資産1,971.89億円）。日立製作所の子会社だが決算公告は単体値であり、子会社基準（§3-3）でも300億を約7倍上回る。日立製作所の連結売上収益10兆円超に対し約2%で有報「関係会社の状況」の10%基準に届かず主要な損益情報等の開示対象外、自社HPの電子公告も日立製作所本体分のみのため、承認ソースは官報決算公告のみ。決算期は直近期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/da281/21027/settlements/52f1e/365778 ; https://catr.jp/companies/da281/21027 ; https://www.hitachi-ies.co.jp/corporate/about/ ; https://www.hitachi.com/content/dam/hitachi/global/ja_jp/press/files/2026/04/0427/2025_Anpre.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "427": {
+  "I": "○ 回収（§7-1確定）：株式会社島根富士通 単体2,508.08億円（2025年3月期・前期比▲2.04%、当期純利益170.40億円、利益剰余金895.67億円）。富士通グループの子会社だが決算公告は単体値であり、子会社基準（§3-3）でも300億を約8倍上回る。富士通の連結売上収益3兆円台に対し10%未満で有報「関係会社の状況」の主要な損益情報等の開示対象外、自社HP・富士通クライアントコンピューティング会社案内にも単体売上高の記載がないため、承認ソースは官報決算公告のみ。決算期は直近3期以内で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/ef3b0/24641 ; https://www.fmv.com/group/sfj/about.html ; https://www.fujitsu.com/jp/group/sfj/ ; https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/ir/documents/Securities_Reports/125_Securities_Report.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "494": {
+  "I": "○ 回収（§7-1確定）：第34期（2024年12月期・単体）売上高1,664.26億円。営業利益43.67億円、経常利益61.85億円、純利益64.28億円。第32期（2022年12月期）1,645.10億円、第31期1,433.93億円、第30期1,301.36億円と期系列も整合。東芝の子会社だが単体で300億を大幅超過（§3-3充足）、決算期も直近3期内（§3-8充足）。当たった経路＝catr.jp第30〜34期公告、PR TIMES財務、東芝IR決算公告一覧。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/469a2/32347/settlements/5ce76/400305;https://catr.jp/companies/469a2/32347;https://prtimes.jp/finance/4010001116880/settlement",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "553": {
+  "I": "○ 回収（§7-1確定）：第17期＝2024年12月期・単体売上高1,135.28億円（1次記載の1,167.52億円は別期）。JT子会社のため§3-3により単体判定だが単体で300億を大幅超過、決算期も直近3期内（§3-8充足）。自社HP会社概要・会社案内PDF・グループ企業一覧、JT統合報告書、日経企業ページにはいずれも売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/8cd98/5021/settlements/5c31d/396373;https://www.tablemark.co.jp/corp/company.html;https://www.tablemark.co.jp/corp/pdf/companyprofile.pdf;https://www.nikkei.com/companies/0040882",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "585": {
+  "I": "○ 回収（§7-1確定）：第52期（2025年3月期・単体）売上高530.59億円。親会社・東北電力2026年3月期決算短信（承認ソース）記載の受電電力量2,791百万kWhと突合すると530.59億÷2,791百万kWh≒19.0円/kWhとなり金額は整合的。子会社単体で300億超（§3-3充足）、決算期も直近3期内（§3-8充足）。自社HP「公開資料」の掲載最新は第47期（2020年3月期）で鮮度条件外。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.sakata-power.co.jp/company/document.html;https://prtimes.jp/finance/8390001006215/settlement;https://www.tohoku-epco.co.jp/news/normal/__icsFiles/afieldfile/2026/04/30/b_1248658.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "587": {
+  "I": "○ 回収（§7-1確定）：第108期（2025年10月期・単体）売上高343億円超。第106期（2023年10月期）318.93億円と2期連続で300億を超え期系列も整合。非上場・親会社なしの独立系株式会社のため§3-3の親子判定の影響を受けず、決算期も直近3期内（§3-8充足）。自社HPは資本金4.5億円・決算期10月31日の記載のみで売上高欄・電子公告ページは不存在、EDINET／TDnet対象外。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.sunyo-do.co.jp/company/;https://catr.jp/companies/3bd7c/38591/settlements/959ad/390073;https://catr.jp/companies/3bd7c/38591/settlements/e17fe/338548",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "599": {
+  "I": "○ 回収（§7-1確定）：第43期・単体売上高505.65億円（営業利益23.21億円／経常利益22.74億円／純利益15.03億円／総資産355.16億円）。自社HPの2025年3月期連結551億円と桁・水準が整合し、第38期433.49億円・第37期426.92億円と期系列も整合。catr.jpとprtimes.jp/financeの2つの独立ミラーに掲載され数値が一致。大王製紙の子会社だが単体で300億超（§3-3充足）。親会社・大王製紙の有報「関係会社の状況」は連結売上高10%基準未満のため主要な損益情報等の開示対象外。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.daio-package.co.jp/company/about/;https://catr.jp/companies/44157/19642/settlements/6376e/423968;https://prtimes.jp/finance/8080001016484/settlement",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "612": {
+  "I": "○ 回収（§7-1確定）：第62期（2026年3月期・単体）売上高1,246.19億円（前期比+0.63%）。第60期1,245.97億円、第59期1,191.98億円と期系列も整合。山崎製パンの子会社だが単体で300億を大幅超過（§3-3充足）、直近期のため§3-8充足。当たった経路＝官報決算公告、山崎製パンIRライブラリ／有報索引、自社HP会社情報（いずれも単体売上高の記載なし）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/14112/19638;https://catr.jp/settlements/76ba7/316820;https://catr.jp/settlements/1cad3/265866;https://www.yamazakipan.co.jp/ir/ir-library/yuukasyouken_houkoku/index.html;https://www.fuji-foods.com/corporate/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "619": {
+  "I": "○ 回収（§7-1確定）：第79期（3月決算・直近期・単体）売上高1,671.12億円。第76期1,423.31億円、第75期1,267.97億円、第73期1,545.10億円と期系列も整合。アイシンの子会社だが単体で300億を大幅超過（§3-3充足）、直近期のため§3-8充足。当たった経路＝官報決算公告、gBizINFO（財務はEDINET由来で2020年上場廃止以降の値なし）、自社HP会社概要、アイシン本体IR。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/8d34c/10667/settlements/8d8fa/404892;https://catr.jp/settlements/e1801/252440;https://catr.jp/settlements/5eb40/103680;https://www.at-takaoka.co.jp/profile/profile.html;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1180301017773",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "646": {
+  "I": "○ 回収（§7-1確定）：2024年12月期・単体売上高3,726.63億円（当期純利益120.97億円）。第44期3,473.29億円と期系列も整合。アサヒGHDの子会社だが単体で300億を大幅超過（§3-3充足）、決算期も直近3期内（§3-8充足）。当たった経路＝自社HP、アサヒGHDのIR／有報PDF・ニュースルーム、gBizINFO（決算公告データなし）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/a489a/51018;https://kanpo-kanpo.blog.jp/archives/46430841.html;https://www.asahigroup-holdings.com/ir_library_file/file/securities2024_4q.pdf;https://www.asahiinryo.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "649": {
+  "I": "○ 回収（§7-1確定）：第69期・令和6年度（2025年3月期・単体）売上高71,010百万円＝710.10億円（1,000百万円＝10億円で換算。当期純利益53.98億円、自己資本比率81.6%）。単体で300億を大幅超過し、決算期も直近3期内（§3-8充足）。当たった経路＝自社HP会社概要（売上高記載なし）、官報決算公告、gBizINFO、日経（NIKKEI COMPASS）、新聞記事検索。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/bc392/27145;https://catr.jp/companies/bc392/27145/settlements/c3aca/320247;https://shoeichem.co.jp/company/about/;https://www.shoeichem.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "660": {
+  "I": "○ 回収（§7-1確定）：第37期（2025年1月期・単体）売上高4,688億1,700万円＝4,688.17億円。第33期（2021年1月期）3,217.77億円と期系列も整合。単体で300億を大幅超過し、決算期も直近3期内（§3-8充足）。当たった経路＝官報決算公告DB（1次未踏）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/2981e/6131/settlements/6579d/429268;https://catr.jp/companies/2981e/6131/settlements/63439/229521",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "681": {
+  "I": "○ 回収（§7-1確定）：第53期＝2024年3月期・単体売上高351億4,500万円＝351.45億円（営業利益12.31億円／経常利益12.67億円／純利益8.31億円）。catr.jpとkanpo.tremolo.workの2つの官報二次サイトで数値が一致。決算公告は単体のため親子判定の影響を受けず300億超（§3-3充足）、決算期も§3-8の直近3期内に収まる。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/d6f89/15388/settlements/b7e09/307915;https://kanpo.tremolo.work/disclosures/197429;https://www.nichii-lease.com/company/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "707": {
+  "I": "○ 回収（§7-1確定）：第23期（決算末日2026年3月31日・単体）売上高2,289.94億円（純利益244.95億円／総資産2,433.29億円）。京セラの子会社だが単体で300億を大幅超過（§3-3充足）、直近期のため§3-8充足。当たった経路＝官報決算公告DB、京セラIR有報ライブラリ（「関係会社の状況」の主要な損益情報等は本文PDFを未確認）、自社HP会社概要（単体売上高の記載なし）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/bf783/26068/settlements/18314/319445;https://catr.jp/companies/bf783/26068;https://www.kyocera.co.jp/ir/library/yuho.html;https://www.kyoceradocumentsolutions.com/global/ja/about-us/profile.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "756": {
+  "I": "○ 回収（§7-1確定）：第22期（2024年12月期・単体）売上高61,760百万円＝617.60億円（1,000百万円＝10億円で換算。営業利益16.79億円、当期純利益13.32億円）。オエノンHDの子会社だが単体で300億を大幅超過（§3-3充足）、決算期も直近3期内（§3-8充足）。オエノンHD（2533）有報「関係会社の状況」の主要な損益情報等でも再現できる見込み。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/52c5d/606/settlements/740f3/394731;https://www.oenon.jp/ir/data/valuable.html;https://www.oenon.jp/company/group/godo.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "786": {
+  "I": "○ 回収（§7-1確定）：第101期（2025年3月期・単体）売上高763億3,000万円＝763.30億円（営業利益28.34億円、経常利益31.60億円、当期純利益14.78億円）。第97期1,016.74億円／第96期1,233.88億円と期系列も整合。日産自動車の完全子会社だが子会社単体で300億超のため§3-3を充足、決算期も直近3期内（§3-8充足）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/3d2d0/11021/settlements/75a57/363628; https://catr.jp/companies/3d2d0/11021; https://www.aichikikai.co.jp/company/outline.php",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "812": {
+  "I": "○ 回収（§7-1確定）：第102期（決算末日2025年12月31日・単体）売上高7,930億9,400万円＝7,930.94億円（前年比+2.35%、純利益355.51億円、総資産1兆8,929.92億円）。第100期5,135.97億円と期系列も整合。サントリーHDの子会社だが単体で300億を大幅超過（§3-3充足）、直近期のため§3-8充足。HD連結3兆4,325億円の約23%＝10%超に当たり、HD有報「関係会社の状況」でも確定できる見込みで規模感も整合。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9a23b/913/settlements/1ee92/395061; https://catr.jp/companies/9a23b/913; https://www.suntory.co.jp/company/financial/securities.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "874": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第39期（決算日2026年3月31日）の単体売上高985.54億円（前年比▲4.39%）。純利益73.25億円・利益剰余金324.99億円・総資産616.56億円と内部整合し桁誤読なし。五十鈴グループの子会社だが子会社“単体”で300億を大幅超過し§3-3を満たす。決算期は最新で§3-8も充足。五十鈴株式会社公式のビジョナリーレポート・isz-recruit.co.jpのグループ紹介には東海単体の売上高記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/65bcc/11562 ; https://catr.jp/companies/65bcc/11562/settlements/0dcf8/464030 ; https://isz-recruit.co.jp/about_company/group/toukai/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8180301012553",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "880": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第117期の単体売上高545.50億円。自社ドメイン（nkc-j.co.jp／採用サイトnkc-recruit.jp）に決算公告・電子公告ページは存在せず、会社概要・採用「3分でわかるNKC」にも売上高の記載がなく、承認ソース経路1（会社概要）・2（IR）・5（自社電子公告）・9（採用ページ）はいずれも空。残る唯一の数値が本公告であり、除外理由は出典が二次収録サイトのみという点だけだった。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/f3af9/24417 ; https://catr.jp/companies/f3af9/24417/settlements/5434d/318501 ; https://catr.jp/companies/f3af9/24417/settlements/d903f/368895 ; https://www.nkc-j.co.jp/company/about/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "889": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第81期（決算日2025年3月31日）の単体売上高379億8,800万円＝379.88億円。反証層の再検索でも同値を再現し1次値と一致（独立に確認）。§3-8の直近3期以内を満たす。最新の第82期（決算日2026年3月31日）は売上高が「-」で未収録のため第81期を採用。第77〜82期にわたり官報決算公告を継続＝会社法440条4項の免除対象外＝有報提出会社ではなく、EDINET/TDnet経路は存在しない。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/5d209/15667 ; https://catr.jp/companies/5d209/15667/settlements/e247f/368396 ; https://catr.jp/companies/5d209/15667/settlements/a7cb6/419916 ; https://www.saginomiya.co.jp/office/company_data.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "900": {
+  "I": "○ 回収（§7-1確定）：官報決算公告の単体売上高450億円（2025年2月期）。§3-8の直近3期以内を満たす。広島県Go!ひろしま企業DBは売上高欄を取得できず、自社HP・新聞社記事にも決算期付き売上高の記載がなく、除外理由は出典が承認ソースとして確定していない点のみだった。※fukuya-k.co.jp「FUKUYAグループ業績概要」は不動産の別法人で混同注意（§6-2）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-hiroshima-datebase-kigyo/go-data-0284.html;https://www.fukuya-dept.co.jp/company/;https://catr.jp/companies/6508e/7007/settlements/2e6c8/351909;https://job.mynavi.jp/27/pc/search/corp51465/outline.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "946": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 2024年3月期の単体売上高734.67億円（純利益46.06億円・総資産420.16億円）。NTTデータ100%子会社だが子会社“単体”で300億を大幅超過し§3-3を満たす。決算期は§3-8の直近3期以内。NTTデータグループ公式は商号変更リリースのみで売上高の記載がなく、連結4兆円超のため10%超注記による下限証明も不可。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/454d1/12720; https://www.nttdata.com/global/ja/news/group/2025/100100/; https://www.fortience.com/company/profile/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "954": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第64期＝2025年6月期の単体売上高609.88億円・営業利益65.75億円（前期比117.9%増、前期は131.76億円の営業損失）。業界メディアgamebizの報道と数値が一致し独立に検証済み。§3-8の直近3期以内を満たす。自社HP・新聞社記事には売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/95cc3/9020/settlements/48e79/348092; https://gamebiz.jp/news/424959; https://www.kyoraku.co.jp/company/about.php",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "969": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第30期＝2025年3月期の単体売上高779.46億円（営業利益133.78億円・経常利益153.07億円・純利益106.01億円）と各利益が整合。東芝デバイス＆ストレージ100%子会社だが子会社“単体”で300億を大幅超過し§3-3を満たす。§3-8の直近3期以内も充足。東芝IRは連結3兆円超で10%超注記の対象外。出典は官報決算公告（catr.jp 収録、第26/28/30期）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/885b8/48664/settlements/5fd5c/414520; https://catr.jp/companies/885b8/48664; http://www.nuflare.co.jp/corporate/about/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "975": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 2025年3月期の単体売上高692.51億円。catr.jp企業ページとBuffett-Codeで同一値を独立に確認済み。メタルワン100%子会社だが子会社“単体”で300億を大幅超過し§3-3を満たす。§3-8の直近3期以内も充足。親会社メタルワンの決算公表PDFは連結のみで子会社単体の記載がなく、連結1兆円超のため10%超注記も不可。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/f9c2f/63660; https://www.mtlo.co.jp/ir/; http://www.mtlo-nishinihon.co.jp/company/; https://www.mtlo.co.jp/wp-content/uploads/2025/05/%E6%B1%BA%E7%AE%972024.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "982": {
+  "I": "○ 回収（§7-1確定）：官報決算公告の単体売上高535.63億円（2024年3月期）。別期の第55期は507.20億円で、いずれの期も300億超。大王製紙の子会社だが子会社“単体”で300億を超過し§3-3を満たす。決算期は§3-8の直近3期以内。自社HP・大王製紙有報には記載がなく、大王製紙連結約6,700億円のため10%超注記による下限証明も使えない。出典は官報決算公告（catr.jp／PR TIMES決算公告DB 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/1f2d9/16681; https://catr.jp/settlements/89cc1/16962; https://prtimes.jp/finance/3500001014375/settlement; https://www.elleair-product.com/aboutus.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "992": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 2025年3月期の単体売上高1,859.05億円（前年比+5.35%）。第38期1,764.99億円・第37期1,414.71億円と推移が連続しており桁の誤読なし。日産100%子会社だが子会社“単体”で300億を大きく超過し§3-3を満たす。§3-8の直近3期以内も充足。自社HPに売上高記載なし、日産連結12兆円規模で10%超注記も対象外。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/ec2c4/19328/settlements/839a1/358981; https://catr.jp/companies/ec2c4/19328/settlements/015f6/311706; https://www.nissan-nmc.co.jp/company/about/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1011": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第41期の単体売上高517.19億円。1次とは別経路で同値を再現し、前期481.18億円（+7.5%）とも整合して数値の確度は高い。§5-3の5が官報決算公告を承認経路に挙げており、300億超で回収可能と整理していた行で、除外理由は出典の承認可否の一点だけだった。自社HP・かんぽ生命／日本郵政IRに売上高記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/ed21a/24376/settlements/7229f/420783 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8011001067425 ; https://www.kamposol.jp-life.japanpost.jp/corp_info/gaiyo/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1075": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第25期の単体売上高359億0,800万円＝359.08億円（前期比+27.63%、純利益△4.45億円、総資産290.88億円）。井関農機の子会社だが子会社“単体”で300億超のため§3-3を満たす。井関農機の有報（EDINET S100VI8J）・ISEKIレポート・事業報告書・グループ会社ページに単体売上高の記載はなく、井関連結1,857.70億円（2025年12月期）×10%＝185.8億円<300億で下限証明も使えない。基準300億に対する余裕は約20%と薄い点に留意。出典は官報決算公告（catr.jp／PR TIMES決算公告転載 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://x.com/kessan_db/status/2041849145997308365 ; https://prtimes.jp/finance/7500001004562/settlement ; https://www.iseki.co.jp/group/md/ ; https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VI8J.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1091": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第61期（3月決算・公告2025/6/20 令和7年官報号外第138号）＝2025年3月期の単体売上高1,038億3,435万6,000円＝1,038.34億円（営業利益27.28億円・経常利益54.15億円・純利益38.55億円）。300億を大幅超過し§3-3・§3-8とも充足。自社HPのIRライブラリで確認できる決算公告は第55期（2019年）までで鮮度不足、住友金属鉱山有報での下限証明も未確認。出典は官報決算公告（catr.jp／官報検索! 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://search.kanpoo.jp/r/20250620g138p136-5e4/ ; https://catr.jp/companies/93b6c/55810/settlements/d4ef2/409312 ; https://www.ne-chemcat.co.jp/ir/library/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1201": {
+  "I": "○ 回収（§7-1確定）：官報決算公告の単体売上高1,178.13億円（2025年12月期）。§3-8の直近3期以内を満たす。1次指摘の2,039億円はセイコーマート加盟店売上高であり別物（混同注意）。自社HP会社概要・北海道新聞企業タグ・EDINET（非提出）・業界紙には単体売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/dba9c/116; https://secoma.co.jp/; https://www.hokkaido-np.co.jp/tags/hokkaido_company/secoma/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1204": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第111期の単体売上高405.67億円。自社HP会社概要（daishowasiko.com/outline）・関連会社・お知らせ、gBizINFO、EDINET（非提出）のいずれにも売上高の記載がなく、457億円等はマイナビ／Baseconnect等の禁止ソースのみ。除外理由は出典の承認可否の一点だけだった。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/settlements/7fb8e/123214; https://www.daishowasiko.com/outline/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4080101008939",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1218": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第110期＝2025年3月期の単体売上高342.91億円（前期比+31.47%）。博報堂DYHDの子会社だが子会社“単体”で300億超のため§3-3を満たし、決算期も§3-8の直近3期以内。自社HP会社概要、博報堂DYHDの有報・決算短信・月次売上高に大広単体の記載はなく、博報堂DYHD連結1兆6,131億円×10%＝1,613億円で10%超注記による下限証明も不成立。基準300億に対する余裕は14%と薄い点に留意。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/c83d2/24415/settlements/62640/411959; https://www.daiko.co.jp/about/outline/; https://www.hakuhodody-holdings.co.jp/ir/library/asr/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1219": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第10期＝2026年1月期の単体売上高935.82億円（93,582百万円＝935.82億円で桁換算一致。当期純損失331.22億円）。DyDoグループホールディングスの子会社だが子会社“単体”で300億を大幅超過し§3-3を満たす。決算期は最新で§3-8も充足。DyDo GHD有報・決算説明資料の国内飲料セグメントは複数社合算で単体特定不可、連結2,412億円×10%＝241億円<300億円で下限証明も不成立。出典は官報決算公告（catr.jp／prtimes決算公告 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/4cc24/2618; https://prtimes.com/finance/8120001196529/settlement; https://holdings.dydo.co.jp/ir/highlights/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1223": {
+  "I": "○ 回収（§7-1確定）：官報決算公告の単体売上高881.07億円（2025年3月期）。出所が官報決算公告であるため定義上「単体」であり、§6-4の連結混同・§3-3の親子取り違えの疑いはなく、決算期も§3-8の直近3期内。自社HPの決算公告ページ、官報オンライン（kanpou.npb.go.jp）、トヨタ系親会社サイト、gBizINFO、EDINET（非提出）、TDnet、新聞記事はいずれも売上高の記載がなく、残る争点は出典の承認可否のみだった。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/484c9/10929; https://www.toyofuji.co.jp/about/corporate.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4180001094400",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1374": {
+  "I": "○ 回収（§7-1確定）：官報決算公告の単体売上高645.84億円（2026年3月期）。パナソニックHDの子会社だが子会社“単体”で300億を超過し§3-3を満たす。決算期は最新で§3-8も充足。自社HP会社概要・パナソニックHDの有報／決算短信・EDINET・gBizINFOには単体売上高の記載なし。自社公式の657億円および他所の754億円は決算期と単体／連結の別が特定できないため不採用とし、公告値を採る。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://panasonic.co.jp/hvac-cc/peseng/about/company/;https://catr.jp/settlements/2caa8/131395;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3120901008457",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1388": {
+  "I": "○ 回収（§7-1確定）：官報決算公告 第152期＝2025年3月期の単体売上高1,226.7億円。自社会社案内PDFの2025年3月期1,323億円はグループ連結値であり、単体1,226.7億円と整合的で§6-4の連結混同はない。富士フイルムHDの子会社だが子会社“単体”で300億を大幅超過し§3-3を満たし、§3-8も充足。富士フイルムHDの有報／決算短信／電子公告（公告すべき事項なしと明記）、EDINET、gBizINFOには単体売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.fujifilm.com/ffwk/ja/about/company-profile;https://catr.jp/companies/8754e/21016/settlements/aac4c/419606;https://ir.fujifilm.com/ja/investors/stock-and-shareholder/electronic-public-notice.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1456": {
+  "I": "○ 回収（§7-1確定）：2025年12月期・単体 売上高1,844.97億円（前年比-3.21%・純利益40.25億円・総資産591.92億円）。当社は旧スリーエムジャパン(株)の商号変更法人（法人番号7010901006237）で、catr.jp収録の同一法人記録上の値。1次の「同社ページに売上高の記載なし」「第44期3,126.79億円は別法人」はいずれも誤りで、どちらも同一法人記録上の値。3Mの子会社だが単体で300億を大幅超過し§3-3を充足。3M公式・EDINET・新聞社に単体売上高の記載はなし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/874cd/5036;https://www.3mcompany.jp/3M/ja_JP/company-jp/about-3m/group/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1468": {
+  "I": "○ 回収（§7-1確定）：第21期・単体 売上高7,025.2億円（営業利益459.83億円・経常利益470.32億円・純利益326.13億円）の決算公告。第19期5,745億円が2023年6月期と報じられており第21期＝2025年6月期で§3-8の直近3期内。新聞社ルート（日経等）に該当記事なし、Apple公式・EDINET・公的機関にも日本法人単体売上高の記載なし。単体で300億を大幅超過。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.apple.com/jp/legal/internet-services/itunes/;https://catr.jp/companies/15f8f/5411/settlements/ee3f3/440256",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1638": {
+  "I": "○ 回収（§7-1確定）：第49期＝2025年12月期・単体 売上高2,952.87億円（前期第48期3,031.90億円）。J&Jの子会社だが単体で300億を大幅超過し§3-3の子会社単体要件を充足。自社公式・EDINET・TDnet・親会社J&JのIRに日本法人単体の売上高記載なし。出典は官報決算公告（catr.jp 収録。PR TIMES官報決算データにも同一値の転載あり）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/3e555/140903/settlements/9c4dd/399689; https://prtimes.com/finance/4010001089128/settlement; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010001089128",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1650": {
+  "I": "○ 回収（§7-1確定）：2026年3月期・単体 売上高364億2,388万円＝364.24億円。金額は2経路で一致し、鹿島建設の子会社の単体値である点も整合するため§3-3の子会社単体300億以上を充足。前期2025年3月期は289.66億円で300億未満のため、最新期（2026年3月期）の採用が必須である点に注意。なお旧H列記載の自社HP英語版URL（chemicalgrout.co.jp/en/about/company）は到達不可で、現在のサイトは /company/profile 構成に変更済みのため出典差し替えが必要。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.chemicalgrout.co.jp/company/profile ; https://catr.jp/companies/fe3dd/43001/subsidiaries",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1672": {
+  "I": "○ 回収（§7-1確定）：第48期＝2025年3月期・単体 売上高2,959.71億円（純利益402.97億円／総資産4,152.58億円）。自社HP（企業情報・数字で見るNITCO・採用サイト）は連結7,139億円のみで単体非開示、自社ドメインに電子公告ページを確認できず、日産自動車は連結売上の10%未満のため有報「関係会社の状況」に損益情報の記載がなく下限証明も不可。日産の子会社だが単体で300億を大幅超過し§3-3を充足。出典は官報決算公告（catr.jp／prtimes finance 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/00c19/22580/settlements/636e4/421410; https://prtimes.jp/finance/8020001037321/settlement; https://nitco.co.jp/corporate/numbers.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1709": {
+  "I": "○ 回収（§7-1確定）：第26期・単体 売上高434.19億円（営業利益2.55億円・経常利益2.19億円・純利益1.28億円、前期410.01億円）。300億基準を充足。NTT東日本の決算短信・IRには子会社単体値の記載なし。※本行は西暦決算期が未特定のため、§3-8の確認のため公告の対象事業年度の確定が望ましい。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9d843/23039/settlements/2ebea/170917 ; https://www.ntt-east.co.jp/kessan/ ; http://www.kanshinetsu.ntt-east.co.jp/corporate.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1722": {
+  "I": "○ 回収（§7-1確定）：第85期＝2026年3月期・単体 売上高573.49億円（前年比+4.57%・純利益69.66億円・総資産810.23億円）。第83期は493.58億円（営業利益35.51億円・経常60.09億円・純利益46.46億円）。1次の「売上高49.36億円で営業利益35.51億円と内部矛盾」は桁の誤読で矛盾はない（§6-1）。親＝関東化学ホールディングス（2004年9月設立）の子会社だが、対象法人番号6010001039923が1944年設立の事業会社であることをgBizINFOで確認済みで、§3-3の子会社単体300億以上を大幅に充足。出典は官報決算公告（catr.jp・@kessan_db 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/44aa6/7645/settlements/d8241/353790 ; https://x.com/kessan_db/status/2064629008827109753 ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001039923",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1746": {
+  "I": "○ 回収（§7-1確定）：第33期・単体 売上高2,838.58億円（直近期は2,651.98億円で、こちらも300億を大幅超過）。自社HPの電子公告に掲載なし、採用サイト「数字で見る三井物産スチール」はページは実在するが数値を取得できず、親会社三井物産は連結14兆円規模のため有報の10%超注記による下限証明は成立せず。三井物産の子会社だが単体で300億を大幅超過し§3-3を充足。※西暦決算期が未特定のため、§3-8の確認のため対象事業年度の確定が望ましい。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/488cb/63437/settlements/884d9/420913; https://www.mitsui-steel.com/recruit/company/data.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1814": {
+  "I": "○ 回収（§7-1確定）：2026年3月期・単体 売上高4,642億98百万円＝4,642.98億円（第32期決算公告）。G列の値と一致。東京エレクトロンの子会社のため親会社連結は使用不可だが、単体で300億を大幅超過し§3-3を充足。※旧H列記載のURL（www.tel.co.jp/about/locations/tkl.html）は事業所紹介ページで売上高の記載がなく証跡にならないため、出典の差し替えが必要。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/47f9d/11161/settlements/7fc35/307193;https://www.tel.co.jp/ir/irta3a00000006g5-att/fy26q4tanshin-j.pdf;https://www.tel.co.jp/ir/library/report/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1832": {
+  "I": "○ 回収（§7-1確定）：2025年3月期（令和7年3月期）・単体 売上高618億9,000万円＝618.9億円。前期の令和6年3月期は621億1,400万円で、単体が300億を大きく超える点は複数期で一貫。※G列の573.09億円（2026年3月期）は官報決算公告のどの期とも一致せず誤りのため「618.9億円（2025年3月期・単体）」へ要訂正。旧H列のgBizINFO URLは法人番号一覧ページで財務諸表を含まないため出典も差し替えが必要。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/f944e/14848/settlements/c82e8/413979; https://catr.jp/companies/f944e/14848; https://x.com/kessan_db/status/1866605571430084708",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1839": {
+  "I": "○ 回収（§7-1確定）：第71期＝2025年3月期・単体 売上高2,548.5億円。親会社コスモエネルギーHDの連結は約2.7兆円で10%＝2,700億円に届かないため有報「関係会社の状況」の10%超注記による下限証明は使えず、自社HP会社概要・コスモHD IRにも単体値の記載なし。子会社だが単体で300億を大幅超過し§3-3を充足。gBizINFOで法人番号8010401053134の現存を確認済み。官報の号数・頁は特定できず。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/settlements/b11c5/260011; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010401053134; https://ces.cosmo-energy.co.jp/company/profile/; https://www.cosmo-energy.co.jp/ja/ir/financial-esg-data/financial.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1901": {
+  "I": "○ 回収（§7-1確定）：第17期＝2025年12月期・単体 売上高546.72億円（決算末日2025年12月31日、前年比▲1.39%）。1次が「暦年12月期と推定・確定不可」としていた決算期を特定済みで§3-8の鮮度要件を充足。親会社サントリービバレッジ&フード公式IR・サントリーHD財務情報・サントリー食品インターナショナルIRには子会社単体の開示なし。子会社だが単体で300億超のため§3-3を充足。官報本体の発行日・号数・頁は特定できず。出典は官報決算公告（catr.jp／PR TIMES決算公告DB 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://prtimes.jp/finance/4010401081171/settlement; https://catr.jp/companies/f5723/75382/subsidiaries; https://www.suntory.co.jp/company/group/products/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401081171",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1907": {
+  "I": "○ 回収（§7-1確定）：第130期＝2025年3月期・単体 売上高700.69億円（営業損失1.11億円／経常利益11.36億円／当期純利益10.47億円）。300億基準の2.3倍で余裕あり。自社HPは会社概要・環境報告書のみで売上高の記載なし。官報の号数・頁は特定できず。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/6fe91/19641/settlements/4506d/411985 ; https://www.sumikyo.co.jp/profile/about.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1939": {
+  "I": "○ 回収（§7-1確定）：780.78億円（2026年3月期・単体）を官報決算公告で確認。トライアルHDの子会社だが§3-3の子会社単体300億以上を充足。下限証明の代替経路は不可＝親会社トライアルHDの2026年6月期連結売上高1兆3,430億円×10%＝1,343億円>780億円のため有報「関係会社の状況」の10%超注記の対象にならない。自社HP会社概要・トライアルHD IRにも単体売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://muroo.co.jp/company/outline/ ; https://trial-holdings.inc/ir/library/securities/ ; https://trial-holdings.inc/ir/financial/ ; https://catr.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "1954": {
+  "I": "○ 回収（§7-1確定）：316.30億円（2026年2月期・第116期・単体。営業利益7.55億円／経常利益7.61億円／純利益4.79億円）。旧G列376億円は承認ソースに存在せず誤りのため要差替。前期（2025年2月期）は293.2億円で300億未満のため、基準との差16億円は薄い点に留意。自社HPの実在ページは https://www.ts-create.jp/company/outline （売上高の記載なし）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/3b9ab/11877/settlements/ca194/101601;https://catr.jp/companies/3b9ab/11877/settlements/b2709/7131;https://www.ts-create.jp/company/outline;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010001093768",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2102": {
+  "I": "○ 回収（§7-1確定）：402億円（2026年3月期・単体。前年比+6.8%／純利益17.73億円。法人番号8010901029220で照合）。1次再検証の「1,122億2,000万円」は再現できず誤りのため要差替。親会社京セラドキュメントソリューションズ㈱のIRは2026年3月期連結4,785億円のみで当社単体は非掲載、自社HP会社概要（japan/outline）にも売上高の記載なし。300億基準に対する余裕は薄い。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.kyoceradocumentsolutions.co.jp/company/japan/outline;https://catr.jp/companies/e8cba/26061;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8010901029220",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2171": {
+  "I": "○ 回収（§7-1確定）：370億円（2025年3月期・第89期・単体。連結387億円だが§3-3により単体を採用）。自社HP oji-steel.co.jp の企業情報・会社概要に売上高の記載なし。検算＝日本製鉄連結約8.7兆円に対し約0.4%で有報「関係会社の状況」の10%超注記の対象外＝親会社IR経路では実額が出ない。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.oji-steel.co.jp/company/about.php;https://catr.jp/companies/d38f4/29236;https://prtimes.jp/finance/6010001039766/settlement",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2177": {
+  "I": "○ 回収（§7-1確定）：393.01億円（2025年3月期・第104期・単体。当期純利益7.46億円／総資産169.0億円）。第102期（2023年3月期）360.35億円とも整合。検算＝親会社フジクラ(5803)連結約8,700億円に対し約4.5%で10%未満のため有報「関係会社の状況」に実額は載らず親会社経路は閉。本社は山形県米沢市（1次メモの高知は誤り）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/a8323/10537/settlements/f001c/407810 ; https://catr.jp/companies/a8323/10537/settlements/dc02a/305016 ; https://www.fujikuradenso.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2179": {
+  "I": "○ 回収（§7-1確定）：760.73億円（2026年3月期・単体。当期純利益68.74億円）。第55期は売上高649.10億円・営業利益33.94億円・経常利益35.46億円・純利益28.12億円で推移も整合。ジャパンファームHD傘下の子会社だが§3-3の子会社単体300億以上を大きく充足。検算＝三菱商事連結約20兆円の10%＝約2兆円で有報「関係会社の状況」の対象外。自社HPは生産規模の記載のみで売上高なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/1f5df/27209/settlements/32efd/365585 ; https://catr.jp/companies/1f5df/27209 ; https://www.japanfarm.co.jp/company/overview/ ; https://www.japanfarm.co.jp/company/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2235": {
+  "I": "○ 回収（§7-1確定）：743.42億円（2025年5月期・第21期・単体。当期純利益25.23億円／総資産627.98億円）。第18期651.78億円とも整合し桁も検算済み。自社HPに電子公告ページはなく、官報本体の号数・頁は特定できず。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/settlements/e22f3/277142;https://catr.jp/companies/d5844/31417/settlements/e22f3/277142;https://www.muramoto.co.jp/overview",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2300": {
+  "I": "○ 回収（§7-1確定）：432.87億円（2026年2月期・単体）。イオンの子会社だが§3-3の子会社単体300億以上を充足。検算＝親会社イオン連結約10兆円に対し約0.4%で有報「関係会社の状況」の10%超注記の対象外＝親会社IR経路では実額が出ない。自社HP会社概要にも売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/69eb7/11903/settlements/47505/355888; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1040001006660; https://www.miraiyashoten.co.jp/corporate/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2470": {
+  "I": "○ 回収（§7-1確定）：3,065.59億円（2026年1月期・第26期・単体）。第25期約2,792億円、第24期2,345.99億円と推移も整合し桁を検算済み。自社HP salesforce.com/jp に電子公告・決算公告の掲載はなく、掲載される業績は米Salesforce, Inc.のグローバル業績（抄訳）のみで日本法人単体値は不記載。EDINET非提出。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/1b573/6657/settlements/fbb91/401719 ; https://catr.jp/companies/1b573/6657/settlements/fe68e/349750 ; https://salesforce.com/jp/company/overview",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2476": {
+  "I": "○ 回収（§7-1確定）：4,197.82億円（2025年12月期・単体）。§3-3の子会社単体300億以上を大幅に充足。自社HP astrazeneca.co.jp の投資家向けページは英AstraZeneca PLCのグローバル業績のみで日本法人単体の売上高は不記載、電子公告ページ不存在、EDINET非提出、gBizINFOにも財務情報なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.astrazeneca.co.jp/azkk/investors.html ; https://www.astrazeneca.co.jp/azkk/company.html ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9120001073652",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2515": {
+  "I": "○ 回収（§7-1確定）：単体売上高5,428億4,100万円＝5,428.41億円（第21期・単体／営業利益54億8,700万円・経常利益57億3,500万円）を官報決算公告で確認。前期＝第20期5,262億900万円と整合し桁の誤読なし（5,428億4,100万円＝5,428.41億円）。宇佐美鉱油の子会社のため§3-3により単体判定だが300億円を大幅超過。宇佐美鉱油が非上場のため親会社有報ルートは不存在。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9d7cc/38643/settlements/0e7ea/443258 ; https://kanpo-kanpo.blog.jp/archives/45842526.html ; https://usami-net.com/content/company/group/usami-east-japan.php",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2516": {
+  "I": "○ 回収（§7-1確定）：単体売上高722億547万円＝722.05億円（2025年3月期・単体／前年比+7.7%）を官報決算公告で確認。日立製作所の子会社のため§3-3により単体判定、300億円を大幅超過。検算＝自社HP掲載の811億円はグループ値だが単体でも基準充足。親会社日立の連結約9.7兆円に対し比率0.7%で有報『関係会社の状況』の10%基準に届かず実額掲載なし（親会社ルートは不成立）。自社HPに電子公告ページ無し。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/1a63c/26791 ; https://catr.jp/companies/1a63c/26791/settlements/cd3bf/320873 ; https://www.hitachi-sis.co.jp/company/kigyou/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2528": {
+  "I": "○ 回収（§7-1確定）：単体売上高2,695億400万円＝2,695.04億円（第64期・単体）を官報決算公告で確認。第62期2,483億7,200万円・第60期2,645億7,300万円と同水準で桁の整合を確認済み。子会社単体で300億円を大幅超過。自社公式のプレスリリースは全てグローバル・米ドル建てで日本法人の円建て実額なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/5b698/3810/settlements/56248/347106 ; https://catr.jp/settlements/1e757/247468 ; https://www.novartis.com/jp-ja/news/press-room/npkk-annual-results",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2532": {
+  "I": "○ 回収（§7-1確定）：売上高822.80億円（第114期＝2024年11月期・単体／営業利益186.53億円・当期純利益126.95億円）を官報決算公告で確認。Otis日本法人＝子会社のため§3-3により単体判定で300億円を充足。検算＝gBizINFOの695.96億円（2021年11月期）からの増収基調と整合、親会社Otis WorldwideのIRに日本単体の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9181e/39951/settlements/f9f91/392703;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010001075825;https://www.otis.com/documents/256045/364703556/NipponOtis_221109.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2615": {
+  "I": "○ 回収（§7-1確定）：売上高1,221.29億円（2023年12月期・単体）を官報決算公告（第17期／第20期／第22期の各公告）で確認。子会社単体判定のため親会社Autoliv Inc.のグローバル値は不採用（§3-3）。300億円を大幅超過し、§3-8の直近3期以内にも該当。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/settlements/bf1c0/8363 ; https://catr.jp/companies/fc192/7947/settlements/34654/296731 ; https://www.autoliv.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2624": {
+  "I": "○ 回収（§7-1確定）：売上高942.11億円（2025年3月期・単体／営業利益64.09億円）を官報決算公告（第72〜75期）で確認。非上場・独立系で親会社がないため単体値で判定し300億円を大幅超過。自社HP会社概要・採用『数字で見るフタムラ化学』とも売上高の記載なし（承認ソース経路1・9は踏破済み）、非上場でIR・EDINET・TDnetは不存在。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/22879/15646/settlements/d9fd6/359942 ; https://catr.jp/settlements/4bf61/309986 ; https://www.futamura.co.jp/corporate/info ; https://www.futamura.co.jp/recruit/data/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2653": {
+  "I": "○ 回収（§7-1確定）：売上高286,076百万円＝2,860.76億円（第19期＝2025年3月期相当・単体）を官報決算公告で確認。桁検算＝286,076百万円÷100＝2,860.76億円。子会社単体で300億円を決定的にクリア。自社公式の『2025年度 年間取扱高2,978億円』は取扱高のため§3-7により不採用、親会社の全国農業協同組合連合会は農協連合会でIR・有報がなく親会社ルートは不成立。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.jazmf.co.jp/outline/overview.html;https://catr.jp/companies/54f42/14752;https://www.zennoh.or.jp/about/financial/index.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2718": {
+  "I": "○ 回収（§7-1確定）：売上高701億円（2024年度＝2025年1月期・単体）を官報決算公告で確認し、複数の独立検索でも同一値で一致。独立系卸で親会社がないため単体値で判定し300億円を大幅超過、§3-8の直近3期以内にも該当。自社HP会社案内・沿革、EDINET・TDnetには売上高の記載なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.toryusha.co.jp/company/;https://www.toryusha.co.jp/;https://catr.jp/companies/1e024/94045;https://www.nikkei.com/compass/company/2js8QkDk1dw3CZZNj7pA8a",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2913": {
+  "I": "○ 回収（§7-1確定）：売上高985.54億円（第30期＝2026年3月期・単体／前期比-4.39%、当期純利益73.25億円）を官報決算公告で確認。子会社単体で300億円を大幅超過し、§3-8の鮮度も最新期で充足。自社HPはTCSグローバル業績のプレスリリースのみで日本法人単体の円建て実額なし、gBizINFOは財務情報未掲載。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/c1567/7002 ; https://www.tcs.com/jp-ja/who-we-are/company-information/profile ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010401097045",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2923": {
+  "I": "○ 回収（§7-1確定）：売上高937.01億円（第24期＝2025年8月期・単体／売上総利益383.87億円、営業利益▲47.87億円、経常利益▲51.59億円、当期純利益▲66.08億円）を官報決算公告で確認。判定指標は§3-7により売上高であり損益は不問。子会社単体で300億円を大幅超過。自社HP（ikea.com/jp）に日本法人単体の売上高開示なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/47ce6/37773 ; https://kanpo-kanpo.blog.jp/archives/45742527.html ; https://www.ikea.com/jp/ja/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "2931": {
+  "I": "○ 回収（§7-1確定）：売上高1兆2,943.47億円＝12,943.47億円（第66期＝2026年3月期・単体）を官報決算公告で確認。子会社単体で300億円を決定的にクリア。検算＝親会社三井物産の有報『関係会社の状況』は連結収益約14.7兆円に対し当社は約8.8%で10%基準未満のため実額記載なし（比率検算済み）。自社HP（mbrg.co.jp）に電子公告・IRページなし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/bb50a/15438; https://prtimes.com/finance/5010001043281/settlement; https://www.mbrg.co.jp/company/outline/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3114": {
+  "I": "○ 回収（§7-1確定）：729.78億円（第89期・単体）。官報決算公告で確認済み（営業利益35.49億／経常利益29.37億／純利益20.47億／総資産530.66億と整合、桁検算済＝72,978百万円）。仏Valeo SAの日本法人＝子会社だが単体で300億超のため§3-3クリア。prtimes決算公告DBで第90期の存在も確認でき、第89期は直近期の前期＝§3-8充足。法人番号3030001085497の登記所コード0300＝さいたま地方法務局で本社埼玉県熊谷市と整合、同名別法人ではない。自社HP valeo.co.jp にIR・決算公告ページなし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/610c3/1798/settlements/cc484/398078; https://prtimes.com/finance/3030001085497/settlement; https://www.valeo.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3173": {
+  "I": "○ 回収（§7-1確定）：1,887.8億円（2026年3月期・単体）。官報決算公告で確認済み（第20期1,633.76億→第21期1,644.34億→第22期1,769.14億→第23期1,862.01億と連続し整合）。親会社ルートは不可＝NTT西日本は単独の有報を提出せず、NTT（持株）連結約13兆円に対し10%＝約1.3兆円で同社は実額開示対象外（比率検算済み）。子会社だが単体で300億基準を6倍超クリア（§3-3）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/56204/12494;https://catr.jp/companies/56204/12494/settlements/d55c2/354085;https://www.ntt-ft.jp/company/profile/outline/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3182": {
+  "I": "○ 回収（§7-1確定）：1兆1,744億5,300万円（2026年3月期・第26期・単体）。官報決算公告で確認済み（官報掲載日2026年6月24日／売上高1兆1,744.53億円・売上総利益1,970.45億円・営業利益559.15億円・経常利益953.09億円・当期純利益956.99億円）。索引2系統（官報ブログ・官報決算データベース）が同一数値を返し、報道（gamebiz「2026年3月期は売上高10.9%減の1兆1744億円」）とも一致。ソニーグループ株式会社傘下の子会社だが単体で300億基準を39倍クリア（§3-3）。2兆2,605億円はソニーグループET&S分野の値で別物のため不採用。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://kanpo-kanpo.blog.jp/archives/46291878.html ; https://x.com/kessan_db/status/2070519208241512644 ; https://gamebiz.jp/news/428371",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3212": {
+  "I": "○ 回収（§7-1確定）：2,519億3,200万円（2025年12月期・第59期・単体。当期純利益117億6,600万円・総資産2,677億8,900万円）。官報決算公告で確認済みで、索引2系統（官報決算データベース・PR TIMES決算公告）が同一数値。自社HP会社概要の3,739.06億円はアクティオグループ連結値のため不採用（§6-4）。親会社アクティオホールディングス傘下の事業会社だが単体2,519.32億円＝300億基準を8.4倍クリア（§3-3）。法人番号6010001034494は登記所0100・東京法務局本局でgBizINFO本店・東京都中央区日本橋3-12-2と一致、法人は現存（閉鎖・商号変更なし）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://x.com/kessan_db/status/2039832624462786623 ; https://prtimes.com/finance/6010001034494/settlement ; https://catr.jp/companies/635b0/5238 ; https://www.aktio.co.jp/company/outline_aktio.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3217": {
+  "I": "○ 回収（§7-1確定）：営業収益4,326.50億円（2025年3月期・第78期・単体。432,650百万円＝桁検算済）。官報決算公告で確認済み（営業利益412.32億円／経常利益424.76億円／当期純利益277.74億円／利益剰余金4,169.3億円）。索引4系統（官報ブログ・PR TIMES決算公告・官報決算データベース・決算公告データ倉庫）が同一数値を返し相互検証済み。JCBは支配的な親会社を持たないため単体判定で可、300億基準を14倍クリア。科目表記は「営業収益」（§3-7により売上高として採用し原文表記を注記）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://kanpo-kanpo.blog.jp/archives/44759662.html ; https://prtimes.jp/finance/8010401050511/settlement ; https://catr.jp/companies/beab5/17812/settlements/08e6f/414566 ; https://ryo-nakamura1.hatenablog.jp/entry/2025/07/08/170000_2 ; https://www.global.jcb/ja/about-us/company/overview/pdf/corporate_profile.pdf",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3229": {
+  "I": "○ 回収（§7-1確定）：1,155.36億円（第27期＝2025年6月期・単体・営業収益）。官報決算公告で確認済み（営業利益8.10億円／経常利益10.78億円／当期純利益9.11億円／総資産479.58億円と整合）。索引はcatr.jp・官報ブログ・PR TIMES財務（掲載は2025年10月）。EY公式サイト・gBizINFO・EDINETには記載なし。2025年6月期で§3-8充足、300億基準を3.8倍超過。科目表記は「営業収益」（§3-7により売上高として採用）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/5ce79/32167;https://kanpo-kanpo.blog.jp/archives/45209752.html;https://prtimes.jp/finance/6010001107003/settlement;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010001107003",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3281": {
+  "I": "○ 回収（§7-1確定）：1,336.2億円（2026年3月期・単体）。官報決算公告で確認済み（負債200億円超で大会社となりPL開示が復活）。検算＝リクルートHD有報も当たったが連結約3.6兆円の10%＝3,600億円>1,336億円で「関係会社の状況」に実額は載らず、親会社ルートは原理的に不成立。子会社だが単体で300億基準を4.4倍クリア（§3-3）。法人番号7010401108252の登記所コード0104＝東京法務局港出張所で港区本店と整合、同名別法人ではない。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/8df8f/4428 ; https://kanpo-kanpo.blog.jp/archives/33990086.html ; https://compalyze.co.jp/journal/indeed-japan-fy2026-sales-disclosure ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010401108252",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3285": {
+  "I": "○ 回収（§7-1確定）：約4,008億円（第51期＝2025年12月期・単体）。官報決算公告で確認済み（第50期388,589百万円＝3,885.89億円、第49期約3,931億円と連続し整合、桁検算済）。いずれの期も300億を大幅超過。索引はcatr.jp・官報ブログ。法人番号9010401052283の登記所コード0104＝東京法務局港出張所で六本木本店と整合、同名別法人ではない。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/82bd5/1630 ; https://catr.jp/companies/82bd5/1630/settlements/08747/449386 ; https://kanpo-kanpo.blog.jp/archives/45958103.html",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3325": {
+  "I": "○ 回収（§7-1確定）：2,297億円（2026年3月期・単体）。官報決算公告で確認済み（別途第101期公告で当期純利益170.86億円）。300億基準を7.6倍超過。索引は官報決算データベース（catr.jp）。法人番号8120001049050で本店照合済み、同名別法人ではない。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/bf69b/17516;https://catr.jp/companies/bf69b/17516/settlements/b725b/263245;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8120001049050",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3336": {
+  "I": "○ 回収（§7-1確定）：1,339.62億円（2025年3月期・単体）。官報決算公告で確認済み（当期純利益79.01億円・利益剰余金463.27億円・総資産1,427.27億円／前期＝令和5年度は1,131.22億円）。官報の「令和6年度」表記は2026年3月期ではなく【2025年3月期】であり、1次の年度表記は1年ずれていた（G列は必ず「2025年3月期・単体」と記載すること。2026年3月期と書けば§3-8の誤記になる）。2026年9月時点で直近3期内のため§3-8充足。子会社だが単体で300億基準を4.4倍超過（§3-3）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/04e58/22689;https://catr.jp/companies/04e58/22689/settlements/8d8c6/418743;https://prtimes.jp/finance/3011101011642/settlement",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3354": {
+  "I": "○ 回収（§7-1確定）：1,490億7,100万円（第39期＝最新期・単体。当期純利益51億7,800万円）。官報決算公告で確認済みで、前期第38期1,458億9,200万円と連続し整合。gBizINFOにも第37期（2024年5月7日公告）の収録があり、第39期は直近期＝§3-8充足。Royal Philipsの日本法人＝子会社だが単体で300億を約5倍超過し§3-3をクリア。親会社Royal Philips IRはグローバル値のみで日本法人単体の開示なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/16906/3305/settlements/ae1ad/401063;https://prtimes.jp/finance/1010401025874/settlement;https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010401025874",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3356": {
+  "I": "○ 回収（§7-1確定）：549.83億円（2026年3月期・単体。営業利益14.04億円・経常利益13.11億円・当期純利益2.72億円）。官報決算公告で確認済みで、前期2025年3月期560.72億円と連続し整合。毎日新聞グループホールディングスの子会社だが単体で300億超のため§3-3クリア。当たった経路＝官報決算公告・文化通信（The Bunka News）決算欄・日本新聞協会統計（個社別なし）・親会社毎日新聞グループHDの公告。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/9df3f/74983;https://x.com/kanpo_blog/status/2070740379666960594;https://www.pressnet.or.jp/data/finance/finance01.php",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3398": {
+  "I": "○ 回収（§7-1確定）：1,233.96億円（第61期＝2025年3月期・単体。営業利益24.52億円／経常利益10.14億円／当期純利益114.69億円／総資産1,773.45億円）。官報決算公告で確認済み。EDINET／gBizINFO財務情報は2023年上場廃止のため第58期＝2022年3月期1,380.45億円で更新停止、自社IRライブラリも決算短信・有報とも2022年3月期まで。法人番号1230001002236＝登記所2300・富山地方法務局で富山市本社と一致、同名別法人ではない。2025年3月期で§3-8充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/10757/48037/settlements/2d05f/425216; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1230001002236; https://www.nichiiko.co.jp/company/outline/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3414": {
+  "I": "○ 回収（§7-1確定）：752.11億円（2025年12月期・単体）。官報決算公告で確認済み。§6-2法人番号照合＝6020001071355は登記所0200・横浜地方法務局で川崎市本社と整合、同名別法人ではない。親会社はToys\"R\"Us Asia／Fung Retailing系の非上場企業で日本での有報提出がなく「関係会社の状況」経路が原理的に存在しない。子会社だが単体752.11億円で300億基準を2.5倍クリア（§3-3）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.toysrus.co.jp/ja-jp/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6020001071355",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3419": {
+  "I": "○ 回収（§7-1確定）：475.45億円（2026年2月期・単体）。官報決算公告で確認済み。§6-2法人番号照合＝9010001084082は登記所0100・東京法務局本局で同名別法人ではない。検算＝親会社イオンは連結営業収益約10兆円規模でその10%＝約1兆円のため475億円は有報「関係会社の状況」に実額が記載されず、親会社ルートは原理的に不成立。子会社だが単体で300億基準を超過（§3-3）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.megasports.jp/corporation/outline/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010001084082",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3431": {
+  "I": "○ 回収（§7-1確定）：468.3億円（2026年3月期・単体）。官報決算公告で確認済み。検算＝親会社は住友電気工業で連結約4.4兆円、その10%＝約4,400億円のため468億円は有報「関係会社の状況」の実額掲載対象外であり、親会社有報経路では取得できない（下限証明も不成立）。§6-2照合＝法人番号6010401059967の登記所コード0104＝東京法務局港出張所で本社（港区）と一致、同名別法人なし。社名・種別とも株式会社で§3-6充足。子会社だが単体で300億超のため§3-3クリア。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3482": {
+  "I": "○ 回収（§7-1確定）：1,355.47億円（2026年3月期・単体。前期比+11.57%・当期純利益47.70億円）。官報決算公告で確認済みで、第23期1,214.9億円（2025年3月期）・第22期979.77億円（979億7,700万円）と連続し整合。ヤンマーホールディングスの子会社だが単体で300億円を4.5倍超過し§3-3クリア。ヤンマー公式の決算情報ページ・gBizINFOでは単体値を取得できず。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/5f71e/11303; https://www.yanmar.com/jp/about/company/ynm/; https://www.yanmar.com/us/about/finance/financial_results.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5160001007379",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3516": {
+  "I": "○ 回収（§7-1確定）：1,960.9億円（第16期＝2023年12月期・単体）。官報決算公告で確認済みで、第15期2,157.98億円・第14期2,032.59億円と連続し整合。最新は第18期（2025年12月期／2026年4月6日公告）であり、第16期は直近3期の範囲内＝§3-8充足。金額は300億基準を6.5倍超過。自社HP・gBizINFOには売上高記載なし。gamebiz等の業界メディアは新聞社ではないため§3-4④に該当せず不採用。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/f64ef/1080/settlements/353db/449712; https://kanpo-kanpo.blog.jp/archives/42174336.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001119880",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "3543": {
+  "I": "○ 回収（§7-1確定）：1,002.94億円（2026年2月期＝2026年2月28日決算・単体。100,294百万円＝桁検算済、前期比+13.28%、当期純利益21.53億円）。官報決算公告で確認済み（索引はcatr.jp・prtimes.com/finance）。300億基準を3.3倍超過。補強＝日本経済新聞2023/1/31記事に「2021年12月期の売上高は701億円」の明記あり（§3-4④の承認ソースだが§3-8の直近3期外のため参考）。検算＝親会社 岡谷鋼機（7485・議決権51.50%）の連結売上高約1兆円に対し単体1,002.94億円は約10%と開示境界上で、有報「関係会社の状況／主要な損益情報等」への実額掲載は未確認。子会社だが単体で300億超のため§3-3クリア。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/1ade0/2556;https://prtimes.com/finance/3180001008253/settlement;https://www.nikkei.com/article/DGXZQOFD318EO0R30C23A1000000/;https://www.okaya.co.jp/storage/reports/Yi6Y9yNdAKGCgfNtQSZl8awpbnUNDADNthsYVFar.pdf;https://www.koyom.co.jp/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4234": {
+  "I": "○ 回収（§7-1確定）：売上高570.02億円（第49期・決算末日2024年3月20日・単体／原文570億200万円、前年比+3.63%）を官報決算公告（2024年6月28日掲載）で確認。同公告の総資産565.08億円・純利益27.23億円と整合し、リスのプラスチックグループ連結1,137億円の約50%で規模も整合。子会社だが単体で300億を大きく超え§3-3充足。決算期は§3-8の直近3期以内。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/888e9/11645/settlements/ed6af/363561; https://www.risu.co.jp/group/sales/; https://www.risu.co.jp/group/company/risupack/about/; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2200001005819",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4304": {
+  "I": "○ 回収（§7-1確定）：売上高1,685.10億円（2024年度・4月期決算・単体／168,510百万円。経常利益3,511百万円＝35.11億円、総資産95,466百万円＝954.66億円）。別途 第83期決算公告では売上高1,424.9億円・当期純利益11.74億円。いずれも300億を大幅超過。§6-1に従い百万円→億円を自前換算（検索要約の『1,424.9 billion yen』は桁誤りで原文は百万円単位）。§6-2照合＝法人番号2〜5桁0100＝東京法務局本局で本社・千代田区一番町と整合、1945年創業の建築設備資材専門商社で規模も整合。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.fujikizai-g.co.jp/company/overview/; http://www.fujikizai-g.co.jp/recruit/company/index.html; https://catr.jp/companies/efe74/83638/settlements/05c31/178222; https://kanpo.tremolo.work/company/58490",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4316": {
+  "I": "○ 回収（§7-1確定）：売上高494.97億円（第55期・単体。売上総利益42.78億円／営業利益20.60億円／経常利益19.35億円／当期純利益17.76億円）を官報決算公告で確認。コナミグループ連結4,216億円（2025年3月期）×10%＝421.6億円＜494.97億円で10%超に該当し規模も整合。子会社だが単体で300億を超え§3-3充足。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/ebad0/8526 ; https://catr.jp/settlements/cb069/253179 ; https://kanpo-kanpo.blog.jp/archives/46199342.html ; https://www.konami.com/ir/ja/ir-data/",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4333": {
+  "I": "○ 回収（§7-1確定）：売上高826.63億円（第39期・単体。前期＝第38期884.05億円）を官報決算公告で確認。法人番号9430001020202→登記所コード4300＝札幌法務局で札幌市本社と一致し同名別法人ではない。サツドラHD連結（約1,000億円規模）の8割超＝10%超で規模も整合。子会社だが単体で300億を大きく超え§3-3充足。法人格は現存（子会社シーラクンスを吸収合併した存続会社側）。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/b4155/29774 ; https://prtimes.jp/finance/9430001020202/settlement/224749 ; https://satudora-hd.co.jp/ir/library/securities.php ; https://satudora-hd.co.jp/ir/library/securities2.php ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9430001020202",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4339": {
+  "I": "○ 回収（§7-1確定）：売上高652.79億円（第45期・単体。営業利益16.54億円／経常利益19.47億円／当期純利益24.02億円。前期＝第44期595.20億円）を官報決算公告で確認。親会社日本ハム連結（約1.3兆円）×10%＝約1,300億円>652.79億円のため親会社有報『関係会社の状況』に実額は載らず（この経路は閉じている）、規模とも整合。子会社だが単体で300億を大きく超え§3-3充足。ニッポンハムグループ養鶏事業・1981年設立で法人格・所在地に疑義なし。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/980f2/23001/settlements/549f8/412883 ; https://catr.jp/companies/980f2/23001/settlements/fcca6/363721 ; https://www.nipponwhitefarm.co.jp/business/ ; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4420001012667",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4369": {
+  "I": "○ 回収（§7-1確定）：売上高763.82億円（第141期・単体／原文763億8,200万円、前期比△2.97%。当期純利益1億3,200万円・総資産670億5,700万円。前期＝第140期787億1,700万円）を官報決算公告で確認。レンゴー(株)51.0%保有の子会社（2024/4/1にサン・トックスと三井化学東セロのパッケージ事業を吸収合併して発足）だが単体763.82億円で§3-3充足。レンゴー連結約1兆円の10%＝約1,000億円に届かず親会社有報に実額なしという検算とも整合。法人番号2010001034829＝東京法務局本局で千代田区所在と整合。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://catr.jp/companies/d44b7/53658; https://catr.jp/companies/d44b7/53658/settlements/31f3d/360943; https://www.rengo.co.jp/news/2024/24_news_020.html; https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010001034829",
+  "由来": "catr_resolve wf_a6651206-0af"
+ },
+ "4373": {
+  "I": "○ 回収（§7-1確定）：売上高1,239.17億円（第16期・単体／原文1,239億1,700万円）を官報決算公告で確認。トーホー(8142)の連結子会社だが単体で300億を大きく超え§3-3充足。親会社トーホー有報『関係会社の状況』に当社の売上高が連結売上高の10%超である旨の注記あり（連結2,597.47億円／2026年1月期）で規模も整合。なお第18期公告は純利益32億8,400万円・総資産311億2,700万円のみで売上高欄がなく、総資産311.27億円は売上高ではないので不採用。法人番号2140001029808＝神戸地方法務局で本社・神戸市東灘区と一致。出典は官報決算公告（catr.jp 収録）。§7-1 は承認する方針で確定。",
+  "J": "https://www.to-ho.co.jp/ir/securities.html; https://www.to-ho.co.jp/ir/highlight.html; https://catr.jp/companies/ee37e/2636; https://prtimes.jp/finance/2140001029808/settlement/450892",
+  "由来": "catr_resolve wf_a6651206-0af"
  }
 }
