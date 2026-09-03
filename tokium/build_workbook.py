@@ -135,30 +135,36 @@ LABELS = [
     ("架電不可（元△判定が妥当と確認）", "元の確認不可判定が正しいと確認した"),
     ("架電不可（保留）", "上記のいずれにも当てはまらない"),
 ]
+# 割合の分母は必ず「全行」セル。相対で書くと行ごとに分母がずれるので絶対参照で固定する。
+OK_ROW = 2 + len(LABELS)          # 架電可 合計
+TOTAL_ROW = OK_ROW + 1            # 全行
+NG_ROW = TOTAL_ROW + 1            # 架電不可 合計
+DEN = f"$B${TOTAL_ROW}"
+
 r = 2
 for label, meaning in LABELS:
     ws.cell(r, 1, label).font = base
     ws.cell(r, 2, f'=COUNTIF(検証結果!$F$2:$F${n},A{r})').font = base
-    ws.cell(r, 3, f'=IFERROR(B{r}/$B${r+len(LABELS)+1},0)').font = base
+    ws.cell(r, 3, f'=IFERROR(B{r}/{DEN},0)').font = base
     ws.cell(r, 3).number_format = "0.0%"
     ws.cell(r, 4, meaning).font = base
     for c in range(1, 5):
         ws.cell(r, c).border = box
         ws.cell(r, c).alignment = Alignment(vertical="top", wrap_text=(c == 4))
     r += 1
-for title, formula in [
-    ("架電可 合計", f'=COUNTIF(検証結果!$G$2:$G${n},"○")'),
-    ("全行", f'=COUNTA(検証結果!$A$2:$A${n})'),
-    ("架電不可 合計", f'=B{r+1}-B{r}'),
-]:
-    ws.cell(r, 1, title).font = Font(name=FONT, bold=True, size=10)
-    ws.cell(r, 2, formula).font = Font(name=FONT, bold=True, size=10)
-    ws.cell(r, 3, f'=IFERROR(B{r}/$B${r if title=="全行" else r+1},0)').font = Font(name=FONT, bold=True, size=10)
+bold = Font(name=FONT, bold=True, size=10)
+for r, (title, formula) in zip(
+    (OK_ROW, TOTAL_ROW, NG_ROW),
+    [("架電可 合計", f'=COUNTIF(検証結果!$G$2:$G${n},"○")'),
+     ("全行", f'=COUNTA(検証結果!$A$2:$A${n})'),
+     ("架電不可 合計", f'=B{TOTAL_ROW}-B{OK_ROW}')]):
+    ws.cell(r, 1, title).font = bold
+    ws.cell(r, 2, formula).font = bold
+    ws.cell(r, 3, f'=IFERROR(B{r}/{DEN},0)').font = bold
     ws.cell(r, 3).number_format = "0.0%"
     for c in range(1, 5):
         ws.cell(r, c).fill = PatternFill("solid", fgColor=GREY)
         ws.cell(r, c).border = box
-    r += 1
 
 # ── 4〜5. G列訂正 / 要確認 ─────────────────────────────────────
 g = read("G_column_corrections.csv")
@@ -218,6 +224,58 @@ for r_ in range(2, len(aud) + 2):
             ws.cell(r_, c).fill = PatternFill("solid", fgColor=AMBER)
 
 wb.save(OUT)
+
+# ── 数式のキャッシュ値を書き込む ────────────────────────────────
+# openpyxl は数式を文字列で書くだけでキャッシュ値を持たない。この環境の
+# LibreOffice は3行のブックでも再計算が終わらず recalc.py が使えないため、
+# 同じ集計をPythonで計算してXMLに <v> として埋める。
+# 数式自体は残るので、判定を書き換えればExcel側で再計算される。
+import zipfile, shutil, os
+from collections import Counter
+
+cnt = Counter(x["最終判定"] for x in full)
+n_ok = sum(1 for x in full if x["架電可"] == "○")
+n_all = len(full)
+cache = {}
+for i, (label, _) in enumerate(LABELS):
+    r_ = 2 + i
+    cache[f"B{r_}"] = cnt.get(label, 0)
+    cache[f"C{r_}"] = cnt.get(label, 0) / n_all
+cache[f"B{OK_ROW}"] = n_ok
+cache[f"B{TOTAL_ROW}"] = n_all
+cache[f"B{NG_ROW}"] = n_all - n_ok
+cache[f"C{OK_ROW}"] = n_ok / n_all
+cache[f"C{TOTAL_ROW}"] = 1.0
+cache[f"C{NG_ROW}"] = (n_all - n_ok) / n_all
+
+# 集計シートが何番目の sheet*.xml かを名前から引く
+idx = wb.sheetnames.index("集計") + 1
+target = f"xl/worksheets/sheet{idx}.xml"
+tmp = OUT + ".tmp"
+with zipfile.ZipFile(OUT) as zin, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:
+    for item in zin.infolist():
+        data = zin.read(item.filename)
+        if item.filename == target:
+            xml = data.decode("utf-8")
+            for ref, val in cache.items():
+                v = repr(round(val, 12)) if isinstance(val, float) else str(val)
+                xml = re.sub(
+                    r'(<c r="%s"[^>]*>)(<f>.*?</f>)(?!<v>)' % ref,
+                    lambda m: m.group(1) + m.group(2) + "<v>%s</v>" % v,
+                    xml, count=1)
+            data = xml.encode("utf-8")
+        zout.writestr(item, data)
+os.replace(tmp, OUT)
+
+# 埋め込んだ値を読み戻して、集計が本体と一致するか確かめる
+from openpyxl import load_workbook
+chk = load_workbook(OUT, data_only=True)["集計"]
+assert chk.cell(TOTAL_ROW, 2).value == n_all, "全行が一致しない"
+assert chk.cell(OK_ROW, 2).value == n_ok, "架電可が一致しない"
+assert chk.cell(NG_ROW, 2).value == n_all - n_ok, "架電不可が一致しない"
+assert sum(chk.cell(2 + i, 2).value for i in range(len(LABELS))) == n_all, "内訳の合計が全行に一致しない"
+print("集計キャッシュ検証OK: 全行%d / 架電可%d / 架電不可%d" % (n_all, n_ok, n_all - n_ok))
+
 print("->", OUT)
 print("シート:", " / ".join(wb.sheetnames))
 print("検証結果 %d行 / G列訂正 %d行 / 要確認 %d行 / 監査 %d行" % (len(full), len(g), len(t), len(aud)))
