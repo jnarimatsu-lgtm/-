@@ -27,25 +27,34 @@ def read(path):
     return list(csv.DictReader(open(R + path, encoding="utf-8-sig")))
 
 
-def sheet(wb, title, cols, rows, widths, freeze="A2"):
-    """ヘッダ付きの表を1枚作る。cols は (見出し, dictキー) の並び。"""
+def sheet(wb, title, cols, rows, widths, light=False):
+    """ヘッダ付きの表を1枚作る。cols は (見出し, dictキー) の並び。
+
+    light=True は罫線と折り返しを省く。4,422行に個別書式を付けると
+    LibreOffice の再計算が3分で終わらないため、大きいシートで使う。
+    """
     ws = wb.create_sheet(title)
     for c, (label, _) in enumerate(cols, 1):
         cell = ws.cell(1, c, label)
         cell.fill, cell.font, cell.border = head_fill, head_font, box
         cell.alignment = Alignment(vertical="center", wrap_text=True)
+    top = Alignment(vertical="top")
+    wrap = Alignment(vertical="top", wrap_text=True)
     for r, row in enumerate(rows, 2):
         for c, (_, key) in enumerate(cols, 1):
             v = row.get(key, "")
-            if key in ("行",) and str(v).strip():
+            if key == "行" and str(v).strip():
                 v = int(v)
             cell = ws.cell(r, c, v)
             cell.font = base
-            cell.border = box
-            cell.alignment = Alignment(vertical="top", wrap_text=(c >= len(cols) - 1))
+            if light:
+                cell.alignment = top
+            else:
+                cell.border = box
+                cell.alignment = wrap if c >= len(cols) - 1 else top
     for c, w in enumerate(widths, 1):
         ws.column_dimensions[get_column_letter(c)].width = w
-    ws.freeze_panes = freeze
+    ws.freeze_panes = "A2"
     ws.auto_filter.ref = f"A1:{get_column_letter(len(cols))}{len(rows)+1}"
     ws.row_dimensions[1].height = 28
     return ws
@@ -100,7 +109,7 @@ for i, (text, kind) in enumerate(GUIDE, 1):
 cols = [("行", "行"), ("取引先ID", "取引先ID"), ("法人番号", "法人番号"),
         ("取引先名", "取引先名"), ("元H判定", "元H判定"), ("最終判定", "最終判定"),
         ("架電可", "架電可"), ("I列_検証結果", "I列_検証結果"), ("J列_ソース", "J列_ソース")]
-ws = sheet(wb, "検証結果", cols, full, [7, 12, 15, 30, 8, 22, 7, 95, 55])
+ws = sheet(wb, "検証結果", cols, full, [7, 12, 15, 30, 8, 22, 7, 95, 55], light=True)
 ng = Font(name=FONT, size=10, color=RED)
 for r in range(2, len(full) + 2):
     if ws.cell(r, 7).value != "○":
